@@ -1,6 +1,7 @@
 # Clue Chasers
 This is the up-to-date repository for all information found in the [Clue Chasers Discord Server](https://discord.gg/cluechasers)
 All changes made will live here, and everyone is free to use this information as they like.
+This [PvME](https://discord.gg/pvme) edited to fit Clue Chasers.
 
 
 ## [Discord](https://discord.gg/cluechasers)
