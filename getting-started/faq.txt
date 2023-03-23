@@ -1,1 +1,389 @@
+**__Frequently Asked Questions__** (courtesy of <@145884917627224065>)
+.tag:intro
+.img:https://i.imgur.com/4LILePf.png
+__**FAQ**__
 
+.
+> **What goes in the Passage of the Abyss?**
+.tag:pota
+Owning two <:potagreen:1088512527727595620> / <:potared:1088512598414196756> is highly recommended when solving clues. Having them set up as below allows you to only take one <:potagreen:1088512527727595620> when doing Master clues which saves an inventory slot.
+.img:https://i.imgur.com/u2iCsqN.png
+.
+> **What is the best order for Globetrotter pieces?**
+.tag:globetrotter
+This entirely depends on what you do.
+You should always do your <:Master:1019920500807450666> clues whenever you can for points.
+
+⬥ If you mostly do <:Elite:633732493228638209> clues:
+.
+    • <:globejacket:1088513871620354078> → <:globebackpack:1088514206971723807> → <:globearms:1088514209832239154> <:globeshorts:1088513875814645820> → <:globeboots:1088513874329866330>
+
+⬥ If you mostly do <:Hard:633728361918758930> clues:
+.
+    • Without <:skipcostume:1088516626330177617> costume skips: <:globebackpack:1088514206971723807> → <:globejacket:1088513871620354078> → <:globearms:1088514209832239154> → <:globeshorts:1088513875814645820> → <:globeboots:1088513874329866330>
+.
+    • With <:skipcostume:1088516626330177617> costume skips: <:globebackpack:1088514206971723807> → <:globejacket:1088513871620354078> → <:globeshorts:1088513875814645820> → <:globearms:1088514209832239154> → <:globeboots:1088513874329866330>
+
+⬥ If you mostly do <:Medium:633728704438075435> clues:
+.
+    • For Mediums it is recommended to buy: way of the foot-shaped key before anything
+.
+    • <:globejacket:1088513871620354078> → <:globebackpack:1088514206971723807> → <:globearms:1088514209832239154> → <:globeshorts:1088513875814645820> → <:globeboots:1088513874329866330>
+
+⬥ If you mostly do <:Easy:633728862039179294> clues:
+.
+    • <:globejacket:1088513871620354078> → <:globebackpack:1088514206971723807> → <:globearms:1088514209832239154> → <:globeshorts:1088513875814645820> → <:globeboots:1088513874329866330>
+
+.
+> **Fortunate component rates**
+.tag:fortrates
+These are the rates to get a Fortunate component per clue casket:
+
+⬥ <:Easy:633728862039179294> ~42%
+
+⬥ <:Medium:633728704438075435> ~53%
+
+⬥ <:Hard:633728361918758930> ~57%
+
+⬥ <:Elite:633732493228638209> ~43.5% (this excludes ornament kits)
+
+⬥ <:Master:1019920500807450666> ~48.5% (this excludes high value items that you would not disassemble)
+
+.
+> **Average value of each clue caskets**
+.tag:casketvalue
+As of 23rd of March the Average value of each casket is as follows:
+
+⬥ <:Easy:633728862039179294> Easy clue
+    • <:Coins:1068645656488583258> 706,000
+
+⬥ <:Medium:633728704438075435> Medium clue
+    • <:Coins:1068645656488583258> 907,000
+
+⬥ <:Hard:633728361918758930> Hard clue
+    • <:Coins:1068645656488583258> 2,271,000
+        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> 490,320
+
+⬥ <:Elite:633732493228638209> Elite clue
+    • <:Coins:1068645656488583258> 4,690,000
+        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> -1,268,909
+
+⬥ <:Master:1019920500807450666> Master clue
+    • <:Coins:1068645656488583258> 7,588,000
+        - using <:skiptower:1088516623499006083> skips <:Coins:1068645656488583258> 6,302,451
+
+.
+> **Average amount of puzzles in each clue tier**
+.tag:avgpuzz
+Assuming you have the Totem of Treasure <:cluetotem:1088554569186951248> active, the average puzzles per clue:
+
+⬥ <:Hard:633728361918758930> 0.55 Puzzle Boxes
+
+⬥ <:Elite:633732493228638209> 1.625 Puzzle Boxes | 1.625 Celtic Knots
+
+⬥ <:Master:1019920500807450666> 0.85 Tower Puzzles | 0.85 Lockboxes
+
+.
+> **Gathering Master Clues**
+.tag:masterclues
+The best way to obtain <:Master:1019920500807450666> clues is currently by doing <:Hard:633728361918758930> clues and <:Elite:633732493228638209> clues. This ultimately comes down your gathering and solving speed.
+.
+Will include a sheet link to input personal gathering / solving speeds.
+
+.
+> **Broadcast Rates**
+.tag:bcrates
+.
+These drop rates include tier 4 of luck, clue bad luck mitigation and re-rolls.
+
+⬥ <:barrows:369183247923412993> Barrows Dye drop rate
+.
+    • <:Hard:633728361918758930> 1/1,259
+.
+    • <:Elite:633732493228638209> 1/1,465
+.
+    • <:Master:1019920500807450666> 1/1,089
+
+⬥ <:shadow:369182051506716672> Shadow Dye drop rate
+.
+    • <:Hard:633728361918758930> 1/2,266
+.
+    • <:Elite:633732493228638209> 1/2,404
+.
+    • <:Master:1019920500807450666> 1/1,990
+
+⬥ <:icedye:519521636739973126> Ice Dye drop rate
+.
+    • <:Elite:633732493228638209> 1/1,831
+.
+    • <:Master:1019920500807450666> 1/1,400
+
+⬥ <:3a:369183451330641920> Third Age Dye drop rate
+.
+    • <:Elite:633732493228638209> 1/7,648
+.
+    • <:Master:1019920500807450666> 1/6,040
+
+⬥ <:blood:369183035909865476> Blood Dye drop rate
+.
+    • <:Elite:633732493228638209> 1/7,648
+.
+    • <:Master:1019920500807450666> 1/6,395
+
+⬥ <:backstab:523201123939647492> Backstab cape drop rate
+.
+    • <:Hard:633728361918758930> 1/3,399
+.
+    • <:Elite:633732493228638209> 1/2,274
+.
+    • <:Master:1019920500807450666> 1/2,194
+
+⬥ <:Ecape:369185924703191040> Sack of Effigies drop rate
+.
+    • <:Hard:633728361918758930> 1/6,797
+.
+    • <:Elite:633732493228638209> 1/4,434
+.
+    • <:Master:1019920500807450666> 1/4,314
+
+⬥ <:explosive:523226034854952980> Explosive Barrel drop rate
+.
+    • <:Hard:633728361918758930> 1/28,126
+
+⬥ <:3ahelm:369181811022102531> Third Age armour piece drop rate
+.
+    • <:Hard:633728361918758930> any piece 1/2,492
+.
+    • <:Hard:633728361918758930> specific piece 1/29,907
+
+⬥ <:3awreath:369185380655693836> Third Age druidic piece drop rate
+.
+    • <:Elite:633732493228638209> any 1/5,572
+.
+    • <:Elite:633732493228638209> specific 1/27,861
+
+⬥ <:2ahelm:584696597452029965> Second Age piece drop rate
+.
+    • <:Master:1019920500807450666> 1/3,553
+
+⬥ <:Orlando:427041547905794050> Orlando Smith's hat drop rate
+.
+    • <:Master:1019920500807450666> 1/12,791
+
+.
+> **Not getting clues?**
+.tag:noclues
+.
+⬥ Make sure you haven't unticked any of the options in:
+.
+    • Settings → Gameplay → Item Drops → Clue scrolls
+
+⬥ Clue scrolls have a cap of 25 clues by default. 50 after clue capacity upgrade.
+.
+    • Check your bank, inventory, clue carrier and Elite Dungeon 4 chest.
+.
+    • The cap is based on the sum of each clue tier separately. Unfinished clues count towards the cap.
+
+⬥ If you are pickpocketing H.A.M. members, make sure you have you completed "Lost Her Marbles (miniquest)".
+
+.
+> **Soft cap**
+.tag:softcap
+.
+The soft cap is a limit placed on items to stop you bypassing getting certain items past a quantity limit in a specific method. There is no hard cap on the amount of clues you can collect you just cannot get more than 25 or 50 after clue capacity upgrade via a drop.
+
+*Ways to bypass soft cap:*
+
+⬥ Prosper Perk
+.
+⬥ Fire Spirits
+.
+⬥ Quests
+.
+⬥ Skeleton Horror
+.
+⬥ Crystal triskelions
+.
+⬥ Tetracompass
+.
+⬥ Player Owned House Aquarium Weekly Chest
+.
+⬥ Downgrading Higher Tiered Clues at Zaida
+.
+⬥ Buying Clues with extra Treasure Trail Points from Zaida
+.
+⬥ Box of clues
+.
+⬥ Scripture of Bik
+.
+⬥ Harvesting a Sacred yak
+
+If a gathering method is not in this list, you cannot get clues past 25 / 50 of each tier doing it.
+
+.
+> **Chance to get a specific type of clue step**
+.tag:stepchance
+.
+⬥ <:Easy:633728862039179294> Easy clue
+    • 24/99: Simple
+.
+    • 25/99: Vague, Map, Emote
+
+⬥ <:Medium:633728704438075435> Medium clue
+    • 19/99: Anagram
+    • 20/99: Riddle, Sextant, Map, Emote
+
+⬥ <:Hard:633728361918758930> Hard clue
+    • 24/109: Riddle
+    • 25/109: Sextant, Map, Emote
+    • 10/109: Anagram
+
+⬥ <:Elite:633732493228638209> Elite clue
+    • 482/1059: Compass
+    • 577/1059: Scan
+
+⬥ <:Master:1019920500807450666> Master clue
+    • 25/100: Emoe, Anagram
+    • 10/100: Compass
+    • 20/100: Skill Riddle, Scan
+
+⬥ <:Skull:865978835854295060> Wilderness steps
+    • 1/460: Wilderness Volcano Scan
+    • 1/10,580: Deep Wilderness Scan
+
+.
+> **Prismatic Stars from clues**
+.tag:prisstar
+.
+You can get Prismatic Stars that give bonus experience from clue scrolls. You must have an empty inventory slot every time you open a clue to obtain a Prismatic Star.
+
+With re-rolls and re-roll tokens, the drop rate to get them is as follows:
+
+⬥ <:Easy:633728862039179294> Easy clue
+    • <:smallprisstar:1088577240217948160> ~1/30
+
+⬥ <:Medium:633728704438075435> Medium clue
+    • <:medprisstar:1088577238020149400> ~1/30
+
+⬥ <:Hard:633728361918758930> Hard clue
+    • <:largeprisstar:1088577236388556811> ~1/40
+
+⬥ <:Elite:633732493228638209> Elite clue
+    • <:largeprisstar:1088577236388556811> ~1/40
+
+⬥ <:Master:1019920500807450666> Master clue
+    • <:hugeprisstar:1088577235293835324> ~1/20
+
+.
+> **Making Alchemical Jewellery**
+.tag:makealchemical
+.
+*To make Alchemical Jewellery you need at least:*
+.
+⬥ Cut Onyx <:Onyx:1088581279596941474>
+.
+⬥ 5,000 Junk components <:Junk:1088579603146223676>
+.
+⬥ 50 Fortunate components <:Fortunate_comps:1088579596221427722>
+.
+⬥ 10 Precious components <:Precious_comps:1088579592362672168>
+.
+⬥ 2.5 Junk refiners <:Junkrefiner:1088579601158111242>
+.
+You then use the Junk refiners to make 50 Refined components <:Refined_comps:1088579594979901500>
+.
+With this you can now make an Alchemical Onyx <:Alchemical_onyx:1088579599350386698>
+.
+For an Alchemical Hydrix <:Alchemical_hydrix:1088579598234685540> you will need a Cut Hydrix <:cuthydrix:1088581368650416201> and 2 Rumbling components <:Rumbling_comps:1088579590986936330>
+.
+Go to an Invention Workbench and click Misc to make them.
+
+.
+> **Movement Abilities**
+.tag:movement
+.
+Bladed Dive works by drawing a small rectangle that includes you and your target title with a maximum width and length of 11 tiles. Each tile is evaluated separately. Each evaluation has 3 possible directions, each with a fixed order.
+
+They are:
+.
+⬥ Move towards the target tile diagonally. Only if diagonal walk is permitted.
+    • (E.g. in an attempt to move 1 tile north-east, you actually move 1 tile east, then north due to a wall = doesn't count.)
+⬥ Move towards the target tile on X-axis.
+⬥ Move towards the target tile on Y-axis.
+
+As soon as a viable direction is found, move to the tile. Start the search again from the top of the list. If you end up on the selected tile, bladed dive destination is granted. If all 3 checks fail at any point before target tile, you will receive error message: "You can't dive through something you can't walk through!"
+
+When you ask to move beyond 11 tiles, you will not get the error message. The ability is always used and you are placed as far as the algorithm can take. Including no actual movement; you may be moved to a tile you are already at.
+To easily see where blocked tiles and walls exist, use Mej's map with "Areas (inverted)" turned on: <https://mejrs.github.io/?layer=Areas+%28inverted%29>
+.
+
+.tag:bdexamples
+.
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Bladed Dive__",
+        "value": "⬥ [Example 1](https://i.imgur.com/GSuSk76.png)\n⬥ [Example 2](https://i.imgur.com/TYAog0p.png)\n⬥ [Example 3](https://i.imgur.com/uCb7XOC.png)\n⬥ [Example 4](https://i.imgur.com/KVxnKdS.png)",
+        "inline": true
+      },
+      {
+      "name": "-",
+        "value": "⬥ [Example 5](https://i.imgur.com/dtLlDzG.png)\n⬥ [Example 6](https://i.imgur.com/A83Uqxx.png)\n⬥ [Example 7](https://i.imgur.com/nUpsbug.png)\n⬥ [Example 8](https://i.imgur.com/YSVylK7.png)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+> **Treasure Trail points**
+.tag:ttpoints
+.
+This image will detail the best things to spend your points on (<https://i.imgur.com/M5WJJDy.png>):
+.img:https://i.imgur.com/M5WJJDy.png
+
+.
+> **Are skipping Tickets worth it?**
+.tag:skipworth
+.
+From a financial point of view, most skipping tickets are not worth using for most people. It is up to you how much you value your other goals, such as log completion, and whether you think those other goals bear enough weight to make skipping tickets worth using.
+
+Check this spreadsheet to see at how much you need to value your time in order to justify using certain skips, purely from a financial point of view: <https://shorturl.at/mvM49>
+
+Costume skipping tickets are not included cause they have a lot of use until you get the full globetrotter outfit, and no use at all after that.
+
+.
+> **How do scan pings / pulses work?**
+.tag:scans
+.
+Make sure you turn up your Sound Effects volume in Audio settings
+.
+This image will explain how they work (<https://i.imgur.com/uD95rHz.png>):
+.img:https://i.imgur.com/uD95rHz.png
+This is a visual representation:
+.
+https://youtu.be/_-GT54HaryE
+.
+
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__FAQ__",
+        "value": "⬥ [Passage of the Abyss]($linkmsg_pota$)\n⬥ [Globetrotter order]($linkmsg_globetrotter$)\n⬥ [Fortunate rates]($linkmsg_fortrate$)\n⬥ [Clue casket value]($linkmsg_casketvalue$)\n⬥ [Avg puzzle steps]($linkmsg_avgpuzz$)\n⬥ [Getting Master clues]($linkmsg_masterclues$)\n⬥ [Broadcast rate]($linkmsg_bcrates$)\n⬥ [Not getting clues]($linkmsg_noclues$)\n⬥ [Soft cap]($linkmsg_softcap$)\n⬥ [Chance of clue step]($linkmsg_stepchance$)\n⬥ [Prismatic stars from clues]($linkmsg_prisstar$)\n⬥ [Alchemical Jewellery]($linkmsg_makealchemical$)\n⬥ [Movement]($linkmsg_movement$)\n⬥ [Clue Points]($linkmsg_ttpoints$)\n⬥ [Scans]($linkmsg_scans$)",
+        "inline": true
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
