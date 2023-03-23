@@ -20,7 +20,7 @@ TL;DR of JMod Response: Yes, it is allowed. Just be careful what you do with it.
 .
 **Alt1 isn't working?**
 .tag:notworking
-Usually this is a user-error.
+Usually this is user-error.
 For this we recommend you go to the official RuneApps discord: <https://discord.com/invite/G3SbcS8>
 You can also asked in Clue Chasers #help channel.
 .
