@@ -31,11 +31,9 @@ https://youtu.be/mMgaFy5uD7g
 .
 **How to install an extra app to Alt1**
 .tag:installextra
-Install by copying the link into your browser.
-Link example:
+Install by copying the link into your browser
 <alt1://addapp/https://user.github.io/app.json>
 Or, by going to the link in the Alt1 Browser
-Link example:
 <https://user.github.io/app/>
 .
 **Alt1 for MacOS and Linux**
