@@ -2,32 +2,38 @@
 .tag:intro
 .img:https://i.imgur.com/vzZzOoM.png
 > __**Alt1 FAQ**__
+
 .
 **What is Alt1?** (<https://runeapps.org/alt1>)
 .tag:whatisalt1
 Alt1 is a RuneApps third-party program. It reads your Runescape client to function.
 With this it assists you with many things such as afking, skilling, pvming and of course **clues!**
 It will help you solve clues by telling you where your current step is and it will also tell you where to click to solve your puzzles.
+
 .
 **Is there any other benefit to Alt1?**
 .tag:otherbenefits
 Absolutely. Alt1 is an open-sourced project which allows you to create your own apps within it's parameters.
+
 .
 **Is Alt1 allowed?**
 .tag:allowed
 JMOD Response here (<https://i.imgur.com/VSOXy5R.png>)
 TL;DR of JMod Response: Yes, it is allowed. Just be careful what you do with it.
+
 .
 **Alt1 isn't working?**
 .tag:notworking
 Usually this is user-error.
 For this we recommend you go to the official RuneApps discord: <https://discord.com/invite/G3SbcS8>
 You can also ask in Clue Chasers #help channel.
+
 .
 **How to use Alt1 for arrow/compass clues**
 .tag:arrowcompass
 .
 https://youtu.be/mMgaFy5uD7g
+
 .
 **How to install an extra app to Alt1**
 .tag:installextra
@@ -35,6 +41,7 @@ Install by copying the link into your browser
 <alt1://addapp/https://user.github.io/app.json>
 Or, by going to the link in the Alt1 Browser
 <https://user.github.io/app/>
+
 .
 **Alt1 for MacOS and Linux**
 .tag:otherops
