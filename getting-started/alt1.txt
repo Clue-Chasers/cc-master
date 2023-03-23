@@ -15,7 +15,7 @@ Absolutely. Alt1 is an open-sourced project which allows you to create your own 
 .
 **Is Alt1 allowed?**
 .tag:allowed
-JMOD Response here [<https://i.imgur.com/VSOXy5R.png>]
+JMOD Response here (<https://i.imgur.com/VSOXy5R.png>)
 TL;DR of JMod Response: Yes, it is allowed. Just be careful what you do with it.
 .
 **Alt1 isn't working?**
