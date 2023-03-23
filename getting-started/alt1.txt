@@ -22,7 +22,7 @@ TL;DR of JMod Response: Yes, it is allowed. Just be careful what you do with it.
 .tag:notworking
 Usually this is user-error.
 For this we recommend you go to the official RuneApps discord: <https://discord.com/invite/G3SbcS8>
-You can also asked in Clue Chasers #help channel.
+You can also ask in Clue Chasers #help channel.
 .
 **How to use Alt1 for arrow/compass clues**
 .tag:arrowcompass
