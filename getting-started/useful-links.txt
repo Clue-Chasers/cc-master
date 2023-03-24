@@ -1,5 +1,5 @@
 .tag:intro
-.img:https://i.imgur.com/VSBZyBg.png
+.img:https://i.imgur.com/J63sfAb.png
 > **Useful Links**
 .tag:useful links
 .
