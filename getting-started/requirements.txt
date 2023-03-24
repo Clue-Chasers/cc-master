@@ -1,5 +1,3 @@
-**__Requirements__**
-.tag:intro
 .img:https://i.imgur.com/M67gVWs.png
 > **Requirements**
 .tag:reqs
