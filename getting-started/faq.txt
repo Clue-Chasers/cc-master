@@ -223,8 +223,8 @@ Costume skipping tickets are not included cause they have a lot of use until you
 > **How do scan pings / pulses work?**
 .tag:scans
 Make sure you turn up your Sound Effects volume in Audio settings
-This image will explain how they work (<https://i.imgur.com/uD95rHz.png>):
-.img:https://i.imgur.com/uD95rHz.png
+This image will explain how they work (<https://i.imgur.com/BecNOKS.png>):
+.img:https://i.imgur.com/BecNOKS.png
 This is a visual representation:
 https://youtu.be/_-GT54HaryE
 .
