@@ -1,6 +1,6 @@
+.img:https://i.imgur.com/4LILePf.png
 **__Frequently Asked Questions__** (courtesy of <@145884917627224065>)
 .tag:intro
-.img:https://i.imgur.com/4LILePf.png
 > **What goes in the Passage of the Abyss?**
 .tag:pota
 Owning two <:potagreen:1088512527727595620> / <:potared:1088512598414196756> is highly recommended when solving clues. Having them set up as below allows you to only take one <:potagreen:1088512527727595620> when doing Master clues which saves an inventory slot.
