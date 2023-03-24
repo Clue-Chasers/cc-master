@@ -1,1 +1,272 @@
+**__Requirements__**
+.tag:intro
+.img:https://i.imgur.com/VSBZyBg.png
+> **Requirements**
+.tag:reqs
+These are the requirements to complete each and every step.
+> ⬥ Easy clues <:Easy:633728862039179294>
+.tag:easy
+    •  Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 20 Attack
+        - <:defence:499641965760086046> 20 Defence
+        - <:ranged:499641965730594827> 10 Range
+        - <:mining:499641965546176536> 20 Mining
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Murder Mystery
 
+> ⬥ Medium clues <:Medium:633728704438075435>
+.tag:medium
+    • Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 30 Attack
+        - <:defence:499641965760086046> 40 Defence
+        - <:ranged:499641965730594827> 30 Range
+        - <:mining:499641965546176536> 10 Mining
+        - <:agility:499641965730856990> 35 Agility
+        - <:thieving:499641965663617038> 25 Thieving
+        - <:crafting:499641965470679042> 20 Crafting
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Bar Crawl (miniquest)
+        - Biohazard
+        - Observatory Quest
+        - Partial completion of Creature of Fenkenstrain
+        - Partial completion of The Tourist Trap
+        - Partial completion of Watchtower
+.
+> ⬥ Hard clues <:Hard:633728361918758930>
+.tag:hard
+    • Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 50 Attack
+        - <:strength:499641965533724683> 50 Strength
+        - <:defence:499641965760086046> 50 Defence
+        - <:ranged:499641965730594827> 60 Range
+        - <:magic:499641965915275264> 66 Magic
+        - <:prayer:499641965827194890> 47 Prayer
+        - <:mining:499641965546176536> 52 Mining
+        - <:agility:499641965730856990> 56 Agility
+        - <:thieving:499641965663617038> 50 Thieving
+        - <:crafting:499641965470679042> 50 Crafting
+        - <:mining:499641965546176536> 50 Smithing
+        - <:herblore:499641965428867075> 45 Herblore
+        - <:fishing:499641965902692352> 68 Fishing
+        - <:cooking:499641965424410637> 62 Cooking
+        - <:firemaking:499641965621805057> 42 Firemaking
+        - <:fletching:499641965785382912> 5 Fletching
+        - <:woodcutting:499641966104150016> 50 Woodcutting
+        - <:slayer:499641965994835969> 42 Slayer
+        - <:farming:499641965797965824> 40 Farming
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - <:QuestPoints:1054448367062765651> 107 Quest points
+        - Elemental Workshop I
+        - Shilo Village
+        - Fishing Contest
+        - Swan Song
+        - Started Horror from the Deep
+        - Started Icthlarin's Little Helper
+        - Started The Grand Tree
+        - Started Throne of Miscellania
+        - Partial completion of Legends' Quest
+        - Partial completion of Rum Deal
+        - Partial completion of The Jack of Spades
+.
+> ⬥ For optimal Hard clues <:Hard:633728361918758930>
+.tag:opthard
+    • Skills <:skill:1012648819441283072>
+        - <:archaeology:688349154615099409> 67 / 98 / 112 Archaeology → <:shadowsgrace:1088893308023078983> Shadow’s Grace + <:persistentrage:1088893708210020422> Persistent Rage + <:abyssallink:1088878544215609354> Abyssal Link
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Evil Dave’s Big Day Out → <:davespellbook:1088518990957121626> Dave's Spellbook
+        - Fur ‘n’ Seek + Rag and Bone Man Wish List → <:skelehorrortp:1088880711123083365> Skeletal Horror teleport
+        - Temple at Senntisten → <:turmoil:1088881237382402049> Curses
+        - Darkness of Hallowvale → <:gamesneck:1088881617864491070> Games Necklace Burgh de Rott option
+        - Desperate Times → <:cluecarrier:1088518996334235749> Charos' clue carrier
+        - Rum Deal → <:dungcape:1088882124213453000> Dungeoneering cape Braindeath Island teleport
+        - Dream Mentor → <:sbs:1088889507039948850> Spellbook Swap
+        - Blood Runs Deep → <:lotd:1088889997907726436> moves Queen Sigrid to Ring of Wealth / Luck of the Dwarves teleport
+        - King of the Dwarves → <:gote:1088890289051148298> Grace of the Elves Max Guild Garden Lava Flow Mine teleport
+        - The Dig Site + find clean necklace → <:digsitepend:1088890858570526741> Dig Site Pendant
+        - Succession → <:dive:1088891176754610296> Dive ability
+.
+    • Achievement Diaries <:tasks:1088895870289838120>
+        - <:seersheadband3:1088896776519569568> Hard Seers' → Change Camelot teleport
+        - <:ardycloak3:1088896943079555152> Hard Ardougne → Change Watchtower teleport
+        - <:desertammy4:1088896771117297735>  Elite Desert → Uzer teleport
+        - <:fremmyboots4:1088896773352870009> Elite Fremennik → Enchanted Lyre Rellekka Marketplace + Etceteria option
+        - <:tirannwnquiver3:1088897103616544801> Hard Tirannwn → Elf Camp teleport
+        - <:karamjagloves3:1088896774980243556> Hard Karamja → Shilo Village teleport
+.
+    • Items <:sotg:1088894498010050611>
+        - <:questcape:1088891514001829981> Quest cape
+        - <:globejacket:1088513871620354078> Full Globetrotter outfit
+        - <:Surge:799457167182659586> Double Surge ability codex
+        - <:Max_cape:796729185652572160> Max (3 cape perks)
+        - <:cluetotem:1088554569186951248> Totem of Treasure
+        - <:lunartrollheim:1088892939142434816> Trollheim Farm Teleport (370,000 Livid Farm points)
+        - <:templetrekking:1088894038545027226> Total level 500 in Temple Trekking → shortcut to the Nature’s Grotto + <:gamesneck:1088881617864491070> Burgh de Rott option
+        - <:sotg:1088894498010050611> Sceptre of the Gods
+        - <:mani:643505153709965322> Damage Boosting Auras
+        - <:invention:499641965474742283> Ancient Invention
+        - <:portablespirittree:1088518999765172285> Spirit Tree in Brimhaven
+.
+> ⬥ For optimal Elite clues <:Elite:633732493228638209>
+.tag:optelite
+*Note: Elite clues have no requirements, you cannot get a step you cannot do.*
+.
+    • Skills <:skill:1012648819441283072>
+        - <:archaeology:688349154615099409> 67 / 98 / 112 Archaeology → <:shadowsgrace:1088893308023078983> Shadow’s Grace + <:persistentrage:1088893708210020422> Persistent Rage + <:abyssallink:1088878544215609354> Abyssal Link
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Evil Dave’s Big Day Out → <:davespellbook:1088518990957121626> Dave's Spellbook
+        - Fur ‘n’ Seek + Rag and Bone Man Wish List → <:skelehorrortp:1088880711123083365> Skeletal Horror teleport
+        - Temple at Senntisten → <:turmoil:1088881237382402049> Curses
+        - Darkness of Hallowvale → <:gamesneck:1088881617864491070> Games Necklace Burgh de Rott option
+        - Desperate Times → <:cluecarrier:1088518996334235749> Charos' clue carrier
+        - Rum Deal → <:dungcape:1088882124213453000> Dungeoneering cape Braindeath Island teleport
+        - Dream Mentor → <:sbs:1088889507039948850> Spellbook Swap
+        - Blood Runs Deep → <:lotd:1088889997907726436> moves Queen Sigrid to Ring of Wealth / Luck of the Dwarves teleport
+        - King of the Dwarves → <:gote:1088890289051148298> Grace of the Elves Max Guild Garden Lava Flow Mine teleport
+        - The Dig Site + find clean necklace → <:digsitepend:1088890858570526741> Dig Site Pendant
+        - Succession → <:dive:1088891176754610296> Dive ability
+        - Love Story → <:rellekatab:1088899439629975604> Chipped House Teleport tabs
+        - Jack of Trades → <:housetele:1088899803536175104> Menaphos House
+        - Ghost Ahoy → <:ectophial:1088899996566429746> Ectophial
+.
+    • Achievement Diaries <:tasks:1088895870289838120>
+        - <:desertammy4:1088896771117297735>  Elite Desert → Nardah + Uzer teleport
+        - <:fremmyboots4:1088896773352870009> Elite Fremennik → Enchanted Lyre Rellekka Marketplace + Etceteria + Fremennik Isles option
+        - <:tirannwnquiver3:1088897103616544801> Hard Tirannwn → Elf Camp teleport
+.
+    • Items <:sotg:1088894498010050611>
+        - <:questcape:1088891514001829981> Quest cape
+        - <:globejacket:1088513871620354078> Full Globetrotter outfit
+        - <:Surge:799457167182659586> Double Surge ability codex
+        - <:Max_cape:796729185652572160> Max (3 cape perks)
+        - <:cluetotem:1088554569186951248> Totem of Treasure
+        - <:templetrekking:1088894038545027226> Total level 500 in Temple Trekking → shortcut to the Nature’s Grotto + <:gamesneck:1088881617864491070> Burgh de Rott option
+        - <:sotg:1088894498010050611> Sceptre of the Gods
+        - <:sentinelchest:1088901574300008539> Nature Sentinel Outfit
+        - <:reckless:643505179378974748> Damage Boosting Auras
+        - <:invention:499641965474742283> Ancient Invention
+        - <:portablespirittree:1088518999765172285> Spirit Tree in Brimhaven + Port Sarim
+.
+> ⬥ Master Clues <:Master:1019920500807450666>
+.tag:master
+    • Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 54 Attack
+        - <:strength:499641965533724683> 76 Strength
+        - <:defence:499641965760086046> 85 Defence
+        - <:ranged:499641965730594827> 75 Range
+        - <:magic:499641965915275264> 87 Magic
+        - <:prayer:499641965827194890> 80 Prayer
+        - <:mining:499641965546176536> 80 Mining
+        - <:agility:499641965730856990> 83 Agility
+        - <:thieving:499641965663617038> 91 Thieving
+        - <:crafting:499641965470679042> 84 Crafting
+        - <:mining:499641965546176536> 580 Smithing
+        - <:herblore:499641965428867075> 82 Herblore
+        - <:fishing:499641965902692352> 80 Fishing
+        - <:cooking:499641965424410637> 85 Cooking
+        - <:firemaking:499641965621805057> 90 Firemaking
+        - <:fletching:499641965785382912> 70 Fletching
+        - <:woodcutting:499641966104150016> 90 Woodcutting
+        - <:slayer:499641965994835969> 80 Slayer
+        - <:farming:499641965797965824> 63 Farming
+        - <:runecrafting:499641965445644289> 77 Runecrafting
+        - <:construction:499641965936377856> 75 Construction
+        - <:dungeoneering:499641965755760650> 82 Dungeoneering
+        - <:hunter:499641965806092289> 88 Hunter
+        - <:divination:499641965789446154> 95 Divination
+        - <:summoning:499641965667942441> 75 Summoning
+        - <:invention:499641965474742283> 69 Invention
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Broken Home
+        - Cabin Fever
+        - The Curse of Zaros (miniquest)
+        - Death to the Dorgeshuun
+        - The Hunt for Surok (miniquest)
+        - Impressing the Locals
+        - The Light Within
+        - One Piercing Note
+        - Diamond in the Rough
+        - Full completion of Recipe for Disaster
+        - Partial completion of Branches of Darkmeyer
+        - Partial completion of The Fremennik Isles
+        - Partial completion of The Jack of Spades
+        - Partial completion of One of a Kind
+        - Cyclosis within the player-owned port
+.
+> ⬥ For optimal Master clues <:Master:1019920500807450666>
+.tag:optmaster
+    • Skills <:skill:1012648819441283072>
+        - <:archaeology:688349154615099409> 67 / 98 / 112 Archaeology → <:shadowsgrace:1088893308023078983> Shadow’s Grace + <:persistentrage:1088893708210020422> Persistent Rage + <:abyssallink:1088878544215609354> Abyssal Link
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - 400 Quest Points → <:philipecarn:1088906978539077705> move Philipe Carnillean to Tokkul-Zo teleport
+        - Reset Gower Quest → <:paulgower:1088907366579306497> move Paul Gower to Varrock farm
+        - Evil Dave’s Big Day Out → <:davespellbook:1088518990957121626> Dave's Spellbook
+        - Fur ‘n’ Seek + Rag and Bone Man Wish List → <:skelehorrortp:1088880711123083365> Skeletal Horror teleport
+        - Temple at Senntisten → <:turmoil:1088881237382402049> Curses
+        - Darkness of Hallowvale → <:gamesneck:1088881617864491070> Games Necklace Burgh de Rott option
+        - Desperate Times → <:cluecarrier:1088518996334235749> Charos' clue carrier
+        - Rum Deal → <:dungcape:1088882124213453000> Dungeoneering cape Braindeath Island teleport
+        - Dream Mentor → <:sbs:1088889507039948850> Spellbook Swap
+        - Blood Runs Deep → <:lotd:1088889997907726436> moves Queen Sigrid to Ring of Wealth teleport
+        - King of the Dwarves → <:gote:1088890289051148298> Grace of the Elves Max Guild Garden Lava Flow Mine teleport
+        - The Dig Site + find clean necklace → <:digsitepend:1088890858570526741> Dig Site Pendant
+        - Succession → <:dive:1088891176754610296> Dive ability
+        - Love Story → <:rellekatab:1088899439629975604> Chipped House Teleport tabs
+        - Jack of Trades → <:housetele:1088899803536175104> Menaphos House
+        - Ghost Ahoy → <:ectophial:1088899996566429746> Ectophial
+.
+        - Tales of the God Wars → <:thehearttab:1088905721690730496>  Heart of Gielinor Teleport tab
+        - Eye for an Eye → <:cyclosistab:1088905714900148365>  Cyclosis Teleport tabs
+        - Tuai Leit’s Own → <:tuaileittab:1088905724920352949>  Tuai Leit Teleport tabs
+        - Ghosts from the Past → <:islandturtletab:1088905720101077084>  Islands That Once Were Turtles Teleport tabs
+        - Damage Control → <:goshimatab:1088905719157366896>  Goshima Teleport tabs
+        - The Elder Kiln → <:tokkulzo:1088905723670441994>  Tokkul-Zo
+        - Pieces of Hate → <:bigbookopiracy:1088905712110936236>  Big Book o’ Piracy
+        - Branches of Darkmeyer → <:drakansmedallion:1088905716766609450> Drakans Medallion
+.
+    • Achievement Diaries <:tasks:1088895870289838120>
+        - <:desertammy2:1088904036822028359>  Medium Desert → Nardah teleport
+        - <:tirannwnquiver3:1088897103616544801> Hard Tirannwn → Elf Camp teleport
+.
+    • Items <:sotg:1088894498010050611>
+        - <:questcape:1088891514001829981> Quest cape
+        - <:globejacket:1088513871620354078> Full Globetrotter outfit
+        - <:Surge:799457167182659586> Double Surge ability codex
+        - <:Max_cape:796729185652572160> Max (3 cape perks)
+        - <:cluetotem:1088554569186951248> Totem of Treasure
+        - <:templetrekking:1088894038545027226> Total level 500 in Temple Trekking → shortcut to the Nature’s Grotto + <:gamesneck:1088881617864491070> Burgh de Rott option
+        - <:sotg:1088894498010050611> Sceptre of the Gods
+        - <:reckless:643505179378974748> Damage Boosting Auras
+        - <:invention:499641965474742283> Ancient Invention
+.
+    • Extras <:randomred:1088910494661881916>
+        - <:greatwhiteshark:1088908409006465064> Ability to catch Great White Sharks
+        - <:pvmhubtp:911389632657260565> 100 boss kills for portals
+        - <:nymora:1088909373352443905> Atleast 1 Twin Furies kills for <:pvmhubtp:911389632657260565> teleport
+        - <:greg:1088909505133285429> Atleast 1 Gregorovic kills for <:pvmhubtp:911389632657260565> teleport
+        - <:mazcabteleport:1088910490677280840> Mazcab teleport
+        - <:tortleshell:1088910495957913611> Tortle Portals on the Islands That Once Were Turtles
+        - <:alazeaoakheart:1088910486868852766> Rescue Alazea Oakheart
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Requirements__",
+        "value": "⬥ [Easy]($linkmsg_easy$)\n⬥ [Medium]($linkmsg_medium$)\n⬥ [Hard]($linkmsg_hard$)\n⬥ [Hard: Optimal]($linkmsg_opthard$)\n⬥ [Elite: Optimal]($linkmsg_optelite$)\n⬥ [Master]($linkmsg_master$)\n⬥ [Master: Optimal]($linkmsg_optmaster$)",
+        "inline": true
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
