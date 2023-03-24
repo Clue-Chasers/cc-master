@@ -1,8 +1,6 @@
-**__Alt1__** (courtesy of <@145884917627224065>)
-.tag:intro
 .img:https://i.imgur.com/vzZzOoM.png
 > __**Alt1 FAQ**__
-
+.tag:intro
 .
 **What is Alt1?** (<https://runeapps.org/alt1>)
 .tag:whatisalt1
