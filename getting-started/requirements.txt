@@ -14,7 +14,7 @@ These are the requirements to complete each and every step.
 .
     • Quests <:QuestPoints:1054448367062765651>
         - Murder Mystery
-
+.
 > ⬥ Medium clues <:Medium:633728704438075435>
 .tag:medium
     • Skills <:skill:1012648819441283072>
