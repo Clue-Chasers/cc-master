@@ -1,6 +1,6 @@
 **__Requirements__**
 .tag:intro
-.img:https://i.imgur.com/VSBZyBg.png
+.img:https://i.imgur.com/M67gVWs.png
 > **Requirements**
 .tag:reqs
 These are the requirements to complete each and every step.
