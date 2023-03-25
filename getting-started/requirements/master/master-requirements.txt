@@ -1,6 +1,6 @@
 .img:https://i.imgur.com/M67gVWs.png
 > **Master Clue <:Master:1019920500807450666> Requirements**
-.tag:mastersreqs
+.tag:masterreqs
 These are the requirements to complete each and every step.
     • Skills <:skill:1012648819441283072>
         - <:Attack:1053373645856190555> 54 Attack
