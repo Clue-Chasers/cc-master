@@ -1,7 +1,7 @@
 .img:https://i.imgur.com/M67gVWs.png
 > **Optimal Hard Clue <:Hard:633728361918758930> Requirements**
 .tag:hardoptimalreqs
-These are the requirements to complete each and every step.
+These are the requirements to complete each and every step optimally.
     • Skills <:skill:1012648819441283072>
         - <:archaeology:688349154615099409> 67 / 98 / 112 Archaeology → <:shadowsgrace:1088893308023078983> Shadow’s Grace + <:persistentrage:1088893708210020422> Persistent Rage + <:abyssallink:1088878544215609354> Abyssal Link
 .
