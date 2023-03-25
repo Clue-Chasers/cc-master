@@ -1,0 +1,3 @@
+.img:https://i.imgur.com/M67gVWs.png
+> **Requirements**
+.tag:hardreqs
