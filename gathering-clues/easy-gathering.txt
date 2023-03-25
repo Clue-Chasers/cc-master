@@ -1,5 +1,5 @@
 .img:https://i.imgur.com/rJOBnIX.png
-> **Easy Clue Gathering** (courtesy of <@145884917627224065>)
+(courtesy of <@145884917627224065>)
 .
 > **Introduction**
 .tag:intro
