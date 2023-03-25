@@ -1,1 +1,61 @@
+.img:https://i.imgur.com/rJOBnIX.png
+> **Easy Clue Gathering** (courtesy of <@145884917627224065>)
+.
+> **Introduction**
+.tag:intro
+Easy clues <:Easy:633728862039179294> are very fast to gather and solve. They have a high Fortunate component item drop rate at a 21/50 per clue, note that this rate does include re-rolls <:easyreroll:1089293897064267837> and tier 4 luck <:lotd:1088889997907726436>.
 
+The meta for gathering easy clues <:Easy:633728862039179294> is to pickpocket the H.A.M. members. You can pickpocket an average of 85 (86.1 with Scripture of Bik <:scriptureofbik:1088534948413186168>) easy clues <:Easy:633728862039179294> an hour. Keep in mind that the soft cap still applies, you would have to pickpocket until you have 25 / 50 and then go solve them.
+
+Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:698816156961603654> 706,000. Advanced cluers can gather and solve up to 60+ easy clues <:Easy:633728862039179294> an hour putting them at <:coins:698816156961603654> 42,360,000+ an hour.
+.
+> **Requirements**
+.tag:reqs
+⬥ <:QuestPoints:1054448367062765651> Lost Her Marbles miniquest
+⬥ <:thieving:499641965663617038> 20 Thieving
+
+> **Useful Items and Information**
+.tag:useful
+⬥ <:mastercamotop:1089296933853593690> Full Camouflage outfit
+⬥ <:thievingcape:1089300076087758930> Thieving Skillcape
+⬥ <:exotop:1089297636160442418> Exoskeleton outfit (unlocked)
+⬥ <:ardycloak3:1088896943079555152> Ardougne Cloak 3 (unlocked)
+⬥ <:cluetotem:1088554569186951248> Totem of Treasure (active)
+⬥ <:stickyfingers:1089303174554325133> Sticky Fingers relic (if afking)
+
+⬥ It is not recommended to do this method until you have a higher <:thieving:499641965663617038> Thieving level.
+    • The higher your <:thieving:499641965663617038> Thieving level the less likely you are to fail a pickpocket.
+⬥ If you spam click pickpocket you can still receive receive easy clues <:Easy:633728862039179294> even when your inventory is full.
+
+.
+> **Preset**
+.tag:preset
+.img:https://i.imgur.com/WfFh9Dr.png
+⬥ Put the highest valued items in the preset to make sure they never go to the floor.
+    • If you're afking; empty the inventory other than the Charos' clue carrier.
+.
+> **Gathering**
+.tag:gathering
+⬥ It is recommended to use one-button gameplay so you can spam left click.
+    • You can also re-map your scroll wheel to left click.
+⬥ Try to trap a H.A.M. Member like so.
+    • You can zoom in and spam click the bottom of the H.A.M. member.
+.img:https://i.imgur.com/QZUid2n.png
+
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Gathering]($linkmsg_gathering$)",
+        "inline": true
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
