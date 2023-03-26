@@ -52,7 +52,7 @@ Each Hard clue casket <:hardcasket:690876517877809152> is worth <:coins:69881615
 .
 > **Preset**
 .tag:preset
-.img:https://i.imgur.com/Ng4vUeX.png
+.img:https://i.imgur.com/5OvjGPq.png
 ⬥ <:Artificers_measure:900836263307911290> Artificer's Measure can be subbed out for <:gembag:1089626517702725753> Gem Bag
 ⬥ <:silverhawkboots:1089627126212350033> Silverhawk Boots can be subbed out for <:detoboots:602581956072439828> Blast Diffusion Boots
 
