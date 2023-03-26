@@ -8,7 +8,7 @@ Easy clues <:Easy:633728862039179294> are very fast to gather and solve. They ha
 
 The meta for gathering easy clues <:Easy:633728862039179294> is to pickpocket the H.A.M. members. You can pickpocket an average of 85 (86.1 with Scripture of Bik <:scriptureofbik:1088534948413186168>) easy clues <:Easy:633728862039179294> an hour. Keep in mind that the soft cap still applies, you would have to pickpocket until you have 25 / 50 and then go solve them.
 
-Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:698816156961603654> 706,000. Advanced cluers can gather and solve up to 60+ easy clues <:Easy:633728862039179294> an hour putting them at <:coins:698816156961603654> 42,360,000+ an hour.
+Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:698816156961603654> 706,000. Advanced cluers can gather and solve up to 44+ easy clues <:Easy:633728862039179294> an hour putting them at <:coins:698816156961603654> 31,064,000+ an hour.
 .
 > **Requirements**
 .tag:reqs
