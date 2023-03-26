@@ -39,7 +39,8 @@ Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:69881615
 .tag:gathering
 ⬥ It is recommended to use one-button gameplay so you can spam left click.
     • You can also re-map your scroll wheel to left click.
+⬥ If you are afking, put the items you wish to drop on your action bar to drop them quickly.
 ⬥ Try to trap a H.A.M. Member like so.
     • You can zoom in and spam click the bottom of the H.A.M. member.
-.img:https://i.imgur.com/QZUid2n.png
+.img:https://i.imgur.com/BLsxoz5.png
 .pin:delete
