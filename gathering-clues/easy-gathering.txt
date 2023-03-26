@@ -42,19 +42,4 @@ Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:69881615
 ⬥ Try to trap a H.A.M. Member like so.
     • You can zoom in and spam click the bottom of the H.A.M. member.
 .img:https://i.imgur.com/QZUid2n.png
-.
-{
-  "embed": {
-    "title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Gathering]($linkmsg_gathering$)"
-      }
-    ]
-    }
-}
-.embed:json
 .pin:delete
