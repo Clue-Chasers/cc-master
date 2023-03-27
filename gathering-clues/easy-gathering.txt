@@ -4,7 +4,7 @@
 .
 > **Introduction**
 .tag:intro
-Easy clues <:Easy:633728862039179294> are very fast to gather and solve. They have a high Fortunate component item drop rate at a 21/50 per clue, note that this rate does include re-rolls <:easyreroll:1089293897064267837> and tier 4 luck <:lotd:1088889997907726436>.
+Easy clues <:Easy:633728862039179294> are very fast to gather and solve. They have a master clue scroll <:Master:1019920500807450666> rate of 3/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 21/100, note that this rate does include re-rolls <:easyreroll:1089293897064267837> and tier 4 luck <:lotd:1088889997907726436>.
 
 The meta for gathering easy clues <:Easy:633728862039179294> is to pickpocket the H.A.M. members. You can pickpocket an average of 85 (86.1 with Scripture of Bik <:scriptureofbik:1088534948413186168>) easy clues <:Easy:633728862039179294> an hour. Keep in mind that the soft cap still applies, you would have to pickpocket until you have 25 / 50 and then go solve them.
 
