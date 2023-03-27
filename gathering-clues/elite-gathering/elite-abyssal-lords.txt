@@ -10,7 +10,7 @@ Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 .
 > **Requirements**
 .tag:reqs
-⬥ <:slayer:499641965994835969> 105 Slayer
+⬥ <:slayer:499641965994835969> 115 Slayer
 
 > **Useful Items and Information**
 .tag:useful
