@@ -62,7 +62,7 @@ Each elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 .
 **Action Bar**
 .tag:bar
-.img:https://i.imgur.com/XZypr5j.png
+.img:https://i.imgur.com/eVmxjLd.png
 .
 {
   "embed": {
