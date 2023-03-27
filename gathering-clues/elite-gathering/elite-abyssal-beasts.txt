@@ -1,5 +1,5 @@
 .img:https://i.imgur.com/fV9y3py.png
-*(courtesy of <@145884917627224065> and <@162955183670820864>)*
+*(courtesy of <@145884917627224065> and rly alan#6969)*
 > **Introduction**
 .tag:intro
 Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 44/100, note that this rate does include <:elitereroll:1089678441567236157> re-rolls and tier 4 luck <:lotd:1088889997907726436>.
