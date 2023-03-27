@@ -4,9 +4,9 @@
 .tag:intro
 Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 44/100, note that this rate does include <:elitereroll:1089678441567236157> re-rolls and tier 4 luck <:lotd:1088889997907726436>.
 
-The meta for gathering hard clues <:Elite:633732493228638209> is to kill Abyssal Beasts. You can gather an average of 11+ (16+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
+The meta for gathering elite clues <:Elite:633732493228638209> is to kill Abyssal Beasts. You can gather an average of 11+ (16+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
 
-Each elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> 4,692,000 (-1,354,144 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> 50,511,231+ (-16,063,152 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> 4,692,000 (-1,354,144 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> 50,511,231+ (-16,063,152 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
 .
 > **Requirements**
 .tag:reqs
@@ -19,7 +19,7 @@ Each elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
 ⬥ <:animatedead:856635090453135382> Animate Dead (unlocked)
-⬥ <:reaverpouch:839903693837959228> Blood reaver pouch
+⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
 ⬥ You will need to stand in a specific spot for this to be optimal
     • They do walk you every now and then so when you look reposition yourself
