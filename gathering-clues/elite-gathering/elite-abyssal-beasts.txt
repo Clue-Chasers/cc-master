@@ -1,8 +1,10 @@
+.img:https://i.imgur.com/fV9y3py.png
+*(courtesy of <@145884917627224065> and <@162955183670820864>)*
 > **Introduction**
 .tag:intro
-Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 44/100, note that this rate does include re-rolls and tier 4 luck <:lotd:1088889997907726436>.
+Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 44/100, note that this rate does include <:elitereroll:1089678441567236157> re-rolls and tier 4 luck <:lotd:1088889997907726436>.
 
-The meta for gathering hard clues <:Elite:633732493228638209> is to kill Abyssal Beasts. You can gather an average of 11 (16 with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
+The meta for gathering hard clues <:Elite:633732493228638209> is to kill Abyssal Beasts. You can gather an average of 11+ (16+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
 
 Each elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> 4,692,000 (-1,354,144 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> 50,511,231+ (-16,063,152 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
 .
@@ -16,32 +18,42 @@ Each elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
+⬥ <:animatedead:856635090453135382> Animate Dead (unlocked)
 ⬥ <:reaverpouch:839903693837959228> Blood reaver pouch
 
+⬥ You will need to stand in a specific spot for this to be optimal
+    • They do walk you every now and then so when you look reposition yourself
+⬥ Melee can also be used but it nets less kills per hour
+    • All of which are detailed in the embed below
+
 .
-> **Preset**
-.tag:preset
-.img:https://i.imgur.com/8gYpFAF.png
 {
   "embed": {
-    "title": "",
+"title": "",
     "description": "",
     "color": 39423,
     "fields": [
       {
-        "name": "__Inventory__",
-        "value": "1. <:reaverpouch:839903693837959228> Blood reaver pouch\n2. <:aggrovl:689551388576972805> Aggroverload\n3. Menaphos House Tablet\n4. <:restore:642708657825644554> Super Restore (2)\n5. <:onyxbolt:643411078872694804> Onyx bolts (e)\n6. Grenwall Spikes\n7. Grimy Irit\n8. Grimy Dwarf Weed\n9. Grimy Avantoe\n10. <:weppoison:689525476158472288> Weapon Poison +++\n11. Grimy Cadantine\n12. Grimy Toadflax\n13. Grime Lantadyme\n14. Pure Essence\n15. <:ckey:643171300134617100> Crystal Key\n16. <:ectoplasmator:1023152065431744542> Attuned ectoplasmator\n17. <:cluecarrier:1088518996334235749> Clue Carrier\n18. <:graspingpouchblack:892816436974735361> Grasping rune pouch (black)\n19. Spring cleaner 9001\n20. <:Artificers_measure:900836263307911290> Artificer's Measure",
+        "name": "__Melee Method__",
+        "value": "⬥ [Melee](https://i.imgur.com/KvjEXaN.png)",
         "inline": true
       },
       {
-        "name": "__Worn Equipment__",
-        "value": "1. <:cryptbloomhelm:892819107123195956> Cryptbloom helm\n2. <:scriptureofbik:892342109791735848> Scripture of Bik\n3. <:igneouskalmej:902209626408382494> Igneous Kal-Mej\n4. <:demonhornnecklace:975765831248130079> Demon horn necklace\n5. <:graspingpouchgreen:892816437385756752> Grasping rune pouch (green)\n6. <:inquisitorstaff:694566917553520680> Inquisitor staff\n7. <:VirtusTop:556586038936600603> Virtus robe top\n8. <:Virtusrobelegs:556591276036849682> Virtus robe legs\n9. <:Cinderbanes:513190158355660812> Cinderbane gloves\n10. <:cryptbloomboots:892819107236433930> Cryptbloom boots\n11. <:HSR:513213693983588362> Hazelmere's Signet Ring",
+      "name": "__Standing Position__",
+        "value": "⬥ [Positioning](https://i.imgur.com/SQ9lmDB.png)",
         "inline": true
       }
     ]
-    }
+  }
 }
 .embed:json
+
+.
+> **Preset**
+.tag:preset
+.img:https://i.imgur.com/IBXwXN4.png
+*Detailed breakdown: (<https://i.imgur.com/ndJGv9C.png>) of what can go in the inventory*
+
 ⬥ **Perks:**
     • <:caroming4:791281588792590336> Caroming 4 <:p2:1084799750416637993> Precise 2 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
     • <:biting4:712073087809617931> Biting 4 <:demonslayerperk:689502842653900818> Demon slayer / <:relentless5:712244800920748092> Relentless 5 <:crack4:712073087662686249> Crackling 4
