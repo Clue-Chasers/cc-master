@@ -4,7 +4,7 @@
 .
 > **Introduction**
 .tag:intro
-Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have a high Fortunate component item drop rate at a 57/100 per clue, note that this rate does include re-rolls <:hardreroll:1089541623072952410> and tier 4 luck <:lotd:1088889997907726436>.
+Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have a master clue scroll <:Master:1019920500807450666> rate of 9/100 and have a high Fortunate component <:Fortunate_components:850052505668288522> rate of 57/100, note that this rate does include re-rolls <:hardreroll:1089541623072952410> and tier 4 luck <:lotd:1088889997907726436>.
 
 The meta for gathering hard clues <:Hard:633728361918758930> is to kill Glayctes. You can gather an average of 44 (48.3 with Scripture of Bik <:scriptureofbik:1088534948413186168>) hard clues <:Hard:633728361918758930> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
 
