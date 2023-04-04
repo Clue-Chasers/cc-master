@@ -30,9 +30,8 @@ These are the rates to get a Fortunate component per clue casket:
 ⬥ <:Master:1019920500807450666> ~48.5% (this excludes high value items that you would not disassemble)
 > **Average value of each clue caskets**
 .tag:casketvalue
-As of 23rd of March the Average value of each casket is as follows:
 ⬥ <:Easy:633728862039179294> Easy clue
-    • <:Coins:1068645656488583258> 706,000
+    • <:Coins:1068645656488583258> $data_cc:CasketValue!B11$
 ⬥ <:Medium:633728704438075435> Medium clue
     • <:Coins:1068645656488583258> 907,000
 ⬥ <:Hard:633728361918758930> Hard clue
