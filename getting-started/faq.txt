@@ -33,16 +33,16 @@ These are the rates to get a Fortunate component per clue casket:
 ⬥ <:Easy:633728862039179294> Easy clue
     • <:Coins:1068645656488583258> $data_cc:CasketValue!B11$
 ⬥ <:Medium:633728704438075435> Medium clue
-    • <:Coins:1068645656488583258> 907,000
+    • <:Coins:1068645656488583258> $data_cc:CasketValue!C11$
 ⬥ <:Hard:633728361918758930> Hard clue
-    • <:Coins:1068645656488583258> 2,271,000
-        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> 490,320
+    • <:Coins:1068645656488583258> $data_cc:CasketValue!D11$
+        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> $data_cc:CasketValue!D12$
 ⬥ <:Elite:633732493228638209> Elite clue
-    • <:Coins:1068645656488583258> 4,690,000
-        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> -1,268,909
+    • <:Coins:1068645656488583258> $data_cc:CasketValue!E11$
+        - using <:skipslider:1088516624983785542> skips <:Coins:1068645656488583258> $data_cc:CasketValue!E12$
 ⬥ <:Master:1019920500807450666> Master clue
-    • <:Coins:1068645656488583258> 7,588,000
-        - using <:skiptower:1088516623499006083> skips <:Coins:1068645656488583258> 6,302,451
+    • <:Coins:1068645656488583258> $data_cc:CasketValue!F11$
+        - using <:skiptower:1088516623499006083> skips <:Coins:1068645656488583258> $data_cc:CasketValue!F12$
 > **Average amount of puzzles in each clue tier**
 .tag:avgpuzz
 Assuming you have the Totem of Treasure <:cluetotem:1088554569186951248> active, the average puzzles per clue:
