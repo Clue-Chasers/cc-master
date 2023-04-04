@@ -56,7 +56,6 @@ Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 > **Preset**
 .tag:preset
 .img:https://i.imgur.com/mfDUFV6.png
-*Detailed breakdown: (<https://i.imgur.com/ndJGv9C.png>) of what can go in the inventory*
 
 ⬥ **Perks:**
     • <:caroming4:791281588792590336> Caroming 4 <:p2:1084799750416637993> Precise 2 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
