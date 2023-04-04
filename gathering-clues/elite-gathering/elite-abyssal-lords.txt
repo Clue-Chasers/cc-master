@@ -6,7 +6,7 @@ Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have 
 
 Abyssal Lords are good for gathering elite clues <:Elite:633732493228638209> when above soft cap via crystal triskelion key fragments <:trisk:523226110234984451>. You can gather an average of 6+ (10.7+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour.
 
-Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> 4,692,000 (-1,354,144 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 7.4+ (8.13+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> 34,720,800+ (-11,009,190.72 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> $data_cc:CasketValue!E11$ ($data_cc:CasketValue!E12$ with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> $data_cc:CasketValue!E18$+ ($data_cc:CasketValue!E20$ with Puzzle skips <:skipslider:1088516624983785542>) an hour.
 .
 > **Requirements**
 .tag:reqs
