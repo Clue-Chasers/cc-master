@@ -6,7 +6,7 @@ Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have 
 
 The meta for gathering elite clues <:Elite:633732493228638209> is to kill Abyssal Beasts. You can gather an average of 11+ (16+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
 
-Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> 4,692,000 (-1,354,144 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> 50,511,231+ (-16,063,152 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> $data_cc:CasketValue!E11$ ($data_cc:CasketValue!E12$ with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> $data_cc:CasketValue!E18$+ ($data_cc:CasketValue!E20$ with Puzzle skips <:skipslider:1088516624983785542>) an hour.
 .
 > **Requirements**
 .tag:reqs
@@ -55,7 +55,7 @@ Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
 *Detailed breakdown: (<https://i.imgur.com/ndJGv9C.png>) of what can go in the inventory*
 
 ⬥ **Perks:**
-    • <:caroming4:791281588792590336> Caroming 4 <:p2:1084799750416637993> Precise 2 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
+    • <:caroming2:1092796875398205581> Caroming 2 <:precise4:1092796926044405800> Precise 4 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
     • <:biting4:712073087809617931> Biting 4 <:demonslayerperk:689502842653900818> Demon slayer / <:relentless5:712244800920748092> Relentless 5 <:crack4:712073087662686249> Crackling 4
     • <:imp4:712073088204013640> Impatient 4 <:genocidal:689503091539705870> Genocidal / <:scavenging4:1005934140669046824> Scavenging 4
 
