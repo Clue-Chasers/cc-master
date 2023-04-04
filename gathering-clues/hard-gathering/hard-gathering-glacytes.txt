@@ -8,7 +8,7 @@ Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have a 
 
 The meta for gathering hard clues <:Hard:633728361918758930> is to kill Glayctes. You can gather an average of 44 (48.3 with Scripture of Bik <:scriptureofbik:1088534948413186168>) hard clues <:Hard:633728361918758930> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
 
-Each Hard clue casket <:hardcasket:690876517877809152> is worth <:coins:698816156961603654> 2,271,000 (490,320 with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 24.82+ (28.02+ with Puzzle skips <:skipslider:1088516624983785542>) hard clues <:Hard:633728361918758930> an hour putting them at <:coins:698816156961603654> 56,366,220+ (13,738,766.4 with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+Each Hard clue casket <:hardcasket:690876517877809152> is worth <:coins:698816156961603654> $data_cc:CasketValue!D11$ ($data_cc:CasketValue!D12$ with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 24.82+ (28.02+ with Puzzle skips <:skipslider:1088516624983785542>) hard clues <:Hard:633728361918758930> an hour putting them at <:coins:698816156961603654> $data_cc:CasketValue!D18$+ ($data_cc:CasketValue!D20$ with Puzzle skips <:skipslider:1088516624983785542>) an hour.
 .
 > **Requirements**
 .tag:reqs
