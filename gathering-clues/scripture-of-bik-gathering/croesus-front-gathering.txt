@@ -19,10 +19,11 @@ This method aims to either break even or profit whilst Scripture of Bik <:script
 > **Useful Items and Information**
 .tag:useful
 ⬥ <:pontifexshadowring:870326852361789501> Pontifex Shadow Ring fully upgraded
-⬥ You can take whatever items you want to proc Scripture of Bik <:scriptureofbik:1088534948413186168> as long as they stack.
+⬥ You can take whatever items you want to proc Scripture of Bik <:scriptureofbik:1088534948413186168> as long as they stack
     • For example if you are wanting 120 Fletching, take Arrow tips and arrowshafts with Portable Fletchers
 ⬥ It is highly recommended staying away from the Mining section as it takes quite a long time to mine for a <:biktrove:1093136012294770698> Elder Trove (Bik)
-⬥ It is recommended to use a timer for when you can gather another <:biktrove:1093136012294770698> Elder Trove (Bik).
+⬥ It is recommended to use a timer for when you can gather another <:biktrove:1093136012294770698> Elder Trove (Bik)
+⬥ <:biktrove:1093136012294770698> Elder Trove (Bik) are <:coins:698816156961603654> $data_cc:CasketValue!B24$ profit an hour alone
 
 .
 > **Example Preset**
