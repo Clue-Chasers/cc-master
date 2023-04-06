@@ -31,12 +31,12 @@ Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816
     "fields": [
       {
         "name": "__Melee Method__",
-        "value": "⬥ [Melee](https://i.imgur.com/KvjEXaN.png)",
+        "value": "⬥ [Melee](https://i.imgur.com/EShN2sr.png)",
         "inline": true
       },
       {
       "name": "__Standing Position__",
-        "value": "⬥ [Positioning](https://i.imgur.com/EShN2sr.png)",
+        "value": "⬥ [Positioning](https://i.imgur.com/SQ9lmDB.png)",
         "inline": true
       }
     ]
