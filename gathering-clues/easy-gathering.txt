@@ -21,7 +21,6 @@ Each Easy clue casket <:Easycasket:690874669091258389> is worth <:coins:69881615
 ⬥ <:thievingcape:1089300076087758930> Thieving Skillcape
 ⬥ <:exotop:1089297636160442418> Exoskeleton outfit (unlocked)
 ⬥ <:ardycloak3:1088896943079555152> Ardougne Cloak 3 (unlocked)
-⬥ <:cluetotem:1088554569186951248> Totem of Treasure (active)
 ⬥ <:stickyfingers:1089303174554325133> Sticky Fingers relic (if afking)
 
 ⬥ It is not recommended to do this method until you have a higher <:thieving:499641965663617038> Thieving level.
