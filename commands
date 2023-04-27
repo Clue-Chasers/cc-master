@@ -1,14 +1,1 @@
-{
-  "embed": {
-    "title": "Table of Contents",
-		"url": "https://youtube.com",
-    "color": 12745742,
-    "fields": [
-			{
-    		"name": "Name",
-   			"value": "Value"
-			}
-		]
-	}
-}
-.embed:json
+
