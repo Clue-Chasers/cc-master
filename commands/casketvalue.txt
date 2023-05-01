@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Gold received per casket__",
-    "description": "⬥ $data_cc:CasketValue!B11$ <:Coins:1102699278889136289> - Easy Casket\n⬥ $data_cc:CasketValue!C11$ - Medium Casket\n⬥ $data_cc:CasketValue!D11$ - Hard Casket\n⬥ $data_cc:CasketValue!D12$ - Hard Casket (skips)\n⬥ $data_cc:CasketValue!E11$ - Elite Casket\n⬥ $data_cc:CasketValue!E12$ - Elite Casket (skips)\n⬥ $data_cc:CasketValue!F11$ - Master Casket\n⬥ $data_cc:CasketValue!F12$ - Master Casket (skips)",
+    "description": "⬥ <:coins:499642142289821699> $data_cc:CasketValue!B11$ - Easy Casket\n⬥ $data_cc:CasketValue!C11$ - Medium Casket\n⬥ $data_cc:CasketValue!D11$ - Hard Casket\n⬥ $data_cc:CasketValue!D12$ - Hard Casket (skips)\n⬥ $data_cc:CasketValue!E11$ - Elite Casket\n⬥ $data_cc:CasketValue!E12$ - Elite Casket (skips)\n⬥ $data_cc:CasketValue!F11$ - Master Casket\n⬥ $data_cc:CasketValue!F12$ - Master Casket (skips)",
     "color": 34879,
     "fields": []
   }
