@@ -1,14 +1,9 @@
 {
   "embed": {
     "title": "__Most Amount of Barrows Dyes Obtained by Players__",
-    "description": "",
+    "description": "⬥ 136 - Wisely Done\n⬥ 120 - Raul\n⬥ 118 - DiogoJCL\n⬥ 116 - treborsmada\n⬥ 107 - Dudey xD\n⬥ 106 - Golden Globe\n⬥ 100 - L33",
     "color": 206850,
-    "fields": [
-      {
-        "name": "",
-        "value": "⬥ 136 - Wisely Done\n⬥ 120 - Raul\n⬥ 118 - DiogoJCL\n⬥ 116 - treborsmada\n⬥ 107 - Dudey xD\n⬥ 106 - Golden Globe\n⬥ 100 - L33"
-      }
-    ]
+    "fields": []
   }
 }
 .embed:json
