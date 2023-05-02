@@ -1,5 +1,8 @@
 {
   "embed": {
+          "thumbnail": {
+  "url": "https://i.imgur.com/Vs1lH2s.png"
+},
     "title": "Link to Clue Chasers website",
     "url": "https://clue-chasers.github.io",
     "description": "⬥ Clue Chasers has a website!\n ⬥ Motivation can be found on the homepage.",
