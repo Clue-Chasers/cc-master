@@ -1,5 +1,8 @@
 {
   "embed": {
+        "thumbnail": {
+  "url": "https://i.imgur.com/Mad9mMP.png"
+},
     "title": "__Most Amount of Barrows Dyes obtained by Players__",
     "description": "⬥ $data_cc:BCLeaderboard!D5$ - $data_cc:BCLeaderboard!C5$\n⬥ $data_cc:BCLeaderboard!D6$ - $data_cc:BCLeaderboard!C6$\n⬥ $data_cc:BCLeaderboard!D7$ - $data_cc:BCLeaderboard!C7$\n⬥ $data_cc:BCLeaderboard!D8$ - $data_cc:BCLeaderboard!C8$\n⬥ $data_cc:BCLeaderboard!D9$ - $data_cc:BCLeaderboard!C9$\n⬥ $data_cc:BCLeaderboard!D10$ - $data_cc:BCLeaderboard!C10$\n⬥ $data_cc:BCLeaderboard!D11$ - $data_cc:BCLeaderboard!C11$",
     "color": 34879,
