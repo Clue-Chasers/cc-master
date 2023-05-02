@@ -1,1 +1,9 @@
-
+{
+  "embed": {
+    "title": "Link to Clue Chasers website",
+    "url": "https://clue-chasers.github.io",
+    "description": "Clue Chasers has a website! Motivation can be found on the homepage.",
+    "color": 15844367
+  }
+}
+.embed:json
