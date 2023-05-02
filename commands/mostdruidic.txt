@@ -4,7 +4,7 @@
   "url": "https://i.imgur.com/Dnkk134.png"
 },
     "title": "__Most Amount of Total Druidic Pieces obtained by Players__",
-    "description": "⬥ $data_cc:BCLeaderboard!M36$ - $data_cc:BCLeaderboard!O36$\n⬥ $data_cc:BCLeaderboard!M37$ - $data_cc:BCLeaderboard!O37$\n⬥ $data_cc:BCLeaderboard!M38$ - $data_cc:BCLeaderboard!O38$\n⬥ $data_cc:BCLeaderboard!M39$ - $data_cc:BCLeaderboard!O39$\n⬥ $data_cc:BCLeaderboard!M40$ - $data_cc:BCLeaderboard!O40$\n⬥ $data_cc:BCLeaderboard!M41$ - $data_cc:BCLeaderboard!O41$\n⬥ $data_cc:BCLeaderboard!M42$ - $data_cc:BCLeaderboard!O42$",
+    "description": "⬥ $data_cc:BCLeaderboard!Q36$ - $data_cc:BCLeaderboard!O36$\n⬥ $data_cc:BCLeaderboard!Q37$ - $data_cc:BCLeaderboard!O37$\n⬥ $data_cc:BCLeaderboard!Q38$ - $data_cc:BCLeaderboard!O38$\n⬥ $data_cc:BCLeaderboard!Q39$ - $data_cc:BCLeaderboard!O39$\n⬥ $data_cc:BCLeaderboard!Q40$ - $data_cc:BCLeaderboard!O40$\n⬥ $data_cc:BCLeaderboard!Q41$ - $data_cc:BCLeaderboard!O41$\n⬥ $data_cc:BCLeaderboard!Q42$ - $data_cc:BCLeaderboard!O42$",
     "color": 2067276,
     "fields": []
   }
