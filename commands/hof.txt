@@ -3,10 +3,10 @@
           "thumbnail": {
   "url": "https://i.imgur.com/GvAIiEh.png"
 },
-    "title": "Link to Clue Chasers Hall of Fame
+    "title": "__Link to Clue Chasers Hall of Fame__",
     "url": "https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
     "description": "⬥ Clue Chasers Hall of Fame!",
-    "color": 15844367
+    "color": 15844367,
     "fields": []
   }
 }
