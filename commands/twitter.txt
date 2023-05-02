@@ -1,5 +1,8 @@
 {
   "embed": {
+          "thumbnail": {
+  "url": "https://i.imgur.com/qkhufGp.png"
+},
     "title": "Link to Clue Chasers twitter",
     "url": "https://twitter.com/ClueChasersRS",
     "description": "⬥ Clue Chasers has a twitter!\n ⬥ For everything relating to Treasure Trails in RuneScape!",
