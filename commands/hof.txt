@@ -1,11 +1,11 @@
 {
   "embed": {
           "thumbnail": {
-  "url": "https://i.imgur.com/Vs1lH2s.png"
+  "url": "https://i.imgur.com/GvAIiEh.png"
 },
     "title": "Link to Clue Chasers Hall of Fame
-    "url": "https://clue-chasers.github.io",
-    "description": "⬥ Clue Chasers has a website!\n ⬥ Motivation can be found on the homepage.",
+    "url": "https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
+    "description": "⬥ Clue Chasers Hall of Fame!",
     "color": 15844367
   }
 }
