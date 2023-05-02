@@ -1,6 +1,6 @@
 <:Elite:633732493228638209> **__Elite Clue Guide__** <:Elite:633732493228638209> (courtesy of <@332549285923127304> DominusJuris, Phyzzix4PF) *(not sure who wants tagging)*
 .tag:intro
-.img:https://i.imgur.com/vzZzOoM.png < this is the image (please use the template, dm Saltea#5509 if you can't)
+.img:https://i.imgur.com/vzZzOoM.png
 > __**Introduction**__
 Elite clues are the second highest tier clue scroll consisting of Compass and Scan steps with potential Knot and Slider puzzles. An elite clue can be between 5 to 7 steps long (4 to 6 with the Toten of Treasure).
 
@@ -105,7 +105,7 @@ Brimhaven Dungeon (Scan another level)
 The above scans can be teleported if preferred. Some prefer to backpack them and save the jacket charges for scans that you already put time into
 
 .
-<:Natures_sentinel_chest:900837957680898089> __**Nature's Sentinel Outfit**__ <:Natures_sentinel_chest:900837957680898089>
+<:sentinelchest:1088901574300008539> __**Nature's Sentinel Outfit**__ <:sentinelchest:1088901574300008539>
 Arctic Pine Tree (Fremennik Isles Scan) - Quick Teleport
 Magic Trees (Tirannwn Scan - 6, 4)
 Teaks SW of Castle Wars (0, 1, 3)
@@ -115,7 +115,7 @@ Elder Tree West of Rimmington (7, 9, 2)
 Overgrown Idols West of Shipyard (0, 6, 1)
 
 .
-<:Archaeology:934553962244341790> __**Archaeology Teleports**__ <:Archaeology:934553962244341790>
+<:archaeology:941211288665739274> __**Archaeology Teleports**__ <:archaeology:941211288665739274>
 Compass:
 Archaeology Campus (1)
 Infernal Source (3)
@@ -130,14 +130,14 @@ Isaura (Taverly Scan - 9, 4)
 Soran (Varrock Scan - 9, 8)
 
 .
-<:quest:232159421466279936> __**Quest Cape**__ <:quest:232159421466279936>
+<:questcape:1088891514001829981> __**Quest Cape**__ <:questcape:1088891514001829981>
 Legends Guild (7)
 Tears of Guthix (If doing Lumbridge Swamp Cave scan - 8)
 Varrock Museum (For compass spots and Varrock scan - 9)
 World Gate (0)
 
 .
-<:PowerburstofAccel:889603775092895816> __**Powerburst of Acceleration**__ <:PowerburstofAccel:889603775092895816>
+<:accel:756236265472524418> __**Powerburst of Acceleration**__ <:accel:756236265472524418>
 Compass:
 1. Piscatoris
 2. Citharede Abbey
