@@ -1,5 +1,8 @@
 {
   "embed": {
+          "thumbnail": {
+  "url": "https://i.imgur.com/qkhufGp.png"
+},
     "title": "__Most Amount of Ice Dyes obtained by Players__",
     "description": "⬥ $data_cc:BCLeaderboard!D23$ - $data_cc:BCLeaderboard!C23$\n⬥ $data_cc:BCLeaderboard!D24$ - $data_cc:BCLeaderboard!C24$\n⬥ $data_cc:BCLeaderboard!D25$ - $data_cc:BCLeaderboard!C25$\n⬥ $data_cc:BCLeaderboard!D26$ - $data_cc:BCLeaderboard!C26$\n⬥ $data_cc:BCLeaderboard!D27$ - $data_cc:BCLeaderboard!C27$\n⬥ $data_cc:BCLeaderboard!D28$ - $data_cc:BCLeaderboard!C28$\n⬥ $data_cc:BCLeaderboard!D29$ - $data_cc:BCLeaderboard!C29$",
     "color": 35071,
