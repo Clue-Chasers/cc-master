@@ -7,6 +7,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
     "description": "⬥ Clue Chasers Hall of Fame!",
     "color": 15844367,
+    "fields": []
   }
 }
 .embed:json
