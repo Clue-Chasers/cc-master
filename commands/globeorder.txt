@@ -1,1 +1,12 @@
-
+{
+  "embed": {
+  "thumbnail": {
+  "url": "https://i.imgur.com/lgzVhnK.png"
+},
+    "title": "__Globetrotter Outfit Order__",
+    "description": "⬥ Hards (insert emotes)\n⬥ Elites (insert emotes)",
+    "color": 3426654,
+ 		"fields": []
+  }
+}
+.embed:json
