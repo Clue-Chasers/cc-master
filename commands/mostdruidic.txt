@@ -1,11 +1,11 @@
 {
   "embed": {
       "thumbnail": {
-  "url": "https://i.imgur.com/GHpW5lf.png"
+  "url": "https://runescape.wiki/images/Third_age_druidic_wreath.png?cb863"
 },
-    "title": "__Most Amount of Druidic Pieces obtained by Players__",
-    "description": "⬥ $data_cc:BCLeaderboard!M36$ - $data_cc:BCLeaderboard!O36$\n⬥ $data_cc:BCLeaderboard!M36$ - $data_cc:BCLeaderboard!O36$\n⬥ $data_cc:BCLeaderboard!M37$ - $data_cc:BCLeaderboard!O37$\n⬥ $data_cc:BCLeaderboard!M38$ - $data_cc:BCLeaderboard!O38$\n⬥ $data_cc:BCLeaderboard!M39$ - $data_cc:BCLeaderboard!O39$\n⬥ $data_cc:BCLeaderboard!M40$ - $data_cc:BCLeaderboard!O40$\n⬥ $data_cc:BCLeaderboard!M41$ - $data_cc:BCLeaderboard!O41$",
-    "color": 15548997,
+    "title": "__Most Amount of Total Druidic Pieces obtained by Players__",
+    "description": "⬥ $data_cc:BCLeaderboard!M35$ - $data_cc:BCLeaderboard!O35$\n⬥ $data_cc:BCLeaderboard!M36$ - $data_cc:BCLeaderboard!O3$\n⬥ $data_cc:BCLeaderboard!M37$ - $data_cc:BCLeaderboard!O37$\n⬥ $data_cc:BCLeaderboard!M38$ - $data_cc:BCLeaderboard!O38$\n⬥ $data_cc:BCLeaderboard!M39$ - $data_cc:BCLeaderboard!O39$\n⬥ $data_cc:BCLeaderboard!M40$ - $data_cc:BCLeaderboard!O40$\n⬥ $data_cc:BCLeaderboard!M41$ - $data_cc:BCLeaderboard!O41$",
+    "color": 2067276,
     "fields": []
   }
 }
