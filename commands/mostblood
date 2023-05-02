@@ -1,8 +1,8 @@
 {
   "embed": {
     "title": "__Most Amount of Blood Dyes Obtained by Players__",
-    "description": "⬥ $data_cc:BCLeaderboard!D14$ - $data_cc:BCLeaderboard!C14$\n⬥ $data_cc:BCLeaderboard!D15$ - $data_cc:BCLeaderboard!C15$\n⬥ $data_cc:BCLeaderboard!D16$ - $data_cc:BCLeaderboard!C16$\n⬥ $data_cc:BCLeaderboard!D17$ - $data_cc:BCLeaderboard!C17$\n⬥ $data_cc:BCLeaderboard!D18$ - $data_cc:BCLeaderboard!C18$\n⬥ $data_cc:BCLeaderboard!D19$ - $data_cc:BCLeaderboard!C19$\n⬥ $data_cc:BCLeaderboard!D20$ - $data_cc:BCLeaderboard!C20$",
-    "color": 206850,
+    "description": "⬥ $data_cc:BCLeaderboard!D34$ - $data_cc:BCLeaderboard!C34$\n⬥ $data_cc:BCLeaderboard!D35$ - $data_cc:BCLeaderboard!C35$\n⬥ $data_cc:BCLeaderboard!D36$ - $data_cc:BCLeaderboard!C36$\n⬥ $data_cc:BCLeaderboard!D37$ - $data_cc:BCLeaderboard!C37$\n⬥ $data_cc:BCLeaderboard!D38$ - $data_cc:BCLeaderboard!C38$\n⬥ $data_cc:BCLeaderboard!D39$ - $data_cc:BCLeaderboard!C39$\n⬥ $data_cc:BCLeaderboard!D40$ - $data_cc:BCLeaderboard!C40$",
+    "color": 15548997,
     "fields": []
   }
 }
