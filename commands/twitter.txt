@@ -1,7 +1,7 @@
 {
   "embed": {
           "thumbnail": {
-  "url": "https://i.imgur.com/qkhufGp.png"
+  "url": "https://i.imgur.com/KxyXEIZ.png"
 },
     "title": "Link to Clue Chasers twitter",
     "url": "https://twitter.com/ClueChasersRS",
