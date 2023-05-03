@@ -13,6 +13,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Globetrotter Outfit**__
 .tag:goutfit
+⬥ `!globeorder` - Lists the priority order in which piece should be unlocked first based on tier.
 ⬥ `!gjacket` - Explains the globetrotter jacket.
 ⬥ `!gbackpack` - Explains the globetrotter backpack.
 ⬥ `!garms` - Explains the globetrotter arm guards.
