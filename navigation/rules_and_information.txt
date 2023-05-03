@@ -60,7 +60,6 @@
 }
 .embed:json
 
-.
 {
   "embed": {
     "title": "__Clue Chasers Moderation Team__",
