@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "Welcome to Clue Chasers",
-    "description": "Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules. If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation",
+    "description": "Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules.\n If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation",
     "color": 15145728,
     "footer": {
       "text": "Lastly all circumstances of rule-breaking are to be dealt with on a case-by-case basis. Keep in mind that when moderation decisions are made, the current situation will be kept in mind, as well as your history in this server. These rules also apply to the Voice Channels and Clue Chasers friends chat."
@@ -9,15 +9,15 @@
     "fields": [
       {
         "name": "__Rule 1__",
-        "value": "We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation. If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you. Treat people how you want to be treated. Be respectful to other Clue Chasers."
+        "value": "We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation.\n If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you. Treat people how you want to be treated. Be respectful to other Clue Chasers."
       },
       {
         "name": "__Rule 2__",
-        "value": "Inappropriate and/or explicit content (sexual, racist, discriminatory etc.) will be removed may get you banned. These include all types of media (picture/video/link/emotes/stickers), discord avatars and discussions of extreme obscenity."
+        "value": "Inappropriate and/or explicit content (sexual, racist, discriminatory etc.) will be removed may get you banned.\n These include all types of media (picture/video/link/emotes/stickers), discord avatars and discussions of extreme obscenity."
       },
       {
         "name": "__Rule 3__",
-        "value": "Official RuneScape rules apply. Do not discuss means of breaking the game rules, such as scamming, luring, botting, RWT, abuse of gamebreaking bugs and other malicious practices. We advise you to report these in the official RuneScape discord at ⁠<#474566785753153536>"
+        "value": "Official RuneScape rules apply. Do not discuss means of breaking the game rules, such as scamming, luring, botting, RWT, abuse of gamebreaking bugs and other malicious practices.\n We advise you to report these in the official RuneScape discord at ⁠<#474566785753153536>"
       },
       {
         "name": "__Rule 4__",
@@ -58,22 +58,3 @@
     ]
   }
 }
-.embed:json
-
-{
-  "embed": {
-    "title": "Clue Chasers Moderation Team",
-    "color": 15844367,
-    "fields": [
-      {
-        "name": "__Moderators__",
-        "value": "⬥ <@201330385013964809>⬥ <@161545097597550593>\n⬥ <@420315520449904640>\n⬥ <@211049089050214400>\n⬥ <@195276355779166208>\n⬥ <@122408407482236929>\n⬥ <@452981524615135253>\n⬥ <@139154903623794688>\n⬥ <@162126141673439232>\n⬥ <@332549285923127304>"
-      },
-      {
-        "name": "__Helpers__",
-        "value": "⬥ <@233750320591798272>⬥ <@133223432086093824>\n⬥ <@567480542950588437>\n⬥ <@127512892319858689>\n⬥ <@322895146637328385>"
-      },
-    ]
-  }
-}
-.embed:json
