@@ -1,27 +1,27 @@
 {
   "embed": {
     "title": "Welcome to Clue Chasers",
-    "description": "Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules.\n If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation",
+    "description": "Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules. If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation",
     "color": 15145728,
     "footer": {
-      "text": "Lastly all circumstances of rule-breaking are to be dealt with on a case-by-case basis. Keep in mind that when moderation decisions are made, the current situation will be kept in mind, as well as your history in this server. These rules also apply to the Voice Channels and Clue Chasers friends chat."
+      "text": "All circumstances of rulebreaking are dealt with on a case-by-case basis. Keep in mind that when moderation decisions are made, the current situation will be kept in mind, as well as your history in this server. These rules also apply to the Voice Channels and Clue Chasers friends chat."
     },
     "fields": [
       {
         "name": "__Rule 1__",
-        "value": "We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation.\n If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you. Treat people how you want to be treated. Be respectful to other Clue Chasers."
+        "value": "We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation. If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you.\n⬥ Treat people how you want to be treated. Be respectful to other Clue Chasers."
       },
       {
         "name": "__Rule 2__",
-        "value": "Inappropriate and/or explicit content (sexual, racist, discriminatory etc.) will be removed may get you banned.\n These include all types of media (picture/video/link/emotes/stickers), discord avatars and discussions of extreme obscenity."
+        "value": "Inappropriate and/or explicit content (sexual, racist, discriminatory etc.) will be removed may get you banned.\n⬥ These include all types of media (picture/video/link/emotes/stickers), discord avatars and discussions of extreme obscenity."
       },
       {
         "name": "__Rule 3__",
-        "value": "Official RuneScape rules apply. Do not discuss means of breaking the game rules, such as scamming, luring, botting, RWT, abuse of gamebreaking bugs and other malicious practices.\n We advise you to report these in the official RuneScape discord at ⁠<#474566785753153536>"
+        "value": "Official RuneScape rules apply. Do not discuss means of breaking the game rules, such as scamming, luring, botting, RWT, abuse of gamebreaking bugs and other malicious practices.\n⬥ We advise you to report these in the official RuneScape discord at ⁠<#474566785753153536>"
       },
       {
         "name": "__Rule 4__",
-        "value": "Please refrain from posting any kind of trading/buying/selling offers. The FC and Discord server are not the Grand Exchange. This rule is in place to help protect our members from merchers. Use the official RuneScape discord marketplace over at ⁠<#1093228904807923792> It is a safe environment to conduct those activities and we encourage our members to use that space. If you are approached in your DM's to trade/buy/sell something, please create a ticket in ⁠<#1074856081160929290> as soon as possible. Trading offers in DMs to our members is seen as trying to circumvent this rule and will get you a permanent ban. (This rule includes begging and/or asking people for loans) The only exception to this is asking to loan an Orlando Smith's Hat with provided collateral with the person in question."
+        "value": "Posting any kind of trading/buying/selling/loaning/begging offers in the discord and FC is prohibted. Use the official RuneScape discord marketplace over at ⁠<#1093228904807923792> It is a safe environment to conduct those activities and we encourage our members to use that space. If you are approached in your DM's to trade/buy/sell something, please create a ticket in ⁠<#1074856081160929290> as soon as possible. Trading offers in DMs to our members is seen as trying to circumvent this rule and will get you a permanent ban."
       },
       {
         "name": "__Rule 5__",
@@ -37,11 +37,11 @@
       },
       {
         "name": "__Rule 8__",
-        "value": "Do not copy other people's identity by changing discord name, nickname or avatar to match someone else. These include but are not limited to members, discord moderators, helpers and Jagex employees."
+        "value": "Do not copy other people's identity by changing discord name/nickname/pfp to match someone elses verbatim."
       },
       {
         "name": "__Rule 9__",
-        "value": "While we appreciate you trying to help in making the server a better place, please leave the moderating to the moderation team. We advise you to refrain from targeting a person or arguing with rulebreakers. If issues arise, contact us through ⁠<#1074856081160929290>."
+        "value": "While we appreciate you trying to help in making the server a better place, do not attempt backseat the moderation team. We advise you to refrain from targeting a person or arguing with rulebreakers. If issues arise, contact us through ⁠<#1074856081160929290>. For transparency and freely voicing opinions, server suggestions on how the server should be moderated should be brought up in <#1074856081160929290> Any suggestions made elsewhere will be ignored, as they become impossible for members of the moderation team to meaningfully follow up on."
       },
       {
         "name": "__Rule 10__",
@@ -53,7 +53,7 @@
       },
       {
         "name": "__Rule 12__",
-        "value": "The rules are not exhaustive or set in stone. The moderation team is obligated to go discuss appropriate moderation actions with other eachother because of this, moderation decisions are made by the whole team to combat unfair treatment or potential bias. The moderation team reserve the right to take quick action when they deem this necessary, but these will be discussed afterwards."
+        "value": "The rules are not exhaustive or set in stone. The moderation team is obligated to go discuss appropriate moderation actions with other eachother. Moderation decisions are made by the whole team to combat unfair treatment or potential bias. The moderation team reserves the right to take quick action when deemed necessary, these will be discussed afterwards for transparency."
       }
     ]
   }
