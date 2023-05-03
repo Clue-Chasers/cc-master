@@ -1,0 +1,67 @@
+> **__Helpful Commands__**
+.tag:intro
+**__Introduction__**
+This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain. Feel free to use any of the commands in the <#333343575737892864> channel.
+
+.
+> __**Information Hub**__
+.tag:infohub
+⬥ `!gathering` - Links to the gathering section.
+⬥ `!solving` - Links to the solving section.
+⬥ `!faq` - Links to the faq section section.
+
+.
+> __**Globetrotter Outfit**__
+.tag:goutfit
+⬥ `!gjacket` - Explains the globetrotter jacket.
+⬥ `!gbackpack` - Explains the globetrotter backpack.
+⬥ `!garms` - Explains the globetrotter arm guards.
+⬥ `!gshorts` - Explains the globetrotter shorts.
+⬥ `!gboots` - Explains the globetrotter boots.
+
+.
+> __**Alchemical Items & Broadcasts**__
+.tag:rewards
+⬥ `!fortunates` - Lists every item that can be disassembled into a fortunate component.
+
+.
+> __**Abilities/Spells**__
+.tag:spells
+⬥ `!Surge` - Explains Surge.
+⬥ `!Escape` - Explains Escape.
+⬥ `!Dive` - Explains Dive.
+⬥ `!Barge` - Explains Barge.
+.
+
+.
+> __**Spreadsheets**__
+.tag:sheets
+⬥ `!hof` - Generates a link to Hall of Fame.
+⬥ `!hardstepguide` - Generates a link to the hard clue step guide.
+
+.
+> __**Server Help**__
+.tag:serverhelp
+⬥ `!nav` - Lists some ways of navigating Clue Chasers.
+⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
+⬥ `!clue` - Generates an invite link for Clue Chasers.
+⬥ `!cluehelp` - Links the Clue help forum and questions channel.
+⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
+⬥ `!website` - Links the Clue Chasers website.
+⬥ `!twitter` - Links the Clue Chasers twitter.
+
+.
+> __**Miscellaneous**__
+.tag:misc
+⬥ `!miscellaneous` - Placeholder.
+
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "*To edit this guide, visit <#924484538187522098>*\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Weapon Commands]($linkmsg_weapons$)\n⬥ [Armour / Accessory Commands]($linkmsg_armor$)\n⬥ [EoF Commands]($linkmsg_eof$)\n⬥ [Ability / Spell Commands]($linkmsg_spells$)\n⬥ [Spreadsheet Commands]($linkmsg_sheets$)\n⬥ [AFK Commands]($linkmsg_afk$)\n⬥ [Server Help Commands]($linkmsg_serverhelp$)\n⬥ [Skilling]($linkmsg_skilling$)\n⬥ [OSRS Commands]($linkmsg_osrs$)\n⬥ [Misc. Commands]($linkmsg_misc$)",
+    "color": 15844367
+  }
+}
+.embed:json
+.pin:delete
