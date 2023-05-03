@@ -59,7 +59,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "[Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_$)\n⬥ [Globetrotter Outfit Commands ]($linkmsg_$)\n⬥ [Alchemical Items / Broadcasts Commands]($linkmsg_$)\n⬥ [Ability / Spell Commands]($linkmsg_$)\n⬥ [Spreadsheets]($linkmsg_$)\n⬥ [Server Help]($linkmsg_$)\n⬥ [Miscellaneous]($linkmsg_$)",
+    "description": "[Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Globetrotter Outfit Commands ]($linkmsg_goutfit$)\n⬥ [Alchemical Items / Broadcasts Commands]($linkmsg_rewards$)\n⬥ [Ability / Spell Commands]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
     "color": 15844367
   }
 }
