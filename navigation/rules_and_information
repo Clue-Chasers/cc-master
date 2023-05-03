@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Welcome to Clue Chasers__",
-    "description": "**Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules. If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation**",
+    "description": "Before you start posting on this server, please take the time to read this message and familiarize yourself with our rules. If any issues arise, please utilize <#1074856081160929290> and we can help take care of the situation",
     "color": 15145728,
     "footer": {
       "text": "All circumstances of rulebreaking are dealt with on a case-by-case basis. Keep in mind that when moderation decisions are made, the current situation will be kept in mind, as well as your history in this server. These rules also apply to the Voice Channels and Clue Chasers friends chat."
@@ -9,7 +9,7 @@
     "fields": [
       {
         "name": "__Rule 1__",
-        "value": "⬥ We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation.\n⬥ If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you.\n⬥ Treat people how you want to be treated. Be respectful to other Clue Chasers."
+        "value": "⬥ We do not tolerate attacks or discrimination towards anyone based on their gender, religion, belief, race, ethnicity, age, mental and/or physical impairment or sexual orientation.\n\n If you feel that you have been subject to discrimination, please create a ticket in <#1074856081160929290> and allow the moderation team to review the situation and assist you.\n\n Treat people how you want to be treated. Be respectful to other Clue Chasers."
       },
       {
         "name": "__Rule 2__",
