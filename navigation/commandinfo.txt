@@ -26,8 +26,8 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
 ⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
-⬥ `!website` - Links the Clue Chasers website.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
+⬥ `!website` - Links the Clue Chasers website.
 
 .
 > __**Globetrotter Outfit & Gear**__
@@ -38,6 +38,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!garms` - Explains the globetrotter arm guards and it's functionality.
 ⬥ `!gshorts` - Explains the globetrotter shorts and it's functionality.
 ⬥ `!gboots` - Explains the globetrotter boots and it's functionality.
+
 .
 > __**Collection Log**__
 .tag:rewards
@@ -57,6 +58,10 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 > __**Spreadsheets**__
 .tag:sheets
 ⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
+
+.
+> __**Hall of Fame**__
+.tag:hof
 ⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
 ⬥ `!most3a` - List players with the most Third Age Dyes on their collection logs.
 ⬥ `!mostblood` - List players with the most Blood Dyes on their collection logs.
@@ -66,17 +71,11 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!mostdruidic` - List players with the most total of Druidic Pieces on their collection logs.
 ⬥ `!mostosh` - List players with the most Orlando Smith Hat's on their collection logs.
 
-
-.
-> __**Miscellaneous**__
-.tag:misc
-⬥ `!miscellaneous` - Miscellaneous
-
 .
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Globetrotter Outfit/Gear]\n ⬥($linkmsg_outfit$) [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Globetrotter Outfit/Gear]\n ⬥($linkmsg_outfit$) [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)",
     "color": 15844367
   }
 }
