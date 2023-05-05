@@ -1,7 +1,7 @@
-> **__Helpful Commands__**
+> **__Helpful Commands - WORK IN PROGRESS__**
 .tag:intro
 **__Introduction__**
-This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain.\n Feel free to use any of the commands in the <#333343575737892864> channel.
+This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain.\n Feel free to use any of the commands in the <#333343575737892864> channel. 
 
 .
 > __**Information Hub**__
