@@ -6,24 +6,25 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Information Hub**__
 .tag:infohub
+⬥ `!bik` - Explains the program called ALT1Toolkit and it's utility for Clue Scrolls.
 ⬥ `!bik` - Explains the Scripture of Bik.
 ⬥ `!clue` - Explains what a Clue Scroll is.
-⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
 ⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
 ⬥ `!facet` - Explains the Dark Facet of Luck.
 ⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
-⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
+⬥ `!plugins` - Explains different Clue Scroll related plugins for ALT1Toolkit.
 ⬥ `!sbs` - Explains Spellbook Swapping and it's utility.
 ⬥ `!sotg` - Explains Sceptre of The Gods and it's utility.
 ⬥ `!totem` - Explains the Totem of Treasure and it's utility.
+⬥ `!totem` - Explains triangulation on Elite Clue Scrolls.
 
 .
 > __**Server Help**__
 .tag:serverhelp
-⬥ `!nav` - Lists some ways of navigating Clue Chasers.
+⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
 ⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
-⬥ `!clue` - Generates an invite link for Clue Chasers.
-⬥ `!cluehelp` - Links the Clue help forum and questions channel.
+⬥ `!cc` - Generates an invite link for Clue Chasers.
+⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
 ⬥ `!website` - Links the Clue Chasers website.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
@@ -40,16 +41,16 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Collection Log**__
 .tag:rewards
-⬥ `!fortunates` - Generates a list of possible items that could be disassembled into fortunate components.
-⬥ `!fortunates` - Generates a list of every item that can be created with the necessary ingredients required.
+⬥ `!forts` - Generates a list of possible items that could be disassembled into fortunate components.
+⬥ `!alchs` - Generates a list of every item that can be created with the necessary ingredients required.
 
 .
 > __**Abilities/Spells**__
 .tag:spells
-⬥ `!Dive` - Explains Dive ability and it's functionality.
-⬥ `!Barge` - Explains Barge ability and it's functionality.
-⬥ `!Escape` - Explains Escape ability and it's functionality.
-⬥ `!Surge` - Explains Surge ability and it's functionality.
+⬥ `!dive` - Explains Dive ability and it's functionality.
+⬥ `!barge` - Explains Barge ability and it's functionality.
+⬥ `!escape` - Explains Escape ability and it's functionality.
+⬥ `!surge` - Explains Surge ability and it's functionality.
 
 .
 > __**Spreadsheets**__
