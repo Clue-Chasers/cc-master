@@ -6,17 +6,24 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Information Hub**__
 .tag:infohub
-⬥ `!gathering` - Links to the gathering section. (Needs adding)
-⬥ `!solving` - Links to the solving section. (Needs adding)
-⬥ `!faq` - Links to the faq section section. (Needs adding)
+⬥ `!bik` - Explains the Scripture of Bik.
+⬥ `!clue` - Explains what a Clue Scroll is.
+⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
+⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
+⬥ `!facet` - Explains the Dark Facet of Luck.
+⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
+⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
+⬥ `!sbs` - Explains Spellbook Swapping and it's utility.
+⬥ `!sotg` - Explains Sceptre of The Gods and it's utility.
+⬥ `!totem` - Explains the Totem of Treasure and it's utility.
 
 .
 > __**Server Help**__
 .tag:serverhelp
-⬥ `!nav` - Lists some ways of navigating Clue Chasers. (Needs adding)
-⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels. (Needs adding)
-⬥ `!clue` - Generates an invite link for Clue Chasers. (Needs adding)
-⬥ `!cluehelp` - Links the Clue help forum and questions channel. (Needs adding)
+⬥ `!nav` - Lists some ways of navigating Clue Chasers.
+⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
+⬥ `!clue` - Generates an invite link for Clue Chasers.
+⬥ `!cluehelp` - Links the Clue help forum and questions channel.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
 ⬥ `!website` - Links the Clue Chasers website.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
@@ -24,38 +31,38 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Globetrotter Outfit & Gear**__
 .tag:outfit
-⬥ `!gorder` - Lists the priority order in which piece should be unlocked first based on tier. 
-⬥ `!gjacket` - Explains the globetrotter jacket.
-⬥ `!gbackpack` - Explains the globetrotter backpack.
-⬥ `!garms` - Explains the globetrotter arm guards.
-⬥ `!gshorts` - Explains the globetrotter shorts.
-⬥ `!gboots` - Explains the globetrotter boots.
+⬥ `!gorder` - Lists the priority order and which pieces should be prioritized based on tier. 
+⬥ `!gjacket` - Explains the globetrotter jacket and it's functionality.
+⬥ `!gbackpack` - Explains the globetrotter backpack and it's functionality.
+⬥ `!garms` - Explains the globetrotter arm guards and it's functionality.
+⬥ `!gshorts` - Explains the globetrotter shorts and it's functionality.
+⬥ `!gboots` - Explains the globetrotter boots and it's functionality.
 .
 > __**Collection Log**__
 .tag:rewards
-⬥ `!fortunates` - Lists every item that can be disassembled into a fortunate component.
-⬥ `!fortunates` - Lists every a.
+⬥ `!fortunates` - Generates a list of possible items that could be disassembled into fortunate components.
+⬥ `!fortunates` - Generates a list of every item that can be created with the necessary ingredients required.
 
 .
 > __**Abilities/Spells**__
 .tag:spells
-⬥ `!Surge` - Explains Surge. (Needs adding)
-⬥ `!Escape` - Explains Escape. (Needs adding)
-⬥ `!Dive` - Explains Dive. (Needs adding)
-⬥ `!Barge` - Explains Barge. (Needs adding)
+⬥ `!Dive` - Explains Dive ability and it's functionality.
+⬥ `!Barge` - Explains Barge ability and it's functionality.
+⬥ `!Escape` - Explains Escape ability and it's functionality.
+⬥ `!Surge` - Explains Surge ability and it's functionality.
 
 .
 > __**Spreadsheets**__
 .tag:sheets
-⬥ `!casketvalue` - Generates a list of the average casket value of each tier.
-⬥ `!hof` - Generates a link to Hall of Fame.
-⬥ `!most3a` - Generates a list of players with the most of selected item.
-⬥ `!mostblood` - Generates a list of players with the most of selected item.
-⬥ `!mostbarrows` - Generates a list of players with the most of selected item.
-⬥ `!mostshadow` - Generates a list of players with the most of selected item.
-⬥ `!mostice` - Generates a list of players with the most of selected item.
-⬥ `!mostdruidic` - Generates a list of players with the most of selected item.
-⬥ `!mostosh` - Generates a list of players with the most of selected item.
+⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
+⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
+⬥ `!most3a` - List players with the most Third Age Dyes on their collection logs.
+⬥ `!mostblood` - List players with the most Blood Dyes on their collection logs.
+⬥ `!mostbarrows` - List players with the most Barrows Dyes on their collection logs.
+⬥ `!mostshadow` - List players with the most Shadow Dyes on their collection logs.
+⬥ `!mostice` - List players with the most Ice Dyes on their collection logs.
+⬥ `!mostdruidic` - List players with the most total of Druidic Pieces on their collection logs.
+⬥ `!mostosh` - List players with the most Orlando Smith Hat's on their collection logs.
 
 
 .
