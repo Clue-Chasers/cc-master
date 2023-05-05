@@ -11,19 +11,30 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!faq` - Links to the faq section section. (Needs adding)
 
 .
-> __**Globetrotter Outfit**__
-.tag:goutfit
-⬥ `!globeorder` - Lists the priority order in which piece should be unlocked first based on tier. (Needs adding)
-⬥ `!gjacket` - Explains the globetrotter jacket. (Needs adding)
-⬥ `!gbackpack` - Explains the globetrotter backpack. (Needs adding)
-⬥ `!garms` - Explains the globetrotter arm guards. (Needs adding)
-⬥ `!gshorts` - Explains the globetrotter shorts. (Needs adding)
-⬥ `!gboots` - Explains the globetrotter boots. (Needs adding)
+> __**Server Help**__
+.tag:serverhelp
+⬥ `!nav` - Lists some ways of navigating Clue Chasers. (Needs adding)
+⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels. (Needs adding)
+⬥ `!clue` - Generates an invite link for Clue Chasers. (Needs adding)
+⬥ `!cluehelp` - Links the Clue help forum and questions channel. (Needs adding)
+⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
+⬥ `!website` - Links the Clue Chasers website.
+⬥ `!twitter` - Links the Clue Chasers twitter.
 
 .
-> __**Alchemical Items & Broadcasts**__
+> __**Globetrotter Outfit & Gear**__
+.tag:outfit
+⬥ `!gorder` - Lists the priority order in which piece should be unlocked first based on tier. 
+⬥ `!gjacket` - Explains the globetrotter jacket.
+⬥ `!gbackpack` - Explains the globetrotter backpack.
+⬥ `!garms` - Explains the globetrotter arm guards.
+⬥ `!gshorts` - Explains the globetrotter shorts.
+⬥ `!gboots` - Explains the globetrotter boots.
+.
+> __**Collection Log**__
 .tag:rewards
-⬥ `!fortunates` - Lists every item that can be disassembled into a fortunate component. (Needs adding)
+⬥ `!fortunates` - Lists every item that can be disassembled into a fortunate component.
+⬥ `!fortunates` - Lists every a.
 
 .
 > __**Abilities/Spells**__
@@ -36,37 +47,27 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Spreadsheets**__
 .tag:sheets
+⬥ `!casketvalue` - Generates a list of the average casket value of each tier.
 ⬥ `!hof` - Generates a link to Hall of Fame.
+⬥ `!most3a` - Generates a list of players with the most of selected item.
+⬥ `!mostblood` - Generates a list of players with the most of selected item.
 ⬥ `!mostbarrows` - Generates a list of players with the most of selected item.
 ⬥ `!mostshadow` - Generates a list of players with the most of selected item.
 ⬥ `!mostice` - Generates a list of players with the most of selected item.
-⬥ `!most3a` - Generates a list of players with the most of selected item.
-⬥ `!mostblood` - Generates a list of players with the most of selected item.
 ⬥ `!mostdruidic` - Generates a list of players with the most of selected item.
 ⬥ `!mostosh` - Generates a list of players with the most of selected item.
-⬥ `!casketvalue` - Generates a list of the average casket value of each tier.
 
-.
-> __**Server Help**__
-.tag:serverhelp
-⬥ `!nav` - Lists some ways of navigating Clue Chasers. (Needs adding)
-⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels. (Needs adding)
-⬥ `!clue` - Generates an invite link for Clue Chasers. (Needs adding)
-⬥ `!cluehelp` - Links the Clue help forum and questions channel. (Needs adding)
-⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
-⬥ `!website` - Links the Clue Chasers website.
-⬥ `!twitter` - Links the Clue Chasers twitter.
 
 .
 > __**Miscellaneous**__
 .tag:misc
-⬥ `!miscellaneous` - (Needs adding)
+⬥ `!miscellaneous` - Miscellaneous
 
 .
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Globetrotter Outfit Commands ]($linkmsg_goutfit$)\n⬥ [Alchemical Items / Broadcasts Commands]($linkmsg_rewards$)\n⬥ [Ability / Spell Commands]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Globetrotter Outfit/Gear]($linkmsg_outfit$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
     "color": 15844367
   }
 }
