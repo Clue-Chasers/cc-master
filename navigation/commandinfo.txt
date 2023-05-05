@@ -75,7 +75,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Globetrotter Outfit/Gear]\n ⬥($linkmsg_outfit$) [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Globetrotter Outfit/Gear]($linkmsg_outfit$)\n⬥ [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)",
     "color": 15844367
   }
 }
