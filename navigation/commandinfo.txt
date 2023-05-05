@@ -6,25 +6,25 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Information Hub**__
 .tag:infohub
-⬥ `!bik` - Explains the program called ALT1Toolkit and it's utility for Clue Scrolls.
+⬥ `!alt1` - Explains the program called ALT1Toolkit and it's utility for Clue Scrolls.
 ⬥ `!bik` - Explains the Scripture of Bik.
 ⬥ `!clue` - Explains what a Clue Scroll is.
 ⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
 ⬥ `!facet` - Explains the Dark Facet of Luck.
 ⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
+⬥ `!meerkat` - Explains the utility of using the Meerkats familiar.
 ⬥ `!plugins` - Explains different Clue Scroll related plugins for ALT1Toolkit.
-⬥ `!sbs` - Explains Spellbook Swapping and it's utility.
 ⬥ `!sotg` - Explains Sceptre of The Gods and it's utility.
 ⬥ `!totem` - Explains the Totem of Treasure and it's utility.
-⬥ `!totem` - Explains triangulation on Elite Clue Scrolls.
+⬥ `!triangulation` - Explains triangulation on Elite Clue Scrolls.
 
 .
 > __**Server Help**__
 .tag:serverhelp
-⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
-⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
 ⬥ `!cc` - Generates an invite link for Clue Chasers.
 ⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
+⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
+⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
 ⬥ `!website` - Links the Clue Chasers website.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
@@ -51,6 +51,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!barge` - Explains Barge ability and it's functionality.
 ⬥ `!escape` - Explains Escape ability and it's functionality.
 ⬥ `!surge` - Explains Surge ability and it's functionality.
+⬥ `!sbs` - Explains Spellbook Swapping and it's utility.
 
 .
 > __**Spreadsheets**__
