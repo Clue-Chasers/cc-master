@@ -1,13 +1,13 @@
 > **__Introduction__**
 .tag:intro
 **__Introduction__**
-This channel contains an explanation of our role system. 
+This channel contains an explanation of our role system.
 
 .
 > **__Explanation __**
 .tag:explanation
-⬥ The system is based on total Treasure Trail points you have accumulated on your account and is fetched from the hiscores. 
-⬥ To simply look up your clue role or how many points you've received so far use  `/lookup rsn` in #bot-commands 
+⬥ The system is based on total Treasure Trail points you have accumulated on your account and is fetched from the hiscores.
+⬥ To simply look up your clue role or how many points you've received so far use  `/lookup rsn` in <#333343575737892864>
 ⬥ To get a clue role assigned to you, set your RSN by using `/setrsn rsnhere`, and then use `/clues` to update your clue info.
 
 .
@@ -32,9 +32,6 @@ This channel contains an explanation of our role system.
 ⬥ <id:customize> <id:browse>
 .
 Enjoy your time in Clue Chasers!
-
-
-
 .
 {
   "embed": {
