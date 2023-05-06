@@ -1,12 +1,11 @@
 {
   "embed": {
-  "thumbnail": {
-  "url": "https://i.imgur.com/lgzVhnK.png"
-},
-    "title": "__Globetrotter Outfit Order__",
-    "description": "⬥ Hards (insert emotes)\n⬥ Elites (insert emotes)",
-    "color": 3426654,
- 		"fields": []
+  "url": "https://runescape.wiki/w/Globetrotter_outfit",
+  "title": "__Globetrotter Outfit Order__ <:tt_points:1051567584237064233>",
+  "description": "⬥ Hard Clue Order <:Hard:633728361918758930>\n⬥ Elite Clue Order <:Elite:633732493228638209>",
+  "color": 34879,
+  "fields": []
   }
 }
 .embed:json
+
