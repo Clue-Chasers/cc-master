@@ -1,0 +1,10 @@
+{
+  "embed": {
+    "title": "__Clue Chasers Hall of Fame__",
+		"url":"https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
+    "description": "⬥ The new Clue Chasers Hall of Fame is here! The hall of fame will now live in this google sheet. (credit to <@139154903623794688> for making it)",
+    "color": 34879,
+    "fields": []
+  }
+}
+.embed:json
