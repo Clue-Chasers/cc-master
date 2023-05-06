@@ -2,7 +2,7 @@
   "embed": {
   "url": "https://runescape.wiki/w/Globetrotter_outfit",
   "title": "__Globetrotter Outfit Order__ <:tt_points:1051567584237064233>",
-  "description": "__Hard Clue Order__ <:Hard:633728361918758930>\n ⬥ Backpack > jacket > gloves > legs > boots\n __Elite Clue Order__ <:Elite:633732493228638209>\n ⬥ Jacket > backpack > gloves > legs > boots\n __Elite Clue Order__ <:tt_points:1051567584237064233>\n⬥ For a detailed explanation visit <#1024461576314568784>",
+  "description": "__Hard Clue Order__ <:Hard:633728361918758930>\n ⬥ Backpack > jacket > gloves > legs > boots\n __Elite Clue Order__ <:Elite:633732493228638209>\n ⬥ Jacket > backpack > gloves > legs > boots\n __Link to infohub post__\n <#1024461576314568784>",
   "color": 34879,
   "fields": []
   }
