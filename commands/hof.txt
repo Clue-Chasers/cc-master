@@ -1,7 +1,7 @@
 {
   "embed": {
   "thumbnail": {
-  "url": "https://i.imgur.com/YwbCgj3.png"
+  "url": "https://i.imgur.com/94Q5mBV.jpg"
 },
     "title": "__Clue Chasers Hall of Fame__",		"url":"https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
 "description": "⬥ The new Clue Chasers Hall of Fame is here!\n⬥ The hall of fame will now live in this google sheet.\n⬥ Credit to <@139154903623794688> for creating the sheet.",
