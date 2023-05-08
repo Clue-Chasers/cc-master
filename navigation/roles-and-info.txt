@@ -1,14 +1,8 @@
-> **__Introduction__**
-.tag:intro
-**__Introduction__**
-This channel contains an explanation of our role system.
-
-.
-> **__Explanation __**
-.tag:explanation
+> **__Introduction __**
+.tag:introduction
 ⬥ The system is based on total Treasure Trail points you have accumulated on your account and is fetched from the hiscores.
-⬥ To simply look up your clue role or how many points you've received so far use  `/lookup rsn` in <#333343575737892864>
-⬥ To get a clue role assigned to you, set your RSN by using `/setrsn rsnhere`, and then use `/clues` to update your clue info.
+    •  To get a clue role assigned to you, set your RSN by using `/setrsn rsnhere`, and then use `/clues` to update your clue info.
+    •  To simply look up your clue role or how many points you've received so far use  `/lookup rsn` in <#333343575737892864>
 
 .
 > **__Server Roles__**
@@ -27,16 +21,16 @@ This channel contains an explanation of our role system.
 .
 > **__Assignable Roles__**
 .tag:assign
-⬥ We also have roles and channels that you may join or leave whenever you wish by selecting them.
-⬥ To join these roles select them and you'll automatically receive access,  you can opt-out anytime.
-⬥ <id:customize> <id:browse>
-.
-Enjoy your time in Clue Chasers!
+⬥ We have self assign roles that you may join or leave whenever you wish by selecting or deselecting.
+    • These specific roles are meant for their dedicated pings and you can opt-out anytime at <id:customize>
+
+⬥ There's also the ability to view specific channels by selecting or delecting.
+    • To make it less overwhelming and tailor to a more personalized overview of channels <id:browse>
 .
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Explanation]($linkmsg_explanation$)\n⬥ [Server Roles]($linkmsg_roles$)\n⬥ [Assignable Roles]($linkmsg_assign$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Server Roles]($linkmsg_roles$)\n⬥ [Assignable Roles]($linkmsg_assign$)",
     "color": 15844367
   }
 }
