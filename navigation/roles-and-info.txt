@@ -23,10 +23,10 @@
 .tag:assign
 ⬥ We have self assign roles that you may join or leave whenever you wish by selecting or deselecting.
     • These specific roles are meant for their dedicated pings and you can opt-out anytime at <id:customize>
-
 ⬥ There's also the ability to view specific channels by selecting or delecting.
     • To make it less overwhelming and tailor to a more personalized overview of channels <id:browse>
 .
+
 {
   "embed": {
     "title": "__Table of Contents__",
