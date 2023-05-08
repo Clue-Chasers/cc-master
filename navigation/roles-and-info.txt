@@ -1,5 +1,5 @@
 > **__Introduction __**
-.tag:introduction
+.tag:intro
 ⬥ The system is based on total Treasure Trail points you have accumulated on your account and is fetched from the hiscores.
     •  To get a clue role assigned to you, set your RSN by using `/setrsn rsnhere`, and then use `/clues` to update your clue info.
     •  To simply look up your clue role or how many points you've received so far use  `/lookup rsn` in <#333343575737892864>
