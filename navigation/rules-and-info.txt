@@ -53,7 +53,7 @@
       },
       {
         "name": "__Rule 12__",
-        "value": "The rules are not exhaustive or set in stone. The moderation team is obligated to go discuss appropriate moderation actions with other eachother.\n Moderation decisions are made by the whole team to combat unfair treatment or potential bias.\n\n The moderation team reserves the right to take quick action when deemed necessary, these will be discussed afterwards for transparency."
+        "value": "The rules are not exhaustive or set in stone. The moderation team is obligated to go discuss appropriate moderation actions with eachother.\n Moderation decisions are made by the whole team to combat unfair treatment or potential bias.\n\n The moderation team reserves the right to take quick action when deemed necessary, these will be discussed afterwards for transparency."
       }
     ]
   }
