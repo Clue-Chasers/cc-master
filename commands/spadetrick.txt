@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Spade Trick__ <:spade:399548896667238400>",
-    "description": "⬥ Quickly closes interface vs pressing escape.\n⬥ Saves time incase of a b2b step.\n⬥ Pressing spade > using escape incase of accidental teleporting realizing it was b2b.\n⬥ Stop your character from moving when using a spell on an object that's out of range.",
+    "description": "⬥ Quickly closes interface vs pressing escape.\n⬥ Saves time incase of a b2b step.\n⬥ Spade > Escape, incase of accidental teleporting realizing it was b2b.\n⬥ Stops character from moving when using a spell on an object that's out of range.",
     "color": 34879,
     "fields": []
   }
