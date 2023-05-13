@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Gold received per casket__ <:Coins:1102726964185407570>",
-    "description": "⬥ $data_cc:CasketValue!B11$ - Easy Casket <:Easycasket:690874669091258389>\n⬥ $data_cc:CasketValue!C11$ - Medium Casket <:Mediumcasket:690876380698902568> \n⬥ $data_cc:CasketValue!D11$ - Hard Casket <:hardcasket:690876517877809152> \n⬥ $data_cc:CasketValue!D12$ - Hard Casket (skips) <:hardcasket:690876517877809152>\n⬥ $data_cc:CasketValue!E11$ - Elite Casket <:Elitecasket:690876744382545950> \n⬥ $data_cc:CasketValue!E12$ - Elite Casket (skips) <:Elitecasket:690876744382545950> \n⬥ $data_cc:CasketValue!F11$ - Master Casket <:Mastercasket:690876868814962740>\n⬥ $data_cc:CasketValue!F12$ - Master Casket (skips) <:Mastercasket:690876868814962740>",
+    "description": " <:Easycasket:690874669091258389> ⬥ $data_cc:CasketValue!B11$\n <:Mediumcasket:690876380698902568> ⬥ $data_cc:CasketValue!C11$\n <:hardcasket:690876517877809152> ⬥ $data_cc:CasketValue!D11$ without skips\n <:hardcasket:690876517877809152> ⬥ $data_cc:CasketValue!D12$ with skips\n <:Elitecasket:690876744382545950> ⬥ $data_cc:CasketValue!E11$ with skips\n <:Elitecasket:690876744382545950> ⬥ $data_cc:CasketValue!E12$ without skips\n <:Mastercasket:690876868814962740> ⬥ $data_cc:CasketValue!F11$ without skips\n <:Mastercasket:690876868814962740> ⬥ $data_cc:CasketValue!F12$ with skips",
     "color": 34879,
     "fields": []
   }
