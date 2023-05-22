@@ -8,8 +8,9 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .tag:infohub
 ⬥ `!alt1` - Explains the program called ALT1Toolkit and it's utility for Clue Scrolls.
 ⬥ `!bik` - Explains the Scripture of Bik.
-⬥ `!clue` - Explains what a Clue Scroll is.
 ⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
+⬥ `!compass` - Links a youtube tutorial on how to use alt1 for arrow clues.
+⬥ `!clue` - Explains what a Clue Scroll is.
 ⬥ `!facet` - Explains the Dark Facet of Luck.
 ⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
 ⬥ `!meerkat` - Explains the utility of using the Meerkats familiar.
