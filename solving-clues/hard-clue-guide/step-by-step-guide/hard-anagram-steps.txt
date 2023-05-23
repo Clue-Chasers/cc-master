@@ -1,17 +1,37 @@
 **__Hard Clue Anagram Steps__**
 (Courtesy of <@139154903623794688> and <@145884917627224065>)
 .tag:intro
-.img:https://i.imgur.com/cPcIflG.png
+.img:https://img.pvme.io/images/0Z0DjRWLJQ.png
 .
 > __**Introduction**__
 .
 *Note: a **Table of Contents** can be found in the pinned messages for this channel. This will have links to each step.*
 
-This will tell you how to do all anagram steps step by step.
+This will tell you how to do all anagram steps step by step. It assumes you are **not using** <:puzzleboxskip:1107037250199506944>
 
-It is recommended to look at the Hard Clue information and preset section before reading this!
+It is not recommended to use jacket charges on any of these steps.
+
+It is recommended to look at the <#1023179363660861531> and <#1092142938148057218> before reading this!
 .
-> __**Steps**__
+.tag:sheet
+.
+{
+  "embed": {
+    "title": "",
+    "color": 3943,
+    "fields": [
+      {
+        "name": "__Sully's Hard Clue Spreadsheet__",
+        "value": "⬥ This guide is based on information compiled by <@139154903623794688> in his [step-by-step hard clue guide](https://docs.google.com/spreadsheets/d/1KLE216RvVQOhOz1ItTY7KPSxZQPN0ybXuQvmUDf3J2M/edit#gid=147294503)\n⬥ The sheet is currently ***outdated***.",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+> __**Always do**__
+These are the steps that you should always complete.
 .tag:zen
 {
   "embed": {
@@ -42,36 +62,6 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
-.tag:antonic
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__An Paint Tonic__",
-        "value": "⬥ Time to do: 10.2s and your own puzzle time\n⬥ Method: [Teleport to House (Taverly)](https://youtu.be/GaOJ_N-yYjs)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.tag:crust
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Arr! So I am a crust, and?__",
-        "value": "⬥ Time to do: 20.4s and your own puzzle time\n⬥ Method: [Fairy Ring (AKQ)](https://youtu.be/kBUFbHn4UsQ)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
 .tag:look
 {
   "embed": {
@@ -96,6 +86,70 @@ It is recommended to look at the Hard Clue information and preset section before
       {
         "name": "__C On Game Hoc__",
         "value": "⬥ Time to do: 21s\n⬥ Method: [Lodestone (Eagles' Peak)](https://youtu.be/soomP8sHtmA)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:doomd
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Land Doomd__",
+        "value": "⬥ Time to do: 5.4s and your own puzzle time\n⬥ Method: [Skeletal Horror Teleport](https://youtu.be/xVj26_d5Vgc)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:zany
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__O Birdz A Zany En Pc__",
+        "value": "⬥ Time to do: 13.8s\n⬥ Method: [Spirit Tree (Brimhaven)](https://youtu.be/9_YP_ixRtBo)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:sequin
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Sequin Dirge__",
+        "value": "⬥ Time to do: 4.2s and your own puzzle time\n⬥ Method: [Ring of Wealth+ (Miscellania)](https://youtu.be/xUBVPqjtf_E)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+> __**Maybe backpack**__
+Backpack these steps if you have 3 or more charges.
+.
+.tag:antonic
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__An Paint Tonic__",
+        "value": "⬥ Time to do: 10.2s and your own puzzle time\n⬥ Method: [Teleport to House (Taverly)](https://youtu.be/GaOJ_N-yYjs)",
         "inline": true
       }
     ]
@@ -147,51 +201,6 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
-.tag:faffy
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__I Faffy Run__",
-        "value": "⬥ Time to do: 12 and your own puzzle time\n⬥ Method: [Fairy Ring (Zanaris)](https://youtu.be/8ZeSkhfH-kI)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.tag:doomd
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Land Doomd__",
-        "value": "⬥ Time to do: 5.4s and your own puzzle time\n⬥ Method: [Skeletal Horror Teleport](https://youtu.be/xVj26_d5Vgc)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.tag:zany
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__O Birdz A Zany En Pc__",
-        "value": "⬥ Time to do: 13.8s\n⬥ Method: [Spirit Tree (Brimhaven)](https://youtu.be/9_YP_ixRtBo)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
 .tag:fumes
 {
   "embed": {
@@ -222,6 +231,39 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
+> __**Always backpack**__
+Always backpack these steps.
+.
+.tag:crust
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Arr! So I am a crust, and?__",
+        "value": "⬥ Time to do: 20.4s and your own puzzle time\n⬥ Method: [Fairy Ring (AKQ)](https://youtu.be/kBUFbHn4UsQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:faffy
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__I Faffy Run__",
+        "value": "⬥ Time to do: 12 and your own puzzle time\n⬥ Method: [Fairy Ring (Zanaris)](https://youtu.be/8ZeSkhfH-kI)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .tag:red
 {
   "embed": {
@@ -237,42 +279,32 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
-.tag:sequin
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Sequin Dirge__",
-        "value": "⬥ Time to do: 4.2s and your own puzzle time\n⬥ Method: [Ring of Wealth+ (Miscellania)](https://youtu.be/xUBVPqjtf_E)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.tag:sheet
-{
-  "embed": {
-    "title": "",
-    "color": 3943,
-    "fields": [
-      {
-        "name": "__Sully's Hard Sheet__",
-        "value": "⬥ This [sheet](https://docs.google.com/spreadsheets/d/1KLE216RvVQOhOz1ItTY7KPSxZQPN0ybXuQvmUDf3J2M/edit#gid=147294503) is ***outdated*** but it is where we got the information",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [A Zen She]($linkmsg_zen$)\n⬥ [Ace Match Elm]($linkmsg_ace$)\n⬥ [An Paint Tonic]($linkmsg_antonic$)\n⬥ [Arr! So I Am a crust, and?]($linkmsg_crust$)\n⬥ [By Look]($linkmsg_look$)\n⬥ [C On Game Hoc]($linkmsg_cgame$)\n⬥ [Gulag Run]($linkmsg_gulag$)\n⬥ [He Do Post. It Is Cultrrl, Mk?]($linkmsg_post$)\n⬥ [I Eat Its Chart Hints Do U]($linkmsg_eat$)\n⬥ [I Faffy Run]($linkmsg_faffy$)\n⬥ [Land Doomd]($linkmsg_doomd$)\n⬥ [O Birdz A Zany en Pc]($linkmsg_zany$)\n⬥ [Or Zinc Fumes Ward]($linkmsg_fumes$)\n⬥ [Profs Lose Wrong Pie]($linkmsg_profs$)\n⬥ [Red Art Tans]($linkmsg_red$)\n⬥ [Sequin Dirge]($linkmsg_sequin$)\n⬥ [Sullys Sheet]($linkmsg_sheet$)",
-    "color": 1300
+    "color": 1300,
+    "fields": [
+     {
+        "name": "__Overview__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Sullys Sheet]($linkmsg_sheet$)",
+        "inline": true
+      },
+      {
+        "name": "__Always do__",
+        "value": "⬥ [A Zen She]($linkmsg_zen$)\n⬥ [Ace Match Elm]($linkmsg_ace$)\n⬥ [By Look]($linkmsg_look$)\n⬥ [C On Game Hoc]($linkmsg_cgame$)\n⬥ [Land Doomd]($linkmsg_doomd$)\n⬥ [O Birdz A Zany en Pc]($linkmsg_zany$)\n⬥ [Sequin Dirge]($linkmsg_sequin$)",
+        "inline": true
+      },
+      {
+        "name": "__Maybe backpack__",
+        "value": "⬥ [An Paint Tonic]($linkmsg_antonic$)\n⬥ [Gulag Run]($linkmsg_gulag$)\n⬥ [He Do Post. It Is Cultrrl, Mk?]($linkmsg_post$)\n⬥ [I Eat Its Chart Hints Do U]($linkmsg_eat$)\n⬥ [Or Zinc Fumes Ward]($linkmsg_fumes$)\n⬥ [Profs Lose Wrong Pie]($linkmsg_profs$)",
+        "inline": true
+      },
+      {
+        "name": "__Always backpack__",
+        "value": "⬥ [Arr! So I Am a crust, and?]($linkmsg_crust$)\n⬥ [I Faffy Run]($linkmsg_faffy$)\n⬥ [Red Art Tans]($linkmsg_red$)",
+        "inline": true
+      }
+    ]
   }
 }
 .embed:json
