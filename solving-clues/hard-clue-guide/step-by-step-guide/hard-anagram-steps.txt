@@ -1,7 +1,7 @@
 **__Hard Clue Anagram Steps__**
 (Courtesy of <@139154903623794688> and <@145884917627224065>)
 .tag:intro
-.img:https://i.imgur.com/cPcIflG.png
+.img:https://img.pvme.io/images/0Z0DjRWLJQ.png
 .
 > __**Introduction**__
 .
@@ -9,8 +9,22 @@
 
 This will tell you how to do all anagram steps step by step.
 
-It is recommended to look at the Hard Clue information and preset section before reading this!
-.
+It is recommended to look at the <#1023179363660861531> and <#1092142938148057218> before reading this!
+.tag:sheet
+{
+  "embed": {
+    "title": "",
+    "color": 3943,
+    "fields": [
+      {
+        "name": "__Sully's Hard Clue Spreadsheet__",
+        "value": "⬥ This guide is based on information compiled by <@139154903623794688> in his [step-by-step hard clue guide](https://docs.google.com/spreadsheets/d/1KLE216RvVQOhOz1ItTY7KPSxZQPN0ybXuQvmUDf3J2M/edit#gid=147294503)\n⬥ The sheet is currently ***outdated***.\n⬥ This page will be updated when new methods are found whilst the sheet may not be.",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 > __**Steps**__
 .tag:zen
 {
@@ -252,22 +266,6 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
-.tag:sheet
-{
-  "embed": {
-    "title": "",
-    "color": 3943,
-    "fields": [
-      {
-        "name": "__Sully's Hard Sheet__",
-        "value": "⬥ This [sheet](https://docs.google.com/spreadsheets/d/1KLE216RvVQOhOz1ItTY7KPSxZQPN0ybXuQvmUDf3J2M/edit#gid=147294503) is ***outdated*** but it is where we got the information",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.
 {
   "embed": {
     "title": "__Table of Contents__",
