@@ -1,7 +1,7 @@
 {
   "embed": {
-    "title": "__Placeholder__",
-    "description": "⬥ placeholder\n⬥ placeholder",
+    "title": "__Meerkats, what do they do?__",
+    "description": "Meerkats are Summoning familiars used in Treasure Trails.\nThey provide several benefits for solving clues.\n\n⬥ Complete coordinate clue scrolls without triggering attacks from wizards.\n⬥ Increases scan clues range by 5 squares.\n⬥ Provide sextant coordinates.\n⬥ Dig at the summoner's location.\n\n*For more information visit the RuneScape Wiki* *<https://runescape.wiki/w/Meerkats>*",
     "color": 34879,
     "fields": []
   }
