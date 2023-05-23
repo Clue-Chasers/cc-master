@@ -44,7 +44,6 @@ It is recommended to look at the Hard Clue information and preset section before
   }
 }
 .embed:json
-.
 .tag:antonic
 {
   "embed": {
