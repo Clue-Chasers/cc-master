@@ -5,7 +5,7 @@
       "fields":[
          {
             "name": "__Use the Grand Exchange or RuneScape Marketplace__",
-            "value":"⬥ Trading in our server is not allowed.\n\u00a0\u00a0• We advise you to read rule 4 in <#440211606539075584>\n\n⬥ For all your trading needs refer to the official RuneScape Marketplace.\n\u00a0\u00a0• You can find the marketplace here: <#1093228904807923792>\n\n*You have to join the RuneScape discord and need the bronze activity role.*"
+            "value":"⬥ Trading in our server is not allowed.\n\u00a0\u00a0• We advise you to read rule 4 in <#440211606539075584>\n⬥ For all your trading needs refer to the official RuneScape Marketplace.\n\u00a0\u00a0• You can find the marketplace here: <#1093228904807923792>\n\n*You have to join the RuneScape discord and need the bronze activity role.*"
          }
       ]
    }
