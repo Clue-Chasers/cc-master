@@ -1,9 +1,8 @@
 {
   "embed": {
-    "title": "__Placeholder__",
-    "description": "⬥ placeholder\n⬥ placeholder",
-    "color": 34879,
-    "fields": []
+    "title": "__Clue Help__",
+    "description": "If you need advice, ask in <#400499160094212097> or <#1100780489700294746> ",
+    "color": 34879
   }
 }
 .embed:json
