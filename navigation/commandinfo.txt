@@ -10,6 +10,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!bik` - Explains the Scripture of Bik.
 ⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
 ⬥ `!compass` - Links a youtube tutorial on how to use alt1 for arrow clues.
+⬥ `!commands` - Links the channel on where to check out commands and where to use them.
 ⬥ `!clue` - Explains what a Clue Scroll is.
 ⬥ `!facet` - Explains the Dark Facet of Luck.
 ⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
