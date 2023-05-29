@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Fortunates__ <:fortunatecomp:583435543845797891>",
-    "description": "Fortunate components are rare materials used in the Invention.\nThey can be used for various alchemical items relating to clues.\n\n⬥ For a list of all fortunate components [click here](https://runescape.wiki/w/Category:Items_that_disassemble_into_Fortunate_components)\n⬥ For a list fortunate component rates of clues [click here](https://discord.com/channels/332595657363685377/1022577507033169980)\n⬥ For a list of material prices including fortunate components [click here](https://runescape.wiki/w/RuneScape:Material_prices#Fortunate_components)\n⬥ Refer to `!alchemicals` for items with necessary ingredients required.",
+    "description": "Fortunate components are rare invention components used to craft [alchemical onyx and hydrixes](https://runescape.wiki/w/Fortunate_components#Products).\n⬥  Items that produce them when disassembled at called [**'forts'**](https://runescape.wiki/w/Category:Items_that_disassemble_into_Fortunate_components)\n⬥ [Fort rates for each clue tier](https://discord.com/channels/332595657363685377/1022577507033169980) <:cluescroll:1037463867716018206>\n⬥ [Fortunate component pricing](https://runescape.wiki/w/RuneScape:Material_prices#Fortunate_components) <:coins:698816156961603654>\n⬥ Use `!alchemicals` for the ingredients of alchemical items <:alchonyx:1109427809140609054>",
 "url": "https://runescape.wiki/w/Fortunate_components",
     "color": 34879,
     "fields": []
