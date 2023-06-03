@@ -3,7 +3,7 @@
     "title": "__Scripture of Bik__ <:scriptureofbik:892342109791735848>",
 		"url":"https://runescape.wiki/w/Scripture_of_Bik",
     "description": "⬥ Bik does work with most skilling and **combat** activities in the game.\n⬥ Ingame tooltip is wrong except when using bonecrusher.\n⬥ The proc only happens on the first roll of the server minute.\n⬥ For a detailed explanation visit <#1022589092262842508>",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
