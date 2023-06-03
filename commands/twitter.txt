@@ -6,7 +6,7 @@
     "title": "Link to Clue Chasers twitter",
     "url": "https://twitter.com/ClueChasersRS",
     "description": "⬥ Clue Chasers has a twitter!\n ⬥ For everything relating to Treasure Trails in RuneScape!",
-    "color": 15844367
+    "color": 12745742,
   }
 }
 .embed:json
