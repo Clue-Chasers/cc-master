@@ -1,7 +1,7 @@
 {
    "embed":{
       "title":"__Clue Chasers is not a Trading Server__",
-      "color":34879,
+      "color":10038562,
       "fields":[
          {
             "name": "__Use the Grand Exchange or RuneScape Marketplace__",
