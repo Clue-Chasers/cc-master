@@ -1,0 +1,26 @@
+{
+  "embed": {
+    "title": "**__Elite Clues__**",
+    "description": "explanation.",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Types of Clues__",
+        "value": "⬥ Compass\n⬥ Scans\n⬥ Puzzle boxes\n⬥ Celtic knots",
+        "inline": true
+      },
+      {
+        "name": "__Karamja Region__",
+        "value": "⬥ <#yes>",
+        "inline": true
+      },
+      {
+        "name": "\u200b",
+        "value": "\u200b",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
