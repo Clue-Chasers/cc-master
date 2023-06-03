@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Helpful Commands__",
     "description": "⬥ For a detailed list of all our commands check out <#1100827900254617630>\n\u00a0\u00a0\u00a0\u00a0• **Use commands in <#333343575737892864>**\n\u00a0\u00a0\u00a0\u00a0• If confused about a command, ask in <#400499160094212097> for more info",
-    "color": 34879
+    "color": 12745742
   }
 }
 .embed:json
