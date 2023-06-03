@@ -3,7 +3,7 @@
     "title": "__Bad Luck Mitigation__ <:peepoSpy:762571392494338068>",
 		"url":"https://runescape.wiki/w/Bad_luck_mitigation",
     "description": "Mechanic that adjust drop rates or event chances.\n Activated after reaching a threshold of unsuccessful attempts.\n Increases likelihood of obtaining rare items or desired events.\n\nBLM does exist for clues but it's quite negligible.\n It's for each clue you don't get a **unique** drop.\n Forts are technically uniques therefor it doesn't do much for you.",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
