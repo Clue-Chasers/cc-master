@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Totem of Treasure__",
     "description": "⬥ Totem decreases the minimum/maximum number of clue steps by one.\n⬥ Want to receive weekly notifications? <id:customize>\n⬥ The activation resets weekly at Wednesday 00:00 UTC.\n\n*For more information visit the RuneScape Wiki* *<https://runescape.wiki/w/Totem_of_Treasure>*",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
