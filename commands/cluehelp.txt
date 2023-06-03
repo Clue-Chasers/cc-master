@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Clue Help__",
     "description": "If you need advice, ask in <#400499160094212097> or <#1100780489700294746> ",
-    "color": 34879
+    "color": 12745742
   }
 }
 .embed:json
