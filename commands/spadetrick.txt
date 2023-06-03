@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Spade Trick__ <:spade:399548896667238400>",
     "description": "⬥ Saves time incase of a b2b step.\n⬥ Quickly closes interface vs pressing escape.\n⬥ Spade > Escape, incase of accidental teleporting realizing it was b2b.\n⬥ Stops character from moving when redclicking on an object out of range.\n⬥ For a detailed explanation visit <#1105535157366181989>",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
