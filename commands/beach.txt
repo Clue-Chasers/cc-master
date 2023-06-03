@@ -3,7 +3,7 @@
     "title": "__The Beach__ 🏖️",
 		"url":"https://runescape.wiki/w/The_Beach",
     "description": "The Beach is an summer event that takes place in the Lumbridge Crater.\nEngage in various activities to unlock cosmetic items, titles, and more.\n\n⬥ [Sandy Clues](https://www.youtube.com/watch?v=uuYWT4O5cCc), obtained from [Reyna](https://i.imgur.com/inU2O0S.png) daily at the Beach Event.\n⬥ [Scripture of Bik](https://i.imgur.com/lp2UcnE.png) works during the skilling activities.",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
