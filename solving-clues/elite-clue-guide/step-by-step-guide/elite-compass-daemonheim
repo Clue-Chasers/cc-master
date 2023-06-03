@@ -1,0 +1,161 @@
+> __**Daemonheim**__
+https://i.imgur.com/h41roHN.jpg
+.tag:spot1
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 1__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot2
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 2__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot3
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 3__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot4
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 4__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot5
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 5__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot6
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 6__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot7
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 7__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot8
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 8__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot9
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 9__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:spot10
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Spot 10__",
+        "value": "⬥ Time to do: haha funny kinship cooldown\n⬥ Method: [Rin of Kinship](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Spot 1]($linkmsg_spot1$)\n⬥ [Spot 2]($linkmsg_spot2$)\n⬥ [Spot 3]($linkmsg_spot3$)\n⬥ [Spot 4]($linkmsg_spot4$)\n⬥ [Spot 5]($linkmsg_spot5$)\n⬥ [Spot 6]($linkmsg_spot6$)\n⬥ [Spot 7]($linkmsg_spot7$)\n⬥ [Spot 8]($linkmsg_spot8$)\n⬥ [Spot 9]($linkmsg_spot9$)\n⬥ [Spot 10]($linkmsg_spot10$)",
+    "color": 12745742
+  }
+}
+.embed:json
+.pin:delete
