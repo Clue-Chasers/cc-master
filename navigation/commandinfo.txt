@@ -26,6 +26,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 > __**Equipment**__
 .tag:equipment
 ⬥ `!gorder` - Lists the priority order and which pieces should be prioritized based on tier.
+⬥ `!meerkat` - Explains Meerkats and their utility.
 
 .
 > __**Collection Log**__
