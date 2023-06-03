@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Placeholder__",
     "description": "⬥ placeholder\n⬥ placeholder",
-    "color": 34879,
+    "color": 12745742,
     "fields": []
   }
 }
