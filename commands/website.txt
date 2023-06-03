@@ -6,7 +6,7 @@
     "title": "Link to Clue Chasers website",
     "url": "https://clue-chasers.github.io",
     "description": "⬥ Clue Chasers has a website!\n ⬥ Motivation can be found on the homepage.",
-    "color": 15844367
+    "color": 12745742,
   }
 }
 .embed:json
