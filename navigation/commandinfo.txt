@@ -1,45 +1,31 @@
-> **__Helpful Commands - WORK IN PROGRESS__**
+**__Helpful Commands__**
 .tag:intro
-**__Introduction__**
-This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain. Feel free to use any of the commands in the <#333343575737892864> channel. 
+> **__Introduction__**
+This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain. Feel free to use any of the commands in the <#333343575737892864> channel. **Keep in mind some of these are still placeholders**.
 
 .
 > __**Information Hub**__
 .tag:infohub
-⬥ `!alt1` - Explains the program called ALT1Toolkit and it's utility for Clue Scrolls.
 ⬥ `!bik` - Explains the Scripture of Bik.
-⬥ `!cannon` - Shows an image of cannon positioning for each clue gathering.
 ⬥ `!compass` - Links a youtube tutorial on how to use alt1 for arrow clues.
 ⬥ `!commands` - Links the channel on where to check out commands and where to use them.
 ⬥ `!clue` - Explains what a Clue Scroll is.
-⬥ `!facet` - Explains the Dark Facet of Luck.
-⬥ `!kph` - Gives you a breakdown of kph for each clue gathering method.
-⬥ `!meerkat` - Explains the utility of using the Meerkats familiar.
-⬥ `!plugins` - Explains different Clue Scroll related plugins for ALT1Toolkit.
-⬥ `!sotg` - Explains Sceptre of The Gods and it's utility.
 ⬥ `!totem` - Explains the Totem of Treasure and it's utility.
-⬥ `!triangulation` - Explains triangulation on Elite Clue Scrolls.
 
 .
 > __**Server Help**__
 .tag:serverhelp
 ⬥ `!cc` - Generates an invite link for Clue Chasers.
 ⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
-⬥ `!nav` - Explains navigation inside the Clue Chasers Discord.
 ⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
 ⬥ `!website` - Links the Clue Chasers website.
 
 .
-> __**Globetrotter Outfit & Gear**__
-.tag:outfit
-⬥ `!gorder` - Lists the priority order and which pieces should be prioritized based on tier. 
-⬥ `!gjacket` - Explains the globetrotter jacket and it's functionality.
-⬥ `!gbackpack` - Explains the globetrotter backpack and it's functionality.
-⬥ `!garms` - Explains the globetrotter arm guards and it's functionality.
-⬥ `!gshorts` - Explains the globetrotter shorts and it's functionality.
-⬥ `!gboots` - Explains the globetrotter boots and it's functionality.
+> __**Equipment**__
+.tag:equipment
+⬥ `!gorder` - Lists the priority order and which pieces should be prioritized based on tier.
 
 .
 > __**Collection Log**__
@@ -50,11 +36,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Abilities/Spells**__
 .tag:spells
-⬥ `!dive` - Explains Dive ability and it's functionality.
-⬥ `!barge` - Explains Barge ability and it's functionality.
-⬥ `!escape` - Explains Escape ability and it's functionality.
-⬥ `!surge` - Explains Surge ability and it's functionality.
-⬥ `!sbs` - Explains Spellbook Swapping and it's utility.
+none
 
 .
 > __**Spreadsheets**__
@@ -74,10 +56,16 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!mostosh` - List players with the most Orlando Smith Hat's on their collection logs.
 
 .
+> __**Miscellaneous**__
+.tag:misc
+⬥ `!beach` - Explains the Beach Event and Sandy Clues.
+⬥ `!shard` - Explains the Golden Cape Event and it's respective Clue Shard.
+
+.
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Globetrotter Outfit/Gear]($linkmsg_outfit$)\n⬥ [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Equipment]($linkmsg_equipment$)\n⬥ [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
     "color": 15844367
   }
 }
