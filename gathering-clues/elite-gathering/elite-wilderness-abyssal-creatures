@@ -41,11 +41,11 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
     "fields": [
       {
         "name": "__Positioning__",
-        "value": "⬥ [Cannon and Standing spots](https://img.pvme.io/images/jnu05zwRvR.png)",
+        "value": "⬥ [Cannon and Standing spots](https://img.pvme.io/images/jnu05zwRvR.png)\n⬥ [Lower Gear Alternative](https://cdn.discordapp.com/attachments/1101214731571822673/1123342621767647272/wildyafkguide.jpg)",
         "inline": true
       },
       {
-        "name": "Preset",
+        "name": "__Preset__",
         "value": "⬥ [Preset and Breakdown](https://pvme.github.io/preset-maker/#/AhI9qkqPlYQ3r4kB28x1)",
         "inline": true
       }
