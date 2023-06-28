@@ -22,7 +22,7 @@ Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735
 <#1123335749044031518> (12.3/h) + Bik <:scriptureofbik:892342109791735848>
 <#1024158967754129499> (11/h) + Bik <:scriptureofbik:892342109791735848>
 <#1024159311913566258> (6/h) + Bik <:scriptureofbik:892342109791735848> - This guide is targeted at bypassing the clue cap
-<#1024159486644072468> (1/h) + Bik :<:scriptureofbik:892342109791735848> - This guide is targeted at bypassing the clue cap
+<#1024159486644072468> (1/h) + Bik <:scriptureofbik:892342109791735848> - This guide is targeted at bypassing the clue cap
 
 **Master Clues <:Master:1019920500807450666>**
 For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
