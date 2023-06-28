@@ -1,0 +1,7 @@
+The Information Hub is designed to centralize and organize information through four channels and their corresponding forums: <#1120257028762378310> <#1023016130077532300> ⁠<#1023016354145648741> ⁠<#1023016455429685389>
+
+These channels serve as navigation pages to access the available forums. Instead of manually searching through the forums, it is recommended to use these index pages to find the specific forum post you are looking for.
+
+For instance, if you are seeking the solving preset for hard clues, you would navigate to the ⁠<#1023016354145648741> channel. Within this channel, you can select a link that will automatically open the forum post containing the desired information. At the end of each forum post, there is also a returning link back to each index page.
+
+Although it may require some adjustment, this system ensures that the server maintains centralized, up-to-date, and well-maintained information for easy access.
