@@ -1,7 +1,7 @@
 **__Scan Trainer__** *(courtesy of <@338283681120780288>)*
 .tag:start
 To get started quickly, jump into Scan Trainer by visiting https://leridon.github.io/cluetrainer-live/
-.img:https://i.imgur.com/PSXLbng.png
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383866828881920/PSXLbng.png
 
 .tag:intro
 __**Introduction**__
@@ -22,12 +22,12 @@ Open `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json` i
 
 **⬥ Can it automatically read clues like the clue solver?**
 Yes! If you have Scan Trainer added to Alt1, enable auto reading by activating the lock button right next to the search field.
-.img:https://i.imgur.com/xLqX7qt.png
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383891638206648/xLqX7qt.png
 
 .
 **⬥ What do I do after going to step C? Why are there no more instructions?**
 Have you tried clicking the buttons that say "Single", "Double", etc.? You need to tell the tool what kind of pulse you observe to advance the instructions to the next step, since it can't automatically read it from the game (yet?).
-.img:https://i.imgur.com/nUH7ody.png
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383929516970044/nUH7ody.png
 
 .
 You can also click the underlined links to advance up to two steps at once if you prefer.
