@@ -21,7 +21,7 @@
       },
       {
         "name": "__Rule 4__",
-        "value": "Conducting any form of player-to-player trading is strictly prohibted.\nUse the official RuneScape discord marketplace. <#1093228904807923792>.\n\nIf you are approached in your DMs, please create a ticket in ⁠<#1074856081160929290> as soon as possible. Trading offers in DMs to our members is seen as trying to circumvent this rule and will get you a permanent ban."
+        "value": "Conducting any form of player-to-player trading is strictly prohibted.\nUse the official RuneScape discord marketplace. <#1093228904807923792>.\n\nIf you are approached in your DMs, please create a ticket in ⁠<#1074856081160929290> as soon as possible. Trading offers in DMs to our members is seen as trying to circumvent this rule."
       },
       {
         "name": "__Rule 5__",
@@ -33,7 +33,7 @@
       },
       {
         "name": "__Rule 7__",
-        "value": "Advertising services or servers is not allowed, except for affiliated communities in the affiliates channel. You can advertise RuneScape-related socials or channel in <#332967448955453460>."
+        "value": "Advertising services or servers is not allowed, except for affiliated communities in the affiliates channel. You can advertise RuneScape-related socials in <#332967448955453460>."
       },
       {
         "name": "__Rule 8__",
@@ -65,11 +65,11 @@
     "color": 15844367,
     "fields": [
       {
-        "name": "__Moderators__ <:moderator:1103428369170829402>",
+        "name": "__Staff__ <:staff:1103428369170829402>",
         "value": "⬥ <@201330385013964809>\n⬥ <@161545097597550593>\n⬥ <@420315520449904640>\n⬥ <@211049089050214400>\n⬥ <@195276355779166208>\n⬥ <@122408407482236929>\n⬥ <@452981524615135253>\n⬥ <@139154903623794688>\n⬥ <@162126141673439232>\n⬥ <@332549285923127304>"
       },
       {
-        "name": "__Helpers__ <:helper:1103428364687130675>",
+        "name": "__Moderators__ <:mod:1103428364687130675>",
         "value": "⬥ <@233750320591798272>\n⬥ <@133223432086093824>\n⬥ <@567480542950588437>\n⬥ <@127512892319858689>\n⬥ <@322895146637328385>"
        }
     ]
