@@ -1,4 +1,4 @@
-**__Scan Trainer__** (courtesy of <@338283681120780288>)
+**__Scan Trainer__** *(courtesy of <@338283681120780288>)*
 .tag:start
 To get started quickly, jump into Scan Trainer by visiting https://leridon.github.io/cluetrainer-live/
 .img:https://i.imgur.com/PSXLbng.png
