@@ -273,7 +273,7 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • <:crafting:1039864810239705119> Crafting
     • <:dungeoneering:1003947795541143632> Dungeoneering
     • <:masterquestcape:1091050888828813412> Master Quest Cape / Quest Cape
-        - <:cooking:1011705729192820747> Cooking Cape on Anachronia Stand
+    • <:cooking:1011705729192820747> Cooking Cape on Anachronia Stand
 
 ⬥ <:archaeology:941211288665739274> Archaeology Relics
     • <:persistentrage:739965637056659567> Persistent Rage
