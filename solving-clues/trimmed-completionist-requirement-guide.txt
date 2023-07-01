@@ -306,7 +306,7 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     "fields": [
       {
         "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($fastest$)\n⬥ [Globetrotter Order]($gorder$)\n⬥ [Preset Maker]($presetmaker$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Preset Maker]($linkmsg_presetmaker$)",
         "inline": true
       },
       {
