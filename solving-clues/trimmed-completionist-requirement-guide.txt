@@ -1,8 +1,7 @@
-**Trimmed Completionist Cape Requirement Guide** *(courtesy of <@332549285923127304>)*
-
+## **Trimmed Completionist Cape Requirement Guide**
 .
 > **__Introduction__**
-.
+.tag:intro
 This following is a guide to be used in conjunction with <@420315520449904640> <#1120257028762378310> for those looking to earn the full Globetrotter outfit but are more advanced in terms of their account. This will also include some extra cost over a Beginner preset, but not the maximum cost (e.g. 1 Passage of the Abyss is used instead of 2) and will assume you have all quests and all achievement diaries complete.
 If you opt to use 2 Passage of the Abyss then follow this guide <#1022566907645263892> for your teleports⁠.
 This particular resource is meant to show you the semi-advanced presets for Hards, Elites and Masters.
@@ -21,7 +20,7 @@ In order to efficiently farm Treasure Trail points for full Globetrotter <:globe
 <https://runescape.wiki/w/Calculator:Other/Treasure_Trails_reward_points>
 
 > **__Why/why not a certain Clue tier?__**
-.
+.tag:tiers
 ⬥ <:easyclue:1123586950989885510> Easy clue scrolls offer very little Treasure Trail points and are not worth doing to obtain the outfit.
 
 ⬥ <:mediumclue:1123586948905324637> Medium clue scrolls require the Way of the Foot Shaped Key reward to be efficient and this is not worth purchasing prior to the outfit.
@@ -31,27 +30,29 @@ In order to efficiently farm Treasure Trail points for full Globetrotter <:globe
 
 
 > **__Which is the fastest method?__**
-.
+.tag:fastest
 This entirely depends on how fast you solve each tier of clue.
 You can use this sheet to find out the points per hour for each tier based on your own solve speed: <#1089570205216288889>
 *Note: Master drop rate (after re-rolls) from Hards is 1/11.25 and from Elites it's 1/3.75. So even if Hards may seem better points per hour vs Elites, take the amount of Masters you get into account as well.*
 
 .
 > **__Globetrotter Purchase Order__**
+.tag:gorder
 <#1024461576314568784>
-
 .
-> **__Gathering Hard and Elite Clues__**
-<#1023016130077532300>
-
-.
-**__Preset Precursor__**
+**__Preset Maker__**
+.tag:presetmaker
 If you want to generate your own presets based on what you have unlocked in the game, then try out <@145884917627224065>'s preset maker here: ⁠<#1084955288437784666>
 *Please note that this tool is still in beta and still needs more feedback.*
 
 .
-> **__Hard Clues__**
+> **__Gathering Hard and Elite Clues__**
+.tag:gathering
+<#1023016130077532300>
+
 .
+> **__Hard Clues__**
+.tag:hards
 {
   "embed": {
     "title": "",
@@ -73,13 +74,13 @@ If you want to generate your own presets based on what you have unlocked in the 
     • If low adrenaline: <:cane:535532878969438210> → <:deci:535532879325822986> → <:sever:535532879577612298>
 .
 *__Notes__*
+.tag:equipmentnotes
 ⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.
 ⬥ Be on Lunars Spellbook <:sbslunars:565726489467682816>.
     • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.
 ⬥ For Melee Weapons:
     • <:lengmh:883134308146098227> Dark Shard of Leng → <:abyssalscourge:947871842469834832> Abyssal Scourge → <:drygorelongmh:513190158900658180> Drygore
     • <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver
-
 .
 {
   "embed": {
@@ -159,7 +160,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 
 .
 > **__Elite Clues__**
-.
+.tag:elites
 {
   "embed": {
     "title": "",
@@ -176,7 +177,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 .embed:json
 
 .
-__*Notes*__
+__*Preset Notes Elites*__
 ⬥ Be on Lunars <:sbslunars:565726489467682816>
     • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports
 ⬥ Have your player owned house located at Menaphos <:menaphoslode:1032552289589796904>
@@ -225,7 +226,7 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • D L Q (Kharidian Desert: North of Nardah)
 .
 > **__Master Clues__**
-.
+.tag:masters
 {
   "embed": {
     "title": "",
@@ -251,7 +252,7 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • If <:chaosroar:994644356671737966> + <:assault:535532855191928842> on cooldown:
         - (tc) + <:gbarge:535532879250456578> → <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>
 .
-*__Notes__*
+*__Preset Notes Masters__*
 ⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.
 ⬥ For Melee Weapons:
     • <:abyssalscourge:947871842469834832> Abyssal Scourge → <:lengmh:883134308146098227> Dark Shard of Leng → <:drygorelongmh:513190158900658180> Drygore
@@ -291,11 +292,34 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • <:combatbracelet:1124762419907014776> Combat Bracelet
     • <:skillsnecklace:1124762417969254541> Skills Necklace
     • <:ringofslaying:1124783943426789538> Ring of Slaying
-
 .
 > **__Shoutouts__**
-Our affiliates in AHelp for some guidance on Trim hunter preferences and reasonable requirements.
-<@145884917627224065> for entire reformatting and rewriting of the guide.
-<@145884917627224065> and <@161169420444631040> for Master equipment and rotation help.
-<@102870112314335232>, <@223750822671024128>, <@229107484852224000> and <@506154935822450704> for the PvME preset maker used to make the presets.
-All the Server Staff and Moderator that gave advice during the creation.
+.tag:shoutouts
+**A special thank you to the following people;**
+    •	<@332549285923127304> for taking the lead on this project.
+    • Achievement Help for guidance on preferences and reasonable requirements.
+    • <@145884917627224065> for reformatting the entirety of the guide.
+    • <@145884917627224065> and <@161169420444631040> for the master preset and rotation.
+    • <@102870112314335232>, <@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
+    • Server Staff feedback during throughout the creation.
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Introduction__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($gorder$)\n⬥ [Globetrotter Order]($gorder$)\n⬥ [Preset Maker]($presetmaker$)",
+        "inline": true
+      },
+      {
+        "name": "__Presets & Courtesy__",
+        "value": "⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_harsd$)\n⬥ [Elite Preset]($linkmsg_elite$)\n⬥ [Master Preset]($linkmsg_masters$)\n⬥ [Shoutouts]($linkmsg_shoutouts$)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
