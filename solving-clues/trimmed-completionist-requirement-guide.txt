@@ -34,14 +34,14 @@ In order to efficiently farm Treasure Trail points for full Globetrotter <:globe
 This entirely depends on how fast you solve each tier of clue.
 You can use this sheet to find out the points per hour for each tier based on your own solve speed: <#1089570205216288889>
 *Note: Master drop rate (after re-rolls) from Hards is 1/11.25 and from Elites it's 1/3.75. So even if Hards may seem better points per hour vs Elites, take the amount of Masters you get into account as well.*
-
 .
+
 > **__Globetrotter Purchase Order__**
 .tag:gorder
 <#1024461576314568784>
 .
 
-**__Preset Maker__**
+> **__Preset Maker__**
 .tag:presetmaker
 If you want to generate your own presets based on what you have unlocked in the game, then try out <@145884917627224065>'s preset maker here: ⁠<#1084955288437784666>
 *Please note that this tool is still in beta and still needs more feedback.*
@@ -50,8 +50,8 @@ If you want to generate your own presets based on what you have unlocked in the 
 > **__Gathering Hard and Elite Clues__**
 .tag:gathering
 <#1023016130077532300>
-
 .
+
 > **__Hard Clues__**
 .tag:hards
 {
