@@ -1,4 +1,4 @@
-## **Trimmed Completionist Cape Requirement Guide**
+**Trimmed Completionist Cape Requirement Guide** *(Courtesy of <@332549285923127304>)
 .
 > **__Introduction__**
 .tag:intro
@@ -292,26 +292,20 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
 > **__Shoutouts__**
 .tag:shoutouts
 **A special thank you to the following people;**
-    •	<@332549285923127304> for taking the lead on this project.
-    • Achievement Help for guidance on preferences and reasonable requirements.
-    • <@145884917627224065> for reformatting the entirety of the guide.
-    • <@145884917627224065> and <@161169420444631040> for the master preset and rotation.
-    • <@102870112314335232>, <@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
-    • Server Staff feedback during throughout the creation.
+Achievement Help for guidance on preferences and reasonable requirements.
+<@145884917627224065> for reformatting the entirety of the guide.
+<@145884917627224065> and <@161169420444631040> for the master preset and rotation.
+<@102870112314335232>, <@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
+Server Staff feedback during throughout the creation.
 .
 {
   "embed": {
-    "title": "__Table of Contents__",
+    "title": "",
     "color": 39423,
     "fields": [
       {
-        "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Preset Maker]($linkmsg_presetmaker$)",
-        "inline": true
-      },
-      {
-        "name": "__Presets & Courtesy__",
-        "value": "⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_hards$)\n⬥ [Elite Preset]($linkmsg_elites$)\n⬥ [Master Preset]($linkmsg_masters$)\n⬥ [Shoutouts]($linkmsg_shoutouts$)",
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Preset Maker]($linkmsg_presetmaker$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_hards$)\n⬥ [Elite Preset]($linkmsg_elites$)\n⬥ [Master Preset]($linkmsg_masters$)",
         "inline": true
       }
     ]
