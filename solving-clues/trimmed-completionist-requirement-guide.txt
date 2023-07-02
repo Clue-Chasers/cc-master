@@ -76,7 +76,7 @@ If you want to generate your own presets based on what you have unlocked in the 
     • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.
 ⬥ For Melee Weapons:
     • <:lengmh:883134308146098227> Dark Shard of Leng → <:abyssalscourge:947871842469834832> Abyssal Scourge → <:drygorelongmh:513190158900658180> Drygore
-    • <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver
+        ⬩ <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver
 .
 {
   "embed": {
@@ -145,14 +145,22 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
     • <:gamesnecklace:1124762416597700618> Games Necklace
 
 ⬥ <:portablefairyring:1084799722780360704> Fairy Ring Favourites
-    • A K Q (Kandarin: Piscatoris Hunter area)
-    • A L Q (Morytania: Haunted Woods east of Canifis)
-    • B K R (Morytania: Mort Myre, south of Canifis)
-    • C J S (Karamja: Kharazi Jungle)
-    • C K R (Karamja: South of Tai Bwo Wannai Village)
-    • C K S (Morytania: Canifis)
-    • D J P (Kandarin: Tower of Life)
-    • D K S (Kandarin: Snowy Hunter area)
+    • A K Q
+        ⬩ (Kandarin: Piscatoris Hunter area)
+    • A L Q
+        ⬩ (Morytania: Haunted Woods east of Canifis)
+    • B K R
+        ⬩ (Morytania: Mort Myre, south of Canifis)
+    • C J S
+        ⬩ (Karamja: Kharazi Jungle)
+    • C K R
+        ⬩ (Karamja: South of Tai Bwo Wannai Village)
+    • C K S
+        ⬩ (Morytania: Canifis)
+    • D J P
+        ⬩ (Kandarin: Tower of Life)
+    • D K S
+        ⬩ (Kandarin: Snowy Hunter area)
 
 .
 > **__Elite Clues__**
@@ -210,16 +218,26 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • <:gamesnecklace:1124762416597700618> Games Necklace
 
 ⬥ <:portablefairyring:1084799722780360704> Fairy Ring Favourites
-    • A J R (Fremennik Slayer Dungeon)
-    • A K Q (Kandarin: Piscatoris Hunter area)
-    • A K S (Feldip Hills: Jungle Hunter area)
-    • A L Q (Morytania: Haunted Woods east of Canifis)
-    • B K R (Morytania: Mort Myre, south of Canifis)
-    • C J R (Kandarin: Sinclair Mansion (east))
-    • C J S (Karamja: Kharazi Jungle)
-    • C K Q (Menaphos: Imperial District)
-    • C K R (Karamja: South of Tai Bwo Wannai Village)
-    • D L Q (Kharidian Desert: North of Nardah)
+    • A J R
+        ⬩ (Fremennik Slayer Dungeon)
+    • A K Q
+        ⬩ (Kandarin: Piscatoris Hunter area)
+    • A K S
+        ⬩ (Feldip Hills: Jungle Hunter area)
+    • A L Q
+        ⬩ (Morytania: Haunted Woods east of Canifis)
+    • B K R
+        ⬩ (Morytania: Mort Myre, south of Canifis)
+    • C J R
+        ⬩ (Kandarin: Sinclair Mansion (east))
+    • C J S
+        ⬩ (Karamja: Kharazi Jungle)
+    • C K Q
+        ⬩ (Menaphos: Imperial District)
+    • C K R
+        ⬩ (Karamja: South of Tai Bwo Wannai Village)
+    • D L Q
+        ⬩ (Kharidian Desert: North of Nardah)
 .
 > **__Master Clues__**
 .tag:masters
