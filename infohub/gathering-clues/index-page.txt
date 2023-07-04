@@ -1,0 +1,29 @@
+**Assumes 10 procs an hour. 1 hour of Scripture of Bik <:scriptureofbik:892342109791735848>  averages:**
+
+1.1 x Sealed clue scroll (easy)
+5.2 x Sealed clue scroll (medium)
+4.3 x Sealed clue scroll (hard)
+4.7 x Sealed clue scroll (elite)
+0.17 x Sealed clue scroll (master)
+
+**Easy Clues <:Easy:633728862039179294>**
+<#1024155876552085594> (85/h) + Bik <:scriptureofbik:892342109791735848>
+
+**Medium Clues <:Medium:633728704438075435>**
+<#1024159486644072468> (0.35/h) + Bik <:scriptureofbik:892342109791735848>  - This guide is targeted at bypassing the clue cap
+Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735848>
+
+**Hard Clues <:Hard:633728361918758930>**
+<#1024158713310892112> (37/h) + Bik <:scriptureofbik:892342109791735848>
+<#1066194703550267393>  (43/h) + Bik <:scriptureofbik:892342109791735848>
+<#1024156645267353630> (44/h) + Bik <:scriptureofbik:892342109791735848> 
+
+**Elite Clues <:Elite:633732493228638209>**
+<#1123335749044031518> (12.3/h) + Bik <:scriptureofbik:892342109791735848>
+<#1024158967754129499> (11/h) + Bik <:scriptureofbik:892342109791735848>
+<#1024159311913566258> (6/h) + Bik <:scriptureofbik:892342109791735848> - This guide is targeted at bypassing the clue cap
+<#1024159486644072468> (1/h) + Bik <:scriptureofbik:892342109791735848> - This guide is targeted at bypassing the clue cap
+
+**Master Clues <:Master:1019920500807450666>**
+For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
+<#1022584947980116138> check this channel out for more information.
