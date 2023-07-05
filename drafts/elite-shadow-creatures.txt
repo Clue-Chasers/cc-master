@@ -1,0 +1,77 @@
+.img:https://i.imgur.com/fV9y3py.png
+*(courtesy of <@145884917627224065>)*
+> **Introduction**
+.tag:intro
+Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:Fortunate_components:850052505668288522> rate of 44/100, note that this rate does include <:elitereroll:1089678441567236157> re-rolls and tier 4 luck <:lotd:1088889997907726436>.
+
+Shadow Creatures are a good way to gather elite clues <:Elite:633732493228638209> if you don't have the Slayer level for Abyssal Beasts. You can gather an average of 7.8+ (12.5+ with Scripture of Bik <:scriptureofbik:1088534948413186168>) elite clues <:Elite:633732493228638209> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
+
+Each Elite clue casket <:Elitecasket:690876744382545950> is worth <:coins:698816156961603654> $data_cc:CasketValue!E11$ ($data_cc:CasketValue!E12$ with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 10.77+ (11.86+ with Puzzle skips <:skipslider:1088516624983785542>) elite clues <:Elite:633732493228638209> an hour putting them at <:coins:698816156961603654> $data_cc:CasketValue!E18$+ ($data_cc:CasketValue!E20$ with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+
+.
+> **Useful Items and Information**
+.tag:useful
+⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
+⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
+⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
+⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
+⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
+
+⬥ If using your Sunken Pyramid, then make sure to use 5 Manifest to upkeep your prayer with Penance Powder.
+⬥ You will need to stand in a specific spot for this to be optimal
+⬥ Melee can also be used but it nets less kills per hour
+    • All of which are detailed in the embed below
+
+.
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Melee Method__",
+        "value": "⬥ [Melee](https://i.imgur.com/EShN2sr.png)",
+        "inline": true
+      },
+      {
+      "name": "__Standing Position__",
+        "value": "⬥ [Positioning](https://i.imgur.com/SQ9lmDB.png)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+> **Preset**
+.tag:preset
+.img:https://i.imgur.com/VntyEER.png
+
+.
+⬥ **Perks:**
+    • <:caroming2:1092819699416453220> Caroming 2 <:p4:1092819725546946640> Precise 4 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
+    • <:biting4:712073087809617931> Biting 4 <:demonslayerperk:689502842653900818> Demon slayer / <:relentless5:712244800920748092> Relentless 5 <:crack4:712073087662686249> Crackling 4
+    • <:imp4:712073088204013640> Impatient 4 <:genocidal:689503091539705870> Genocidal / <:scavenging4:1005934140669046824> Scavenging 4
+
+.
+**Action Bar**
+.tag:bar
+.img:https://i.imgur.com/Z1FhJzo.png
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete

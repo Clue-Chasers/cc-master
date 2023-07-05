@@ -1,0 +1,19 @@
+.tag:intro
+.img:https://i.imgur.com/J63sfAb.png
+.tag:useful links
+.
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Links__",
+        "value": "⬥ [Clue Speed Records](https://docs.google.com/spreadsheets/d/e/2PACX-1vTbkLwyBt5PhUI4dCBJtb-fiTP1QqhStSWdIvioLmj1TDm_kcu0sWeQq89tQCxUhpK1gTJXsVhHBDdk/pubhtml#)\n⬥ [Clue Simulator](https://www.cluesimulator.com/)\n⬥ [Clue Point Calculator](https://runescape.wiki/w/Calculator:Other/Treasure_Trails_reward_points)\n⬥ [Daily Clue Completions](https://i.imgur.com/uCb7XOC.png)\n⬥ [Clue Requirements Optimizer](https://docs.google.com/spreadsheets/d/1litrE084z4LRRdVOnoXPiH7yQ6l2l0L7GxGiQzlBgw8/edit#gid=0)\n⬥ [Interactive RuneScape Map 1](https://mejrs.github.io/)\n⬥ [Interactive RuneScape Map 2](https://runeapps.org/map_app)\n⬥ [Clue Collection Log Calculator](https://runescape.wiki/w/User:Intercal/ClueCollectionLogCalculator)\n⬥ [Fortunate Price Calculator](https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0)\n⬥ [Clue Broadcast Sheet Template](https://docs.google.com/spreadsheets/d/1rhtbJJc58H_USbcSrsLD1_AmOQEXOBrOQphlhA08QLs/edit?usp=sharing)"
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete

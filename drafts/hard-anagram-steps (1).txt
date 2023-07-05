@@ -1,0 +1,277 @@
+**__Hard Clue Anagram Steps__**
+(Courtesy of <@139154903623794688> and <@145884917627224065>)
+.tag:intro
+.img:https://img.pvme.io/images/0Z0DjRWLJQ.png
+.
+> __**Introduction**__
+.
+*Note: a **Table of Contents** can be found in the pinned messages for this channel. This will have links to each step.*
+
+This will tell you how to do all anagram steps step by step.
+
+It is recommended to look at the <#1023179363660861531> and <#1092142938148057218> before reading this!
+.tag:sheet
+{
+  "embed": {
+    "title": "",
+    "color": 3943,
+    "fields": [
+      {
+        "name": "__Sully's Hard Clue Spreadsheet__",
+        "value": "⬥ This guide is based on information compiled by <@139154903623794688> in his [step-by-step hard clue guide](https://docs.google.com/spreadsheets/d/1KLE216RvVQOhOz1ItTY7KPSxZQPN0ybXuQvmUDf3J2M/edit#gid=147294503)\n⬥ The sheet is currently ***outdated***.\n⬥ This page will be updated when new methods are found whilst the sheet may not be.",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+> __**Steps**__
+.tag:zen
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__A Zen She__",
+        "value": "⬥ Time to do: 6.6s and your own puzzle time\n⬥ Method: [Ardougne Teleport](https://youtu.be/U9pFPB6gjug)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:ace
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Ace Match Elm__",
+        "value": "⬥ Time to do: 7.8s and your own puzzle time\n⬥ Method: [Ring of Duelling (Het's Oasis)](https://youtu.be/P-XyXJi51Rg)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:antonic
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__An Paint Tonic__",
+        "value": "⬥ Time to do: 10.2s and your own puzzle time\n⬥ Method: [Teleport to House (Taverly)](https://youtu.be/GaOJ_N-yYjs)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:crust
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Arr! So I am a crust, and?__",
+        "value": "⬥ Time to do: 20.4s and your own puzzle time\n⬥ Method: [Fairy Ring (AKQ)](https://youtu.be/kBUFbHn4UsQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:look
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__By Look__",
+        "value": "⬥ Time to do: 12.6s\n⬥ Method: [Spirit Tree (Tree Gnome Village)](https://youtu.be/QKAcaKHUEok)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:cgame
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__C On Game Hoc__",
+        "value": "⬥ Time to do: 21s\n⬥ Method: [Lodestone (Eagles' Peak)](https://youtu.be/soomP8sHtmA)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:gulag
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Gulag Run__",
+        "value": "⬥ Time to do: 10.2 and your own puzzle time\n⬥ Method: [Ring of Duelling (Castle Wars)](https://youtu.be/G50_FiVjetY)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:post
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__He Do Post. It Is Cultrrl, Mk?__",
+        "value": "⬥ Time to do: 10.8 and your own puzzle time\n⬥ Method: [Grace of the Elves (Lava Flow Mine)](https://youtu.be/GbHtwb8eN2Y)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:eat
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__I Eat Its Chart Hints Do U__",
+        "value": "⬥ Time to do: 9.6s and your own puzzle time\n⬥ Method: [Desert Amulet (Nardah)](https://youtu.be/9lhKk3RGmDE)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:faffy
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__I Faffy Run__",
+        "value": "⬥ Time to do: 12 and your own puzzle time\n⬥ Method: [Fairy Ring (Zanaris)](https://youtu.be/8ZeSkhfH-kI)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:doomd
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Land Doomd__",
+        "value": "⬥ Time to do: 5.4s and your own puzzle time\n⬥ Method: [Skeletal Horror Teleport](https://youtu.be/xVj26_d5Vgc)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:zany
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__O Birdz A Zany En Pc__",
+        "value": "⬥ Time to do: 13.8s\n⬥ Method: [Spirit Tree (Brimhaven)](https://youtu.be/9_YP_ixRtBo)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:fumes
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Or Zinc Fumes Ward__",
+        "value": "⬥ Time to do: 10.2s and your own puzzle time\n⬥ Method: [Watchtower Teleport (Inside Yanille)](https://youtu.be/AsfHai9XUsI)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:profs
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Profs Lose Wrong Pie__",
+        "value": "⬥ Time to do: 10.2s and your own puzzle time\n⬥ Method: [Traveler's Necklace (Wizard Tower)](https://youtu.be/3ZuimlXy7GE)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:red
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Red Art Tans__",
+        "value": "⬥ Time to do: 11.4s and your own puzzle time\n⬥ Method: [Lodestone (Port Sarim)](https://youtu.be/4RiYAXBLIK0)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.tag:sequin
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Sequin Dirge__",
+        "value": "⬥ Time to do: 4.2s and your own puzzle time\n⬥ Method: [Ring of Wealth+ (Miscellania)](https://youtu.be/xUBVPqjtf_E)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [A Zen She]($linkmsg_zen$)\n⬥ [Ace Match Elm]($linkmsg_ace$)\n⬥ [An Paint Tonic]($linkmsg_antonic$)\n⬥ [Arr! So I Am a crust, and?]($linkmsg_crust$)\n⬥ [By Look]($linkmsg_look$)\n⬥ [C On Game Hoc]($linkmsg_cgame$)\n⬥ [Gulag Run]($linkmsg_gulag$)\n⬥ [He Do Post. It Is Cultrrl, Mk?]($linkmsg_post$)\n⬥ [I Eat Its Chart Hints Do U]($linkmsg_eat$)\n⬥ [I Faffy Run]($linkmsg_faffy$)\n⬥ [Land Doomd]($linkmsg_doomd$)\n⬥ [O Birdz A Zany en Pc]($linkmsg_zany$)\n⬥ [Or Zinc Fumes Ward]($linkmsg_fumes$)\n⬥ [Profs Lose Wrong Pie]($linkmsg_profs$)\n⬥ [Red Art Tans]($linkmsg_red$)\n⬥ [Sequin Dirge]($linkmsg_sequin$)\n⬥ [Sullys Sheet]($linkmsg_sheet$)",
+    "color": 1300
+  }
+}
+.embed:json
+.pin:delete

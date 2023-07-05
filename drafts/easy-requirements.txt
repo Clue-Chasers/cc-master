@@ -1,0 +1,13 @@
+.img:https://i.imgur.com/M67gVWs.png
+> **Easy Clue <:Easy:633728862039179294> Requirements**
+.tag:easyreqs
+These are the requirements to complete each and every step.
+.tag:easy
+    •  Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 20 Attack
+        - <:defence:499641965760086046> 20 Defence
+        - <:ranged:499641965730594827> 10 Range
+        - <:mining:499641965546176536> 20 Mining
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Murder Mystery

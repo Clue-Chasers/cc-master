@@ -1,0 +1,48 @@
+.img:https://i.imgur.com/M67gVWs.png
+> **Master Clue <:Master:1019920500807450666> Requirements**
+.tag:masterreqs
+These are the requirements to complete each and every step.
+    • Skills <:skill:1012648819441283072>
+        - <:Attack:1053373645856190555> 54 Attack
+        - <:strength:499641965533724683> 76 Strength
+        - <:defence:499641965760086046> 85 Defence
+        - <:ranged:499641965730594827> 75 Range
+        - <:magic:499641965915275264> 87 Magic
+        - <:prayer:499641965827194890> 80 Prayer
+        - <:mining:499641965546176536> 80 Mining
+        - <:agility:499641965730856990> 83 Agility
+        - <:thieving:499641965663617038> 91 Thieving
+        - <:crafting:499641965470679042> 84 Crafting
+        - <:mining:499641965546176536> 580 Smithing
+        - <:herblore:499641965428867075> 82 Herblore
+        - <:fishing:499641965902692352> 80 Fishing
+        - <:cooking:499641965424410637> 85 Cooking
+        - <:firemaking:499641965621805057> 90 Firemaking
+        - <:fletching:499641965785382912> 70 Fletching
+        - <:woodcutting:499641966104150016> 90 Woodcutting
+        - <:slayer:499641965994835969> 80 Slayer
+        - <:farming:499641965797965824> 63 Farming
+        - <:runecrafting:499641965445644289> 77 Runecrafting
+        - <:construction:499641965936377856> 75 Construction
+        - <:dungeoneering:499641965755760650> 82 Dungeoneering
+        - <:hunter:499641965806092289> 88 Hunter
+        - <:divination:499641965789446154> 95 Divination
+        - <:summoning:499641965667942441> 75 Summoning
+        - <:invention:499641965474742283> 69 Invention
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Broken Home
+        - Cabin Fever
+        - The Curse of Zaros (miniquest)
+        - Death to the Dorgeshuun
+        - The Hunt for Surok (miniquest)
+        - Impressing the Locals
+        - The Light Within
+        - One Piercing Note
+        - Diamond in the Rough
+        - Full completion of Recipe for Disaster
+        - Partial completion of Branches of Darkmeyer
+        - Partial completion of The Fremennik Isles
+        - Partial completion of The Jack of Spades
+        - Partial completion of One of a Kind
+        - Cyclosis within the player-owned port

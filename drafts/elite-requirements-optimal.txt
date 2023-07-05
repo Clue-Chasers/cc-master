@@ -1,0 +1,41 @@
+.img:https://i.imgur.com/M67gVWs.png
+> **Optimal Elite Clue <:Elite:633732493228638209> Requirements**
+.tag:elitereqs
+These are the requirements to complete each and every step optimally.
+*Note: Elite clues have no requirements, you cannot get a step you cannot do.*
+    • Skills <:skill:1012648819441283072>
+        - <:archaeology:688349154615099409> 67 / 98 / 112 Archaeology → <:shadowsgrace:1088893308023078983> Shadow’s Grace + <:persistentrage:1088893708210020422> Persistent Rage + <:abyssallink:1088878544215609354> Abyssal Link
+.
+    • Quests <:QuestPoints:1054448367062765651>
+        - Evil Dave’s Big Day Out → <:davespellbook:1088518990957121626> Dave's Spellbook
+        - Fur ‘n’ Seek + Rag and Bone Man Wish List → <:skelehorrortp:1088880711123083365> Skeletal Horror teleport
+        - Temple at Senntisten → <:turmoil:1088881237382402049> Curses
+        - Darkness of Hallowvale → <:gamesneck:1088881617864491070> Games Necklace Burgh de Rott option
+        - Desperate Times → <:cluecarrier:1088518996334235749> Charos' clue carrier
+        - Rum Deal → <:dungcape:1088882124213453000> Dungeoneering cape Braindeath Island teleport
+        - Dream Mentor → <:sbs:1088889507039948850> Spellbook Swap
+        - Blood Runs Deep → <:lotd:1088889997907726436> moves Queen Sigrid to Ring of Wealth / Luck of the Dwarves teleport
+        - King of the Dwarves → <:gote:1088890289051148298> Grace of the Elves Max Guild Garden Lava Flow Mine teleport
+        - The Dig Site + find clean necklace → <:digsitepend:1088890858570526741> Dig Site Pendant
+        - Succession → <:dive:1088891176754610296> Dive ability
+        - Love Story → <:rellekatab:1088899439629975604> Chipped House Teleport tabs
+        - Jack of Trades → <:housetele:1088899803536175104> Menaphos House
+        - Ghost Ahoy → <:ectophial:1088899996566429746> Ectophial
+.
+    • Achievement Diaries <:tasks:1088895870289838120>
+        - <:desertammy4:1088896771117297735>  Elite Desert → Nardah + Uzer teleport
+        - <:fremmyboots4:1088896773352870009> Elite Fremennik → Enchanted Lyre Rellekka Marketplace + Etceteria + Fremennik Isles option
+        - <:tirannwnquiver3:1088897103616544801> Hard Tirannwn → Elf Camp teleport
+.
+    • Items <:sotg:1088894498010050611>
+        - <:questcape:1088891514001829981> Quest cape
+        - <:globejacket:1088513871620354078> Full Globetrotter outfit
+        - <:Surge:799457167182659586> Double Surge ability codex
+        - <:Max_cape:796729185652572160> Max (3 cape perks)
+        - <:cluetotem:1088554569186951248> Totem of Treasure
+        - <:templetrekking:1088894038545027226> Total level 500 in Temple Trekking → shortcut to the Nature’s Grotto + <:gamesneck:1088881617864491070> Burgh de Rott option
+        - <:sotg:1088894498010050611> Sceptre of the Gods
+        - <:sentinelchest:1088901574300008539> Nature Sentinel Outfit
+        - <:reckless:643505179378974748> Damage Boosting Auras
+        - <:invention:499641965474742283> Ancient Invention
+        - <:portablespirittree:1088518999765172285> Spirit Tree in Brimhaven + Port Sarim

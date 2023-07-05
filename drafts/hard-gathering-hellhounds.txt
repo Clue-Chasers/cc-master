@@ -1,0 +1,89 @@
+.img:https://i.imgur.com/IoCDb1m.png
+.
+*(courtesy of <@145884917627224065>)*
+.
+> **Introduction**
+.tag:intro
+Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have a master clue scroll <:Master:1019920500807450666> rate of 9/100 and have a high Fortunate component <:Fortunate_components:850052505668288522> rate of 57/100, note that this rate does include re-rolls <:hardreroll:1089541623072952410> and tier 4 luck <:lotd:1088889997907726436>.
+
+Hellhounds are good for gathering hard clues <:Hard:633728361918758930>. You can gather an average of 37-44 (41.3-47.3 with Scripture of Bik <:scriptureofbik:1088534948413186168>) hard clues <:Hard:633728361918758930> an hour. Keep in mind that the soft cap still applies, you would have to gather until you have 25 / 50 and then go solve them.
+
+Each Hard clue casket <:hardcasket:690876517877809152> is worth <:coins:698816156961603654> $data_cc:CasketValue!D11$ ($data_cc:CasketValue!D12$ with Puzzle skips <:skipslider:1088516624983785542>). Advanced cluers can gather and solve up to 24.82+ (28.02+ with Puzzle skips <:skipslider:1088516624983785542>) hard clues <:Hard:633728361918758930> an hour putting them at <:coins:698816156961603654> $data_cc:CasketValue!D18$+ ($data_cc:CasketValue!D20$ with Puzzle skips <:skipslider:1088516624983785542>) an hour.
+
+.
+> **Useful Items and Information**
+.tag:useful
+⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
+⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
+⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
+⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
+⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
+⬥ <:smokedevil:1089622075058180329> Smoke Devil pouch and scrolls
+⬥ <:dungeoneering:499641965755760650> 55 Dungeoneering (for dungeon access)
+⬥ You **MUST** disable <:bonecrusher:975284344526602240> Bonecrusher if opting to use <:scriptureofbik:1088534948413186168> Scripture of Bik.
+
+⬥ In order to do this method efficiently you will need <:mtxdummy:974503666407067738> Treasure Hunter dummies
+    • Place your <:mtxdummy:974503666407067738> Treasure Hunter dummies in the melee style
+    • You can pickup your <:mtxdummy:974503666407067738> Treasure Hunter dummies within 10 minutes of placing
+⬥ You will need to stand in a specific spot for this to be optimal
+⬥ There is a specific spot to place your <:cannon:869283142350041098> Siege Engine
+    • All of which are detailed in the embed below
+
+.
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__No Dummy__",
+        "value": "⬥ [No Dummy](https://i.imgur.com/RsZuoor.png)",
+        "inline": true
+      },
+      {
+      "name": "__With Dummy__",
+        "value": "⬥ [With Dummy](https://i.imgur.com/uM9BEol.png)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+> **Preset**
+.tag:preset
+.img:https://i.imgur.com/oQM2NgN.png
+⬥ If you're not using <:mtxdummy:974503666407067738> Treasure Hunter dummies you can use <:dungcape:1088882124213453000> Dungeoneering cape to teleport out for aggression
+    • Remove <:aggropot:1089655805294428190> Aggresion potions if you are using <:dungcape:1088882124213453000> Dungeoneering cape
+⬥ <:silverhawkboots:1089627126212350033> Silverhawk Boots can be subbed out for <:detoboots:602581956072439828> Blast Diffusion Boots
+
+⬥ **Perks:**
+    • <:caroming4:791281588792590336> Caroming 4 <:p2:1084799750416637993> Precise 2 / <:eq4:712073088589627505> Equilibrium 4 <:ruthless3:712244800572883025> Ruthless 3
+    • <:biting4:712073087809617931> Biting 4 / <:relentless5:712244800920748092> Relentless 5 <:crack4:712073087662686249> Crackling 4
+    • <:imp4:712073088204013640> Impatient 4 / <:scavenging4:1005934140669046824> Scavenging 4
+
+.
+**Action Bar**
+.tag:bar
+*If not using dummies*
+.img:https://i.imgur.com/UzVdD3G.png
+*If using dummies*
+.img:https://i.imgur.com/CldKAfG.png
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete

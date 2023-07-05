@@ -1,0 +1,48 @@
+.img:https://i.imgur.com/m7yzjON.png
+*(courtesy of <@145884917627224065>)*
+> **Introduction**
+.tag:intro
+Scripture of Bik <:scriptureofbik:1088534948413186168> is a very good way to gather clues of all types. It averages 10 procs an hour assuming 60 proc chances an hour.
+
+⬥ An hour of Scripture of Bik <:scriptureofbik:1088534948413186168> averages:
+    • <:Easy:633728862039179294> Easy clues: 1.1
+    • <:Medium:633728704438075435> Medium clues: 5.2
+    • <:Hard:633728361918758930> Hard clues: 4.3
+    • <:Elite:633732493228638209> Elite clues: 4.7
+    • <:Master:1019920500807450666> Master clues: 0.17
+
+Croesus Front Skilling is good for gathering clues as you can get a <:biktrove:1093136012294770698> Elder Trove (Bik) every 6 minutes whilst skilling. This will often give you a lot of your <:bikpage:1093136524943573042> Manuscripts of Bik back. This is good because <:bikpage:1093136524943573042> Manuscripts of Bik are expensive. Scripture of Bik <:scriptureofbik:1088534948413186168> costs <:coins:698816156961603654> $data_cc:CasketValue!B23$ an hour to use.
+
+This method aims to either break even or profit whilst using Scripture of Bik <:scriptureofbik:1088534948413186168>.
+
+.
+> **Useful Items and Information**
+.tag:useful
+⬥ <:pontifexshadowring:870326852361789501> Pontifex Shadow Ring fully upgraded
+⬥ You can take whatever items you want to proc Scripture of Bik <:scriptureofbik:1088534948413186168> as long as they stack
+    • For example if you are wanting 120 Fletching, take Arrow tips and arrowshafts with Portable Fletchers
+⬥ It is highly recommended staying away from the Mining section as it takes quite a long time to mine for a <:biktrove:1093136012294770698> Elder Trove (Bik)
+⬥ It is recommended to use a timer for when you can gather another <:biktrove:1093136012294770698> Elder Trove (Bik)
+⬥ <:biktrove:1093136012294770698> Elder Trove (Bik) are <:coins:698816156961603654> $data_cc:CasketValue!B24$ profit an hour alone
+
+.
+> **Example Preset**
+.tag:preset
+.img:https://i.imgur.com/t3wWLTk.png
+
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Preset]($linkmsg_preset$)"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
