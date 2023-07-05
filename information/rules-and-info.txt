@@ -1,0 +1,78 @@
+{
+  "embed": {
+    "title": "__Welcome to Clue Chasers__",
+    "description": "We advise you to read this message and familiarize yourself with our rules. For concerns utilize <#1074856081160929290> and we can help take care of the situation.",
+    "color": 15145728,
+    "footer": {
+      "text": "All rulebreaking cases are dealt with individually, considering the circumstances and your server history. These rules also apply to the Voice Channels and Clue Chasers FC."
+    },
+    "fields": [
+      {
+        "name": "__Rule 1__",
+        "value": "Zero tolerance for illegal or malicious behavior, including attacks, discrimination, threats, criminal discussions, harassment, racist/sexist remarks, excessive spam, dogpiling, and hostile targeting specific users."
+      },
+      {
+        "name": "__Rule 2__",
+        "value": "Inappropriate/explicit content (sexual, racist, discriminatory etc.) will be removed and can be met with moderation actions. These include all types of media (picture/video/link/emotes/stickers), discord avatars and discussions of extreme obscenity."
+      },
+      {
+        "name": "__Rule 3__",
+        "value": "Do not discuss means of breaking Runescape rules, such as means of botting/RWT, scamming/luring, and abuse of gamebreaking bugs.\nInstead go report in the official RuneScape discord <#474566785753153536>."
+      },
+      {
+        "name": "__Rule 4__",
+        "value": "Conducting any form of player-to-player trading is strictly prohibted.\nUse the official RuneScape discord marketplace. <#1093228904807923792>.\n\nIf you are approached in your DMs, please create a ticket in ⁠<#1074856081160929290> as soon as possible. Trading offers in DMs to our members is seen as trying to circumvent this rule."
+      },
+      {
+        "name": "__Rule 5__",
+        "value": "Unnecessary spamming a channel or pinging a person will result in a temporary mute. It is advised to use <#333343575737892864> to not flood ⁠<#332595657363685377>."
+      },
+      {
+        "name": "__Rule 6__",
+        "value": "Refrain from unnecessarily contacting Jagex Moderators for in-game issues. Use the in-game report feature and social media channels instead."
+      },
+      {
+        "name": "__Rule 7__",
+        "value": "Advertising services or servers is not allowed, except for affiliated communities in the affiliates channel. You can advertise RuneScape-related socials in <#332967448955453460>."
+      },
+      {
+        "name": "__Rule 8__",
+        "value": "Don't impersonate others by changing your discord name, nickname, or profile picture to match someone else's exactly."
+      },
+      {
+        "name": "__Rule 9__",
+        "value": "For transparency and freely voicing opinions, server suggestions on how the server should be moderated should be brought up in <#1074856081160929290>\nAny suggestions made elsewhere are likely to be ignored as they become impossible for staff members to meaningfully follow up on."
+      },
+      {
+        "name": "__Rule 10__",
+        "value": "Keep the atmosphere of the chats in mind. Inflammatory remarks, baiting reactions and other comments that disrupt the atmosphere in an unpleasant way are not welcome and and may lead to moderation actions."
+      },
+      {
+        "name": "__Rule 11__",
+        "value": "Contacting or harassing any staff member to circumvent temporary time-outs/moderation actions will result in an extended time-out or permanent ban from this server if deemed necessary."
+      },
+      {
+        "name": "__Rule 12__",
+        "value": "The rules are not exhaustive or set in stone. The staff can take immediate action when needed and will discuss these later for transparency. Staff members are obligated to go discuss appropriate moderation actions and decisions are made together to be fair and avoid bias."
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "__Clue Chasers Moderation Team__",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__Staff__ <:staff:1103428369170829402>",
+        "value": "⬥ <@201330385013964809>\n⬥ <@161545097597550593>\n⬥ <@420315520449904640>\n⬥ <@211049089050214400>\n⬥ <@195276355779166208>\n⬥ <@122408407482236929>\n⬥ <@452981524615135253>\n⬥ <@139154903623794688>\n⬥ <@162126141673439232>\n⬥ <@332549285923127304>"
+      },
+      {
+        "name": "__Moderators__ <:mod:1103428364687130675>",
+        "value": "⬥ <@233750320591798272>\n⬥ <@133223432086093824>\n⬥ <@567480542950588437>\n⬥ <@127512892319858689>\n⬥ <@322895146637328385>"
+       }
+    ]
+  }
+}
+.embed:json
