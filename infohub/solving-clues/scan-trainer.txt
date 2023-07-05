@@ -1,1 +1,61 @@
+**__Scan Trainer__** *(courtesy of <@338283681120780288>)*
+.tag:start
+To get started quickly, jump into Scan Trainer by visiting https://leridon.github.io/cluetrainer-live/
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383866828881920/PSXLbng.png
 
+.tag:intro
+__**Introduction**__
+.
+This tool is being developed by <@338283681120780288>.
+Being fast at solving scan clues is extremely important to get good and fast at solving elite and also master clues. Nothing slows you down more than aimlessly running around the scan area waiting for the clue to tell you where to go.
+
+Efficient scan routes, such as the ones by Fiery (<#1023173639316717608>), utilise the three different kinds of scan pulses (see <#1072176239323926630>) as well as the (sometimes unintuitive) situations where the clue scroll tells you to try scanning a different level to quickly narrow down the remaining candidates. Learning those routes can be frustrating, since movement needs to be followed precisely for it to work and being off by only 1 tile can result in you wondering where you missed the spot.
+
+This is where Scan Trainer comes in: Scan Trainer tells you precisely what to do and how to do it, to help you understand and memorize pathing easily and without getting frustrated. It can be added as a plugin to Alt1 and used while solving clues to seamlessly learn without having to study and memorize a spreadsheet. It accurately highlights where to stand on an interactive RuneScape map to easily locate the correct spot ingame.
+
+.tag:faq
+__**Getting Started/FAQ/Common Issues**__
+A list of the most common problems starting out.
+
+**⬥ How do I add it to Alt1?**
+Open `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json` in your browser to get a prompt whethere you want to add the tool to Alt1 or visit https://leridon.github.io/cluetrainer-live/ in Alt1's browser to get a prompt.
+
+**⬥ Can it automatically read clues like the clue solver?**
+Yes! If you have Scan Trainer added to Alt1, enable auto reading by activating the lock button right next to the search field.
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383891638206648/xLqX7qt.png
+
+.
+**⬥ What do I do after going to step C? Why are there no more instructions?**
+Have you tried clicking the buttons that say "Single", "Double", etc.? You need to tell the tool what kind of pulse you observe to advance the instructions to the next step, since it can't automatically read it from the game (yet?).
+.img:https://cdn.discordapp.com/attachments/1124383661299601498/1124383929516970044/nUH7ody.png
+
+.
+You can also click the underlined links to advance up to two steps at once if you prefer.
+Alternatively, when the instruction just tells you to check a set of spots, it means that there are no more instructions left and you are on your own. This is usually the case for spots you should use a jacket or backpack charge for or for spots that are very close to each other.
+
+__*Please note that the Scan Trainer is still in beta*__
+Even though scan trainer is quite mature and has most scan clues included, for the time being it is still considered a beta version.
+The beta label is meant to communicate that there are still features and content missing and will be removed as soon as that's no longer the case.
+
+.tag:feedback
+__**Giving Feedback**__
+.
+Visit <#1103737270114209825> to leave praise and criticism, report issues, get support, or just say hi and join the discussion about the tool. Any kind of input is very appreciated and helps shaping the future of Scan Trainer and related tools.
+
+You can also sign up for the Scan Trainer role at <id:customize> to get notified about new updates.
+
+.tag:editor
+__**Attention theorycrafter**__
+.
+Scan trainer also includes development tools that are used internally to define the routes and can be used to theorycraft new scan routes. Check it out by opening scan trainer in a browser, select a scan clue and click the edit icon in the top right corner of the map.
+
+.tag:overview
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Quick Start]($linkmsg_start$)\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [FAQ]($linkmsg_faq$)\n⬥ [Beta]($linkmsg_beta$)\n⬥ [Feedback]($linkmsg_feedback$)\n⬥ [Theorycrafting]($linkmsg_editor$)\n",
+    "color": 12745742
+  }
+}
+.embed:json
+.pin:delete
