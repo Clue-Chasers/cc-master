@@ -1,0 +1,74 @@
+**__Helpful Commands__**
+.tag:intro
+> **__Introduction__**
+This channel contains a list of all Clue Chasers discord commands along with a brief summary of what they contain. Feel free to use any of the commands in the <#333343575737892864> channel. **Keep in mind some of these are still placeholders**.
+
+.
+> __**Information Hub**__
+.tag:infohub
+⬥ `!bik` - Explains the Scripture of Bik.
+⬥ `!compass` - Links a youtube tutorial on how to use alt1 for arrow clues.
+⬥ `!commands` - Links the channel on where to check out commands and where to use them.
+⬥ `!clue` - Explains what a Clue Scroll is.
+⬥ `!totem` - Explains the Totem of Treasure and it's utility.
+
+.
+> __**Server Help**__
+.tag:serverhelp
+⬥ `!cc` - Generates an invite link for Clue Chasers.
+⬥ `!cluehelp` - Provides a link to the Clue Assistance channels.
+⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
+⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
+⬥ `!twitter` - Links the Clue Chasers twitter.
+⬥ `!website` - Links the Clue Chasers website.
+
+.
+> __**Equipment**__
+.tag:equipment
+⬥ `!gorder` - Lists the priority order and which pieces should be prioritized based on tier.
+⬥ `!meerkat` - Explains Meerkats and their utility.
+
+.
+> __**Collection Log**__
+.tag:rewards
+⬥ `!forts` - Generates a list of possible items that could be disassembled into fortunate components.
+⬥ `!alchs` - Generates a list of every item that can be created with the necessary ingredients required.
+
+.
+> __**Abilities/Spells**__
+.tag:spells
+none
+
+.
+> __**Spreadsheets**__
+.tag:sheets
+⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
+
+.
+> __**Hall of Fame**__
+.tag:hof
+⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
+⬥ `!most3a` - List players with the most Third Age Dyes on their collection logs.
+⬥ `!mostblood` - List players with the most Blood Dyes on their collection logs.
+⬥ `!mostbarrows` - List players with the most Barrows Dyes on their collection logs.
+⬥ `!mostshadow` - List players with the most Shadow Dyes on their collection logs.
+⬥ `!mostice` - List players with the most Ice Dyes on their collection logs.
+⬥ `!mostdruidic` - List players with the most total of Druidic Pieces on their collection logs.
+⬥ `!mostosh` - List players with the most Orlando Smith Hat's on their collection logs.
+
+.
+> __**Miscellaneous**__
+.tag:misc
+⬥ `!beach` - Explains the Beach Event and Sandy Clues.
+⬥ `!shard` - Explains the Golden Cape Event and it's respective Clue Shard.
+
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Information Hub]($linkmsg_infohub$)\n⬥ [Server Help]($linkmsg_serverhelp$)\n⬥ [Equipment]($linkmsg_equipment$)\n⬥ [Collection Log]($linkmsg_rewards$)\n⬥ [Abilities/Spells]($linkmsg_spells$)\n⬥ [Spreadsheets]($linkmsg_sheets$)\n⬥ [Hall of Fame]($linkmsg_hof$)\n⬥ [Miscellaneous]($linkmsg_misc$)",
+    "color": 15844367
+  }
+}
+.embed:json
+.pin:delete
