@@ -39,7 +39,7 @@ __Scan Trainer__
     "fields": [
       {
         "name": "__Preset Examples__",
-        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/TumduKG2zkIxTo4t7FOA)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/IqsThYsdulZfA0C5svfr)",
+        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/xQgcIQnlNLlTrrlCer31)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/TTRhjhs5vMaWl2qYGAqf)",
         "inline": true
       }
     ]
@@ -185,7 +185,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
     • For the North Eastern Daemonheim spot - Either use <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or <:warsretreatteleport:1126149193908633721> set to  The Shadow Reef
     • Use <:Lantadymeincense:1127691837197525033> to extend your <:Spiritattractionflask:1127681167005589545> timer
     • If you run out of <:Naturessentinelhelm:1127691838996873366> charges, swap to BIS Preset (No Sentinel)
-    • For the "No Sceptre of the Gods w/o Skips" preset, just run the Lumbridge Swamp Cave scan in the dark if you have too.
+    • For the "No Sceptre of the Gods w/o Skips" preset, use <:Shadows_Grace:1128078767399653486> and run the Lumbridge Swamp Cave scan in the dark if you have too.
 
 .
 **__Shoutouts__**
@@ -214,3 +214,5 @@ A special thank you to the following people:
 }
 .embed:json
 .pin:delete
+.
+Return to <#1023016354145648741>
