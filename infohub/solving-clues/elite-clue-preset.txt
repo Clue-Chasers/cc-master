@@ -1,1 +1,216 @@
+**Elite Clue Preset Guide**  *(Courtesy of <@332549285923127304>)*
+.
+> **__Introduction__**
+.tag:intro
+The below presets will cover both a non-skip ticket and skip ticket setup, as well as an alternative preset for when your Sentinel Outfit runs out/if you dont want to use the Sentinel Outfit. Presets also assume you are using <:Bik:908044805475553321> whilst solving. If you aren't, replace <:Bik:908044805475553321> and <:Spiritattractionflask:1127681167005589545> with items of your choice.
+To see the cost analysis of no skips vs. using skips, use the command !casket in <#333343575737892864>.
+Any questions regarding the presets, ask in <#400499160094212097>.
+Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
 
+.
+> **__Learning how to do Elite Clues__**
+.tag:learningelites
+Below are a couple of useful resources to help you solve elites:
+.
+__Compass Solving Basics__
+<#1120274119884292127>
+.
+__Compass Spot Guides__
+*Coming Soon!*
+.
+__Scan Guides__
+<#1023174431943700531>
+.
+__Scan Trainer__
+<#1103737270114209825>
+
+.
+> **__Gathering Elite Clues__**
+.tag:gatheringelites
+<#1023016130077532300>
+
+.
+> **__Elite Clue Presets__**
+.tag:elitespresets
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset Examples__",
+        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/TumduKG2zkIxTo4t7FOA)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/IqsThYsdulZfA0C5svfr)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+An image to the Legacy Preset can be found at <#1128064843254083655>
+.tag:oldpreset
+.
+> __**Preset Notes**__
+.tag:notes
+⬥ Be on Lunars <:sbslunars:565726489467682816>
+    • You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports
+    • Traingulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)
+⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>
+⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692> (Use scroll on every step)
+⬥ Portable Obelisk can be swapped for Obelisk Shards
+⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six <:karil:641696573272621086>
+
+.
+⬥ <:maxcape:580177795703898117> Max Cape Perks
+    • <:slayer:797896049548066857> Slayer
+    • <:dungeoneering:1003947795541143632> Dungeoneering
+    • <:masterquestcape:1091050888828813412> Master Quest Cape / Quest Cape
+        ⬩ <:agilitycape:1126149218357215242> Anachronia Cape Stand
+
+⬥ <:archaeology:941211288665739274> Archaeology Relics
+    • <:abyssallink:1124762426265583727> Abyssal Link
+
+⬥ <:gote:900765150678749204> Grace of the Elves
+    • Overgrown Idols
+    • Lava Flow Mine
+
+⬥ <:potared:1123597976208674888> Passage of the Abyss #1
+    • <:skillsnecklace:1124762417969254541> Skills Necklace
+    • <:amuletofglory:1124762423686082562> Amulet of Glory
+    • <:combatbracelet:1124762419907014776> Combat Bracelet
+    • <:digsitependant:1124762422507479151> Digsite Pendant
+    • <:ringofslaying:1124783943426789538> Ring of Slaying
+    • <:travellersnecklace:1124783946186629171> Traveller's Neckalce
+
+⬥ <:potagreen:1123597971737559110> Passage of the Abyss #2
+    • <:Enlightenedamulet:1127339222236409888> Enlightened Amulet
+    • <:Ringofrespawn:1127339224467775569>  Ring of Respawn
+    • <:ringofduelling:1124762413967880323> Ring of Duelling
+    • <:gamesnecklace:1124762416597700618> Games Necklace
+
+⬥ <:portablefairyring:1084799722780360704> Fairy Ring Favourites
+    • A J R
+        ⬩ Fremennik Slayer Dungeon
+    • A K Q
+        ⬩ Kandarin: Piscatoris Hunter area
+    • A K S
+        ⬩ Feldip Hills: Jungle Hunter area
+    • A L Q
+        ⬩ Morytania: Haunted Woods east of Canifis
+    • B K R
+        ⬩ Morytania: Mort Myre, south of Canifis
+    • C J R
+        ⬩ Kandarin: Sinclair Mansion (east)
+    • C J S
+        ⬩ Karamja: Kharazi Jungle
+    • C K Q
+        ⬩ Menaphos: Imperial District
+    • C K R
+        ⬩ Karamja: South of Tai Bwo Wannai Village
+    • D L Q
+        ⬩ Kharidian Desert: North of Nardah
+
+⬥ <:houseteleport:1126149195330486424> Player Owned House
+    • Located at Menaphos <:menaphoslode:1032552289589796904>
+
+.
+⬥ <:globetrotterjacket:1123592261175889971> Jacket Steps
+.tag:jacketsteps
+    • Brimhaven Dungeon (after checking starting area)
+    • Tirannwn Scan (after checking all areas)
+    • Fremennik Slayer Dungeon (if "Scan another level" message isn't received)
+    • Compass Spots around the Iceberg (North Fremennik Lodestone)
+    • Graveyard north Drakan's Castle
+    • Wilderness Steps that aren't easily accessible
+
+.
+⬥ <:globetrotterbackpack:1123592248056102993> Backpack Steps
+.tag:backpacksteps
+    • Mos Le'Harmless Scan
+    • Lumbridge Swamp Cave Scan
+    • Brimhaven Dungeon Scan (if "Scan another level" is received)
+    • Wilderness Steps that aren't easily accessible
+
+.
+⬥ <:accelpb:1128031529063428116> Powerburst Usage
+.tag:accelpb
+    • Compass
+        ⬩ Abbey of St. Elspeth Citharede
+        ⬩ South West & Far East Bandit Camp Lodestone
+        ⬩ Far West, Far East/North East, Far South of AKS Fairy Ring
+        ⬩ South East of Agility Pyramid
+        ⬩ West of Fishing Guild
+    • Scans
+        ⬩ Kharazi Jungle
+        ⬩ Taverly Dungeon
+        ⬩ Fremennik Isles
+        ⬩ Kharidian Desert
+        ⬩ Piscatoris Hunter Area
+        ⬩ Furthest West West Ardougne steps
+
+.
+⬥ <:Home_Teleport_icon:1128041042646683728> Useful teleport options
+.tag:usefulteles
+    • <:Naturessentinelhelm:1127691838996873366> Nature's Sentinel Outfit *(Note: If you want to manage charges, only use for Frenennik Isles scan)*
+        ⬩ Artic Pine Tree (0,3) → Quick teleport for Fremennik Isles scan
+        ⬩ Magic Trees (6,4) → Tirannwn scan
+        ⬩ Teaks South West of Castle Wars (0,1,3)
+        ⬩ North Yanille Ivy (0,5,7)
+        ⬩ Elder Tree North of Legends Guild (7,1)
+        ⬩ Overgrown Idols West of Shipyard (0,6,1)
+.
+    • <:Archaeology_teleport:1128041248733806764> Archaeology Teleports
+        ⬩ Archaeology Campus (1)
+        ⬩ Infernal Source (3)
+        ⬩ Stormguard Citadel (6)
+        ⬩ Chief Tess (9,2)
+        ⬩ Goblin Generals (9,3)
+        ⬩ Isaura (9,4)
+        ⬩ Lowse (9,5)
+        ⬩ Soran (9,8)
+.
+    • <:masterquestcape:1091050888828813412> Quest Cape
+        ⬩ Legends Guild (7)
+        ⬩ Tears of Guthix (8)
+        ⬩ Varrock Musuem (9)
+        ⬩ World Gate (0)
+
+.
+⬥ <:thinkong:1127696157913661550> Tips and Tricks
+    • In-game sounds can help with scans. Listening to the pulse instead of staring at your feet allows to pay attention to your surroundings and get information as you're teleporting into an area
+    • Use Totem of Summoning for longer meerkat timer<:TotemofSummoning:1127695244805287946>
+    • Disassemble <:dorgeshkaansphere:1127677637981126699> for <:Bik:908044805475553321> <:catalystofalteration:1127677641466597537> procs
+    • <:trinkets:1123599465614413844> used for Brutal Green Dragons (compass), Blue Dragons (Taverly Dungeon scan), Red Dragons (Brimhaven Dungeon scan), Black Dragons - Evil Chicken Lair (Zanaris scan)
+    • You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals
+    • Activating <:globetrotterjacket:1123592261175889971> on the Wilderness Crater scan will show you the level it is at, narrowing down your search route
+    • For the North Eastern Daemonheim spot - Either use <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or <:warsretreatteleport:1126149193908633721> set to  The Shadow Reef
+    • Use <:Lantadymeincense:1127691837197525033> to extend your <:Spiritattractionflask:1127681167005589545> timer
+    • If you run out of <:Naturessentinelhelm:1127691838996873366> charges, swap to BIS Preset (No Sentinel)
+    • For the "No Sceptre of the Gods w/o Skips" preset, just run the Lumbridge Swamp Cave scan in the dark if you have too.
+
+.
+**__Shoutouts__**
+A special thank you to the following people:
+<@350311991610703875> for the main base preset
+<@127512892319858689> for the no SOTG preset
+
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Introduction__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Learning how to do Elite Clues]($linkmsg_learningelites$)\n⬥ [Gathering Elites]($linkmsg_gatheringelites$)",
+        "inline": true
+      },
+      {
+        "name": "__Presets and Notes__",
+        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Jacket Steps]($linkmsg_jacketsteps$)\n⬥ [Backpack Steps]($linkmsg_backpacksteps$)\n⬥ [Powerburst Steps]($linkmsg_accelpb$)\n⬥ [Useful Teleports]($linkmsg_usefulteles$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
