@@ -33,7 +33,8 @@ Have you tried clicking the buttons that say "Single", "Double", etc.? You need 
 You can also click the underlined links to advance up to two steps at once if you prefer.
 Alternatively, when the instruction just tells you to check a set of spots, it means that there are no more instructions left and you are on your own. This is usually the case for spots you should use a jacket or backpack charge for or for spots that are very close to each other.
 
-__*Please note that the Scan Trainer is still in beta*__
+.tag:beta
+__**Scan Trainer is still in beta**__
 Even though scan trainer is quite mature and has most scan clues included, for the time being it is still considered a beta version.
 The beta label is meant to communicate that there are still features and content missing and will be removed as soon as that's no longer the case.
 
