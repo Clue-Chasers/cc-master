@@ -38,11 +38,6 @@ You can use this sheet to find out the points per hour for each tier based on yo
 .tag:gorder
 <#1024461576314568784>
 .
-> **__Preset Maker__**
-.tag:presetmaker
-If you want to generate your own presets based on what you have unlocked in the game, then try out <@145884917627224065>'s preset maker here: ⁠<#1084955288437784666>
-*Please note that this tool is still in beta and still needs more feedback.*
-.
 > **__Gathering Hard and Elite Clues__**
 .tag:gathering
 <#1023016130077532300>
@@ -311,10 +306,8 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
 .tag:shoutouts
 **A special thank you to the following people;**
 Achievement Help for guidance on preferences and reasonable requirements.
-<@145884917627224065> for reformatting the entirety of the guide.
-<@145884917627224065> and <@161169420444631040> for the master preset and rotation.
-<@102870112314335232>, <@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
-Server Staff feedback during throughout the creation.
+<@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
+<@&336568187552530434> feedback during throughout the creation.
 .
 {
   "embed": {
@@ -323,7 +316,7 @@ Server Staff feedback during throughout the creation.
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Preset Maker]($linkmsg_presetmaker$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_hards$)\n⬥ [Elite Preset]($linkmsg_elites$)\n⬥ [Master Preset]($linkmsg_masters$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_hards$)\n⬥ [Elite Preset]($linkmsg_elites$)\n⬥ [Master Preset]($linkmsg_masters$)",
         "inline": true
       }
     ]
