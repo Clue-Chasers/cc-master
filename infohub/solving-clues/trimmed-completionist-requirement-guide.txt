@@ -324,3 +324,5 @@ Achievement Help for guidance on preferences and reasonable requirements.
 }
 .embed:json
 .pin:delete
+.
+Return to <#1023016354145648741>
