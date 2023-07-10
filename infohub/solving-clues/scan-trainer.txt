@@ -60,3 +60,5 @@ Scan trainer also includes development tools that are used internally to define 
 }
 .embed:json
 .pin:delete
+.
+Return to <#1023016354145648741>
