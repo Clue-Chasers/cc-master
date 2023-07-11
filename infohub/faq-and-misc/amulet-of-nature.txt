@@ -1,0 +1,7 @@
+To bind the amulet of nature the player must use the amulet on the diseased patch they desire but this can only be bound to one patch at a time, and will remain bound until a different patch is used. Unlike the amulet of farming, it can be bound to any type of farming patch.
+
+Note that the amulet of nature gets bound to the tile you are standing on when using the amulet on the the diseased patch.
+https://media.discordapp.net/attachments/1059984789807038552/1059984789920297030/Amulet_of_Nature_SpotsDark.png?width=579&height=701
+
+.
+Return to <#1023016455429685389>
