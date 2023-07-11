@@ -1,0 +1,18 @@
+Dark Facet of Luck <:lotdfacet:1123596338693673020> is an enchantment that gives additional benefits to tier 4 luck enhancers,
+such as the Luck of the Dwarves <:LotD:566453486913323042> and Hazelmere's signet ring <:HSR:513213693983588362> When the player is wearing a
+tier 4 luck enhancer or harnessing the Luck of the Dwarves relic power <:lotdrelic:1128437145183453235>, the enchantment offers:
+
+__A 1% chance to skip a clue step on completion of a clue step.__
+When the ring shines to skip a clue step, the following message appears in the chat box:
+The Dark Facet of Luck used Forbidden knowledge to allow you to skip a clue step.
+
+__0.1% chance to gain two caskets on completion of a clue scroll.__
+When the ring shines to double a casket, the player will receive a pop-up chatbox stating: You've found a casket! The Dark Facet of Luck forms a second casket in its shadow. A message stating that the player received 2x caskets will also appear in the unfiltered game chat.
+
+__Additional teleport to the Dwarven Outpost, only when the player is using the equipment.__
+The effects of the enchantment are permanently applied to the player once used.
+
+https://media.discordapp.net/attachments/1125898662262886461/1128458317002448977/image.png?width=360&height=227
+
+.
+Return to <#1023016455429685389>
