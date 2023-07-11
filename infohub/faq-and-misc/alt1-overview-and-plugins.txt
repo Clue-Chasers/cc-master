@@ -50,6 +50,11 @@ In addition to the default apps that come with Alt1, there are a number of other
 ⬥ Note that none of these links will work on mobile, as they require Alt1 to be installed.
 
 .
+> __**Linux and macOS Support**__
+.tag:linuxmac
+Whilst there is no official Alt1 Support for these operating systems there's an alternative which can be found at https://github.com/whs/runekit
+
+.
 > __**Scan Trainer**__ - `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json`
 .tag:scantrainer
 **Explanation** - guides players through efficiently solving scan steps in elite <:eliteclue:1123586941057769552> and master clues <:masterclue:1123586937245151303> see <#1123544061052207114> https://media.discordapp.net/attachments/1101214731571822673/1128424402111963156/image.png?width=878&height=463
@@ -84,7 +89,7 @@ In addition to the default apps that come with Alt1, there are a number of other
     "fields": [
       {
         "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Alt1 Overview]($linkmsg_alt1$)\n⬥ [Clue Solver]($linkmsg_cluesolver$)\n⬥ [3rd-Party Apps]($linkmsg_apps$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Alt1 Overview]($linkmsg_alt1$)\n⬥ [Clue Solver]($linkmsg_cluesolver$)\n⬥ [3rd-Party Apps]($linkmsg_apps$)\n⬥ [Linux/Mac Support]($linkmsg_linuxmac$)",
         "inline": true
       },
       {
