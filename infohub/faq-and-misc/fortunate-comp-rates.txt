@@ -1,0 +1,26 @@
+These numbers include using your rerolls optimally, but they do not include rerolls tokens that you might receive in the process.
+<:Easy:633728862039179294>  ~ 42%
+<:Medium:633728704438075435>  ~ 53%
+<:Hard:633728361918758930>  ~ 57%
+<:Elite:633732493228638209>  ~ 43.5%
+<:Master:1019920500807450666> ~ 48.5% (Excludes high value items that do give fortunate components e.g. Reaper ornament kit, Soul ornament kit, Golden thread, Elemental impetus etc
+
+Only direct forts are included in elites.
+
+Included:
+Fury ornament kit
+
+Excluded:
+Dragon platelegs/skirt ornament kit (or)
+Dragon platelegs/skirt ornament kit (sp)
+Dragon platebody ornament kit (or)
+Dragon platebody ornament kit (sp)
+Dragon sq shield ornament kit (or)
+Dragon sq shield ornament kit (sp)
+Dragon full helm ornament kit (or)
+Dragon full helm ornament kit (sp)
+
+Semi-fortunate refers to the fact that when an item is combined with a secondary item and you dismantle that, you can get fortunate components.
+
+.
+Return to <#1023016455429685389>
