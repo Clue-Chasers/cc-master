@@ -1,0 +1,30 @@
+<:Easy:633728862039179294> Easy Clues
+24/99: Simple
+25/99: Vague, Map, Emote
+
+<:Medium:633728704438075435> Medium Clues
+19/99: Anagram
+20/99: Riddle, Sextant, Map, Emote
+
+<:Hard:633728361918758930> Hard Clues
+24/109: Riddle
+25/109: Sextant, Map, Emote
+10/109: Anagram
+
+<:Elite:633732493228638209> Elite Clues
+482/1059: Compass
+577/1059: Scan
+
+<:Master:1019920500807450666> Master Clues
+25/100: Emote, Anagram
+10/100: Compass
+20/100: Skill riddle, Scan
+
+☠️ Wilderness Clues
+Wildy volcano scan = 1/460
+Deep wildy scan = 1/10580
+
+If you want the chance of your elite scroll being a deep wildy scan one... In total, it's roughly 1/19418
+
+.
+Return to <#1023016455429685389>
