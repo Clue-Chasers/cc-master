@@ -1,0 +1,97 @@
+> __**Introduction**__
+.tag:intro
+Unlike OSRS which has the RuneLite client, RS3 only has its NXT client. In order to add some extra QoL/features, the Alt1 Toolkit was developed by <@107515476296368128>. This channel serves as a brief overview about Alt1 and what it's used for in regards to Clue Scrolls with some extra helpful add-ons/plugins developed for it.
+.
+{
+  "embed": {
+    "title": "__Alt1 Download__",
+    "description": "You can download Alt1 from the official [RuneApps website](https://runeapps.org/alt1).\nFor Alt1 support/queries, please visit the [RuneApps discord](https://discord.gg/G3SbcS8).\nYou can also check out the [RuneApps forums](https://runeapps.org/forums/).",
+    "color": 39423
+  }
+}
+.embed:json
+.pin:delete
+.
+**If you have any issues with regard to Alt1, *please* use the dedicated RuneApps discord server that has a section for player support.**
+
+.
+> __**Alt1 Overview**__
+.tag:alt1
+⬥ Alt1 is a 3rd-party program that consists of several application overlays on your screen.
+⬥ They get information by reading your screen, and provide a bunch of QoL/useful features.
+
+.
+> __**How It Works**__
+⬥ Alt1 is designed to capture images of the NXT Client and parse them with an OCR (Optical Character Recognition) Library.
+⬥ The captured data is then transformed into pixel data that can be used in Alt1 apps.
+⬥ More information can be found on the forums and in the Alt1 Toolkit discord.
+
+.
+> __**Is It Safe?**__
+⬥ Alt1 is essentially a glorified Chromium browser that creates overlays over your game. Every Alt1 app is essentially a webpage.
+⬥ Alt1 does not send any inputs or otherwise directly interact with your client beyond reading the pixels on the screen.
+⬥ **It is not a client, therefore you won't get banned for using it.** https://www.reddit.com/r/runescape/comments/3ovux7/the_alt1_toolkit_has_been_reviewed_by_jagex_and/
+
+.
+> __**Clue Solver**__
+.tag:cluesolver
+⬥ This is a very useful app that looks at your currently open clue on screen, and tells you how to solve it.
+⬥ It handles every type of clue except for scans which are explained through the <#1123544061052207114>
+⬥ Have your clue visible on-screen clearly and click the 'Unlock Any' button to find a solution to your clue that will be displayed on the overlay.
+.img:https://img.pvme.io/images/EhTPOsI.png
+.
+> __**3rd-Party Alt1 Apps**__
+.tag:apps
+In addition to the default apps that come with Alt1, there are a number of other useful third-party apps that can be installed.
+
+⬥ Alt1 Addons can be installed by going to the correct URL in either your normal browser or the Alt1 in-built browser.
+⬥ This will bring up a prompt to add the application to Alt1.
+⬥ The list of apps below have the full URL following each one.
+⬥ Note that none of these links will work on mobile, as they require Alt1 to be installed.
+
+.
+> __**Scan Trainer**__ - `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json`
+.tag:scantrainer
+**Explanation** - guides players through efficiently solving scan steps in elite <:eliteclue:1123586941057769552> and master clues <:masterclue:1123586937245151303> see <#1123544061052207114>
+
+.
+> __**Bik Book Timer**__ - `alt1://addapp/https://amerryma.github.io/alt1-bik-proc-timer/appconfig.json`
+.tag:bikbook
+**Explanation** - alerts when to disassemble with Bik book <:scriptureofbik:892342109791735848>
+
+.
+> __**OpenLogger**__ - `alt1://addapp/https://redx1000.github.io/OpenLogger/appconfig.json`
+.tag:openlogger
+**Explanation** - an open source clue logger that will help keep track of your clues as you open them
+
+.
+> __**Clue Splits**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
+.tag:splits
+**Explanation** - automatically tracks your clue times while doing a clue run, with no input required <:surge:535533810004262912>
+
+.
+> __**Catalyst Tracker**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
+.tag:catalyst
+**Explanation** - tracks clues from Catalyst of alterations displayed in the chat window
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Introduction__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Alt1 Overview]($linkmsg_alt1$)\n⬥ [Clue Solver]($linkmsg_cluesolver$)\n⬥ [3rd-Party Apps]($linkmsg_apps$)",
+        "inline": true
+      },
+      {
+        "name": "__3rd-Party Apps__",
+        "value": "⬥ [Scan Trainer]($linkmsg_scantrainer$)\n⬥ [Bik Book Timer]($linkmsg_bikbook$)\n⬥ [Open Logger]($linkmsg_openlogger$)\n⬥ [Clue Split]($linkmsg_splits$)\n⬥ [Catalyst Tracker]($linkmsg_catalyst$)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
