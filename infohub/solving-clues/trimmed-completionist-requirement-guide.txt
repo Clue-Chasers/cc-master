@@ -187,7 +187,7 @@ __*Preset Notes Elites*__
 ⬥ Scan Guides can be found here: <#1023174431943700531>
 ⬥ Scan Trainer can be found here: <#1123544061052207114>
 ⬥ Compass Guides are currently being worked on, this will be included once finished
-⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1092140461784830032>
+⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>
 .
 When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre. <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset
 
