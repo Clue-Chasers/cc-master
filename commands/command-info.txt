@@ -11,6 +11,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!commands` - Links the channel on where to check out commands and where to use them.
 ⬥ `!clue` - Explains what a Clue Scroll is.
 ⬥ `!totem` - Explains the Totem of Treasure and it's utility.
+⬥ `!sentinel` - lists the currently suggested uses of the nature sentinel outfit for Elite clues.
 
 .
 > __**Server Help**__
