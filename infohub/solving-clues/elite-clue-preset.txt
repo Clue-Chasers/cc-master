@@ -118,9 +118,6 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
-
-.tag:backpacksteps
-.
 {
   "embed": {
     "title": "",
@@ -150,54 +147,36 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Powerbursts Usage__ <:accelpb:1128031529063428116>",
+        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Khardidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: <:accelpb:1128031529063428116> [Powerbursts of Acceleration](https://runescape.wiki/w/The_Dig_Site) don't work in the wilderness.* ",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
-⬥ <:accelpb:1128031529063428116> Powerburst Usage
-.tag:accelpb
-    • Compass
-        ⬩ Abbey of St. Elspeth Citharede
-        ⬩ South West & Far East Bandit Camp Lodestone
-        ⬩ Far West, Far East/North East, Far South of AKS Fairy Ring
-        ⬩ South East of Agility Pyramid
-        ⬩ West of Fishing Guild
-    • Scans
-        ⬩ Kharazi Jungle
-        ⬩ Taverly Dungeon
-        ⬩ Fremennik Isles
-        ⬩ Kharidian Desert
-        ⬩ Piscatoris Hunter Area
-        ⬩ Furthest West West Ardougne steps
-
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Located at Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Artic Pine Tree (0,3) → Quick teleport for Fremennik Isles scan\n⬥ Magic Trees (6,4) → Tirannwn scan\n⬥ Teaks South West of Castle Wars (0,1,3)\n⬥ North Yanille Ivy (0,5,7)\n⬥ Elder Tree North of Legends Guild (7,1)\n⬥ Overgrown Idols West of Shipyard (0,6,1)\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764> \n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Chief Tess (9,2)\n⬥ Goblin Generals (9,3) (1)\n⬥ Isaura (9,4)\n⬥ Lowse (9,5)\n⬥ Soran (9,8)\n\n__**Quest Cape**__ <:masterquestcape:1091050888828813412>\n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Musuem (9)\n⬥ World Gate (0)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
-⬥ <:houseteleport:1126149195330486424> Player Owned House
-    • Located at Menaphos <:menaphoslode:1032552289589796904>
-
-.
-⬥ <:Home_Teleport_icon:1128041042646683728> Useful teleport options
-.tag:usefulteles
-    • <:Naturessentinelhelm:1127691838996873366> Nature's Sentinel Outfit *(Note: If you want to manage charges, only use for Frenennik Isles scan)*
-        ⬩ Artic Pine Tree (0,3) → Quick teleport for Fremennik Isles scan
-        ⬩ Magic Trees (6,4) → Tirannwn scan
-        ⬩ Teaks South West of Castle Wars (0,1,3)
-        ⬩ North Yanille Ivy (0,5,7)
-        ⬩ Elder Tree North of Legends Guild (7,1)
-        ⬩ Overgrown Idols West of Shipyard (0,6,1)
-.
-    • <:Archaeology_teleport:1128041248733806764> Archaeology Teleports
-        ⬩ Archaeology Campus (1)
-        ⬩ Infernal Source (3)
-        ⬩ Stormguard Citadel (6)
-        ⬩ Chief Tess (9,2)
-        ⬩ Goblin Generals (9,3)
-        ⬩ Isaura (9,4)
-        ⬩ Lowse (9,5)
-        ⬩ Soran (9,8)
-.
-    • <:masterquestcape:1091050888828813412> Quest Cape
-        ⬩ Legends Guild (7)
-        ⬩ Tears of Guthix (8)
-        ⬩ Varrock Musuem (9)
-        ⬩ World Gate (0)
-
 .
 ⬥ <:thinkong:1127696157913661550> Tips and Tricks
     • In-game sounds can help with scans. Listening to the pulse instead of staring at your feet allows to pay attention to your surroundings and get information as you're teleporting into an area
@@ -230,7 +209,7 @@ A special thank you to the following people:
       },
       {
         "name": "__Presets and Notes__",
-        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Useful Teleports]($linkmsg_usefulteles$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
+        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
         "inline": true
       }
     ]
