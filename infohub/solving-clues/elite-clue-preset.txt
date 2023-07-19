@@ -118,28 +118,38 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
-.
-⬥ <:houseteleport:1126149195330486424> Player Owned House
-    • Located at Menaphos <:menaphoslode:1032552289589796904>
 
-.
-⬥ <:globetrotterjacket:1123592261175889971> Jacket Steps
-.tag:jacketsteps
-    • Brimhaven Dungeon (after checking starting area)
-    • Tirannwn Scan (after checking all areas)
-    • Fremennik Slayer Dungeon (if "Scan another level" message isn't received)
-    • Compass Spots around the Iceberg (North Fremennik Lodestone)
-    • Graveyard north Drakan's Castle
-    • Wilderness Steps that aren't easily accessible
-
-.
-⬥ <:globetrotterbackpack:1123592248056102993> Backpack Steps
 .tag:backpacksteps
-    • Mos Le'Harmless Scan
-    • Lumbridge Swamp Cave Scan
-    • Brimhaven Dungeon Scan (if "Scan another level" is received)
-    • Wilderness Steps that aren't easily accessible
-
+.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after checking starting area\n⬥ [Tirannwn Scan](https://i.imgur.com/WGa2CNT.png) - after teleporting with <:quiver:656863806080811038> in order 7, 6, 1 ( <:dive:1049378668197195808> SE ), 3\n⬥ [Fremennik Slayer Dungeon](https://i.imgur.com/p6PSMdB.png) - if 'scan another level' message isn't received\n⬥ [Compass Spots around the Iceberg](https://i.imgur.com/6VlVivg.png) - North Fremennik Lodestone\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Graveyard north Drakan's Castle](https://i.imgur.com/OB4Frqq.png)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
+        "value": "⬥ [Mos Le'Harmless Scan](https://i.imgur.com/tNSK8js.png)\n⬥ [Lumbridge Swamp Cave Scan](https://i.imgur.com/eHRMmYt.png)\n⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - if 'scan another level' message isn't received\n⬥ Wilderness Steps that aren't easily accessible",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
 ⬥ <:accelpb:1128031529063428116> Powerburst Usage
 .tag:accelpb
@@ -156,6 +166,10 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
         ⬩ Kharidian Desert
         ⬩ Piscatoris Hunter Area
         ⬩ Furthest West West Ardougne steps
+
+.
+⬥ <:houseteleport:1126149195330486424> Player Owned House
+    • Located at Menaphos <:menaphoslode:1032552289589796904>
 
 .
 ⬥ <:Home_Teleport_icon:1128041042646683728> Useful teleport options
@@ -216,7 +230,7 @@ A special thank you to the following people:
       },
       {
         "name": "__Presets and Notes__",
-        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Jacket Steps]($linkmsg_jacketsteps$)\n⬥ [Backpack Steps]($linkmsg_backpacksteps$)\n⬥ [Powerburst Steps]($linkmsg_accelpb$)\n⬥ [Useful Teleports]($linkmsg_usefulteles$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
+        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Useful Teleports]($linkmsg_usefulteles$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
         "inline": true
       }
     ]
