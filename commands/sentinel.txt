@@ -1,0 +1,15 @@
+.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Nature's Sentinel Outfit <:Naturessentinelhelm:1127691838996873366>__",
+        "value": "⬥ [Summary](https://imgur.com/c5NjHAp)\n⬥ Artic Pine Tree (0,3) → Quick teleport for Fremennik Isles scan\n⬥ Magic Trees (6,4) → Tirannwn scan\n⬥ Teaks South West of Castle Wars (0,1,3)\n⬥ Elder Tree North of Legends Guild (7,1)\n⬥ Overgrown Idols West of Shipyard (0,6,1)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
