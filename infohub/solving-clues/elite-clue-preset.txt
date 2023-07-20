@@ -73,29 +73,20 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
     • Overgrown Idols
     • Lava Flow Mine
 
-.
+> __**Passage of the Abyss**__
+.tag:passage
 {
   "embed": {
-    "title": "",
+    "title": "__Passage of the Abyss__ <:potagreen:1123597971737559110> <:potared:1123597976208674888>",
     "color": 39423,
     "fields": [
       {
-        "name": "__Passage of the Abyss #1__ <:potared:1123597976208674888> ",
-        "value": "⬥ [Skills Necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat Bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Digsite Pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of Slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's Necklace](https://runescape.wiki/w/Traveller%27s_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: <:digsitependant:1124762422507479151> Requires the completion of [The Dig Site](https://runescape.wiki/w/The_Dig_Site) to make or use.* ",
+        "name": "__Passage  #1__",
+        "value": "⬥ [Skills Necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat Bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Digsite Pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of Slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's Necklace](https://runescape.wiki/w/Traveller%27s_necklace) <:travellersnecklace:1124783946186629171>",
         "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
+      },
       {
-        "name": "__Passage of the Abyss #2__ <:potagreen:1123597971737559110>",
+        "name": "__Passage #2__",
         "value": "⬥ [Enlightened Amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of Respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569> \n⬥ [Ring of Duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games Necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
         "inline": true
       }
@@ -103,7 +94,8 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
-.
+> __**Fairy Rings**__
+.tag:fairyrings
 {
   "embed": {
     "title": "",
@@ -118,6 +110,8 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
+> __**Globetrotter Jacket & Backpack**__
+.tag:jacketbackpack
 {
   "embed": {
     "title": "",
@@ -147,6 +141,8 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
+> __**Powerburst Usages**__
+.tag:powerbursts
 {
   "embed": {
     "title": "",
@@ -154,14 +150,15 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
     "fields": [
       {
         "name": "__Powerbursts Usage__ <:accelpb:1128031529063428116>",
-        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Khardidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: <:accelpb:1128031529063428116> [Powerbursts of Acceleration](https://runescape.wiki/w/The_Dig_Site) don't work in the wilderness.* ",
+        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Khardidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116> ",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-.
+> __**Useful Teleports**__
+.tag:usefulteleports
 {
   "embed": {
     "title": "",
@@ -169,33 +166,40 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
     "fields": [
       {
         "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Located at Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Artic Pine Tree (0,3) → Quick teleport for Fremennik Isles scan\n⬥ Magic Trees (6,4) → Tirannwn scan\n⬥ Teaks South West of Castle Wars (0,1,3)\n⬥ North Yanille Ivy (0,5,7)\n⬥ Elder Tree North of Legends Guild (7,1)\n⬥ Overgrown Idols West of Shipyard (0,6,1)\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764> \n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Chief Tess (9,2)\n⬥ Goblin Generals (9,3) (1)\n⬥ Isaura (9,4)\n⬥ Lowse (9,5)\n⬥ Soran (9,8)\n\n__**Quest Cape**__ <:masterquestcape:1091050888828813412>\n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Musuem (9)\n⬥ World Gate (0)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Located at Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Artic Pine Tree (0,3) → Quick tp for Fremennik Isles scan\n⬥ Magic Trees (6,4) → Tirannwn scan\n⬥ Teaks South West of Castle Wars (0,1,3)\n⬥ North Yanille Ivy (0,5,7)\n⬥ Elder Tree North of Legends Guild (7,1)\n⬥ Overgrown Idols West of Shipyard (0,6,1)\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Chief Tess (9,2)\n⬥ Goblin Generals (9,3) (1)\n⬥ Isaura (9,4)\n⬥ Lowse (9,5)\n⬥ Soran (9,8)\n\n__**Quest Cape**__ <:masterquestcape:1091050888828813412>\n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (Compass)\n⬥ Blue Dragons (Taverly Scan)\n⬥ Red Dragons (Brimhaven Scan)\n⬥ Black Dragons - Evil Chicken (Zanaris Scan)",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-.
-.
-⬥ <:thinkong:1127696157913661550> Tips and Tricks
-    • In-game sounds can help with scans. Listening to the pulse instead of staring at your feet allows to pay attention to your surroundings and get information as you're teleporting into an area
-    • Use Totem of Summoning for longer meerkat timer<:TotemofSummoning:1127695244805287946>
-    • Disassemble <:dorgeshkaansphere:1127677637981126699> for <:Bik:908044805475553321> <:catalystofalteration:1127677641466597537> procs
-    • <:trinkets:1131303172292489427> used for Brutal Green Dragons (compass), Blue Dragons (Taverly Dungeon scan), Red Dragons (Brimhaven Dungeon scan), Black Dragons - Evil Chicken Lair (Zanaris scan)
-    • You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals
-    • Activating <:globetrotterjacket:1123592261175889971> on the Wilderness Crater scan will show you the level it is at, narrowing down your search route
-    • For the North Eastern Daemonheim spot - Either use <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or <:warsretreatteleport:1126149193908633721> set to  The Shadow Reef
-    • Use <:Lantadymeincense:1127691837197525033> to extend your <:Spiritattractionflask:1127681167005589545> timer
-    • If you run out of <:Naturessentinelhelm:1127691838996873366> charges, swap to BIS Preset (No Sentinel)
-    • For the "No Sceptre of the Gods w/o Skips" preset, use <:Shadows_Grace:1128078767399653486> and run the Lumbridge Swamp Cave scan in the dark if you have too.
+> __**Tips & Tricks**__
+.tag:tipstricks
+In-game sounds are able to assist with scans. Listening to the pulse instead of staring at your feet allows you focus on surroundings and get information as you are teleporting from one place to another.
 
+⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>
+⬥ You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals
+⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route
+⬥ For the North Eastern Daemonheim spot - Either use Dragonkin Laboratory Tokens <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef
+⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs
+⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 6 to 8 minutes.
+⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)
+⬥ For the "No Sceptre of the Gods w/o Skips" preset, use <:shadowsgrace:895999229737185280> and run the Lumbridge Swamp Cave scan in the dark if you have too.
 .
-**__Shoutouts__**
-A special thank you to the following people:
-<@350311991610703875> for the main base preset
-<@127512892319858689> for the no SOTG preset
-
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Shoutouts__ �",
+        "value": "Thank you to <@350311991610703875> and <@127512892319858689> for providing the presets",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
 {
   "embed": {
