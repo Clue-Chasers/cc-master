@@ -8,7 +8,7 @@ Any questions regarding the presets, ask in <#400499160094212097>.
 Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
 
 .
-> **__Learning how to do Elite Clues__**
+> **__Learning Elite Clues__**
 .tag:learningelites
 Below are a couple of useful resources to help you solve elites:
 .
@@ -31,7 +31,7 @@ __Scan Trainer__
 
 .
 > **__Elite Clue Presets__**
-.tag:elitespresets
+.tag:presets
 {
   "embed": {
     "title": "",
@@ -39,42 +39,34 @@ __Scan Trainer__
     "fields": [
       {
         "name": "__Preset Examples__",
-        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/xQgcIQnlNLlTrrlCer31)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/TTRhjhs5vMaWl2qYGAqf)",
+        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/xQgcIQnlNLlTrrlCer31)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/TTRhjhs5vMaWl2qYGAqf)\n⬥ <#1128064843254083655>",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-An image to the Legacy Preset can be found at <#1128064843254083655>
-.tag:oldpreset
-.
 > __**Preset Notes**__
 .tag:notes
-⬥ Be on Lunars <:sbslunars:565726489467682816>
-    • You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports
-    • Traingulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)
-⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>
-⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692> (Use scroll on every step)
-⬥ Portable Obelisk can be swapped for Obelisk Shards
-⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six <:karil:641696573272621086>
-
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset Notes__",
+        "value": "⬥ Be on Lunars <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Portable Obelisk <:portableobelisk:1131407613469409370> can be swapped for Obelisk Shards <:obeliskshard:1131407611162529822>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n\n**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164> \n⬥ Dungeoneering Cape <:dgcape:976732922545586246>\n⬥ Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports
+Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)
 .
-⬥ <:maxcape:580177795703898117> Max Cape Perks
-    • <:slayer:797896049548066857> Slayer
-    • <:dungeoneering:1003947795541143632> Dungeoneering
-    • <:masterquestcape:1091050888828813412> Master Quest Cape / Quest Cape
-        ⬩ <:agilitycape:1126149218357215242> Anachronia Cape Stand
-
-⬥ <:archaeology:941211288665739274> Archaeology Relics
-    • <:abyssallink:1124762426265583727> Abyssal Link
-
-⬥ <:gote:900765150678749204> Grace of the Elves
-    • Overgrown Idols
-    • Lava Flow Mine
-
 > __**Passage of the Abyss**__
-.tag:passage
+.tag:pota
 {
   "embed": {
     "title": "__Passage of the Abyss__ <:potagreen:1123597971737559110> <:potared:1123597976208674888>",
@@ -95,7 +87,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
 }
 .embed:json
 > __**Fairy Rings**__
-.tag:fairyrings
+.tag:fairy
 {
   "embed": {
     "title": "",
@@ -141,7 +133,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
   }
 }
 .embed:json
-> __**Powerburst Usages**__
+> __**Powerburst Usage**__
 .tag:powerbursts
 {
   "embed": {
@@ -150,7 +142,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
     "fields": [
       {
         "name": "__Powerbursts Usage__ <:accelpb:1128031529063428116>",
-        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Khardidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116> ",
+        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Kharidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116> ",
         "inline": true
       }
     ]
@@ -158,7 +150,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
 }
 .embed:json
 > __**Useful Teleports**__
-.tag:usefulteleports
+.tag:useful
 {
   "embed": {
     "title": "",
@@ -174,7 +166,7 @@ An image to the Legacy Preset can be found at <#1128064843254083655>
 }
 .embed:json
 > __**Tips & Tricks**__
-.tag:tipstricks
+.tag:tricks
 In-game sounds are able to assist with scans. Listening to the pulse instead of staring at your feet allows you focus on surroundings and get information as you are teleporting from one place to another.
 
 ⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>
@@ -208,12 +200,12 @@ In-game sounds are able to assist with scans. Listening to the pulse instead of 
     "fields": [
       {
         "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Learning how to do Elite Clues]($linkmsg_learningelites$)\n⬥ [Gathering Elites]($linkmsg_gatheringelites$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Learning Elite Clues]($linkmsg_learningelites$)\n⬥ [Gathering Elites]($linkmsg_gatheringelites$)",
         "inline": true
       },
       {
         "name": "__Presets and Notes__",
-        "value": "⬥ [Elite Presets]($linkmsg_elitespresets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Legacy Preset Image]($linkmsg_oldpreset$)",
+        "value": "⬥ [Elite Presets]($linkmsg_presets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Passage of the Abyss]($linkmsg_pota$)\n⬥ [Fairy Ring Favourites]($linkmsg_fairy$)\n⬥ [Jacket & Backpack use]($linkmsg_jacketbackpack$)\n⬥ [Powerburst Usage]($linkmsg_powerbursts$)\n⬥ [Useful Teleports]($linkmsg_useful$)\n⬥ [Tips & Tricks]($linkmsg_tricks$)",
         "inline": true
       }
     ]
