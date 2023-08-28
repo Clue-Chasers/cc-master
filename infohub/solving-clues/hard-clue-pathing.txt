@@ -16,7 +16,7 @@ Temporary playlists to all Hard clue steps performed, these steps are all perfor
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Anagram Clues]($linkmsg_anagrams$)\n⬥ [Coordinate Clues]($linkmsg_coords$)\n⬥ [Cryptic Clues]($linkmsg_crypts$)\n⬥ [Emote Clues]($linkmsg_emotes$)\n",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Anagram Clues]($linkmsg_anagrams$)\n⬥ [Coordinate Clues]($linkmsg_coords$)\n⬥ [Cryptic Clues]($linkmsg_crypts$)\n⬥ [Emote Clues]($linkmsg_emotes$)\n⬥ [Map Clues]($linkmsg_maps$)",
     "color": 12745742
   }
 }
