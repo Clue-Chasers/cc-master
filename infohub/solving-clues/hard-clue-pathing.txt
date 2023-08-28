@@ -1,0 +1,26 @@
+**__Hard Clue Pathing__** *(courtesy of <@161169420444631040>)*
+.tag:intro
+__**Introduction**__
+.
+Temporary playlists to all Hard clue steps performed, these steps are all performed in a way to be easy to replicate and are NOT to be seen as the absolute best ways to do these steps.
+
+.tag:anagrams
+
+.tag:coords
+
+.tag:crypts
+
+.tag:emotes
+
+.tag:maps
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Anagram Clues]($linkmsg_anagrams$)\n⬥ [Coordinate Clues]($linkmsg_coords$)\n⬥ [Cryptic Clues]($linkmsg_crypts$)\n⬥ [Emote Clues]($linkmsg_emotes$)\n",
+    "color": 12745742
+  }
+}
+.embed:json
+.pin:delete
+.
+Return to <#1023016354145648741>
