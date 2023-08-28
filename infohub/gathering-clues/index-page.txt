@@ -1,10 +1,10 @@
 **Assumes 10 procs an hour. 1 hour of Scripture of Bik <:scriptureofbik:892342109791735848>  averages:**
 
-1.1 x Sealed clue scroll (easy)
-5.2 x Sealed clue scroll (medium)
-4.3 x Sealed clue scroll (hard)
-4.7 x Sealed clue scroll (elite)
-0.17 x Sealed clue scroll (master)
+1.1 x Sealed clue scroll <:Easy:633728862039179294>
+5.2 x Sealed clue scroll <:Medium:633728704438075435>
+4.3 x Sealed clue scroll <:Hard:633728361918758930>
+4.7 x Sealed clue scroll <:Elite:633732493228638209>
+0.17 x Sealed clue scroll <:Master:1019920500807450666>
 
 **Easy Clues <:Easy:633728862039179294>**
 <#1024155876552085594> (85/h) + Bik <:scriptureofbik:892342109791735848>
