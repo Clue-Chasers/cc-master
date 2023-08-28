@@ -21,7 +21,6 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!notrading` - Shows our server rules and explains that trading is not allowed in our channels.
 ⬥ `!suggestion` - Links suggestions forum and offers examples of possible suggestions.
 ⬥ `!twitter` - Links the Clue Chasers twitter.
-⬥ `!website` - Links the Clue Chasers website.
 
 .
 > __**Equipment**__
