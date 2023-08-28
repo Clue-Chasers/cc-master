@@ -32,7 +32,6 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 > __**Collection Log**__
 .tag:rewards
 ⬥ `!forts` - Generates a list of possible items that could be disassembled into fortunate components.
-⬥ `!alchs` - Generates a list of every item that can be created with the necessary ingredients required.
 
 .
 > __**Abilities/Spells**__
