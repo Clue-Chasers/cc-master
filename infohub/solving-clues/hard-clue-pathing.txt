@@ -3,16 +3,22 @@
 __**Introduction**__
 .
 Temporary playlists to all Hard clue steps performed, these steps are all performed in a way to be easy to replicate and are NOT to be seen as the absolute best ways to do these steps.
-
+https://www.youtube.com/playlist?list=PLIfQFweO4udTDbdpVJoWRYObQgmG02eMO
+> __**Anagrams**__
 .tag:anagrams
-
+https://www.youtube.com/playlist?list=PLIfQFweO4udRZ_zzCXMyXscoBXB96Eg6E
+> __**Coords**__
 .tag:coords
-
+https://www.youtube.com/playlist?list=PLIfQFweO4udRsyK9vy6cSZfX3ItTfBWm-
+> __**Cryptics**__
 .tag:crypts
-
+https://www.youtube.com/playlist?list=PLIfQFweO4udQZUqRdMrAbEeBgjIn1SlTQ
+> __**Emotes**__
 .tag:emotes
-
+https://www.youtube.com/playlist?list=PLIfQFweO4udQ1qSdiIZc_Rl_37abFc_wt
+> __**Maps**__
 .tag:maps
+.pin:delete
 {
   "embed": {
     "title": "__Table of Contents__",
