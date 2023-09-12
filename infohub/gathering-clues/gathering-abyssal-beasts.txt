@@ -1,1 +1,78 @@
+**__Abyssal Beasts - Elite Gathering__ (courtesy of <@145884917627224065>)**
+> **Introduction**
+.tag:intro
+Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
+Abyssal Beasts are good for gathering elite clues <:Elite:633732493228638209>.
+.
+> **Requirements**
+.tag:reqs
+⬥ <:slayer:797896049548066857> 105 Slayer
+
+> **Useful Items and Unlocks**
+.tag:useful
+All styles:
+⬥ <:darkness:1137809209782698024> Darkness
+If Magic:
+⬥ <:gchain:787904334495088672> Greater Chain
+⬥ <:gsunshine:994644352871714836> Greater Sunshine
+⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave
+⬥ <:magmatempest:902209626509025290> Magma Tempest
+⬥ <:incitefear:856635090783567902> Incite Fear
+If Melee:
+⬥ <:gfury:535532879334080527> Greater Fury
+⬥ <:chaosroar:994644356671737966> Chaos Roar
+⬥ <:corbicula:690136117273821280> Corbicula ROoT Perk
+⬥ <:vestmentsofhavochood:994189297659940904> Full Vestments
+If Necromancy:
+⬥ <:spectralscythe3:1137809152043925505> Full Spectral Scythe
+
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1137809209782698024> Darkness and your best damage boosting prayer on at all times.
+⬥ You will need to stand in a specific spot for this to be optimal
+.img:https://media.discordapp.net/attachments/668944906521280533/1151270254744453181/image.png
+
+.tag:positionpreset
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Presets__",
+        "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/AQLd26eWBJsR636fijqF)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/buoxLtXJnLoW7GJHAuW9)\n⬥ [Necromancy](https://pvme.github.io/preset-maker/#/TmuMZEygn0gsYzff6rNX)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+**Action Bars**
+.tag:bar
+⬥ Note:
+    • The kills per hour is using best in slot and having the max levels in the relevant style
+    • All methods use Legendary Pet and <:aggrovl:689551388576972805> Aggroverloads, you can higher kills per hour with <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions
+**Magic 600+ kph**
+.img:https://media.discordapp.net/attachments/668944906521280533/1151246925958488265/ActionBar_2.png
+**Melee 530+ kph**
+.img:https://media.discordapp.net/attachments/668944906521280533/1151268254204051538/ActionBar_3.png
+**Necromancy 540+ kph**
+.img:https://media.discordapp.net/attachments/668944906521280533/1151217208551284816/ActionBar_1.png
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Presets]($linkmsg_positionpreset$)\n⬥ [Action Bars]($linkmsg_bar$)"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
