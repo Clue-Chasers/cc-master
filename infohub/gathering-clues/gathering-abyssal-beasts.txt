@@ -12,7 +12,7 @@ Abyssal Beasts are good for gathering elite clues <:Elite:633732493228638209>.
 > **Useful Items and Unlocks**
 .tag:useful
 All styles:
-⬥ <:darkness:1137809209782698024> Darkness
+⬥ <:darkness:1151275891289227344> Darkness
 If Magic:
 ⬥ <:gchain:787904334495088672> Greater Chain
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine
@@ -25,9 +25,9 @@ If Melee:
 ⬥ <:corbicula:690136117273821280> Corbicula ROoT Perk
 ⬥ <:vestmentsofhavochood:994189297659940904> Full Vestments
 If Necromancy:
-⬥ <:spectralscythe3:1137809152043925505> Full Spectral Scythe
+⬥ <:spectralscythe3:1151275912164290641> Full Spectral Scythe
 
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1137809209782698024> Darkness and your best damage boosting prayer on at all times.
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1151275891289227344> Darkness and your best damage boosting prayer on at all times.
 ⬥ You will need to stand in a specific spot for this to be optimal
 .img:https://media.discordapp.net/attachments/668944906521280533/1151270254744453181/image.png
 
