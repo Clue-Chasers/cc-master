@@ -72,7 +72,7 @@ Swap a powerburst <:accelpb:1128031529063428116> for Grand Seed Pods <:grandseed
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
-        "value": "⬥ [Yanille Agility Dungeon](https://runescape.wiki/w/Yanille_Agility_dungeon) → <:Watchtower_Teleport_icon:1131959094643798048> / <:agility:1039864819760758844>\n⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS) if on PB cooldown <:accelpb:1128031529063428116>\n⬥ [Cairn Isle](https://runescape.wiki/w/Cairn_Isle) → <:portablefairyring:1123597955115515944> (CKR)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
+        "value": "⬥ [Yanille Agility Dungeon](https://runescape.wiki/w/Yanille_Agility_dungeon) → <:Watchtower_Teleport_icon:1131959094643798048> / <:agility:1039864819760758844>\n⬥ [Gu'Tanoth below Yanille and Cave](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4) / <:portablefairyring:1084799722780360704> (ALP)\n⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS) if on PB cooldown <:accelpb:1128031529063428116>\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) if using <:puzzleskipticket:1123590720301830215>\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
         "inline": true
       }
     ]
@@ -86,7 +86,7 @@ Swap a powerburst <:accelpb:1128031529063428116> for Grand Seed Pods <:grandseed
     "fields": [
       {
         "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
-        "value": "⬥ Piscatoris Fishing Colony → <:portablefairyring:1123597955115515944> (AKQ)\n⬥ Worker District → <:Worker_district_teleport:1151211386064605275>\n⬥ Citric Cellar → <:grandseedpod:1124772015425986600> / <:masterfarmerhat:1123596341759709296>\n⬥ Jokkul's Tent if above 2 charges \n⬥ Red Art Tans → <:portsarimlode:1032552319662960693>\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
+        "value": "⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) → <:portablefairyring:1123597955115515944> (AKQ)\n⬥ [Citric Cellar](https://runescape.wiki/w/Heckel_Funch) → <:grandseedpod:1124772015425986600> / <:masterfarmerhat:1123596341759709296>\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
         "inline": true
       }
     ]
