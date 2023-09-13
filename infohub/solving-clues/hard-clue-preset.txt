@@ -1,23 +1,23 @@
-**Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
+# **Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
 .
-> **__Introduction__**
+> ## **__Introduction__**
 .tag:intro
-This guide is for players seeking the most efficient presets to solve hard clues. It assumes you possess all required items and provides additional information in a few sections. For those solely interested in presets, scroll to the bottom.
+This guide is designed for players aiming to optimize their presets for solving hard clues by style. It assumes you have all necessary items and offers additional information in select sections. If you're focused solely on presets, please scroll to the bottom.
 For a general understanding check out <#1120274004222161006>
-To see the cost analysis of no skips vs. using skips, use the command `!casket` in <#333343575737892864>.
+To compare the cost analysis of using skips versus not using skips, use the command, `!casket` in <#333343575737892864>.
 
 .
-> **__Gathering Hard Clues__**
+> ## **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1024156645267353630> or <#1024158713310892112>
 
 .
-> **__Teleport Information__**
+> ## **__Teleport Information__**
 .tag:teleports
 {
   "embed": {
     "title": "__Which teleport jewellery to store?__ <:potagreen:1123597971737559110> <:potared:1123597976208674888>",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
       {
         "name": "__POTA  #1__",
@@ -36,7 +36,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Fairy Ring Favorites <:portablefairyring:1084799722780360704>__",
@@ -50,7 +50,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Useful Teleports__ <:hometeleport:1032540077764653076>",
@@ -61,43 +61,24 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
   }
 }
 .embed:json
-> **__Equipment Utility__**
+> ## **__Jackets | Backpacks | Powerbursts__**
 .tag:utility
-.
 {
   "embed": {
-    "title": "",
-    "color": 39423,
+    "title": "__Equipment Utility__ ",
+    "color": 2067276,
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
         "value": "⬥ [Yanille Agility Dungeon](https://runescape.wiki/w/Yanille_Agility_dungeon) → <:Watchtower_Teleport_icon:1131959094643798048> / <:agility:1039864819760758844>\n⬥ [Gu'Tanoth below Yanille and Cave](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4) / <:portablefairyring:1084799722780360704> (ALP)\n⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS) if on PB cooldown <:accelpb:1128031529063428116>\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) if using <:puzzleskipticket:1123590720301830215>\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
+        "inline": false
+      },
       {
         "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
         "value": "⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) → <:portablefairyring:1123597955115515944> (AKQ)\n⬥ [Citric Cellar](https://runescape.wiki/w/Heckel_Funch) → <:grandseedpod:1124772015425986600> / <:masterfarmerhat:1123596341759709296>\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
+        "inline": false
+      },
+            {
         "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
         "value": "⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS)\n⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116>",
         "inline": true
@@ -106,42 +87,11 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
   }
 }
 .embed:json
-> **__Hard Clue Presets__**
-.tag:presets
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset Examples__",
-        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [BIS Preset w/o Skips (yet to make)](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)\n⬥ <#1092142938148057218>",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
 .
 {
   "embed": {
     "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Damage Rotation__",
-        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:gstaff:513203008608141314><:eofspec:746403211908481184> → <:wrack:856662355952795658>\n⬥ Video: https://gyazo.com/85383505370f2a234a037133a4102d8c",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
+    "color": 2067276,
     "fields": [
       {
         "name": "__Notes__",
@@ -155,11 +105,67 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 2067276,
     "fields": [
       {
         "name": "**__Tips__**",
         "value": "⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer. <:totemoftreasure:1124764867237269665>\n⬥ Bring a stackable amount of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for any procs.\n⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> to extend potions timers from 6 to 8 minutes if bringing any.\n⬥ If facet of luck <:lotdfacet:1123596338693673020> is not owned, bring dragon trinkets <:trinkets:1131303172292489427> for Baxtorian Falls.\n⬥ If facet of luck <:lotdfacet:1123596338693673020> is not owned, use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your amulet of nature <:amuletofnature:1123599470911815750> to the diseased vine bush patch in Herblore Habitat.",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+> ## **__Rotations | Presets__**
+.tag:presets
+{
+  "embed": {
+    "title": "__Double Agent Rotations__",
+    "color": 15548997,
+    "fields": [
+      {
+        "name": "__Magic__",
+        "value": "⬥ Equip <:inquisitorstaff:694566917553520680> → (tc) + <:icebarrage:537340400185245701> +<:gstaff:513203008608141314><:eofspec:746403211908481184> → <:wrack:856662355952795658>",
+        "inline": false
+      },
+      {
+        "name": "__Melee__",
+        "value": "⬥ Equip <:lengmh:883134308146098227> <:lengoh:883134308070604870> → (tc) + <:dragonclaw:779048041088024606> <:essenceoffinality:1128611952751554621>",
+        "inline": false
+      },
+      {
+        "name": "__Necromancy__ ",
+        "value": "⬥ Equip <:omniguard:1138809234922934282><:soulboundlantern:1138809230573441064> → (tc) + <:omniguard:1138809234922934282><:weaponspecialattack:1128611955029049405>",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "__Preset Examples (WORK IN PROGRESS)__ ",
+    "color": 15548997,
+    "fields": [
+      {
+        "name": "__Magic__ <:magic:689504724159823906>",
+        "value": "⬥ [BIS with <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
+        "inline": true
+      },
+      {
+        "name": "__Melee__ <:melee:1096130867279171706>",
+        "value": "⬥ [~~BIS with~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
+        "inline": true
+      },
+      {
+        "name": "__Necromancy__ <:necromancy:1148995625896120460>",
+        "value": "⬥ [~~BIS with~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
+        "inline": true
+      },
+           {
+        "name": "__Miscellaneous__ <:reclinedge:1151614725818437682>",
+        "value": "⬥ <#1092142938148057218>\n⬥ May include budget at a later time",
         "inline": true
       }
     ]
@@ -173,7 +179,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Hards]($linkmsg_gatheringhards$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Preset Examples | Rotation | Notes | Tips]($linkmsg_presets$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Hards]($linkmsg_gatheringhards$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)",
         "inline": true
       }
     ]
