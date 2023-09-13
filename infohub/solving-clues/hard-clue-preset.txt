@@ -1,4 +1,4 @@
-**Hard Clue Preset Guide** (courtesy of <@161545097597550593>)
+**Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
 .
 > **__Introduction__**
 .tag:intro
@@ -130,7 +130,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
     "fields": [
       {
         "name": "__Damage Rotation__",
-        "value": "(tc) + <:icebarrage:537340400185245701> + <:gstaff:513203008608141314><:eofspec:746403211908481184> → <:wrack:856662355952795658>",
+        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:gstaff:513203008608141314><:eofspec:746403211908481184> → <:wrack:856662355952795658>\n⬥ Video: https://gyazo.com/85383505370f2a234a037133a4102d8c",
         "inline": true
       }
     ]
