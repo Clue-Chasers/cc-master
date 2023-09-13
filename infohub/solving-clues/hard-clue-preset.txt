@@ -150,7 +150,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
     "fields": [
       {
         "name": "__Magic__ <:magic:689504724159823906>",
-        "value": "⬥ [BIS with <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
+        "value": "⬥ [BIS with <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/eCuOoJ1Sj0YWCfaFcuNn)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
         "inline": true
       },
       {
