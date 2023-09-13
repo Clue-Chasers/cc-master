@@ -1,18 +1,21 @@
-# **Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
+## **Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
+*Note: a **Table of Contents** can be found in the pins.*
 .
-> ## **__Introduction__**
+> ### **__Introduction__**
 .tag:intro
+.
 This guide is designed for players aiming to optimize their presets for solving hard clues by style. It assumes you have all necessary items and offers additional information in select sections. If you're focused solely on presets, please scroll to the bottom.
+
 For a general understanding check out <#1120274004222161006>
 To compare the cost analysis of using skips versus not using skips, use the command, `!casket` in <#333343575737892864>.
 
 .
-> ## **__Gathering Hard Clues__**
+> ### **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1024156645267353630> or <#1024158713310892112>
 
 .
-> ## **__Teleport Information__**
+> ### **__Teleport Information__**
 .tag:teleports
 {
   "embed": {
@@ -61,7 +64,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
   }
 }
 .embed:json
-> ## **__Jackets | Backpacks | Powerbursts__**
+> ### **__Jackets | Backpacks | Powerbursts__**
 .tag:utility
 {
   "embed": {
@@ -117,7 +120,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
 }
 .embed:json
 .
-> ## **__Rotations | Presets__**
+> ### **__Rotations | Presets__**
 .tag:presets
 {
   "embed": {
@@ -187,4 +190,3 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
 }
 .embed:json
 .pin:delete
-.
