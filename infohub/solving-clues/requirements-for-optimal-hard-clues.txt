@@ -1,11 +1,10 @@
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
-.
-### **__Hard Seers__**
+### **__[Hard Seer's](<https://runescape.wiki/w/Hard_Seers_Village_tasks>)__**
 ⬥ [Camelot Teleport](<https://runescape.wiki/w/Camelot_Teleport>) <:Camelot_Teleport_icon:1131959098938765453> can be toggled to arrive in the centre of Seers' Village <:seersvillagelode:1032552309571469342> by talking to Stankers, Sir Kay, or any Seer.
 ### **__[Hard Ardougne](<https://runescape.wiki/w/Hard_Ardougne_achievements>)__**
 ⬥ [Watchtower Teleport](<https://runescape.wiki/w/Watchtower_Teleport>) <:Watchtower_Teleport_icon:1131959094643798048> can be toggled to go to Yanille <:yanillelode:1032552311429529661> instead. (speak to any Ardougne task NPC)
-### **__[Elite desert](<https://runescape.wiki/w/Elite_Desert_achievements>)__**
+### **__[Elite Desert](<https://runescape.wiki/w/Elite_Desert_achievements>)__**
 ⬥ Unlimited teleports to __[the Ruins of Uzer](<https://runescape.wiki/w/Uzer>)__ and [Nardah](<https://runescape.wiki/w/Nardah>) using the [Desert Amulet 4](<https://runescape.wiki/w/Desert_amulet_4>). <:desertamulet4:1123599472291758192>
 ### **__[Elite Fremennik](<https://runescape.wiki/w/Elite_Fremennik_achievements>)__**
 .
@@ -20,7 +19,7 @@
 > ## **__Skills__** <:skill:1151954385736306760>
 .tag:skills
 ### **__[Max Cape](<https://runescape.wiki/w/Max_cape>)__** <:maxcape:580177795703898117>
-⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](>https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
+⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
 ⬥ Max cape perks apply to backpack allowing you to utilize the globetrotter backpack <:globetrotterbackpack:1123592248056102993> and <:dgcape:976732922545586246><:slayercape:975284344123953164><:masterquestcape:1091050888828813412>
 ### **__[112 Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
 ⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>) <:abyssallink:1124762426265583727> (can be boosted)
@@ -28,7 +27,7 @@
 .tag:quests
 ### __**[Evil Dave’s Big Day Out](<https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide>)**__
 ⬥ Ability to chip teleport tablets to alternate teleport destination by using the tablet on Dave's spellbook.
-⬥ [Dave's spellbook](<https://runescape.wiki/w/Dave%27s_spellbook>) <:davespellbook:1123597962937905242> that holds up to 1000 charges of [chipped teleports](<https://runescape.wiki/w/Dave%27s_spellbook#'Chipped'_teleports>).
+⬥ [Dave's Spellbook](<https://runescape.wiki/w/Dave_spellbook>) <:davespellbook:1123597962937905242> that holds up to 1000 charges of chipped teleports).
 ### __**[Fur ‘n’ Seek](<https://runescape.wiki/w/Fur_%27n_Seek/Wish_list>) + [Rag and Bone Man Wish List](<https://runescape.wiki/w/Rag_and_Bone_Man/Wish_list>)**__
 ⬥ Access to the Skeletal horror Teleport spell. <:Skeletal_horror_Teleport_icon:1131959111404224672>
 ### __**[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**__
@@ -46,7 +45,7 @@
 .
 ### __**[King of the Dwarves](<https://runescape.wiki/w/King_of_the_Dwarves>)**__
 ⬥ For access to the [Lava Flow Mine](<https://runescape.wiki/w/Lava_Flow_Mine>).
-### __**[The Dig Site](>https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](>https://runescape.wiki/w/Dig_Site_pendant>)**__
+### __**[The Dig Site](<https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](<https://runescape.wiki/w/Dig_Site_pendant>)**__
 ⬥ Unlocks Dig Site Pendant. <:digsitependant:1124762422507479151>
 .
 ### **__[Succession](<https://runescape.wiki/w/Succession>)__**
@@ -84,7 +83,7 @@
 ### **__[Berserker Aura](<https://runescape.wiki/w/Berserker_aura>)__** <:berserker:643505116347105290>
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
-### **__[Plant a Spirit Tree in Brimhaven](>https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
+### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
 .
 {
   "embed": {
