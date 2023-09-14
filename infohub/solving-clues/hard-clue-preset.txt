@@ -27,7 +27,7 @@ For information on how to get the optimal requirements check out <#1023963587351
     "fields": [
       {
         "name": "__POTA  #1__",
-        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller%27s_necklace) <:travellersnecklace:1124783946186629171>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>",
         "inline": true
       },
       {
@@ -76,7 +76,7 @@ For information on how to get the optimal requirements check out <#1023963587351
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
-        "value": "⬥ [Yanille Agility Dungeon](https://runescape.wiki/w/Yanille_Agility_dungeon) → <:Watchtower_Teleport_icon:1131959094643798048> / <:agility:1039864819760758844>\n⬥ [Gu'Tanoth below Yanille and Cave](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4) / <:portablefairyring:1084799722780360704> (ALP)\n⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS) if on PB cooldown <:accelpb:1128031529063428116>\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) if using <:puzzleskipticket:1123590720301830215>\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
+        "value": "⬥ [Yanille Agility Dungeon](https://runescape.wiki/w/Yanille_Agility_dungeon) → <:Watchtower_Teleport_icon:1131959094643798048> / <:agility:1039864819760758844>\n⬥ [Gu'Tanoth below Yanille and Cave](https://runescape.wiki/w/Gu'Tanoth) → <:globetrottergloves:1123592252036493344> (4) / <:portablefairyring:1084799722780360704> (ALP)\n⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS) if on PB cooldown <:accelpb:1128031529063428116>\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n⬥ [Jokul's Tent](https://runescape.wiki/w/Jokul) if above 2 charges → <:portablefairyring:1123597955115515944> (AJR)\n⬥ [Piscatoris Fishing Colony](https://runescape.wiki/w/Piscatoris_Fishing_Colony) if using <:puzzleskipticket:1123590720301830215>\n⬥ Certain Wilderness Spots <:portableobelisk:1137735861937655900>",
         "inline": false
       },
       {
@@ -86,7 +86,7 @@ For information on how to get the optimal requirements check out <#1023963587351
       },
             {
         "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
-        "value": "⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS)\n⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu%27Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116>",
+        "value": "⬥ [Kharazi Jungle SW Beach](https://runescape.wiki/w/Kharazi_Jungle) → <:portablefairyring:1123597955115515944> (CJS)\n⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu'Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116>",
         "inline": true
       }
     ]
