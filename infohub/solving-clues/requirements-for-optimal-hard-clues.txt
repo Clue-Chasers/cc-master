@@ -1,12 +1,13 @@
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Hard Seers](https://runescape.wiki/w/Seers%27_Village_Set_Tasks_-_Hard)__**
-⬥ Camelot Teleport can be toggled to arrive in the centre of Seers' Village by talking to Stankers, Sir Kay, or any Seer <:seersvillagelode:1032552309571469342>
+⬥ [Camelot Teleport](https://runescape.wiki/w/Camelot_Teleport) <:Camelot_Teleport_icon:1131959098938765453> can be toggled to arrive in the centre of Seers' Village <:seersvillagelode:1032552309571469342> by talking to Stankers, Sir Kay, or any Seer.
 ### **__[Hard Ardougne](https://runescape.wiki/w/Hard_Ardougne_achievements)__**
-⬥ for relocating Watchtower teleport <:Watchtower_Teleport_icon:1131959094643798048> → Yanille <:yanillelode:1032552311429529661>
+⬥ [Watchtower Teleport](https://runescape.wiki/w/Watchtower_Teleport) <:Watchtower_Teleport_icon:1131959094643798048> can be toggled to go to Yanille <:yanillelode:1032552311429529661> instead. (speak to any Ardougne task NPC)
 ### **__[Elite desert](https://runescape.wiki/w/Elite_Desert_achievements)__**
 ⬥ Unlimited teleports to __[the Ruins of Uzer](https://runescape.wiki/w/Uzer)__ and [Nardah](https://runescape.wiki/w/Nardah) using the [Desert Amulet 4](https://runescape.wiki/w/Desert_amulet_4). <:desertamulet4:1123599472291758192>
 ### **__[Elite Fremennik](https://runescape.wiki/w/Elite_Fremennik_achievements)__**
+.
 ⬥ Unlimited teleports to the [Rellekka marketplace](https://runescape.wiki/w/Rellekka) on [Fremmenik Sea Boots](https://runescape.wiki/w/Fremennik_sea_boots_4) <:seaboots:1123596356175548506> and [Enchanted Lyre](https://runescape.wiki/w/Enchanted_lyre). <:lyre:1151959953729409034>
 ⬥ Ability to toggle the lyre teleport destination to Jatizso, Neitiznot, Miscellania or [__Etceteria__](https://runescape.wiki/w/Etceteria) by speaking to Olaf the Bard.
 ### **__[Hard Tirannwn](https://runescape.wiki/w/Hard_Tirannwn_achievements)__**
@@ -26,7 +27,7 @@
 .tag:quests
 ### __**[Evil Dave’s Big Day Out](https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out)**__
 ⬥ Ability to chip teleport tablets to alternate teleport destination by using the tablet on Dave's spellbook.
-⬥ Dave's spellbook <:davespellbook:1123597962937905242> that holds up to 1000 charges of chipped teleports.
+⬥ [Dave's spellbook](https://runescape.wiki/w/Dave%27s_spellbook) <:davespellbook:1123597962937905242> that holds up to 1000 charges of [chipped teleports](https://runescape.wiki/w/Dave%27s_spellbook#'Chipped'_teleports).
 ### __**[Fur ‘n’ Seek](https://runescape.wiki/w/Fur_%27n_Seek/Wish_list) + [Rag and Bone Man Wish List](https://runescape.wiki/w/Rag_and_Bone_Man/Wish_list)**__
 ⬥ Access to the Skeletal horror Teleport spell. <:Skeletal_horror_Teleport_icon:1131959111404224672>
 ### __**[Temple at Senntisten](https://runescape.wiki/w/The_Temple_at_Senntisten)**__
@@ -36,40 +37,53 @@
 ### __**[Desperate Times](https://runescape.wiki/w/Desperate_Times)**__
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
 ### __**[Rum Deal](https://runescape.wiki/w/Rum_Deal)**__
-⬥ [Access to Braindeath Island](https://runescape.wiki/w/Braindeath_Island) and teleport on the Dungeoneering cape.
+⬥ Access to [Braindeath Island](https://runescape.wiki/w/Braindeath_Island) and teleport on the Dungeoneering cape.
 ### __**[Dream Mentor](https://runescape.wiki/w/Dream_Mentor)**__
 ⬥ Access to Spellbook Swap. <:sbs:543875425055670275>
 ### __**[Blood Runs Deep](https://runescape.wiki/w/Blood_Runs_Deep)**__
-⬥ Moves Queen Sigrid to Miscellania.
+⬥ Moves Queen Sigrid to [Miscellania](https://runescape.wiki/w/Miscellania).
 .
 ### __**[King of the Dwarves](https://runescape.wiki/w/King_of_the_Dwarves)**__
 ⬥ For access to the [Lava Flow Mine](https://runescape.wiki/w/Lava_Flow_Mine).
 ### __**[The Dig Site](https://runescape.wiki/w/The_Dig_Site) + [Find clean necklace in the Varrock Museum](https://runescape.wiki/w/Dig_Site_pendant)**__
 ⬥ Unlocks Dig Site Pendant.
+.
 ### **__[Succession](https://runescape.wiki/w/Succession)__**
 ⬥ Access to the Dive ability when Bladed Dive is unavailable <:dive:1049378668197195808>
-⬥ Tier 6 of the Infernal Puzzle Box becomes available, ability to add Infernal Puzzle Box to the tool belt
+⬥ Tier 6 of the Infernal Puzzle Box becomes available, ability to add [Infernal Puzzle Box](https://runescape.wiki/w/Infernal_Puzzle_Box) <:infernalpuzzlebox:994189299681607800> to the tool belt
 ### **__[Quest cape](https://runescape.wiki/w/Quest_Cape)__**
-⬥ The teleports provided by this cape are: Ancient Guthix Temple | Behind the Scenes | Champions' Guild | The Empty Throne Room | Glacor Cave
-Fountain of Heroes | Legends' Guild | Tears of Guthix |Varrock Museum | World Gate
+⬥ The teleports provided by this cape are:
+        ⬩ Ancient Guthix Temple
+        ⬩ Behind the Scenes
+        ⬩ Champions' Guild
+        ⬩ The Empty Throne Room
+        ⬩ Glacor Cave
+        ⬩ Fountain of Heroes
+        ⬩ Legends' Guild
+        ⬩ Tears of Guthix
+        ⬩ Varrock Museum
+        ⬩ World Gate
+.   
 > ## **__Other__**
 .tag:other
-### **__[Full Globetrotter outfit](https://runescape.wiki/w/Globetrotter_outfit)__**
-### **__[Double Surge ability](https://runescape.wiki/w/Double_Surge_codex)__**
-### **__[Bladed Dive ability](https://runescape.wiki/w/Bladed_Dive)__**
-### **__[Totem of Treasure](https://runescape.wiki/w/Totem_of_Treasure)__**
-### **__[Trollheim Farm Teleport](https://runescape.wiki/w/Trollheim_Farm_Teleport)__**
-⬥Livid Farm spell
-### **__[Total level 500 in Temple Trekking](https://runescape.wiki/w/Temple_Trekking)__**
+### **__[Full Globetrotter outfit](https://runescape.wiki/w/Globetrotter_outfit)__** <:globetrotterjacket:1123592261175889971>
+### **__[Double Surge ability](https://runescape.wiki/w/Double_Surge_codex)__** <:surgecodex:602561894414417944>
+### **__[Bladed Dive ability](https://runescape.wiki/w/Bladed_Dive)__** <:bd:535532854281764884>
+### **__[Totem of Treasure](https://runescape.wiki/w/Totem_of_Treasure)__** <:totemoftreasure:1124764867237269665>
+### **__[Trollheim Farm Teleport](https://runescape.wiki/w/Trollheim_Farm_Teleport)__** <:Trollheim_Farm_Teleport_icon:1151997356674383953>
+⬥ Livid Farm spell
+### **__[Total level 500 in Temple Trekking](https://runescape.wiki/w/Temple_Trekking)__** <:gamesnecklace:1124762416597700618>
 ⬥ Unlocks a shortcut to the Nature’s Grotto (total level 100) + Burgh de Rott teleport on games necklace.
-### **__[Sceptre of the Gods](https://runescape.wiki/w/Sceptre_of_the_gods)__**
-### **__[T99 Prayers: Malevolence, Desolation, Affliction, or Ruination.]()__**
-### **__[Berserker Aura](https://runescape.wiki/w/Mahjarrat_aura)__**
-### **__[Mahjarrat Aura](https://runescape.wiki/w/Maniacal_aura)__**
-### **__[Berserker Aura](https://runescape.wiki/w/Berserker_aura)__**
-### **__[Repair the CJS Fairy Ring](https://runescape.wiki/w/Kharazi_Jungle)__**
-### **__[Unlock ancient invention](https://runescape.wiki/w/Ancient_Invention)__**
-### **__[Plant a Spirit Tree in Brimhaven](https://runescape.wiki/w/Family_Spirit_Tree)__**
+### **__[Sceptre of the Gods](https://runescape.wiki/w/Sceptre_of_the_gods)__** <:sotg:1123599971023847485>
+### **__[T99 Prayers](https://runescape.wiki/w/Praesul_codex)__**
+⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
+        ⬩ Malevolence <:malevolence:513190159416557573>, Desolation <:Desolation:1128612787061538836>, Affliction <:affliction:513190158468907008>, or Ruination <:ruination:1137940996391452772>.
+### **__[Berserker Aura](https://runescape.wiki/w/Mahjarrat_aura)__** <:mahj:643148943856762890>
+### **__[Mahjarrat Aura](https://runescape.wiki/w/Maniacal_aura)__** <:mani:643505153709965322>
+### **__[Berserker Aura](https://runescape.wiki/w/Berserker_aura)__** <:berserker:643505116347105290>
+### **__[Repair the CJS Fairy Ring](https://runescape.wiki/w/Kharazi_Jungle)__** <:portablefairyring:1084799722780360704>
+### **__[Unlock ancient invention](https://runescape.wiki/w/Ancient_Invention)__** <:invention:689509250946695292>
+### **__[Plant a Spirit Tree in Brimhaven](https://runescape.wiki/w/Family_Spirit_Tree)__** <:spirittreererooter:1123597953303584799>
 .
 {
   "embed": {
