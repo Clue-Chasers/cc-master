@@ -1,7 +1,7 @@
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 .
-### **__[Hard Seers](https://runescape.wiki/w/Seers%27_Village)__**
+### **__Hard Seers__**
 ⬥ [Camelot Teleport](https://runescape.wiki/w/Camelot_Teleport) <:Camelot_Teleport_icon:1131959098938765453> can be toggled to arrive in the centre of Seers' Village <:seersvillagelode:1032552309571469342> by talking to Stankers, Sir Kay, or any Seer.
 ### **__[Hard Ardougne](https://runescape.wiki/w/Hard_Ardougne_achievements)__**
 ⬥ [Watchtower Teleport](https://runescape.wiki/w/Watchtower_Teleport) <:Watchtower_Teleport_icon:1131959094643798048> can be toggled to go to Yanille <:yanillelode:1032552311429529661> instead. (speak to any Ardougne task NPC)
