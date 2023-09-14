@@ -52,7 +52,7 @@
 ⬥ Access to the Dive ability when Bladed Dive is unavailable <:dive:1049378668197195808>
 ⬥ Tier 6 of the Infernal Puzzle Box becomes available, ability to add [Infernal Puzzle Box](https://runescape.wiki/w/Infernal_Puzzle_Box) <:infernalpuzzlebox:994189299681607800> to the tool belt
 ### **__[Quest cape](https://runescape.wiki/w/Quest_Cape)__**
-⬥ The teleports provided by this cape are:
+⬥ This cape provides teleports to the following locations:
         ⬩ Ancient Guthix Temple
         ⬩ Behind the Scenes
         ⬩ Champions' Guild
@@ -63,7 +63,7 @@
         ⬩ Tears of Guthix
         ⬩ Varrock Museum
         ⬩ World Gate
-.   
+. 
 > ## **__Other__**
 .tag:other
 ### **__[Full Globetrotter outfit](https://runescape.wiki/w/Globetrotter_outfit)__** <:globetrotterjacket:1123592261175889971>
