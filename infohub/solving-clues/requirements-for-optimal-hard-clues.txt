@@ -14,6 +14,7 @@
 ⬥ Additional unlimited teleport locations: [__Elf Camp__](https://runescape.wiki/w/Elf_Camp) and Tirannwn mushroom patch.
 ### **__[Hard Karamja](https://runescape.wiki/w/Karamja_achievements#Hard_achievements)__**
 ⬥ Teleport to the underground portion of the [Shilo Village mining site](https://runescape.wiki/w/Shilo_Village_mine) using [Karamja Gloves 3](https://runescape.wiki/w/Karamja_gloves_3). <:karamjagloves:1123596354766250095>
+.
 > ## **__Skills__** <:skill:1151954385736306760>
 .tag:skills
 ### **__[Max Cape](https://runescape.wiki/w/Max_cape)__** <:maxcape:580177795703898117>
@@ -40,6 +41,7 @@
 ⬥ Access to Spellbook Swap. <:sbs:543875425055670275>
 ### __**[Blood Runs Deep](https://runescape.wiki/w/Blood_Runs_Deep)**__
 ⬥ Moves Queen Sigrid to Miscellania.
+.
 ### __**[King of the Dwarves](https://runescape.wiki/w/King_of_the_Dwarves)**__
 ⬥ For access to the [Lava Flow Mine](https://runescape.wiki/w/Lava_Flow_Mine).
 ### __**[The Dig Site](https://runescape.wiki/w/The_Dig_Site) + [Find clean necklace in the Varrock Museum](https://runescape.wiki/w/Dig_Site_pendant)**__
