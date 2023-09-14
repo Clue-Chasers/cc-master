@@ -13,7 +13,10 @@ To compare the cost analysis of using skips versus not using skips, use the comm
 > ### **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1024156645267353630> or <#1024158713310892112>
-
+.
+> ### **__Optimal Requirements__**
+.tag:requirements
+For information on how to get the optimal requirements check out <#1023963587351420949>
 .
 > ### **__Teleport Information__**
 .tag:teleports
@@ -182,7 +185,7 @@ For gathering hard clues check out <#1024156645267353630> or <#10241587133108921
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Hards]($linkmsg_gatheringhards$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Hards]($linkmsg_gatheringhards$)\n⬥ [Optimal Requirements]($linkmsg_requirements$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
