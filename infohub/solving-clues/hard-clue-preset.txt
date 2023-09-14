@@ -1,4 +1,5 @@
-## **Hard Clue Preset Guide** (courtesy of <@161545097597550593> & <@161169420444631040>)
+### **__Hard Clue Preset Guide__ (courtesy of <@161545097597550593> & <@161169420444631040>**)
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 *Note: a **Table of Contents** can be found in the pins.*
 .
 > ### **__Introduction__**
@@ -8,7 +9,6 @@ This guide is designed for players aiming to optimize their presets for solving 
 
 For a general understanding check out <#1120274004222161006>
 To compare the cost analysis of using skips versus not using skips, use the command, `!casket` in <#333343575737892864>.
-
 .
 > ### **__Gathering Hard Clues__**
 .tag:gatheringhards
