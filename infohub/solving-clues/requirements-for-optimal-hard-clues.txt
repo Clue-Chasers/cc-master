@@ -1,3 +1,6 @@
+### **__Optimal Requirements Hard Clues__** <:Hard:633728361918758930>
+*Note: a **Table of Contents** can be found in the pins.*
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Hard Seer's](<https://runescape.wiki/w/Hard_Seers_Village_tasks>)__**
@@ -20,7 +23,7 @@
 .tag:skills
 ### **__[Max Cape](<https://runescape.wiki/w/Max_cape>)__** <:maxcape:580177795703898117>
 ⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
-⬥ Max cape perks apply to backpack allowing you to utilize the globetrotter backpack <:globetrotterbackpack:1123592248056102993> and <:dgcape:976732922545586246><:slayercape:975284344123953164><:masterquestcape:1091050888828813412>
+⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
 ### **__[112 Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
 ⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> (can be boosted)
 > ## **__Quests__** <:questpoint:1151954665227960390>
@@ -37,7 +40,7 @@
 ### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
 ### __**[Rum Deal](<https://runescape.wiki/w/Rum_Deal>)**__
-⬥ Access to [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>) and teleport on the Dungeoneering cape. <:dgcape:976732922545586246>
+⬥ Access to [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>) and teleport on the [Dungeoneering cape](<https://runescape.wiki/w/Dungeoneering_cape>). <:dgcape:976732922545586246>
 ### __**[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**__
 ⬥ Access to [Spellbook Swap](https://runescape.wiki/w/Spellbook_Swap). <:sbs:543875425055670275>
 ### __**[Blood Runs Deep](<https://runescape.wiki/w/Blood_Runs_Deep>)**__
@@ -85,15 +88,15 @@
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
-⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) but has an additional teleport to the Golden Palace in Menaphos.
+⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) <:pharaohsceptre:1123599968477909052> but has an additional teleport to the Golden Palace in Menaphos.
 ⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
 .
-### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__**
+### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__ <:pcodex:643166740833894400>**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
         ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>.
 ### **__Zerk Auras__**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
-        ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>), [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>), or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>).
+        ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>) <:mani:643505153709965322>, [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>) <:berserker:643505116347105290>, or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>) <:reckless:643505179378974748>.
         ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War's_Wares>)
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
