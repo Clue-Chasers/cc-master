@@ -21,7 +21,7 @@
 ⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
 ### **__[Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
 ⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
-[Shadow's Grace](<runescape.wiki/w/Shadow's_Grace>)
+[Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>)
 ⬥ Level requirement for [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>). <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
 > ## **__Quests__** <:questpoint:1151954665227960390>
 .tag:quests
@@ -86,8 +86,8 @@
 ⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) <:pharaohsceptre:1123599968477909052> but has an additional teleport to the Golden Palace in Menaphos.
 ⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
 .
-### **__Nature Sentinel Outfit__**
-### **__Master archaeologist's outfit__**
+### **__[Nature's Sentinel Outfit](<runescape.wiki/w/Natures_sentinel_outfit>)__** <:naturesentinelhelm:1104717297219797052>
+### **__[Master archaeologist's outfit](<runescape.wiki/w/Master_archaeologist_outfit>)__** <:archoutfitjacket:900765150691360768>
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
 ### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
