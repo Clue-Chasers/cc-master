@@ -1,1 +1,72 @@
+### **__Getting Started with Clues__** <:cluescroll:1037463867716018206>
+*Note: a **Table of Contents** can be found in the pins.*
 
+This page is aimed to assist players who are embarking on their clue scroll journey and looking to grasp the fundamentals. It covers various topics and provides additional in eaching section. If you are already familiar with these concepts or your main focus is exploring a particular clue tier, you can easily navigate to the bottom of the page for quick access.
+
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
+.
+> ### **__General Concept__**
+.tag:concept
+**Treasure Trails** is a [members](<https://runescape.wiki/w/Members>)-only [Distraction and Diversion](<https://runescape.wiki/w/Distraction_and_Diversion>) <:DnD_icon:1152352409868320848> in which players follow a series of clues leading towards buried treasure.
+A Treasure Trail is started by finding a [sealed clue scroll](<https://runescape.wiki/w/Sealed_clue_scroll>), which may be dropped by [various monsters](<https://discord.com/channels/332595657363685377/1023016130077532300>), [pickpocketed](<https://runescape.wiki/w/Thieving>) from [H.A.M. Members](<https://runescape.wiki/w/H.A.M._Member>) <:hammember:1097515692154167417> and [elven clan workers](<https://runescape.wiki/w/Elven_clan_worker>), received from a [treasure chest decoration](<https://runescape.wiki/w/Treasure_chest_decoration>) in an aquarium, killing the skeletal horror, purchased with [thaler](<https://runescape.wiki/w/Thaler>), obtained from the [Prosper](<https://runescape.wiki/w/Prosper>) <:Prosper:1152352942326829157> perk,
+training [gathering skills](<https://runescape.wiki/w/Gathering_skills>) or collecting [catalysts of alteration](<https://runescape.wiki/w/Catalyst_of_alteration>). <:catalystofalteration:1127677641466597537> The chances of receiing a clue scroll increase with the appropriate tier [luck](<https://runescape.wiki/w/Luck>) enhancer. <:lotd:566453486913323042>
+.
+> ### **__Gathering Aspect__**
+.tag:gathering
+As of the clue scroll overhaul on 26 February 2018, players can collect as many as 25 clue scrolls of each type of difficulty below master, subject to a soft cap. This can be increased to 50 of each type with 750 Treasure Trail Points at the Treasure Trails Reward Shop. The caps count both sealed and active clue scrolls. Master clues are unlimited. Originally, players could only have one clue scroll at a time (and reward caskets) which was later changed to one of all difficulties, and now in its current state. This soft cap can be partially bypassed, such as guaranteed or item holding services. Once the player hits the soft cap however, players cannot obtain any more clue scrolls, outside of guaranteed sources.
+
+Only one of each type of sealed clue scroll can be open at a time. Attempting to open a sealed clue scroll if a player already owns an open one will result in the following text in the chat window: You already have an active easy/medium/hard/elite treasure trail. You'll need to either complete or destroy that before starting another.
+.
+> ### **__Clue Scroll Tiers__**
+.tag:tiers
+.
+> ### **__Soft | Hard Cap__**
+.tag:cap
+.
+> ### **__Reward Shop__**
+.tag:shop
+.
+> ### **__Hidey Holes__**
+.tag:hideyholes
+.
+> ### **__Globetrotter__**
+.tag:globetrotter
+.
+> ### **__Meerkats__**
+.tag:meerkats
+.
+> ### **__Solving Aspect__**
+.tag:solving
+.
+> ### **__Alt1Toolkit__**
+.tag:alt1
+.
+> ### **__Collection Log | Rewards__**
+.tag:clog
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "color": 39423,
+    "fields": [
+      {
+        "name": ".",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [General Concept]($linkmsg_concept$)\n⬥ [Gathering Aspect]($linkmsg_gathering$)\n⬥ [Clue Scroll Tiers]($linkmsg_tiers$)\n⬥ [Soft | Hard Cap]($linkmsg_cap$)\n⬥ [Reward Shop]($linkmsg_shop$)",
+        "inline": true
+      },
+            {
+        "name": "e",
+        "value": "⬥ [Hidey Holes]($linkmsg_hideyholes$)\n⬥ [Globetrotter]($linkmsg_globetrotter$)\n⬥ [Meerkats]($linkmsg_meerkats$)\n⬥ [Solving Aspect]($linkmsg_solving$)\n⬥ [Alt1Toolkit]($linkmsg_alt1$)\n⬥ [Collection Log | Rewards]($linkmsg_clog$)",
+        "inline": true
+      },
+                  {
+        "name": "__Getting started on specific clues__",
+        "value": "⬥ <:Easy:633728862039179294> <#1120273853491466304>\n⬥ <:Medium:633728704438075435> <#1120274300310671461>\n⬥ <:Hard:633728361918758930> <#1120274004222161006>\n⬥ <:Elite:633732493228638209> <#1120274119884292127>\n⬥ <:Master:1019920500807450666> <#1120274356719861922> ",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
