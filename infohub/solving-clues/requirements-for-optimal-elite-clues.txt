@@ -1,6 +1,6 @@
 ### **__Optimal Requirements Elite Clues__** <:eliteclue:1123586941057769552>
 *Note: a **Table of Contents** can be found in the pins.*
-
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Elite Desert](<https://runescape.wiki/w/Elite_Desert_achievements>)__**
@@ -86,8 +86,8 @@
 ⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) <:pharaohsceptre:1123599968477909052> but has an additional teleport to the Golden Palace in Menaphos.
 ⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
 .
-### **__[Nature's Sentinel Outfit](<runescape.wiki/w/Natures_sentinel_outfit>)__** <:naturesentinelhelm:1104717297219797052>
-### **__[Master archaeologist's outfit](<runescape.wiki/w/Master_archaeologist_outfit>)__** <:archoutfitjacket:900765150691360768>
+### **__[Nature's Sentinel Outfit](<https://runescape.wiki/w/Natures_sentinel_outfit>)__** <:naturesentinelhelm:1104717297219797052>
+### **__[Master archaeologist's outfit](<https://runescape.wiki/w/Master_archaeologist_outfit>)__** <:archoutfitjacket:900765150691360768>
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
 ### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
