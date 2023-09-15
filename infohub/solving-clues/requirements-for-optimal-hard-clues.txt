@@ -81,11 +81,11 @@
 ### **__[Trollheim Farm Teleport](<https://runescape.wiki/w/Trollheim_Farm_Teleport>)__** <:Trollheim_Farm_Teleport_icon:1151997356674383953>
 ⬥ Livid Farm spell
 ### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on games necklace.
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
-⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaoh%27s_sceptre>) but has an additional teleport to the Golden Palace in Menaphos.
+⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) but has an additional teleport to the Golden Palace in Menaphos.
 ⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
 .
 ### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__**
@@ -94,7 +94,7 @@
 ### **__Zerk Auras__**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
         ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>), [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>), or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>).
-        ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War%27s_Wares>)
+        ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War's_Wares>)
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
 ### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
