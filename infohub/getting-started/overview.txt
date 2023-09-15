@@ -1,7 +1,9 @@
 ### **__Getting Started with Clues__** <:cluescroll:1037463867716018206>
 *Note: a **Table of Contents** can be found in the pins.*
 
-This page is aimed to assist players who are embarking on their clue scroll journey and looking to grasp the fundamentals. It covers various topics and provides additional in eaching section. If you are already familiar with these concepts or your main focus is exploring a particular clue tier, you can easily navigate to the bottom of the page for quick access.
+> ### **__General Concept__**
+.tag:intro
+This page is aimed to assist players who are embarking on their clue scroll journey and looking to grasp the fundamentals. It covers various topics and provides additional information in it's own section. If you are already familiar with these concepts or your main focus is exploring a particular clue tier, you can easily navigate to the bottom of the page for quick access.
 
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
@@ -51,12 +53,12 @@ Only one of each type of sealed clue scroll can be open at a time. Attempting to
     "color": 39423,
     "fields": [
       {
-        "name": ".",
+        "name": "<:transparent:1047157438526271488>",
         "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [General Concept]($linkmsg_concept$)\n⬥ [Gathering Aspect]($linkmsg_gathering$)\n⬥ [Clue Scroll Tiers]($linkmsg_tiers$)\n⬥ [Soft | Hard Cap]($linkmsg_cap$)\n⬥ [Reward Shop]($linkmsg_shop$)",
         "inline": true
       },
             {
-        "name": "e",
+        "name": "<:transparent:1047157438526271488>",
         "value": "⬥ [Hidey Holes]($linkmsg_hideyholes$)\n⬥ [Globetrotter]($linkmsg_globetrotter$)\n⬥ [Meerkats]($linkmsg_meerkats$)\n⬥ [Solving Aspect]($linkmsg_solving$)\n⬥ [Alt1Toolkit]($linkmsg_alt1$)\n⬥ [Collection Log | Rewards]($linkmsg_clog$)",
         "inline": true
       },
