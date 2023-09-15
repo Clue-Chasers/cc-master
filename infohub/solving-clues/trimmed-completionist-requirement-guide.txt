@@ -1,5 +1,6 @@
 ### **__Trimmed Completionist Cape Requirement Guide__ (Courtesy of <@332549285923127304>)**
 *Note: a **Table of Contents** can be found in the pins.*
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ### **__Introduction__**
 .tag:intro
 This guide is designed for experienced players aiming to acquire the complete Globetrotter outfit. It assumes that you have already completed all the necessary quests and achievement diaries. Specific sections offer supplementary information to aid you further. However, if your primary goal is to optimize presets, you can find semi-advanced presets for Hards, Elites, and Masters towards the end of this guide. These presets may incur some additional costs compared to a Beginner preset, but not the maximum cost (e.g., using 1 Passage of the Abyss instead of 2).
