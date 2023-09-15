@@ -4,33 +4,41 @@
 > ### **__Introduction__**
 .tag:intro
 .
-This guide is designed for players aiming to optimize their presets for solving hard clues by style. It assumes you have all necessary items and offers additional information in select sections. If you're focused solely on presets, please scroll to the bottom.
+This guide is tailored for players aiming to optimize their presets for solving hard clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
-For a general understanding check out <#1120274004222161006>
-To compare the cost analysis of using skips versus not using skips, use the command, `!casket` in <#333343575737892864>.
+        ⬩ For a comprehensive overview on hard clues, you can refer to <#1120274004222161006>.
+        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
+.                  
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
+
 .
 > ### **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1024156645267353630> or <#1024158713310892112>
+
 .
 > ### **__Optimal Requirements__**
 .tag:requirements
 For information on how to get the optimal requirements check out <#1023963587351420949>
+
 .
 > ### **__Teleport Information__**
 .tag:teleports
+This section will outline which teleports are used and what their use cases are.
+.
 {
   "embed": {
-    "title": "__Which teleport jewellery to store?__ <:potagreen:1123597971737559110> <:potared:1123597976208674888>",
+    "title": "__Which teleport jewellery to store?__ ",
     "color": 12745742,
     "fields": [
       {
-        "name": "__POTA  #1__",
-        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>",
+        "name": "__First passage__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
         "inline": true
       },
       {
-        "name": "__POTA #2__",
+        "name": "__Second Passage__ <:potagreen:1123597971737559110>",
         "value": "⬥ [Enlightened amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>\n⬥ [Ring of wealth](https://runescape.wiki/w/Ring_of_Wealth) <:Ring_of_Wealth:1151211387692011680>",
         "inline": true
       }
@@ -45,12 +53,7 @@ For information on how to get the optimal requirements check out <#1023963587351
     "fields": [
       {
         "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
-        "value": "⬥ [**A L Q** - Morytania: Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**D K S** - Kandarin: Snowy Hunter Area](https://runescape.wiki/w/Fairy_ring#DKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**C K R** - South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)",
-        "inline": true
-      },
-        {
-        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
-        "value": "⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**A K Q** - Kandarin: Piscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A L P** - Feldip Hills: Near Gu'Tanoth](https://runescape.wiki/w/Fairy_ring#ALP) - use if out of <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [**A L Q** - Morytania: Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**D K S** - Kandarin: Snowy Hunter Area](https://runescape.wiki/w/Fairy_ring#DKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**C K R** - South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**A K Q** - Kandarin: Piscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A L P** - Feldip Hills: Near Gu'Tanoth](https://runescape.wiki/w/Fairy_ring#ALP) - use if out of <:globetrotterjacket:1123592261175889971>\n\n*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
         "inline": true
       }
     ]
@@ -73,6 +76,8 @@ For information on how to get the optimal requirements check out <#1023963587351
 .embed:json
 > ### **__Jackets | Backpacks | Powerbursts__**
 .tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
 {
   "embed": {
     "title": "__Equipment Utility__ ",
@@ -146,7 +151,7 @@ For information on how to get the optimal requirements check out <#1023963587351
       },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ Equip <:omniguard:1138809234922934282><:soulboundlantern:1138809230573441064> → (tc) + <:omniguard:1138809234922934282><:weaponspecialattack:1128611955029049405>",
+        "value": "⬥ Equip <:omniguard:1138809234922934282><:soulboundlantern:1138809230573441064> → (tc) + <:omniguard:1138809234922934282><:weaponspecialattack:1128611955029049405>\n\n*Note: Video footage may be added at a later date.*",
         "inline": false
       }
     ]
@@ -160,7 +165,7 @@ For information on how to get the optimal requirements check out <#1023963587351
     "fields": [
       {
         "name": "__Magic__ <:magic:689504724159823906>",
-        "value": "⬥ [BIS with <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/eCuOoJ1Sj0YWCfaFcuNn)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
+        "value": "⬥ [BIS with <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/eCuOoJ1Sj0YWCfaFcuNn)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)\n\n*Note: Presets are still a work in progress.*",
         "inline": true
       },
       {
@@ -172,16 +177,12 @@ For information on how to get the optimal requirements check out <#1023963587351
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
         "value": "⬥ [~~BIS with~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/ry5pDMfikbdNZwycGQFq)\n⬥ [~~BIS without~~ <:puzzleboxskip:1107037250199506944>](https://pvme.github.io/preset-maker/#/HbJkhLC9nOYQEe5sKNAw)",
         "inline": true
-      },
-           {
-        "name": "__Miscellaneous__ <:reclinedge:1151614725818437682>",
-        "value": "⬥ <#1092142938148057218>\n⬥ May include budget at a later time",
-        "inline": true
       }
     ]
   }
 }
 .embed:json
+.
 {
   "embed": {
     "title": "",
