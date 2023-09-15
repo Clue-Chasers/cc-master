@@ -58,7 +58,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 12745742,
+    "color": 7419530,
     "fields": [
                 {
         "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
@@ -88,7 +88,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 2067276,
+    "color": 7419530,
     "fields": [
                   {
         "name": "__Hard Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
@@ -103,7 +103,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 7419530,
     "fields": [
                 {
         "name": "__Preset Suggestion__",
@@ -127,7 +127,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 7419530,
     "fields": [
                 {
         "name": "__Preset Suggestion__",
@@ -152,7 +152,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 12745742,
+    "color": 2067276,
     "fields": [
                 {
         "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
@@ -181,7 +181,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 2067276,
     "fields": [
                                     {
         "name": "__Combo Preset Notes__",
@@ -249,7 +249,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 2067276,
+    "color": 15105570,
     "fields": [
                   {
         "name": "__Elite Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
@@ -263,7 +263,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 15105570,
     "fields": [
       {
         "name": "__Preset Suggestion__",
@@ -289,7 +289,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 12745742,
+    "color": 10038562,
     "fields": [
                 {
         "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
