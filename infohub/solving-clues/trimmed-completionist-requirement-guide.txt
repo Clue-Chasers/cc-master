@@ -88,7 +88,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 2067276,
     "fields": [
                   {
         "name": "__Hard Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
@@ -149,65 +149,68 @@ If you already have Master clues, prioritize completing those first. Then, use t
 }
 .embed:json
 .
-__*Notes for both presets*__
-.
-⬥ Have your player owned house located at Taverly <:taverleylode:1032552329758650418>
-⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>
-⬥ Portable Obelisk can be swapped for Obelisk Shards
-⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>
-⬥ Keybind spade for faster digging <:spade:1124766345964306432>
-⬥ Dragon Trinkets <:trinkets:1123599465614413844> can be removed if the Dark Facet of Luck <:lotdfacet:1123596338693673020> is owned and replaced with something else
-⬥ For the best routes and what steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, please check the Google Sheet here: <#1023172759255253042>
-    • Please note this sheet is slightly out of date but the methods still work
-.
-When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket, <:globetrotterbackpack:1123592248056102993> Backpack, <:globetrotterlegs:1123592257556205638> Legs and <:globetrotterboots:1123592254066536478> Boots they replace the item in their respective slot with no further changes.
-When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you free up an extra 3 inventory slots that you can make use of. These could be filled with:
-⬥ <:potapurple:1123597973574647818> Second Passage of the Abyss
-⬥ <:crystalseed:1123597959116881920> Attuned Crystal Teleport Seed
-⬥ <:masterfarmerhat:1104718154371977326> Master Farmer Hat or <:grandseedpod:1124772015425986600> Grand Seed Pod
-⬥ <:accel:756236265472524418> Another Powerburst of Acceleration
-
-.
-⬥ <:maxcape:580177795703898117> Max Cape Perks
-    • <:slayer:797896049548066857> Slayer
-    • <:dungeoneering:1003947795541143632> Dungeoneering
-    • <:agility:1039864819760758844> Agility
-
-⬥ <:archaeology:941211288665739274> Archaeology Relics
-    • <:persistentrage:739965637056659567> Persistent Rage
-    • <:abyssallink:1124762426265583727> Abyssal Link
-    • <:shadowsgrace:895999229737185280> Shadow's Grace
-
-⬥ <:gote:900765150678749204> Grace of the Elves
-    • Overgrown Idols
-    • Lava Flow Mine
-
-⬥ <:potared:1123597976208674888> Passage of the Abyss
-    • <:ringofduelling:1124762413967880323> Ring of Duelling
-    • <:amuletofglory:1124762423686082562> Amulet of Glory
-    • <:digsitependant:1124762422507479151> Digsite Pendant
-    • <:combatbracelet:1124762419907014776> Combat Bracelet
-    • <:skillsnecklace:1124762417969254541> Skills Necklace
-    • <:gamesnecklace:1124762416597700618> Games Necklace
-
-⬥ <:portablefairyring:1084799722780360704> Fairy Ring Favourites
-    • A K Q
-        ⬩ (Kandarin: Piscatoris Hunter area)
-    • A L Q
-        ⬩ (Morytania: Haunted Woods east of Canifis)
-    • B K R
-        ⬩ (Morytania: Mort Myre, south of Canifis)
-    • C J S
-        ⬩ (Karamja: Kharazi Jungle)
-    • C K R
-        ⬩ (Karamja: South of Tai Bwo Wannai Village)
-    • C K S
-        ⬩ (Morytania: Canifis)
-    • D J P
-        ⬩ (Kandarin: Tower of Life)
-    • D K S
-        ⬩ (Kandarin: Snowy Hunter area)
-
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+                {
+        "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
+        "value": "⬥ Slayer <:slayer:797896049548066857>\n⬥ Dungeoneering <:dungeoneering:1003947795541143632>\n⬥ Agility  <:agility:1039864819760758844> ",
+        "inline": true
+      },
+                  {
+        "name": "__Archaeology Relics__ <:archaeology:941211288665739274>",
+        "value": "⬥ Persistent Rage <:persistentrage:739965637056659567>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n⬥ Shadow's Grace <:shadowsgrace:895999229737185280> ",
+        "inline": true
+      },
+                        {
+        "name": "__Grace of the Elves__ <:gote:900765150678749204>",
+        "value": "⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "inline": true
+      },
+      {
+        "name": "__Combo Clue Passage__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+                                    {
+        "name": "__Combo Preset Notes__",
+        "value": "⬥ Have your player owned house located at Taverly <:taverleylode:1032552329758650418>\n⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Portable Obelisk can be swapped for Obelisk Shards\n⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Keybind spade for faster digging <:spade:1124766345964306432>\n⬥ Dragon Trinkets <:trinkets:1123599465614413844> can be removed if the Dark Facet of Luck <:lotdfacet:1123596338693673020> is owned and replaced with something else\n⬥ For the best routes and what steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, please check the Google Sheet here: <#1023172759255253042>\n• Please note this sheet is slightly out of date but the methods still work",
+        "inline": false
+      },
+            {
+        "name": "__Combo Preset Notes__",
+        "value": "When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket, <:globetrotterbackpack:1123592248056102993> Backpack, <:globetrotterlegs:1123592257556205638> Legs and <:globetrotterboots:1123592254066536478> Boots they replace the item in their respective slot with no further changes.\n ⬥When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you free up an extra 3 inventory slots that you can make use of. These could be filled with:\n⬥ <:potapurple:1123597973574647818> Second Passage of the Abyss\n⬥ <:crystalseed:1123597959116881920> Attuned Crystal Teleport Seed\n⬥ <:masterfarmerhat:1104718154371977326> Master Farmer Hat or <:grandseedpod:1124772015425986600> Grand Seed Pod\n⬥ <:accel:756236265472524418> Another Powerburst of Acceleration",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 2067276,
+    "fields": [
+                  {
+        "name": "__Combo Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A K Q** - Kandarin: Piscatoris Hunter area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A L Q** - Morytania: Haunted Woods east of Canifis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canifis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**C K R** - Karamja: South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**C K S** - Morytania: Canifis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**D K S** - Kandarin: Snowy Hunter area](https://runescape.wiki/w/Fairy_ring#DKS)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
 ### > **__Elite Clues__**
 *Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](<https://runescape.wiki/w/Passage_of_the_abyss>) | [Portable Fairy Ring](<https://runescape.wiki/w/Portable_fairy_ring>)*
@@ -246,7 +249,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 2067276,
     "fields": [
                   {
         "name": "__Elite Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
@@ -315,7 +318,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 10038562,
     "fields": [
       {
         "name": "__Preset Suggestion__",
