@@ -1,103 +1,154 @@
-**Trimmed Completionist Cape Requirement Guide** *(Courtesy of <@332549285923127304>)*
-.
-> **__Introduction__**
+### **__Trimmed Completionist Cape Requirement Guide__ (Courtesy of <@332549285923127304>)**
+*Note: a **Table of Contents** can be found in the pins.*
+> ### **__Introduction__**
 .tag:intro
-This following is a guide to be used in conjunction with <@420315520449904640> <#1120257028762378310> for those looking to earn the full Globetrotter outfit but are more advanced in terms of their account. This will also include some extra cost over a Beginner preset, but not the maximum cost (e.g. 1 Passage of the Abyss is used instead of 2) and will assume you have all quests and all achievement diaries complete.
-If you opt to use 2 Passage of the Abyss then follow this guide <#1022566907645263892> for your teleports⁠.
-This particular resource is meant to show you the semi-advanced presets for Hards, Elites and Masters.
-.
-For how to use Alt1s Clue Solver to solve clues, please check <#1120257028762378310>
+This guide is designed for experienced players aiming to acquire the complete Globetrotter outfit. It assumes that you have already completed all the necessary quests and achievement diaries. Specific sections offer supplementary information to aid you further. However, if your primary goal is to optimize presets, you can find semi-advanced presets for Hards, Elites, and Masters towards the end of this guide. These presets may incur some additional costs compared to a Beginner preset, but not the maximum cost (e.g., using 1 Passage of the Abyss instead of 2).
+
+        ⬩ For a comprehensive overview on clues, you can refer to <#1120257028762378310>.
+        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
+.                  
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
 
 
-In order to efficiently farm Treasure Trail points for full Globetrotter <:globetrotterjacket:1123592261175889971> this is the amount of clues you will need to complete:
-.
-<:hardclue:1123586945273049109> 1000 Hard Clues
-<:hardclue:1123586945273049109> 750 Hard Clues + <:masterclue:1123586937245151303> 69 Master Clues
-<:hardclue:1123586945273049109> 500 Hard Clues + <:eliteclue:1123586941057769552> 120 Elite Clues + <:masterclue:1123586937245151303> 74 Master Clues
-<:eliteclue:1123586941057769552> 500 Elite Clues
-<:eliteclue:1123586941057769552> 350 Elite Clues + <:masterclue:1123586937245151303> 93 Master Clues
-*Note: All Master numbers are assuming the average drop rate of Masters from caskets. If you have masters to start with, do those first and then use the following calculator to find out what you need to do afterwards:*
-<https://runescape.wiki/w/Calculator:Other/Treasure_Trails_reward_points>
+__To efficiently accumulate Treasure Trail points for the full Globetrotter <:globetrotterjacket:1123592261175889971>, you will need to complete the following number of clues:__
 
-> **__Why/why not a certain Clue tier?__**
+<:hardclue:1123586945273049109> `1000 Hard Clues`
+<:hardclue:1123586945273049109> `750 Hard Clues` + <:masterclue:1123586937245151303> `69 Master Clues`
+<:hardclue:1123586945273049109> `500 Hard Clues` + <:eliteclue:1123586941057769552> `120 Elite Clues` + <:masterclue:1123586937245151303> `74 Master Clues`
+<:eliteclue:1123586941057769552> `500 Elite Clues`
+<:eliteclue:1123586941057769552> `350 Elite Clues` + <:masterclue:1123586937245151303> `93 Master Clues`
+
+*Note: The Master clue numbers assume the average drop rate of <:Master:1019920500807450666> from [reward caskets](<https://runescape.wiki/w/Sealed_clue_scroll_(master)>).
+If you already have Master clues, prioritize completing those first. Then, use the [Treasure Trail point calculator](<https://runescape.wiki/w/Calculator:Other/Treasure_Trails_reward_points>) to determine the remaining points required. <:tt_points:1051567584237064233>
+
+> **__Should you consider a specific Clue tier or not?__**
 .tag:tiers
-⬥ <:easyclue:1123586950989885510> Easy clue scrolls offer very little Treasure Trail points and are not worth doing to obtain the outfit.
-
-⬥ <:mediumclue:1123586948905324637> Medium clue scrolls require the Way of the Foot Shaped Key reward to be efficient and this is not worth purchasing prior to the outfit.
-
+⬥ <:easyclue:1123586950989885510> Easy clue scrolls offer very little [Treasure Trail points](<https://runescape.wiki/w/Treasure_Trail_Points>) and are not worth doing to obtain the outfit.
+⬥ <:mediumclue:1123586948905324637> Medium clue scrolls require the [Way of the Foot Shaped Key](<https://runescape.wiki/w/Way_of_the_foot_shaped_key>) reward to be efficient and this is not worth purchasing prior to the outfit.
 ⬥ <:masterclue:1123586937245151303> Master clue scrolls are an incredible source of Treasure Trail points and should be done as much as possible due to their speed vs reward point potential.
-    • Costume skipping tickets <:costumeskipticket:1123590734507954215> can be used to avoid needing any of the hard to get items. The average reward of a Master outweighs the cost of a Costume skipping ticket <:costumeskipticket:1123590734507954215> by a huge margin.
+    • You can use costume skipping tickets <:costumeskipticket:1123590734507954215> to bypass the need for hard-to-obtain items.
+    • The average Master reward greatly outweighs the cost of a Costume Skipping Ticket <:costumeskipticket:1123590734507954215>.
+
 .
-> **__Which is the fastest method?__**
+### > **__What is the quickest method?__**
 .tag:fastest
-This entirely depends on how fast you solve each tier of clue.
-You can use this sheet to find out the points per hour for each tier based on your own solve speed: <#1089570205216288889>
-*Note: Master drop rate (after re-rolls) from Hards is 1/11.25 and from Elites it's 1/3.75. So even if Hards may seem better points per hour vs Elites, take the amount of Masters you get into account as well.*
+⬥ The outcome largely hinges on your speed in solving each clue tier.
+    • You can determine your points per hour for each tier, considering your own solving pace, using this sheet: <#1089570205216288889>.
+
+⬥Please take note: The Master drop rate (after re-rolls) from Hard clues is `1/11.25`, and from Elite clues, it's `1/3.75`.
+    • So, while Hard clues might appear to yield better points per hour compared to Elites, be sure to factor in the number of Masters you obtain as well.
+
 .
-> **__Globetrotter Purchase Order__**
+### > **__Globetrotter Buying Sequence__**
 .tag:gorder
 <#1024461576314568784>
+
 .
-> **__Gathering Hard and Elite Clues__**
+### > **__Gathering Hard and Elite Clues__**
 .tag:gathering
-<#1023016130077532300>
+<:scriptureofbik:892342109791735848> <#1024159486644072468>
+<:Hard:633728361918758930> <#1024158713310892112> | <#1024158713310892112>
+<:Elite:633732493228638209> <#1151272561259323422> | <#1024159311913566258> | <#1123335749044031518>
+
 .
-> **__Hard Clues__**
+### > **__Hard Clues__**
+*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss) | [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*
 .tag:hards
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
+                {
+        "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
+        "value": "⬥ Slayer <:slayer:797896049548066857>\n⬥ Dungeoneering <:dungeoneering:1003947795541143632>\n⬥ Agility  <:agility:1039864819760758844> ",
+        "inline": true
+      },
+                  {
+        "name": "__Archaeology Relics__ <:archaeology:941211288665739274>",
+        "value": "⬥ Persistent Rage <:persistentrage:739965637056659567>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n⬥ Shadow's Grace <:shadowsgrace:895999229737185280> ",
+        "inline": true
+      },
+                        {
+        "name": "__Grace of the Elves__ <:gote:900765150678749204>",
+        "value": "⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "inline": true
+      },
       {
-        "name": "__Preset Suggestion__",
-        "value": "⬥ [Melee Hard Preset Sample](https://pvme.github.io/preset-maker/#/vCcs2lYtb2TUhQdczXPQ)",
+        "name": "__Hard Clue Passage__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-
-.
-**Damage Rotation for Double Agent**
-⬥ <:dragonclaw:779048041088024606> <:eofspec:746403211908481184> → <:deci:535532879325822986>
-    • If low adrenaline: <:cane:535532878969438210> → <:deci:535532879325822986> → <:sever:535532879577612298>
-.
-*__Notes__*
-.tag:equipmentnotes
-⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.
-⬥ Be on Lunars Spellbook <:sbslunars:565726489467682816>.
-    • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.
-⬥ For Melee Weapons:
-    • <:lengmh:883134308146098227> Dark Shard of Leng → <:abyssalscourge:947871842469834832> Abyssal Scourge → <:drygorelongmh:513190158900658180> Drygore
-        ⬩ <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver
 .
 {
   "embed": {
     "title": "",
     "color": 39423,
     "fields": [
-      {
-        "name": "__Preset Suggestion__",
-        "value": "⬥ [Magic Hard Preset Sample](https://pvme.github.io/preset-maker/#/CLC8Etl6ISvkybbGpNXx)",
+                  {
+        "name": "__Hard Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A L Q** - Morytania: Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**D K S** - Kandarin: Snowy Hunter Area](https://runescape.wiki/w/Fairy_ring#DKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**C K R** - South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**A K Q** - Kandarin: Piscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A L P** - Feldip Hills: Near Gu'Tanoth](https://runescape.wiki/w/Fairy_ring#ALP)",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-
 .
-**Damage Rotation for Double Agent**
-⬥ (tc) + <:icebarrage:537340400185245701> + <:gstaff:513203008608141314> <:eofspec:746403211908481184> → <:wrack:856662355952795658>
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+                {
+        "name": "__Preset Suggestion__",
+        "value": "⬥ [Melee Hard Preset Sample](https://pvme.github.io/preset-maker/#/vCcs2lYtb2TUhQdczXPQ)",
+        "inline": false
+      },
+                              {
+        "name": "__Melee Rotation for Double Agent__",
+        "value": "⬥ <:dragonclaw:779048041088024606> <:eofspec:746403211908481184> → <:deci:535532879325822986>\n⬥ If low adrenaline: <:cane:535532878969438210> → <:deci:535532879325822986> → <:sever:535532879577612298>",
+        "inline": false
+      },
+                                    {
+        "name": "__Melee Notes__",
+        "value": "⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.\n ⬥ Be on Lunars Spellbook <:sbslunars:565726489467682816>.\n ⬥ You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.\n ⬥ For Melee Weapons: <:lengmh:883134308146098227> Dark Shard of Leng → <:abyssalscourge:947871842469834832> Abyssal Scourge → <:drygorelongmh:513190158900658180> Drygore <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+                {
+        "name": "__Preset Suggestion__",
+        "value": "⬥ [Magic Hard Preset Sample](https://pvme.github.io/preset-maker/#/CLC8Etl6ISvkybbGpNXx)",
+        "inline": false
+      },
+                              {
+        "name": "__Magic Rotation for Double Agent__",
+        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:gstaff:513203008608141314> <:eofspec:746403211908481184> → <:wrack:856662355952795658>",
+        "inline": false
+      },
+                                    {
+        "name": "__Magic Notes__",
+        "value": "⬥ <:virtustop:556586038936600603> Virtus equipment is purely used for extra damage. Can be swapped out for anything else.\n⬥ Be on Ancients Spellbook <:sbsancients:859483781395120129>.\n⬥ You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.\n⬥ <:inquisitorstaff:694566917553520680> Inquisitor Staff is the only viable Magic Weapon.",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
 .
-*__Notes__*
-⬥ <:virtustop:556586038936600603> Virtus equipment is purely used for extra damage. Can be swapped out for anything else.
-⬥ Be on Ancients Spellbook <:sbsancients:859483781395120129>.
-    • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports.
-⬥ <:inquisitorstaff:694566917553520680> Inquisitor Staff is the only viable Magic Weapon.
-
 __*Notes for both presets*__
 .
 ⬥ Have your player owned house located at Taverly <:taverleylode:1032552329758650418>
@@ -158,8 +209,54 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
         ⬩ (Kandarin: Snowy Hunter area)
 
 .
-> **__Elite Clues__**
+### > **__Elite Clues__**
+*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss) | [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*
 .tag:elites
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+                {
+        "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
+        "value": "⬥ Slayer <:slayer:797896049548066857>\n⬥ Dungeoneering <:dungeoneering:1003947795541143632>\n⬥ Master Quest Cape  <:masterquestcape:1091050888828813412>",
+        "inline": true
+      },
+                  {
+        "name": "__Archaeology Relics__ <:archaeology:941211288665739274>",
+        "value": "⬥ Abyssal Link <:abyssallink:1124762426265583727>\n⬥ Shadow's Grace <:shadowsgrace:895999229737185280>",
+        "inline": true
+      },
+                        {
+        "name": "__Grace of the Elves__ <:gote:900765150678749204>",
+        "value": "⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "inline": true
+      },
+      {
+        "name": "__Elite Clue Passage__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+                  {
+        "name": "__Elite Clue Fairy Rings__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A J R** - Fremmenik Slayer Dungeon](https://runescape.wiki/w/Fairy_ring#AJR)\n⬥ [**A K Q** - Kandarin: Pïscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A K S** - Jungle Hunter Area](https://runescape.wiki/w/Fairy_ring#AKS)\n⬥ [**A L Q** - Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canifis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://runescape.wiki/w/Fairy_ring#CJR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**C K Q** - Menaphos: Imperial District](https://runescape.wiki/w/Fairy_ring#CKQ)\n⬥ [**C K R** - Karamja: South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**D L Q** - Kharidian Desert: North of Nardah](https://runescape.wiki/w/Fairy_ring#DLQ)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 {
   "embed": {
     "title": "",
@@ -169,72 +266,22 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
         "name": "__Preset Suggestion__",
         "value": "⬥ [Elite Preset Sample](https://pvme.github.io/preset-maker/#/xsNX6Q83iLlAdCyy8qZC)",
         "inline": true
+      },
+                                    {
+        "name": "__Elites Notes__",
+        "value": "⬥ Be on Lunars <:sbslunars:565726489467682816>\n⬥ You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports\n⬥ Have your player owned house located at Menaphos <:menaphoslode:1032552289589796904>\n⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Portable Obelisk can be swapped for Obelisk Shards\n⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Set a War's Retreat Portal to Barrows: Rise of the Six <:karil:641696573272621086>",
+        "inline": false
+      },
+            {
+        "name": "__Elites Notes__",
+        "value": "⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>\n⬥ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset. Shadow's Grace can be substituted for an MH/OH with mobile on it.\n⬥ Scan Guides can be found here: <#1023174431943700531>\n⬥ Scan Trainer can be found here: <#1123544061052207114>\n⬥ Compass Guides are currently being worked on, this will be included once finished",
+        "inline": true
       }
     ]
   }
 }
 .embed:json
-
-.
-__*Preset Notes Elites*__
-⬥ Be on Lunars <:sbslunars:565726489467682816>
-    • You will need to Spellbook Swap <:sbs:543875425055670275> for some teleports
-⬥ Have your player owned house located at Menaphos <:menaphoslode:1032552289589796904>
-⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>
-⬥ Portable Obelisk can be swapped for Obelisk Shards
-⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>
-⬥ Set a War's Retreat Portal to Barrows: Rise of the Six <:karil:641696573272621086>
-⬥ Scan Guides can be found here: <#1023174431943700531>
-⬥ Scan Trainer can be found here: <#1123544061052207114>
-⬥ Compass Guides are currently being worked on, this will be included once finished
-⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>
-.
-When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre. <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset
-
-.
-⬥ <:maxcape:580177795703898117> Max Cape Perks
-    • <:slayer:797896049548066857> Slayer
-    • <:dungeoneering:1003947795541143632> Dungeoneering
-    • <:masterquestcape:1091050888828813412> Master Quest Cape / Quest Cape
-
-⬥ <:archaeology:941211288665739274> Archaeology Relics
-    • <:abyssallink:1124762426265583727> Abyssal Link
-
-⬥ <:gote:900765150678749204> Grace of the Elves
-    • Overgrown Idols
-    • Lava Flow Mine
-
-⬥ <:potared:1123597976208674888> Passage of the Abyss
-    • <:ringofduelling:1124762413967880323> Ring of Duelling
-    • <:amuletofglory:1124762423686082562> Amulet of Glory
-    • <:digsitependant:1124762422507479151> Digsite Pendant
-    • <:combatbracelet:1124762419907014776> Combat Bracelet
-    • <:skillsnecklace:1124762417969254541> Skills Necklace
-    • <:gamesnecklace:1124762416597700618> Games Necklace
-
-⬥ <:portablefairyring:1084799722780360704> Fairy Ring Favourites
-    • A J R
-        ⬩ (Fremennik Slayer Dungeon)
-    • A K Q
-        ⬩ (Kandarin: Piscatoris Hunter area)
-    • A K S
-        ⬩ (Feldip Hills: Jungle Hunter area)
-    • A L Q
-        ⬩ (Morytania: Haunted Woods east of Canifis)
-    • B K R
-        ⬩ (Morytania: Mort Myre, south of Canifis)
-    • C J R
-        ⬩ (Kandarin: Sinclair Mansion (east))
-    • C J S
-        ⬩ (Karamja: Kharazi Jungle)
-    • C K Q
-        ⬩ (Menaphos: Imperial District)
-    • C K R
-        ⬩ (Karamja: South of Tai Bwo Wannai Village)
-    • D L Q
-        ⬩ (Kharidian Desert: North of Nardah)
-.
-> **__Master Clues__**
+### > **__Master Clues__**
 .tag:masters
 {
   "embed": {
@@ -301,13 +348,7 @@ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> J
     • <:combatbracelet:1124762419907014776> Combat Bracelet
     • <:skillsnecklace:1124762417969254541> Skills Necklace
     • <:ringofslaying:1124783943426789538> Ring of Slaying
-.
-> **__Shoutouts__**
-.tag:shoutouts
-**A special thank you to the following people;**
-Achievement Help for guidance on preferences and reasonable requirements.
-<@223750822671024128>, <@229107484852224000>, <@506154935822450704> for the PvME preset maker.
-<@&336568187552530434> feedback during throughout the creation.
+
 .
 {
   "embed": {
@@ -316,7 +357,7 @@ Achievement Help for guidance on preferences and reasonable requirements.
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Preset]($linkmsg_hards$)\n⬥ [Elite Preset]($linkmsg_elites$)\n⬥ [Master Preset]($linkmsg_masters$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Clue Preset]($linkmsg_hards$)\n⬥ [Elite Clue Preset]($linkmsg_elites$)\n⬥ [Master Clue Preset]($linkmsg_masters$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
@@ -324,5 +365,3 @@ Achievement Help for guidance on preferences and reasonable requirements.
 }
 .embed:json
 .pin:delete
-.
-Return to <#1023016354145648741>
