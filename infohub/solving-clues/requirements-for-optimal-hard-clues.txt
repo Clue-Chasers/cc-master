@@ -33,7 +33,7 @@
 ### __**[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**__
 ⬥ Access to Ancient Curses. <:soulsplit:615613924506599497>
 ### __**[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**__
-⬥ Ability to unlock the [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
+⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
 ### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
 ### __**[Rum Deal](<https://runescape.wiki/w/Rum_Deal>)**__
@@ -86,7 +86,7 @@
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
 ⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaoh%27s_sceptre>) but has an additional teleport to the Golden Palace in Menaphos.
-⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](https://runescape.wiki/w/Desert_achievements#Medium_achievements) completed, and further to 60 with [hard Desert achievements](https://runescape.wiki/w/Hard_Desert_achievements) completed.
+⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
 .
 ### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
