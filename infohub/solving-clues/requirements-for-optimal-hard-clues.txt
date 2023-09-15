@@ -33,7 +33,7 @@
 ### __**[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**__
 ⬥ Access to Ancient Curses. <:soulsplit:615613924506599497>
 ### __**[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**__
-⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
+⬥ Ability to unlock the [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
 ### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
 ### __**[Rum Deal](<https://runescape.wiki/w/Rum_Deal>)**__
@@ -67,21 +67,34 @@
 > ## **__Other__**
 .tag:other
 ### **__[Full Globetrotter outfit](<https://runescape.wiki/w/Globetrotter_outfit>)__** <:globetrotterjacket:1123592261175889971>
+⬥ The globetrotter outfit is an outfit that is obtainable from the [Treasure Trails Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>) with points obtained by completing [Treasure Trails](<https://runescape.wiki/w/Treasure_Trails>).
+        ⬩ The outfit will provide several QoL features some of which are charged-based through solving clues.
+.
 ### **__[Double Surge ability](<https://runescape.wiki/w/Double_Surge_codex>)__** <:surgecodex:602561894414417944>
+⬥ An item that can be read to unlock an upgrade to the [Surge](<https://runescape.wiki/w/Surge>) ability, giving it an extra charge with a separate independent and hidden cooldown.
+        ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP.
+        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use.
+        ⬩ This version can be bought from or sold to other players or the Grand Exchange, but the __untradeable version only requires 500 codex pages__.
 ### **__[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)__** <:bd:535532854281764884>
 ### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
+⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
 ### **__[Trollheim Farm Teleport](<https://runescape.wiki/w/Trollheim_Farm_Teleport>)__** <:Trollheim_Farm_Teleport_icon:1151997356674383953>
 ⬥ Livid Farm spell
 ### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on games necklace.
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
+⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
+⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaoh%27s_sceptre>) but has an additional teleport to the Golden Palace in Menaphos.
+⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](https://runescape.wiki/w/Desert_achievements#Medium_achievements) completed, and further to 60 with [hard Desert achievements](https://runescape.wiki/w/Hard_Desert_achievements) completed.
+.
 ### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
-        ⬩ Malevolence <:malevolence:513190159416557573>, Desolation <:Desolation:1128612787061538836>, Affliction <:affliction:513190158468907008>, or Ruination <:ruination:1137940996391452772>.
-### **__[Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>)__** <:mahj:643148943856762890>
-### **__[Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>)__** <:mani:643505153709965322>
-### **__[Berserker Aura](<https://runescape.wiki/w/Berserker_aura>)__** <:berserker:643505116347105290>
+        ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>.
+### **__Zerk Auras__**
+⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
+        ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>), [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>), or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>).
+        ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War%27s_Wares>)
 ### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
 ### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
