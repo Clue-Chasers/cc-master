@@ -41,7 +41,7 @@
 ### __**[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**__
 ⬥ The [ectophial](<https://runescape.wiki/w/Ectophial>) <:Ectophial:1152269826413318256>, which provides a reusable one-click teleport to the [Ectofuntus](<https://runescape.wiki/w/Ectofuntus>).
 ### __**[Branches of Darkmeyer](<https://runescape.wiki/w/The_Branches_of_Darkmeyer>)**__
-⬥ [A Drakans medallion](<runescape.wiki/w/Drakans_medallion>) <:drakansmedallion:1123599468495913073>, allowing teleportation to various places in [Morytania](<https://runescape.wiki/w/Morytania>):
+⬥ [A Drakans medallion](<https://runescape.wiki/w/Drakans_medallion>) <:drakansmedallion:1123599468495913073>, allowing teleportation to various places in [Morytania](<https://runescape.wiki/w/Morytania>):
         ⬩ [Barrows](<https://runescape.wiki/w/Barrows>), [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>), [Meiyerditch](<https://runescape.wiki/w/Meiyerditch_tunnels>), [Darkmeyer](<https://runescape.wiki/w/Darkmeyer>) and [Meiyerditch Dungeon](<https://runescape.wiki/w/The_Myreque>).
 ### __**[Required Tales of the Arc](<https://runescape.wiki/w/Tales_of_the_Arc_quest_series>)**__
 ⬥ [Damage Control](<https://runescape.wiki/w/Damage_Control_(miniquest)>)
@@ -65,7 +65,7 @@ There are five tortle portals on the Islands That Once Were Turtles to get aroun
 ⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable. <:dive:1049378668197195808>
 ⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt.
 ### **__[Reset Gower Quest](<https://runescape.wiki/w/Gower_Quest>)__**
-⬥ For easy access to Paul Gower (note: DO NOT DO THIS IF YOU HAVE MQC)
+⬥ For easy access to [Paul Gower](<https://runescape.wiki/w/Paul>) (Note: DO NOT DO THIS IF YOU HAVE MQC <:masterquestcape:1091050888828813412>)
 ### **__[Quest cape](<https://runescape.wiki/w/Quest_Cape>)__**
 ⬥ This cape provides teleports to the following locations:
         ⬩ Ancient Guthix Temple
@@ -103,12 +103,14 @@ There are five tortle portals on the Islands That Once Were Turtles to get aroun
         ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War's_Wares>)
 .
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
-### **__[Unlock the Mazcab teleport](<https://runescape.wiki/w/Mazcab_Teleport>)__**
-### **__[Limitless Sigil](<https://runescape.wiki/w/Limitless_sigil>)__**
-### **__[Unlock Chaos Roar](<https://runescape.wiki/w/Chaos_Roar>)__**
-### **__[1+ Twin Furies kills and 1+ Gregorovic kills (for having access to those bosses in the portal interface)](<runescape.wiki/w/War's_Retreat>)__**
-### **__[100 boss kills (access to the portals at wars retreat)](<runescape.wiki/w/War's_Retreat>)__**
-### **__[Tier 5 prawnbroker perk](<https://runescape.wiki/w/Prawnbroker>)__**
+### **__[Unlock the Mazcab teleport](<https://runescape.wiki/w/Mazcab_Teleport>)__** <:Mazcab_Teleport_icon:1131959088348147813>
+### **__[Limitless Sigil](<https://runescape.wiki/w/Limitless_sigil>)__** <:limitless:641339233638023179>
+### **__[Unlock Chaos Roar](<https://runescape.wiki/w/Chaos_Roar>)__** <:chaosroar:994644356671737966>
+### **__[Twin Furies | Gregorovic](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
+⬥ 1kc requirement for these bosses → teleport access in the [portal interface](<runescape.wiki/w/Boss_portal_(War's_Retreat)>).
+### **__[100 boss kc requirement](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
+⬥ Access to the [portals](<https://runescape.wiki/w/War's_Retreat>) at [War's Retreat](<https://runescape.wiki/w/War's_Retreat>)
+### **__[Tier 5 prawnbroker perk](<https://runescape.wiki/w/Prawnbroker>)__** <:Prawnbroker_chathead:1152332619099418734>
 ⬥ Unlock the ability to catch Great White Sharks from any Shark fishing spots.
 .
 {
