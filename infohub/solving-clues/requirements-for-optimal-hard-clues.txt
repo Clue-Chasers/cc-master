@@ -1,5 +1,4 @@
 ### **__Optimal Requirements Hard Clues__** <:Hard:633728361918758930>
-*Note: a **Table of Contents** can be found in the pins.*
 .img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
@@ -25,10 +24,9 @@
 ⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
 ⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
 ### **__[Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
-⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
-[Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>)
-⬥ Level requirement for [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>). <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
-⬥ Level requirement for [Persistent Rage](<https://runescape.wiki/w/Persistent_Rage>). <:persistentrage:1128437146546622504>> requires level 98. (can be boosted)
+⬥ [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>) <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
+⬥ [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>) <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
+⬥ [Persistent Rage](<https://runescape.wiki/w/Persistent_Rage>) <:persistentrage:1128437146546622504> requires level 98. (can be boosted)
 > ## **__Quests__** <:questpoint:1151954665227960390>
 .tag:quests
 ### __**[Evil Dave’s Big Day Out](<https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide>)**__
@@ -81,6 +79,12 @@
         ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP.
         ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use.
         ⬩ This version can be bought from or sold to other players or the Grand Exchange, but the __untradeable version only requires 500 codex pages__.
+### **__[Double Escape ability](<https://runescape.wiki/w/Double_Escape_codex>)__** <:escapecodex:602561894443778115>
+⬥ An item that can be read to unlock an upgrade to the [Escape](<https://runescape.wiki/w/Escape>) ability, giving it an extra charge with a separate independent and hidden cooldown.
+        ⬩ The double Escape ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP.
+        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use.
+        ⬩ This version can be bought from or sold to other players or the Grand Exchange, but the __untradeable version only requires 500 codex pages__.
+.
 ### **__[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)__** <:bd:535532854281764884>
 ### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
 ⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
