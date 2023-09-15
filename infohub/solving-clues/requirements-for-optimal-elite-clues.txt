@@ -19,11 +19,10 @@
 ### **__[Max Cape](<https://runescape.wiki/w/Max_cape>)__** <:maxcape:580177795703898117>
 ⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
 ⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
-### **__[112 Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
-⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> (can be boosted)
+### **__[Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
+⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
 [Shadow's Grace](<runescape.wiki/w/Shadow's_Grace>)
-
-
+⬥ Level requirement for [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>). <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
 > ## **__Quests__** <:questpoint:1151954665227960390>
 .tag:quests
 ### __**[Evil Dave’s Big Day Out](<https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide>)**__
