@@ -53,7 +53,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 
 .
 ### > **__Hard Clues__**
-*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss) | [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*
+*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](<https://runescape.wiki/w/Passage_of_the_abyss>) | [Portable Fairy Ring](<https://runescape.wiki/w/Portable_fairy_ring>)*
 .tag:hards
 {
   "embed": {
@@ -210,7 +210,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 
 .
 ### > **__Elite Clues__**
-*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss) | [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*
+*Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](<https://runescape.wiki/w/Passage_of_the_abyss>) | [Portable Fairy Ring](<https://runescape.wiki/w/Portable_fairy_ring>)*
 .tag:elites
 {
   "embed": {
@@ -286,70 +286,61 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
+                {
+        "name": "__Max Cape Perks__ <:maxcape:580177795703898117>",
+        "value": "⬥ Crafting <:crafting:1039864810239705119>\n⬥ Dungeoneering <:dungeoneering:1003947795541143632>\n⬥ Master Quest Cape  <:masterquestcape:1091050888828813412>\n⬥ Cooking Cape on Anachronia Stand <:cooking:1011705729192820747>",
+        "inline": true
+      },
+                  {
+        "name": "__Archaeology Relics__ <:archaeology:941211288665739274>",
+        "value": "⬥ Abyssal Link <:abyssallink:1124762426265583727>\n⬥ Shadow's Grace <:shadowsgrace:895999229737185280>\n⬥ Persistent Rage <:persistentrage:739965637056659567>",
+        "inline": true
+      },
+                        {
+        "name": "__Grace of the Elves__ <:gote:900765150678749204>",
+        "value": "⬥ Jadinko Lair\n⬥ Living Rock Caverns",
+        "inline": true
+      },
       {
-        "name": "__Preset Suggestion__",
-        "value": "⬥ [Master Preset Sample](https://pvme.github.io/preset-maker/#/IrtHxg5E2YN4DOm5JWqQ)",
+        "name": "__Master Clue Passage__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of Slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's Necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-
-.
-**Damage Rotation for Double Agent**
-⬥ (tc) + <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>
-.
-    • If <:chaosroar:994644356671737966> on cooldown:
-        ⬩ (tc) + <:gbarge:535532879250456578> → <:assault:535532853979512842> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>
-.
-    • If <:chaosroar:994644356671737966> + <:assault:535532855191928842> on cooldown:
-        ⬩ (tc) + <:gbarge:535532879250456578> → <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>
-.
-*__Preset Notes Masters__*
-⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.
-⬥ For Melee Weapons:
-    • <:abyssalscourge:947871842469834832> Abyssal Scourge → <:lengmh:883134308146098227> Dark Shard of Leng → <:drygorelongmh:513190158900658180> Drygore
-        ⬩ <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver
-⬥ Make sure your <:gote:900765150678749204> Grace of the Elves has porters in it for some skilling steps
-⬥ Some steps you need to bank to do:
-    • Head protection is never a bad thing. Make it from rune for the best chance of survival.
-    • The spell struck me in the chest. Perhaps if I had worn armour today. Black looks better than red.
-⬥ Use Cooking Guild to grab Wild Pie and then cook it
-⬥ Make sure to set your <:dwarvenfishextractor:1124784907227504660> Dwarven Fish Extractor to Resource Mode
-⬥ Set your <:maxcape:580177795703898117> Max Guild teleport outside
-⬥ It would be a good idea to gather some items before hand such as Curly Roots, Raw Wild Pies, Black Dragon Leather, Decorated Cooking Urns (nr), and Zamorak / Saradomin Brew creation sets
-⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>
-⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>
-⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, check the preset here: <#1051980091720216666>
-
-.
-⬥ <:maxcape:580177795703898117> Max Cape Perks
-    • <:crafting:1039864810239705119> Crafting
-    • <:dungeoneering:1003947795541143632> Dungeoneering
-    • <:masterquestcape:1091050888828813412> Master Quest Cape / Quest Cape
-    • <:cooking:1011705729192820747> Cooking Cape on Anachronia Stand
-
-⬥ <:archaeology:941211288665739274> Archaeology Relics
-    • <:persistentrage:739965637056659567> Persistent Rage
-    • <:abyssallink:1124762426265583727> Abyssal Link
-    • <:shadowsgrace:895999229737185280> Shadow's Grace
-
-⬥ <:gote:900765150678749204> Grace of the Elves
-    • Jadinko Lair
-    • Living Rock Caverns
-
-⬥ <:potagreen:1123597971737559110> Passage of the Abyss
-    • <:travellersnecklace:1124783946186629171> Traveller's Necklace
-    • <:amuletofglory:1124762423686082562> Amulet of Glory
-    • <:digsitependant:1124762422507479151> Digsite Pendant
-    • <:combatbracelet:1124762419907014776> Combat Bracelet
-    • <:skillsnecklace:1124762417969254541> Skills Necklace
-    • <:ringofslaying:1124783943426789538> Ring of Slaying
-
-.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset Suggestion__",
+        "value": "⬥ [Master Preset Sample](https://pvme.github.io/preset-maker/#/IrtHxg5E2YN4DOm5JWqQ)",
+        "inline": true
+      },
+                                    {
+        "name": "__Melee Rotation for Double Agent__",
+        "value": "⬥ (tc) + <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n    ⬩ If <:chaosroar:994644356671737966> on cooldown: \n       ⬩(tc) + <:gbarge:535532879250456578> → <:assault:535532853979512842> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n    ⬩ If <:chaosroar:994644356671737966> + <:assault:535532855191928842> on cooldown:\n       ⬩ (tc) + <:gbarge:535532879250456578> → <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>.",
+        "inline": false
+      },
+                                    {
+        "name": "__Master Notes__",
+        "value": "⬥ <:vestmentsofhavoctop:994189295592161291> Havoc equipment is purely used for extra damage. Can be swapped out for anything else.\n⬥ For Melee Weapons:\n    • <:abyssalscourge:947871842469834832> Abyssal Scourge → <:lengmh:883134308146098227> Dark Shard of Leng → <:drygorelongmh:513190158900658180> Drygore\n    ⬩ <:lengoh:883134308070604870> Dark Sliver of Leng → <:darkicesliver:915232153787334677> Dark Ice Sliver\n⬥ Make sure your <:gote:900765150678749204> Grace of the Elves has porters in it for some skilling steps\n⬥ Some steps you need to bank to do:\n    • Head protection is never a bad thing. Make it from rune for the best chance of survival.\n    • The spell struck me in the chest. Perhaps if I had worn armour today. Black looks better than red.",
+        "inline": false
+      },
+            {
+        "name": "__Master Notes__",
+        "value": "⬥ Use Cooking Guild to grab Wild Pie and then cook it\n⬥ Make sure to set your <:dwarvenfishextractor:1124784907227504660> Dwarven Fish Extractor to Resource Mode\n⬥ Set your <:maxcape:580177795703898117> Max Guild teleport outside\n⬥ It would be a good idea to gather some items before hand such as Curly Roots, Raw Wild Pies, Black Dragon Leather, Decorated Cooking Urns (nr), and Zamorak / Saradomin Brew creation sets\n⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, check the preset here: <#1051980091720216666>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 {
   "embed": {
     "title": "",
@@ -357,7 +348,7 @@ When you get <:globetrottergloves:1123592252036493344> Globetrotter Gloves, you 
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Fastest Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Clue Preset]($linkmsg_hards$)\n⬥ [Elite Clue Preset]($linkmsg_elites$)\n⬥ [Master Clue Preset]($linkmsg_masters$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Quick Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Clues]($linkmsg_hards$)\n⬥ [Elite Clues]($linkmsg_elites$)\n⬥ [Master Clues]($linkmsg_masters$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
