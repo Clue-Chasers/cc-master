@@ -33,7 +33,7 @@
 ### __**[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**__
 ⬥ Access to Ancient Curses. <:soulsplit:615613924506599497>
 ### __**[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**__
-⬥ Ability to unlock the [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
+⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
 ### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
 ### __**[Rum Deal](<https://runescape.wiki/w/Rum_Deal>)**__
@@ -49,7 +49,7 @@
 ⬥ Unlocks Dig Site Pendant. <:digsitependant:1124762422507479151>
 .
 ### **__[Succession](<https://runescape.wiki/w/Succession>)__**
-⬥ Access to the [Dive ability](https://runescape.wiki/w/Dive) when Bladed Dive is unavailable. <:dive:1049378668197195808>
+⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable. <:dive:1049378668197195808>
 ⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt.
 ### **__[Quest cape](<https://runescape.wiki/w/Quest_Cape>)__**
 ⬥ This cape provides teleports to the following locations:
@@ -73,7 +73,7 @@
 ### **__[Trollheim Farm Teleport](<https://runescape.wiki/w/Trollheim_Farm_Teleport>)__** <:Trollheim_Farm_Teleport_icon:1151997356674383953>
 ⬥ Livid Farm spell
 ### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](https://runescape.wiki/w/Burgh_de_Rott) teleport on games necklace.
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__**
