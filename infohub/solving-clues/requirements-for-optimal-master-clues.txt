@@ -36,6 +36,8 @@
 ⬥ Ability to upgrade the [Little Book o' Piracy](<https://runescape.wiki/w/Little_Book_o'_Piracy>) to [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>). <:Big_Book_o_Piracy:1128728575491715122>
         ⬩ It can teleport the player to four different locations: [Mos Le'Harmless](<https://runescape.wiki/w/Mos_Le'Harmless>), [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>), [Dragontooth Island](<https://runescape.wiki/w/Dragontooth_Island>) and [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
 .
+        ⬩ [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>) can be substituted for the [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> which allows the player to teleport directly to the attended patch only if the patch becomes diseased. For master clues you can bind it to the [Allotment patch](<https://runescape.wiki/w/Allotment_patch>) on [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
+.
 ### __**[Love Story](<https://runescape.wiki/w/Love_Story>)**__
 ⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals. <:chippedHouseTele:1127678790231916645>
 ### __**[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**__
