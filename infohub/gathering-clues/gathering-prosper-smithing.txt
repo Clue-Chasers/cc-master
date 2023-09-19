@@ -57,7 +57,7 @@ Profit/loss breakdown for 0 heat Prosper Smith using Scripture of Bik can be fou
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Prosper Math]($linkmsg_prosper$)\n⬥ [Catalyst Alert]($linkmsg_afk$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Prosper Math]($linkmsg_prosper$)\n⬥ [Catalyst Alert]($linkmsg_afk$)\n⬥ Return to <#1023016130077532300>",
         "inline": true
       }
     ]
