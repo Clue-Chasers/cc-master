@@ -69,7 +69,7 @@ If Necromancy:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Presets]($linkmsg_positionpreset$)\n⬥ [Action Bars]($linkmsg_bar$)"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Presets]($linkmsg_positionpreset$)\n⬥ [Action Bars]($linkmsg_bar$)\n⬥Return to <#1023016130077532300>"
       }
     ]
     }
@@ -77,4 +77,3 @@ If Necromancy:
 .embed:json
 .pin:delete
 .
-Return to <#1023016354145648741>
