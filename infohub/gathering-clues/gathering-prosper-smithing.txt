@@ -1,1 +1,67 @@
+## **__Prosper Smithing Gathering Guide__**
+*Note: **a Table of Contents** can be found in the pins.*
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
+> ### **__Introduction__**
+.tag:intro
+This guide is tailored for players aiming to utilize the [Scripture of Bik](<https://runescape.wiki/w/Scripture_of_Bik>) <:scriptureofbik:892342109791735848> alongside [Prosper](<https://runescape.wiki/w/Prosper>) <:Prosper:1152352942326829157> to collect clues with minimal attention required. Below, you'll find the preset and additional information, should you need it.
+For information on Scripture of Bik <:scriptureofbik:892342109791735848> visit <#1022589092262842508>
+.                  
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
+.
+> ### **__Preset__**
+.tag:preset
+{
+  "embed": {
+    "title": "",
+    "color": 2067276,
+    "fields": [
+      {
+        "name": "__Preset Suggestions__",
+        "value": "⬥ [Current Preset](<https://pvme.github.io/preset-maker/#/6DXqccwHeBAJOPhRrX8y>) \n⬥ [September's Preset](<https://imgur.com/lbW4HQv>)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+> ### **__Prosper Smith Calculations__**
+.tag:prosper
+`1h=60min=3600s`
+`3600s/1.2s(2ticks)=3000 actions` (theoretical max, in practise it's less)
+Smithing <:smithing:1039864814379466812> (level 20 tool <:crystalhammer:1153763148327833642>) `1/864 chance`
+Clues/h: `3000/864 = -3.47`
+.
+<:Easy:633728862039179294> - `1/20` → `0.173/h`
+<:Medium:633728704438075435> - `2/20` → `0.1735/h`
+<:Hard:633728361918758930> - `10/20` → `0.1735/h`
+<:Elite:633732493228638209> - `7/20` → `0.1735/h`
+> ### **__Prosper Smith + Bik clues/hr__**
+<:Easy:633728862039179294> - `1.27 clues/hr`
+<:Medium:633728704438075435> - `5.54 clues/hr`
+<:Hard:633728361918758930> - `16.03 clues/hr`
+<:Elite:633732493228638209> - `5.91 clues/hr`
+.
+> ### **__Breakdown Sheet__**
+Profit/loss breakdown for 0 heat Prosper Smith using Scripture of Bik can be found [here](<https://docs.google.com/spreadsheets/d/1vc92HphSmHcDpk7U6AjWDkBSHZnsj5-YeGRNz8Ktilc/edit#gid=528203057>).
+.
+> ### **__ALT1 Catalyst Alert__**
+.tag:afk
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153772628620890192/explorer_liKkYeln2J.mp4
+{
 
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Prosper Math]($linkmsg_prosper$)\n⬥ [Catalyst Alert]($linkmsg_afk$)\n⬥ Return to <#1023016354145648741>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
