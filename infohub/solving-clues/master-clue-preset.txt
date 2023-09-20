@@ -1,0 +1,218 @@
+### **__Master Clue Preset Guide__ (courtesy of <@145884917627224065>, <@332549285923127304> & <@161545097597550593>**)
+*Note: a **Table of Contents** can be found in the pins.*
+.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
+> ### **__Introduction__**
+.tag:intro
+.
+This guide is tailored for players aiming to optimize their presets for solving master clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
+
+Cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
+.                  
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
+
+.
+> ### **__Gathering Masters__**
+.tag:gathering
+Masters are gathered by solving other tiers of clues. Hards and Elites are best for this, which is better entirely depends on your personal solving and gathering speeds of both tiers.
+
+.
+> ### **__Optimal Requirements__**
+.tag:requirements
+For information on how to get the optimal requirements check out <#1023991685832769587>
+
+.
+> ### **__Teleport Information__**
+.tag:teleports
+This section will outline which teleports are used and what their use cases are.
+.
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Passage of the Abyss__ <:potared:1123597976208674888>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__**Spellbook Teleports <:hometeleport:1032540077764653076>**__",
+        "value": "⬥ Lumbridge <:Lumbridge_Teleport_icon:1131959235094265876>\n⬥ Senntisten <:Senntisten_Teleport_icon:1154167354977165323>\n⬥ Ardougne <:Ardougne_Teleport_icon1:1131959097663684661>",
+        "inline": true
+      },
+      {
+        "name": "__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>",
+        "value": "⬥ Collectors → Lowse (9 → 5)",
+        "inline": false
+      },
+      {
+        "name": "__**Items**__",
+        "value": "⬥ Attuned crystal teleport seed <:crystalseed:1123597959116881920>\n⬥ Desert Amulet 2/3 <:desertamulet3:1123599458593165363>\n⬥ Drakan's Medallion <:drakansmedallion:1123599468495913073>\n⬥ TokKul-Zo <:tokkulzo:975012160759550042>\n⬥ Grace of the Elves <:gote:900765150678749204>\n⬥ Amulet of Nature <:amuletofnature:1123599470911815750> / Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ Arc Journal <:arcjournal:1123597950787002408> + Menaphos Journal <:menaphosjournal:1123597967388057610>\n⬥ The Heart teleport tabs <:The_Heart_teleport:1152316125057650698>",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+> ### **__Jackets | Backpacks | Powerbursts__**
+.tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
+{
+  "embed": {
+    "title": "",
+    "color": 2067276,
+    "fields": [
+      {
+        "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ Polypore Dungeon\n⬥ Cyclossis Compass South East Beach Spot\n⬥ Darkmeyer Scan South Spot\n⬥ If good jacket charges;\n        ⬩ Godwars 2 Scan, only if no triple when checking North West\n        ⬩ Port Phasmatys Emote",
+        "inline": false
+      },
+      {
+        "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
+        "value": "⬥ Dorgesh-Kaan Agility Course\n⬥ Runespan\n⬥ Hefin Cleansing Crystal\n⬥ Polypore Dungeon (if out of Jacket charges)\n⬥ Charming Moths (if out of Trapper charges)",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 2066,
+    "fields": [
+      {
+        "name": "__Rune Pouches__",
+        "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:waterrune:536252660165115905>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:earthrune:536252659808731137> <:firerune:536252659850674186> <:airrune:536252658986647589> <:soulrune:536252660333019136>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 2067276,
+    "fields": [
+      {
+        "name": "**__Tips and Unlocks__**",
+        "value": "⬥ Use [Totem of Treasure](https://runescape.wiki/w/Totem_of_Treasure) to reduce the maximum clue steps by 1 each\n⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning) for an extended meerkat timer\n⬥ Use [Lantadyme Incense sticks](https://runescape.wiki/w/Lantadyme_incense_sticks) <:Lantadymeincense:1127691837197525033> to extend potion timers\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the allotment patch on Harmony Island\n⬥ Bind your Max Guild portals to Jadinko Lair + Living Rock Caverns\n⬥ Change your Max Guild teleport with [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) to be in the garden\n⬥ Set your Wars Retreat portals to Gregorovic + Twin Furies\n⬥ Have a Seiryu reaper task for Reaper portal\n⬥ Max Cape + cape stand perks: <:dungeoneering:1003947795541143632> + <:cooking:1011705729192820747> with one <:constitution:689509250887712902> / <:crafting:1039864810239705119> / <:masterquestcape:1091050888828813412>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+> ### **__Rotations | Presets__**
+.tag:presets
+{
+  "embed": {
+    "title": "__Double Agent Rotations__",
+    "color": 15548997,
+    "fields": [
+      {
+        "name": "__Range__",
+        "value": "⬥ Pre <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:gricocaroming:867678153966878740> → <:bolg:994189289623662702> <:spec:537340400273195028> → <:mds:535541259033378827>",
+        "inline": false
+      },
+      {
+        "name": "__Melee__",
+        "value": "⬥ <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> / <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>",
+        "inline": false
+      },
+      {
+        "name": "__Necromancy__ ",
+        "value": "⬥ Pre <:splitsoul:1137809168368148490> + <:invokedeath:1137809121983336548> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:necroauto:1137809137401602109>\n\n⬥ Pre <:invokedeath:1137809121983336548> → <:touchofdeath:1137809175980810380> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 67276,
+    "fields": [
+      {
+        "name": "**__Preset Notes and Alterations__**",
+        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> or wear Passage <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All Skilling steps are personal preference in which you take with you and do in the secondary preset\n⬥ Overload <:elderovlsalve:648976643687317532> is a ~4.7% damage increase for Necromancy and can be repotted with the secondary preset",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 6726,
+    "fields": [
+      {
+        "name": "**__Not using skips?__**",
+        "value": "These are items you can take in place of skips:\n⬥ More skilling step items\n⬥ More Acceleration potions\n⬥ Reaver Ring <:reaverring:839903943018283050> for damage (best with <:necromancy:1148995625896120460>)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "__Preset Examples__ ",
+    "color": 155482,
+    "fields": [
+      {
+        "name": "__Ranged__ <:range:580168050121113623>",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/16Y1gml61SIKRZ01lNqa)",
+        "inline": true
+      },
+      {
+        "name": "__Melee__ <:melee:1096130867279171706>",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/LdSPobOjMg6zTlCGluw1)",
+        "inline": true
+      },
+      {
+        "name": "__Necromancy__ <:necromancy:1148995625896120460>",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/Pj2UV5ACdbMXuy5oP1BR)",
+        "inline": true
+      },
+      {
+        "name": "__Secondary Preset__",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Masters]($linkmsg_gathering$)\n⬥ [Optimal Requirements]($linkmsg_requirements$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
