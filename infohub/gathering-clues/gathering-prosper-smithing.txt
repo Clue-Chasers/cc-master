@@ -40,7 +40,7 @@ Clues/h: `3000/864 = -3.47`
 > ### **__Prosper Smith + Bik clues/hr__**
 <:Easy:633728862039179294> - `1.27 clues/hr`
 <:Medium:633728704438075435> - `5.54 clues/hr`
-<:Hard:633728361918758930> - `16.03 clues/hr`
+<:Hard:633728361918758930> - `6.03 clues/hr`
 <:Elite:633732493228638209> - `5.91 clues/hr`
 .
 > ### **__Breakdown Sheet__**
