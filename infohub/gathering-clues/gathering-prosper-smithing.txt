@@ -31,7 +31,7 @@ Should you require advice or have any questions, don't hesitate to make use of t
 `1h=60min=3600s`
 `3600s/1.2s(2ticks)=3000 actions` (theoretical max, in practise it's less)
 Smithing <:smithing:1039864814379466812> (level 20 tool <:crystalhammer:1153763148327833642>) `1/864 chance`
-Clues/h: `3000/864 = -3.47`
+Clues/h: `3000/864 = 3.47`
 .
 <:Easy:633728862039179294> - `1/20` → `0.1735 clues/h`
 <:Medium:633728704438075435> - `2/20` → `0.347 clues/h`
