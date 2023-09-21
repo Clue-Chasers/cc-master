@@ -33,10 +33,10 @@ Should you require advice or have any questions, don't hesitate to make use of t
 Smithing <:smithing:1039864814379466812> (level 20 tool <:crystalhammer:1153763148327833642>) `1/864 chance`
 Clues/h: `3000/864 = -3.47`
 .
-<:Easy:633728862039179294> - `1/20` → `0.173/h`
-<:Medium:633728704438075435> - `2/20` → `0.1735/h`
-<:Hard:633728361918758930> - `10/20` → `0.1735/h`
-<:Elite:633732493228638209> - `7/20` → `0.1735/h`
+<:Easy:633728862039179294> - `1/20` → `0.1735 clues/h`
+<:Medium:633728704438075435> - `2/20` → `0.347 clues/h`
+<:Hard:633728361918758930> - `10/20` → `1.735 clues/h`
+<:Elite:633732493228638209> - `7/20` → `1.2145 clues/h`
 > ### **__Prosper Smith + Bik clues/hr__**
 <:Easy:633728862039179294> - `1.27 clues/hr`
 <:Medium:633728704438075435> - `5.54 clues/hr`
