@@ -78,7 +78,11 @@ Whilst there is no official Alt1 Support for these operating systems there's an 
 .tag:splits
 **Explanation** - automatically tracks your clue times while doing a clue run, with no input required <:surge:535533810004262912>
 .img:https://cdn.discordapp.com/attachments/1125898662262886461/1153743099282075719/image.png
-
+**Requirements and recommendations for Clue Split Timer:**
+⬥ Timestamps on in chat - it's how the app tracks clue times.
+⬥ Interface transparency off, for best chatbox reading accuracy.
+⬥ 12 point font size in chat, because alt1 is known to misread messages more often on other font sizes.
+⬥ Make sure your chatbox is of suitable width so the app can easily read all the correct messages
 .
 ### > __**Catalyst Tracker**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
 .tag:catalyst
