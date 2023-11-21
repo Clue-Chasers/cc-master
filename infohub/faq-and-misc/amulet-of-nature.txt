@@ -1,7 +1,10 @@
-To bind the amulet of nature the player must use the amulet on the diseased patch they desire but this can only be bound to one patch at a time, and will remain bound until a different patch is used. Unlike the amulet of farming, it can be bound to any type of farming patch.
+The amulet of nature <:amuletofnature:1123599470911815750> allows players to bind it to a farming patch regardless of it's state (diseased, dead or even empty). The amulet can be used to contact gardeners remotely or teleport directly to the attended patch.
 
-Note that the amulet of nature gets bound to the tile you are standing on when using the amulet on the the diseased patch.
+*Note: that the amulet of nature gets bound to the tile you are standing on when using the amulet on the selected patch.*
+
+*Update: As of 30 October 2023, removed the dialogue from the Nature Amulet Teleport when right-clicking the teleport option.*
+
+__A list of notable patch locations for each tier:__
 .img:https://cdn.discordapp.com/attachments/1125898662262886461/1151264092678537336/Amulet_of_Nature_SpotsDark.png
-
-.
 Return to <#1023016455429685389>
+.
