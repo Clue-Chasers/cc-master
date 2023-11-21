@@ -1,7 +1,8 @@
 {
   "embed": {
     "title": "__What is ALT1?__",
-    "description": "⬥ Alt1 Toolkit is a software tool used by players of the game RuneScape.\n⬥ It provides helpful features such as overlays, timers, and calculators.\n⬥ Players can track activities, solve puzzles, and optimize their gameplay.\n⬥ It is a popular utility for its convenience and useful features.",
+    "url":"https://runeapps.org/alt1",
+    "description": "⬥ Alt1 is a 3rd-party program that consists of several application overlays on your screen.\n⬥ They get information by reading your screen, and provide a bunch of QoL/useful features.\n\n For in-depth information, [click here](<https://discord.com/channels/332595657363685377/1128437423022538802>).",
     "color": 12745742,
     "fields": []
   }
