@@ -1,10 +1,3 @@
-{
-  "embed": {
-    "title": "__Clue Chasers Hall of Fame__",
-		"url":"https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
-    "description": "⬥ The new Clue Chasers Hall of Fame is here! The hall of fame will now live in this google sheet. (credit to <@139154903623794688> for making it)",
-    "color": 34879,
-    "fields": []
-  }
-}
-.embed:json
+The Hall of Fame had its origins in a few Discord messages. With the release of the clue scroll rework in 2018, more players became interested in clue scrolls, leading to a growing demand for data. In response, <@139154903623794688> created a comprehensive spreadsheet. The sheet includes tabs for individuals with golden titles, those with one item left, a broadcast leaderboard, notable casket stacks, double broadcasts, OSH procs, probability graphs for golden titles, and more. For additional details, please check the sheet using the following link:
+
+[Hall of Fame Spreadsheet](https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548)
