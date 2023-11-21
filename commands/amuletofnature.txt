@@ -1,0 +1,10 @@
+{
+  "embed": {
+    "title": "__Amulet of Nature__ <:amuletofnature:1123599470911815750>",
+		"url":"https://runescape.wiki/w/Amulet_of_nature",
+    "description": "The amulet of nature allows players to bind it to a farming patch regardless of it's state (diseased, dead or even empty). The amulet can be used to contact gardeners remotely or teleport directly to the attended patch.\n\n⬥ As of 30 October 2023, removed the dialogue from the Nature Amulet Teleport when right-clicking the teleport option.\n\n⬥ Note that the amulet of nature gets bound to the tile you are standing on when using the amulet on the selected patch.\n\n For in-depth information, [click here](<https://discord.com/channels/332595657363685377/1128455408894353418>)",
+    "color": 12745742,
+    "fields": []
+  }
+}
+.embed:json
