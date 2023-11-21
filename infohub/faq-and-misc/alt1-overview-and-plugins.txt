@@ -82,7 +82,8 @@ Whilst there is no official Alt1 Support for these operating systems there's an 
 ⬥ Timestamps on in chat - it's how the app tracks clue times.
 ⬥ Interface transparency off, for best chatbox reading accuracy.
 ⬥ 12 point font size in chat, because alt1 is known to misread messages more often on other font sizes.
-⬥ Make sure your chatbox is of suitable width so the app can easily read all the correct messages
+⬥ Make sure your chatbox is of suitable width so the app can easily read all the correct messages.
+⬥ Turn off/Disable the Legacy Interface option. It messes up Alt1s ability to read the chat box.
 .
 ### > __**Catalyst Tracker**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
 .tag:catalyst
