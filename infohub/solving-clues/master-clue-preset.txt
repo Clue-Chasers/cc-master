@@ -131,12 +131,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Melee__",
-        "value": "⬥ <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> / <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>",
+        "value": "⬥ <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> / <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>",
         "inline": false
       },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ Pre <:splitsoul:1137809168368148490> + <:invokedeath:1137809121983336548> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:necroauto:1137809137401602109>\n\n⬥ Pre <:invokedeath:1137809121983336548> → <:touchofdeath:1137809175980810380> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>",
+        "value": "⬥ Pre <:conjureundeadarmy:1166002063017259139> → <:invokedeath:1137809121983336548> → <:touchofdeath:1137809175980810380> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>\n\n⬥ Pre <:conjureundeadarmy:1166002063017259139> → <:splitsoul:1137809168368148490> + <:invokedeath:1137809121983336548> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109> → <:necroauto:1137809137401602109>",
         "inline": false
       }
     ]
@@ -188,7 +188,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/Pj2UV5ACdbMXuy5oP1BR)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/5oL9M0MLTyiz4ohcY0Ag)",
         "inline": true
       },
       {
