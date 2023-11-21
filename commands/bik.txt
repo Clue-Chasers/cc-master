@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Scripture of Bik__ <:scriptureofbik:892342109791735848>",
 		"url":"https://runescape.wiki/w/Scripture_of_Bik",
-    "description": "⬥ Bik does work with most skilling and **combat** activities in the game.\n⬥ Ingame tooltip is wrong except when using bonecrusher.\n⬥ The proc only happens on the first roll of the server minute.\n⬥ For a detailed explanation visit <#1022589092262842508>",
+    "description": "⬥ Bik is effective with most skilling and **combat** activities in the game.\n⬥ The in-game tooltip is inaccurate, except when using bonecrusher.\n⬥ The proc occurs only on the first roll of the server minute.\n\n For in-depth information, [click here](<https://docs.google.com/spreadsheets/d/1YilLeJ3YzCfr1nMNTo2XH0nukrtAqOtlVhIfQkJJno4/edit#gid=1425348308>).",
     "color": 12745742,
     "fields": []
   }
