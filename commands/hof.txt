@@ -3,10 +3,11 @@
   "thumbnail": {
   "url": "https://i.imgur.com/6C7v5hv.gif"
 },
-    "title": "__Clue Chasers Hall of Fame__",		"url":"https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548",
-"description": "⬥ The new Clue Chasers Hall of Fame is here!\n⬥ The hall of fame will now live in this google sheet.\n⬥ Credit to <@139154903623794688> for creating the sheet.",
+    "title": "__Clue Chasers Hall of Fame__",
+"description": "The Hall of Fame had its origins in a few Discord messages. With the release of the clue scroll rework in 2018, more players became interested in clue scrolls, leading to a growing demand for data.\n\n In response, <@139154903623794688> created a comprehensive [spreadsheet]((<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)).\n\n The sheet includes tabs for individuals with golden titles, those with one item left, a broadcast leaderboard, notable casket stacks, double broadcasts, OSH procs, probability graphs for golden titles, and more.",
     "color": 12745742,
     "fields": []
   }
 }
 .embed:json
+.
