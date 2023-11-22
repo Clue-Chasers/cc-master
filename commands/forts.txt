@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Fortunates__ <:fortunatecomp:583435543845797891>",
-    "description": "Fortunate components are rare materials used in the Invention.\nThey can be used to make various `!alchemicals` items.\n\n⬥ For a list of fortunate components [click here](https://runescape.wiki/w/Category:Items_that_disassemble_into_Fortunate_components).\n⬥ For a list of fortunate component rates of clues [click here](https://discord.com/channels/332595657363685377/1022577507033169980).\n⬥ For a list of material prices including fortunate components [click here](https://discord.com/channels/332595657363685377/1022577507033169980).",
+    "description": "Fortunate components are rare materials used in the Invention skill.\nThey can be used to craft various `!alchemicals` items to use or sell for profit.\n\n⬥ For a list of fortunate components [click here](https://runescape.wiki/w/Category:Items_that_disassemble_into_Fortunate_components).\n⬥ For a list of fortunate component rates of clues [click here](https://discord.com/channels/332595657363685377/1022577507033169980).\n⬥ For a list of material prices including fortunate components [click here](https://discord.com/channels/332595657363685377/1022577507033169980).",
 "url": "https://runescape.wiki/w/Fortunate_components",
     "color": 12745742,
     "fields": []
