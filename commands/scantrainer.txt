@@ -1,0 +1,9 @@
+{
+  "embed": {
+    "title": "__Scan Trainer__",
+    "description": "Scan Trainer is an Alt1-addon that helps you learn and memorize efficient pathing for solving elite and master scan clues. With clear instructions, you can significantly improve your speed and efficiency when solving scan clues.\n\n For in-depth information, [click here](<https://discord.com/channels/332595657363685377/1123544061052207114>)",
+    "color": 12745742,
+    "fields": []
+  }
+}
+.embed:json
