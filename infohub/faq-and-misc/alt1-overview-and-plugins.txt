@@ -85,7 +85,7 @@ Whilst there is no official Alt1 Support for these operating systems there's an 
 ⬥ Make sure your chatbox is of suitable width so the app can easily read all the correct messages.
 ⬥ Turn off/Disable the Legacy Interface option. It messes up Alt1s ability to read the chat box.
 .
-### > __**Catalyst Tracker**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
+### > __**Catalyst Tracker**__ - `alt1://addapp/https://ibbykay.github.io/CatalystClueTracker/appconfig.json`
 .tag:catalyst
 **Explanation** - tracks clues from Catalyst of alterations displayed in the chat window
 .img:https://cdn.discordapp.com/attachments/1125898662262886461/1153746703061614682/image.png
