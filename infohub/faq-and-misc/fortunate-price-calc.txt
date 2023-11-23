@@ -5,7 +5,6 @@
 2. Change the values at the top accordingly to current prices.
 3. Sheet automatically outputs the calculation.
 
-
 Any issues or suggestions, please notify <@145884917627224065>
 
 Return to <#1023016455429685389>
