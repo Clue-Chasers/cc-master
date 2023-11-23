@@ -1,0 +1,27 @@
+## Questions you did not ask
+
+1. You can hide left click familiar options. Settings → Gameplay → Combat & Action Bar → Hide familiar options.
+
+2. The speed at which pulse animating plays under your character depends on how close you are to the correct dig spot.
+
+3. There's a different game sound and visual for different pulse speeds.
+
+4. After completing the Hard Seers' Village Tasks, the player has the option of changing the Camelot teleport's destination to the centre of Seers' Village instead of to Camelot. This can be toggled by talking to any Seer in Seers' Village, Stankers by the coal trucks or Sir Kay in Camelot.
+
+5. If the hard Ardougne achievements have been completed, Aleck can change Watchtower teleport's destination to land within Yanille's walls instead.
+
+6. There's a perk that works as a light source called Glow Worm.
+
+7. You can change your house teleport to place you outside of the portal. Settings → Gameplay → Skills & Experience - > Construction → Teleport arrival location.
+
+8. You can switch the arrival location of Max guild teleport between inside and outside the guild by talking to Elen Anterth. She is located inside the Max Guild, next to the boss portal.
+
+9. Shadow Rip Teleport has one of the fastest teleport animations. A worthwhile change over default one when solving many clues.
+
+10. Loading screens can be disabled: Settings → Graphics - > Loading Screens
+
+11. Elite clue pulse animation can not update while you have an interface open.
+
+12. Players can change the antispam delay for both double Surge and double Escape by using the "attune movement" option on the Anachronia lectern once either of the upgrades have been unlocked. Set it to 1. By default it's set to a higher number.
+
+Return to <#1023016455429685389>
