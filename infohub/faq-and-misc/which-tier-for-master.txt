@@ -1,0 +1,14 @@
+## Which clue tier should I solve to maximize the number of master clues obtained per hour?
+
+Either hards or elites. Which of the two is better comes down to your personal gathering and solving speed.
+Right now, at peak efficiency, they are roughly equivalent.
+
+Calculations by <@267731172916723712>
+
+**Customizing requires creating a copy.**
+
+## [Lookup table for elites](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=607331736>)
+
+## [Lookup table for hards](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=723715523>)
+
+Return to <#1023016455429685389>
