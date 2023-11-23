@@ -2,9 +2,6 @@
 
 Either hards or elites. Which of the two is better comes down to your personal gathering and solving speed.
 Right now, at peak efficiency, they are roughly equivalent.
-
-Calculations by <@267731172916723712>
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1177352888012525578/calc_1_1.png?ex=65723252&is=655fbd52&hm=fb5bc43fc2a363a16ad8b36494cace904960d6f68b695d04ad76a27bdc02b859&
 .
 **Customizing requires creating a copy.**
 ## [Lookup table for elites](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=607331736>)
