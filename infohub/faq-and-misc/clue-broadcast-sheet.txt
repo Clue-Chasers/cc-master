@@ -1,6 +1,16 @@
 ## [Clue broadcast sheet template](<https://docs.google.com/spreadsheets/d/1rhtbJJc58H_USbcSrsLD1_AmOQEXOBrOQphlhA08QLs/edit?usp=sharing>)
 
-**Kindly note that the list is awaiting an update, as specific requests have been integrated into the live game.**
+**How to use the sheet**
+1. Navigate to “File” in the top-left corner.
+2. Make a copy of the sheet for your own.
+3. Read further instructions below.
+
+Make sure to use the same wording for the broadcasts in the item columns as I have used in the individual drop luck calculation above. The cells are automatically changing background colour to match the item, so it will be obvious when you do it right.
+
+Everything is automated, so you won’t need to change anything except for;
+Broadcast items (Ex. cell B20), # of that item on the log (Ex. cell C20) and clue count at the moment you got the broadcast (Ex. cell D20)
+Caskets opened (Cells D16, H16 and L16)
+Broadcast prices (if you scroll to the right)
 
 Any issues or suggestions, please notify <@195276355779166208>
 
