@@ -4,7 +4,7 @@ Either hards or elites. Which of the two is better comes down to your personal g
 Right now, at peak efficiency, they are roughly equivalent.
 
 Calculations by <@267731172916723712>:
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1177349704825192608/calc.png?ex=65722f5b&is=655fba5b&hm=19d13ddb48c706e8c1a2a5dacf073fcfd6ad9e33693812849ef4210454a2ea44&
+.img:https://i.imgur.com/uCZGjjM.png
 
 **Customizing requires creating a copy.**
 ## [Lookup table for elites](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=607331736>)
