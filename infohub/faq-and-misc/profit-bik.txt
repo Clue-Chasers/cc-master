@@ -1,4 +1,4 @@
-## [Scripture of Bik Profit Calculator Sheet](https://docs.google.com/spreadsheets/d/1EA9SJNdYWjAfeKK_wyes9f28Yx51wk-Rjh0uV7Veokw/edit?usp=sharing)
+## [Scripture of Bik Profit Calculator Sheet](<https://docs.google.com/spreadsheets/d/1EA9SJNdYWjAfeKK_wyes9f28Yx51wk-Rjh0uV7Veokw/edit?usp=sharing>)
 
 **Instructions:**
 1. Make your own copy of the sheet by going to "File" → "Make a copy"
