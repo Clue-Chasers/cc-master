@@ -4,6 +4,7 @@ Either hards or elites. Which of the two is better comes down to your personal g
 Right now, at peak efficiency, they are roughly equivalent.
 
 Calculations by <@267731172916723712>:
+
 .img:https://i.imgur.com/uCZGjjM.png
 
 **Customizing requires creating a copy.**
