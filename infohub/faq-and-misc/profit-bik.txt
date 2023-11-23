@@ -1,0 +1,9 @@
+https://docs.google.com/spreadsheets/d/1EA9SJNdYWjAfeKK_wyes9f28Yx51wk-Rjh0uV7Veokw/edit?usp=sharing
+
+**Instructions:**
+1. Make your own copy of the sheet by going to "File" → "Make a copy"
+2. Edit the cell for your own Manuscript of Bik price and the cells with checkboxes. These are all listed in Row 2/3 F-H
+3. J/K 19&20 will output your profit per page and per hour based on the parameters you have checked
+4. Profit...?
+
+Any issues or suggestions, please notify <@332549285923127304>
