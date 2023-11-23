@@ -1,0 +1,11 @@
+## [Fortunate Price Calculator sheet](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>)
+
+**How to use the sheet**
+1. Make a Copy of the sheet.
+2. Change the values at the top accordingly to current prices.
+3. Sheet automatically outputs the calculation.
+
+
+Any issues or suggestions, please notify <@145884917627224065>
+
+Return to <#1023016455429685389>
