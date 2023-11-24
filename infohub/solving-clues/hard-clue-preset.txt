@@ -165,7 +165,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Preset Notes and Alterations__**",
-        "value": "⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> or wear Passage <:potared:1123597976208674888> and take an extra niche item such as Lantadyme Incense Sticks <:lantasticks:565726489404899368>, Weapon Poison <:weppoison:689525476158472288>\n⬥ If you don't own ;sceptreofthegods; make sure you take noted gold items to recharge your sceptre",
+        "value": "⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> or wear Passage <:potared:1123597976208674888> and take an extra niche item such as Lantadyme Incense Sticks <:lantasticks:565726489404899368>, Weapon Poison <:weppoison:689525476158472288>\n⬥ If you don't own <:sotg:1097869036840300644> make sure you take noted gold items to recharge your sceptre",
         "inline": true
       }
     ]
