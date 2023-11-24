@@ -9,7 +9,7 @@ This guide is tailored for players aiming to optimize their presets for solving 
 Cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
 .                  
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
-Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
+Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
 .
 > ### **__Gathering Masters__**
