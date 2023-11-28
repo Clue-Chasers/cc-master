@@ -1,7 +1,8 @@
 {
   "embed": {
-    "title": "__Placeholder__",
-    "description": "⬥ placeholder\n⬥ placeholder",
+    "title": "__Sceptre of the Gods__ <:sotg:1097869036840300644>",
+		"url":"https://runescape.wiki/w/Sceptre_of_the_gods",
+    "description": "The Sceptre of the Gods is a rare reward in [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>), obtainable by looting the [engraved sarcophagus](<https://runescape.wiki/w/Engraved_sarcophagus>) in the 8th room which requires level 91 Thieving and 75 Runecrafting.\n\n⬥ The chance of getting one starts at 1/625. If you wear the [master camouflage outfit](<https://runescape.wiki/w/Master_camouflage_outfit>) or have luck tier 3 or higher, your odds improve to 1/480.\n\n⬥ This item is mainly used for solving hard and elite clues and comes with:\n • 10 charges by default, without any achievement task set unlocked.\n • 20 charges as a reward from the medium Desert achievements.\n• 60 charges as a reward from the hard Desert achievements.",
     "color": 12745742,
     "fields": []
   }
