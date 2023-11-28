@@ -3,12 +3,10 @@
 Either hards or elites. Which of the two is better comes down to your personal gathering and solving speed.
 Right now, at peak efficiency, they are roughly equivalent.
 
-
 **Customizing requires creating a copy.**
 ## Lookup table for elites
 
 For in-depth information, [click here](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=607331736>).
-
 
 ## Lookup table for hards
 
