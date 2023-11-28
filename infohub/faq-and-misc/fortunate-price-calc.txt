@@ -1,4 +1,6 @@
-## [Fortunate Price Calculator sheet](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>)
+## Fortunate Price Calculator sheet
+
+For in-depth information, [click here](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>).
 
 **How to use the sheet**
 1. Make a Copy of the sheet.
