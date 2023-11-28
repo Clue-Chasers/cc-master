@@ -1,3 +1,4 @@
-## [Mikal's Clue Simulator](<https://www.cluesimulator.com/>)
+## Mikal's Clue Simulator
 
+For in-depth information, [click here](<https://www.cluesimulator.com/>).
 Return to <#1023016455429685389>
