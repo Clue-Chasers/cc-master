@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Totem of Treasure__ <:totemoftreasure:1124764867237269665>",
 		"url":"https://runescape.wiki/w/Totem_of_Treasure",
-    "description": "The Totem of Treasure is a totem that decreases both the minimum and maximum number of clue scroll steps by one. It is created by combining the top, middle, and base pieces.\n\n⬥ Each piece can be obtained through various activities on Anachronia.\n• For in-depth information, [click here](<https://runescape.wiki/w/Totem_of_Treasure>).\n\n⬥ The activation resets weekly every Wednesday at 00:00 UTC.\n• Once activated, it can't be removed or swapped with a different totem.\n• After losing activation, you need to reactivate it for the bonus, redoing the minigame.\n\n• Want weekly notifications? Select the totem reminder role [here](<id:customize>).",
+    "description": "The Totem of Treasure is a totem that decreases both the minimum and maximum number of clue scroll steps by one. It is created by combining the top, middle, and base pieces.\n\n⬥ Each piece can be obtained through various activities on Anachronia.\n• For in-depth information, [click here](<https://runescape.wiki/w/Totem_of_Treasure>).\n\n⬥ The activation resets weekly every Wednesday at 00:00 UTC.\n• Once activated, it can't be removed or swapped with a different totem.\n• After losing activation, you need to reactivate it for the bonus, redoing the minigame.\n\n• Want weekly notifications? Select the totem reminder role at <id:customize>",
     "color": 12745742,
     "fields": []
   }
