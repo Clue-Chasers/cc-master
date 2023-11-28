@@ -1,4 +1,6 @@
-## [Clue broadcast sheet template](<https://docs.google.com/spreadsheets/d/1rhtbJJc58H_USbcSrsLD1_AmOQEXOBrOQphlhA08QLs/edit?usp=sharing>)
+## Clue broadcast sheet template
+
+For in-depth information, [click here](<https://docs.google.com/spreadsheets/d/1rhtbJJc58H_USbcSrsLD1_AmOQEXOBrOQphlhA08QLs/edit?usp=sharing>).
 
 **How to use the sheet**
 1. Navigate to “File” in the top-left corner.
