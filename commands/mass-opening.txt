@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Clue Chasers Mass Opening__ <:ACLOO:1107839063857315991>",
 		"url":"https://discord.gg/cluechasers?event=1064288092959297708https://runescape.wiki/w/Scripture_of_Bik",
-    "description": "⬥ The Clue Chasers Mass Opening takes place twice a year.\n⬥ Everyone is invited to join and open as many caskets as they want.\n⬥ We all open together on the same world, at the same time and place.\n\nThe next upcoming event will be hosted  <t:1703966400>.",
+    "description": "⬥ The Clue Chasers Mass Opening takes place twice a year.\n⬥ Everyone is invited to join and open as many caskets as they want.\n⬥ We all open together on the same world, at the same time and place.\n\nThe next upcoming event will start at <t:1703966400>.",
     "color": 12745742,
     "fields": []
   }
