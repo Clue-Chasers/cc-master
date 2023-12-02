@@ -26,6 +26,7 @@ If Melee:
 ⬥ <:vestmentsofhavochood:994189297659940904> Full Vestments
 If Necromancy:
 ⬥ <:spectralscythe3:1151275912164290641> Full Spectral Scythe
+⬥ <:conjureundeadarmy:1166002063017259139> Conjure Undead Army
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1151275891289227344> Darkness and your best damage boosting prayer on at all times.
 ⬥ You will need to stand in a specific spot for this to be optimal
@@ -40,7 +41,7 @@ If Necromancy:
     "fields": [
       {
         "name": "__Presets__",
-        "value": "⬥ [Magic](https://pvme.github.io/preset-maker/#/2MG8zMjoekLMBhdin9IU)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/buoxLtXJnLoW7GJHAuW9)\n⬥ [Necromancy](https://pvme.github.io/preset-maker/#/TmuMZEygn0gsYzff6rNX)",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/SfCSM491R9VhsaG82PD5)\n⬥ [Melee](https://pvme.io/preset-maker/#/B0pFKLiAxBTB8A5VJcmt)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/wTuZ0GkcXu7TFwAtCwLz)",
         "inline": true
       }
     ]
@@ -53,13 +54,14 @@ If Necromancy:
 .tag:bar
 ⬥ Note:
     • The kills per hour is using best in slot and having the max levels in the relevant style
-    • All methods use Legendary Pet and <:aggrovl:689551388576972805> Aggroverloads, you can higher kills per hour with <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions
+    • All methods use Legendary Pet and <:aggrovl:689551388576972805> Aggroverloads, you can get higher kills per hour with <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
+    • If you use <:reaverpouch:839903693837959228> Reaver with <:necromancy:1148995625896120460> Necromancy do not use <:darkness:1137809209782698024> Darkness alongside it.
 **Magic 600+ kph**
 .img:https://media.discordapp.net/attachments/668944906521280533/1151246925958488265/ActionBar_2.png
 **Melee 530+ kph**
 .img:https://media.discordapp.net/attachments/668944906521280533/1151268254204051538/ActionBar_3.png
-**Necromancy 540+ kph**
-.img:https://media.discordapp.net/attachments/668944906521280533/1151217208551284816/ActionBar_1.png
+**Necromancy 580+ kph**
+.img:https://media.discordapp.net/attachments/668944906521280533/1180491846011584603/ActionBar_4.png
 .
 {
   "embed": {
