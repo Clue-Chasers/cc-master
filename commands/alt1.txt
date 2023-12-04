@@ -2,7 +2,7 @@
   "embed": {
     "title": "__What is ALT1?__",
     "url":"https://runeapps.org/alt1",
-    "description": "⬥ Alt1 is a 3rd-party program that consists of several application overlays on your screen.\n⬥ They get information by reading your screen, and provide a bunch of QoL/useful features.\n⬥ Please consider joining the Alt-1 Discord Server [here](<https://discord.gg/Qf6eM8dUVv>) and ask your questions directly to the developers for a quicker response on issues.",
+    "description": "⬥ Alt1 is a 3rd-party program that consists of several application overlays on your screen.\n⬥ They get information by reading your screen, and provide a bunch of QoL/useful features such as the Clue Solver, Scan Trainer and more!\n⬥ Join the Alt-1 Discord Server [here](<https://discord.gg/Qf6eM8dUVv>) and ask your questions directly to the developers for a quicker response on issues.",
     "color": 12745742,
     "fields": []
   }
