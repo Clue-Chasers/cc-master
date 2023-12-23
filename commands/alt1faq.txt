@@ -1,8 +1,8 @@
 {
   "embed": {
-    "title": "__Alt1 Troubleshooting__ ⚠",
+    "title": "__Alt1 Troubleshooting__",
 		"url":"https://discord.gg/SPEezUGAvx",
-    "description": "Check if any of the following apply to you:\n⬥ Interface Scaling enabled? Set it to default 100%.\n⬥ Text Size too big or small? Try setting  Text Size to 12pt.\n⬥ Multiple Chat windows open? Close all but one chat window.\n⬥ Interface Transparency enabled? Set it to opaque (no transparency).\n⬥ Make sure the clue interface is fully visible and not covered by an overlay.",
+    "description": "__**Check if any of the following apply to you**__:\n⬥ Adjust Text Size to 12pt if too big or small.\n⬥ Ensure Interface Scaling is set to default 100%.\n⬥ Close all but one chat window if multiple are open.\n⬥ Disable Interface Transparency (set to opaque, no transparency).\n⬥ Confirm the clue interface is fully visible and not covered by an overlay.\n⬥ Regarding the recent engine update check out the post **[here](<https://runeapps.org/forums/viewtopic.php?id=1614>)**.",
     "color": 12745742,
     "fields": []
   }
