@@ -1,3 +1,17 @@
-The Hall of Fame had its origins in a few Discord messages. With the release of the clue scroll rework in 2018, more players became interested in clue scrolls, leading to a growing demand for data. In response, <@139154903623794688> created a comprehensive spreadsheet. The sheet includes tabs for individuals with golden titles, those with one item left, a broadcast leaderboard, notable casket stacks, double broadcasts, OSH procs, probability graphs for golden titles, and more. For additional details, please check the sheet using the following link:
+__## **Welcome to the <#581552255581290506>**__
+.tag:hof
+## Hall of Fame Spreadsheet
+⬥ **[Click here](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)**
 
-[Hall of Fame Spreadsheet](https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548)
+The Hall of Fame began with Discord messages. When the [Clue Scroll Overhaul](<https://runescape.wiki/w/Update:Clue_Scroll_Overhaul_-_Lightning_Weapons>) happened in 2018, more players started doing clue scrolls, and there was a need to gather all their data in one place. <@&336568187552530434> created a detailed spreadsheet covering people with golden clue titles, a treasure trail points leaderboard, an overall and detailed broadcast leaderboard, accomplishments, golden title progress for those with 1 item off, double broadcasts and OSH procs, title averages, probabilities, and more. For more info, check the sheet below.
+## Explanation
+**Below you can find a description of each tab.**
+⬥ Golden Title Hall of Fame - A list of all those who have achieved the Golden Titles of each tier. (Submission via <#765478301581574164>)
+⬥ Treasure Trail Points Leaderboard - The rankings of all players based on their Treasure Trail points obtained.
+⬥ Broadcast Leaderboard (Overall) - The rankings of players based on their total number of broadcasts. (Submission via <#1181299697726521454>)
+⬥ Broadcast Leaderboard (Detailed) - The rankings of players for individual broadcast items.
+⬥ Accomplishments - All Base Title Owners, Notable Large Openings, and Speedrunning stats.
+⬥ Golden Title Progress - A record of which players are 1 item off a Golden Title, their clue count, and what item they are missing.
+⬥ Base Clue Titles - A record of all those that have obtained at least 1 Base Title. (Submission via <#765478301581574164>)
+⬥ Double Broadcasts and OSH Proc Broadcasts - A record of all Double Broadcast caskets (including Oyster) and Broadcasts from an OSH Proc Casket (Submission via <#395523570870255616>)
+⬥ Title Averages and Probability - Graphs and Stats on the numbers needed to obtain each Clue Title.
