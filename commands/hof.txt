@@ -4,7 +4,7 @@
   "url": "https://i.imgur.com/6C7v5hv.gif"
 },
     "title": "__Clue Chasers Hall of Fame__",
-"description": "The Hall of Fame had its origins in a few Discord messages. With the release of the clue scroll rework in 2018, more players became interested in clue scrolls, leading to a growing demand for data.\n\n In response, <@139154903623794688> created a comprehensive [spreadsheet](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>).\n\n The sheet includes tabs for individuals with golden titles, those with one item left, a broadcast leaderboard, notable casket stacks, double broadcasts, OSH procs, probability graphs for golden titles, and more.",
+"description": "The Hall of Fame began with Discord messages. When the [Clue Scroll Overhaul](<https://runescape.wiki/w/Update:Clue_Scroll_Overhaul_-_Lightning_Weapons>) happened in 2018, more players started doing clue scrolls, and there was a need to gather all their data in one place.\n\nWe created a detailed spreadsheet covering people with golden clue titles, a treasure trail points leaderboard, an overall and detailed broadcast leaderboard, accomplishments, golden title progress for those with 1 item off, double broadcasts and OSH procs, title averages, probabilities, and more. For more info, check the sheet **[here](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)**.",
     "color": 12745742,
     "fields": []
   }
