@@ -1,19 +1,18 @@
 ## Clue broadcast sheet template
 
-For in-depth information, [click here](<https://docs.google.com/spreadsheets/d/1iX06orbl4AF6KKn2guSge3QMcY_8zEFHPHP7fH8fWGs/edit#gid=0>).
+For in-depth information, **[click here](<https://docs.google.com/spreadsheets/d/1iX06orbl4AF6KKn2guSge3QMcY_8zEFHPHP7fH8fWGs/edit#gid=0>).**
 
 **How to use the sheet**
 1. Navigate to “File” in the top-left corner.
 2. Make a copy of the sheet for your own.
 3. Read further instructions below.
 
-Make sure to use the same wording for the broadcasts in the item columns as I have used in the individual drop luck calculation above. The cells are automatically changing background colour to match the item, so it will be obvious when you do it right.
+Make sure to use the drop down menus for the broadcasts in the item columns otherwise you will get an error and the sheet will not work. These names are chosen to specifically work with the Hall Of Fame. You can submit your sheet via <#1181299697726521454> or DMing <@332549285923127304>
 
-Everything is automated, so you won’t need to change anything except for;
+The cells are automatically changing background colour to match the item, so it will be obvious when you do it right.
+
+**Everything is automated**, so you won’t need to change anything except for;
 Broadcast items (Ex. cell B20), # of that item on the log (Ex. cell C20) and clue count at the moment you got the broadcast (Ex. cell D20)
 Caskets opened (Cells D16, H16 and L16)
-Broadcast prices (if you scroll to the right)
-
-Any issues or suggestions, please notify <@195276355779166208>
 
 Return to <#1023016455429685389>
