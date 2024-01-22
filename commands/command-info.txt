@@ -11,11 +11,11 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!blm` - Explains Bad Luck Mitigation for Clue Scrolls.
 ⬥ `!compass` - Links a youtube tutorial on how to use alt1 for compass arrow clues.
 ⬥ `!commands` - Links the channel on where to check out commands and where to use them.
-⬥ `!nature` - Explains the Amulet of Nature.
+⬥ `!nature` - Explains the Amulet of Nature and it's utility.
 ⬥ `!totem` - Explains the Totem of Treasure.
 ⬥ `!scantrainer` - Explains the Scan Trainer addon for alt1.
 ⬥ `!sentinel` - Lists suggested teleport locations for the nature sentinel outfit for Elite clues.
-⬥ `!sotg` - Explains the Sceptre of The Gods.
+⬥ `!sotg` - Explains the Sceptre of The Gods and it's utility.
 
 .
 > __**Server Help**__
