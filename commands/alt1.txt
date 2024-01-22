@@ -1,8 +1,8 @@
 {
   "embed": {
-    "title": "__What is ALT1?__",
-    "url":"https://runeapps.org/alt1",
-    "description": "⬥ Alt1 is a 3rd-party program that consists of several application overlays on your screen.\n⬥ They get information by reading your screen, and provide a bunch of QoL/useful features such as the Clue Solver, Scan Trainer and more!\n⬥ Join the Alt-1 Discord Server [here](<https://discord.gg/Qf6eM8dUVv>) and ask your questions directly to the developers for a quicker response on issues.",
+    "title": "__Alt1 Toolkit__",
+		"url":"https://discord.gg/5GTc79QDWQ",
+    "description": "**__What is ALT1?__**\nAlt1 is a third-party program with helpful features like the Clue Solver and Scan Trainer. It uses application overlays on your screen to gather information.\n\nFor direct questions and support, join the [RuneApps Discord Server](https://discord.gg/Qf6eM8dUVv) and chat with the plugin developers.\n\n__**RuneApps Forums**__:\n**[Download Here](<https://runeapps.org/alt1>)**\n\n__**Troubleshooting**__:\n⬥ [Increase minimap size](<https://prnt.sc/-JRyvRhWAJpD>).\n⬥ [Check out the recent engine update](<https://runeapps.org/forums/viewtopic.php?id=1614>).\n⬥ [Adjust Text Size to 12pt if too big or small](<https://prnt.sc/pofvXfJFQbMD>).\n⬥ [Ensure Interface Scaling is set to default 100%](<https://prnt.sc/4IzTeJVGRzNR>).\n⬥ [Close all but one chat window if multiple are open](<https://prnt.sc/6WvBMTkQRu3T>).\n⬥ [Disable Interface Transparency - set to opaque, no transparency](<https://prnt.sc/lT40-OPKZD6D>).\n⬥ [Confirm the clue interface is fully visible and not covered by an overlay](<https://prnt.sc/2VcF5hg2g0qZ>).\n⬥ [Graphical changes can affect Alt1's ability to accurately detect clue steps](<https://discord.com/channels/332595657363685377/894988133794451456/1196445758052913263>).",
     "color": 12745742,
     "fields": []
   }
