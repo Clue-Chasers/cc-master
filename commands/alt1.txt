@@ -1,6 +1,6 @@
 {
   "embed": {
-    "title": "__Alt1 Troubleshooting__",
+    "title": "__Alt1 Toolkit__",
     "color": 39423,
     "fields": [
       {
@@ -14,6 +14,10 @@
       {
         "name": "__Common Troubleshooting__",
         "value": "⬥ [Increase minimap size](<https://prnt.sc/-JRyvRhWAJpD>)\n⬥ [Check out the recent engine update](<https://runeapps.org/forums/viewtopic.php?id=1614>)\n⬥ [Enable Timestamps in chat for Clue Split](<https://prnt.sc/RmYGCh7mXxdS>)\n⬥ [Adjust Text Size to 12pt if too big or small](<https://prnt.sc/pofvXfJFQbMD>)\n⬥ [Ensure Interface Scaling is set to default 100%](<https://prnt.sc/4IzTeJVGRzNR>)\n⬥ [Close all but one chat window if multiple are open](<https://prnt.sc/6WvBMTkQRu3T>)\n⬥ [Disable Interface Transparency - set to opaque, no transparency](<https://prnt.sc/lT40-OPKZD6D>)\n⬥ [Confirm the clue interface is fully visible and not covered by an overlay](<https://prnt.sc/2VcF5hg2g0qZ>)\n⬥ [Graphical changes can affect Alt1's ability to accurately detect clue steps](<https://secure.runescape.com/m=news/kandarin-area-graphical-update---this-week-in-runescape>)"
+      },
+      {
+        "name": "__Guide Channels__",
+        "value": "⬥ <#1128437423022538802>\n⬥ <#1123544061052207114> "
       }
     ]
   }
