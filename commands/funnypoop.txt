@@ -1,0 +1,12 @@
+{
+  "embed": {
+      "thumbnail": {
+  "url": "https://i.imgur.com/AtBAKq9.png"
+},
+    "title": "__Most Amount of Blood Dyes obtained by Players__",
+    "description": "⬥  $data_cc:BCLeaderboard!C1$",
+    "color": 15548997,
+    "fields": []
+  }
+}
+.embed:json
