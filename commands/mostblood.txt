@@ -4,7 +4,7 @@
   "url": "https://i.imgur.com/GHpW5lf.png"
 },
     "title": "__Most Amount of Blood Dyes obtained by Players__",
-    "description": "⬥ $data_cc:BCLeaderboard!D51$ - $data_cc:BCLeaderboard!C51$\n⬥ $data_cc:BCLeaderboard!D52$ - $data_cc:BCLeaderboard!C52$\n⬥ $data_cc:BCLeaderboard!D53$ - $data_cc:BCLeaderboard!C53$\n⬥ $data_cc:BCLeaderboard!D54$ - $data_cc:BCLeaderboard!C54$\n⬥ $data_cc:BCLeaderboard!D55$ - $data_cc:BCLeaderboard!C55$\n⬥ $data_cc:BCLeaderboard!D56$ - $data_cc:BCLeaderboard!C56$\n⬥ $data_cc:BCLeaderboard!D57$ - $data_cc:BCLeaderboard!C57$",
+    "description": "⬥ $data_cc:BCLeaderboard!D53$ - $data_cc:BCLeaderboard!C53$\n⬥ $data_cc:BCLeaderboard!D54$ - $data_cc:BCLeaderboard!C54$\n⬥ $data_cc:BCLeaderboard!D55$ - $data_cc:BCLeaderboard!C55$\n⬥ $data_cc:BCLeaderboard!D56$ - $data_cc:BCLeaderboard!C56$\n⬥ $data_cc:BCLeaderboard!D57$ - $data_cc:BCLeaderboard!C57$\n⬥ $data_cc:BCLeaderboard!D58$ - $data_cc:BCLeaderboard!C58$\n⬥ $data_cc:BCLeaderboard!D59$ - $data_cc:BCLeaderboard!C59$",
     "color": 15548997,
     "fields": []
   }
