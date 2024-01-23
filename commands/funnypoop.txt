@@ -5,7 +5,7 @@
 },
     "title": "__debug command <a:SCHIZO:1042907357249802310>__",
     "description": "⬥  $data_cc:BCLeaderboard!C1$",
-    "color": 15548997,
+    "color": 39423,
     "fields": []
   }
 }
