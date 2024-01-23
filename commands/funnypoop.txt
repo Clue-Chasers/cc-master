@@ -3,8 +3,8 @@
       "thumbnail": {
   "url": "https://i.imgur.com/AtBAKq9.png"
 },
-    "title": "__debug command <a:SCHIZO:1042907357249802310>__",
-    "description": "⬥  $data_cc:BCLeaderboard!C1$",
+    "title": "__Profit over Fun__",
+    "description": "⬥ <:puzzleboxskip:1107037250199506944> - $data_cc:Prices!A4435$",
     "color": 39423,
     "fields": []
   }
