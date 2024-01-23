@@ -4,8 +4,8 @@
   "url": "https://i.imgur.com/AtBAKq9.png"
 },
     "title": "__Profit over Fun__",
-    "description": "⬥ <:puzzleboxskip:1107037250199506944> - $data_cc:Prices!B4435$",
-    "color": 39423,
+    "description": "⬥ <:puzzleboxskip:1107037250199506944> - $data_cc:Prices!B4435$\n ⬥ <:Elitecasket:690876744382545950> $data_cc:CasketValue!E12$ with <:puzzleboxskip:1107037250199506944> <:knotskip:1107037246936326234>",
+    "color": 12745742,
     "fields": []
   }
 }
