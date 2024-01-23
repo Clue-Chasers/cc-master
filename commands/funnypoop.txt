@@ -4,7 +4,7 @@
   "url": "https://i.imgur.com/AtBAKq9.png"
 },
     "title": "__Profit over Fun__",
-    "description": "⬥ <:puzzleboxskip:1107037250199506944> - $data_cc:Prices!A4435$",
+    "description": "⬥ <:puzzleboxskip:1107037250199506944> - $data_cc:Prices!B4435$",
     "color": 39423,
     "fields": []
   }
