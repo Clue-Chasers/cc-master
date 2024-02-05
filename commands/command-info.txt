@@ -23,19 +23,13 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!cc` - Generates an invite link for Clue Chasers.
 ⬥ `!mass` - Lists any upcoming mass opening event.
 ⬥ `!suggestion` - Links the suggestion forum and offers examples of possible suggestions.
+⬥ `!fc` - Links the Clue Chasers FC.
 
 .
 > __**Spreadsheets**__
 .tag:sheets
 ⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
 ⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
-⬥ `!most3a` - List players with the most Third Age Dyes on their collection logs.
-⬥ `!mostblood` - List players with the most Blood Dyes on their collection logs.
-⬥ `!mostbarrows` - List players with the most Barrows Dyes on their collection logs.
-⬥ `!mostshadow` - List players with the most Shadow Dyes on their collection logs.
-⬥ `!mostice` - List players with the most Ice Dyes on their collection logs.
-⬥ `!mostdruidic` - List players with the most total of Druidic Pieces on their collection logs.
-⬥ `!mostosh` - List players with the most Orlando Smith Hat's on their collection logs.
 ⬥ `!spectacle` - List explanation and link to the upcoming or ongoing events.
 
 .
