@@ -1,0 +1,13 @@
+{
+  "embed": {
+    "title": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__We have a friends chat in-game!__",
+        "value": "You can hang out with fellow players from the Clue Chasers Discord server below by joining our FC.\n\n**FC: Clue Chasers**\n\n.img:https://i.imgur.com/9A9SDSC.png"
+      }
+    ]
+  }
+}
+.embed:json
