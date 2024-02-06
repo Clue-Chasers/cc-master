@@ -188,7 +188,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/5oL9M0MLTyiz4ohcY0Ag)",
+        "value": "⬥ [Preset Link](https://pvme.github.io/preset-maker/#/62ZQxxXeNVIl2TdrUckk)",
         "inline": true
       },
       {
