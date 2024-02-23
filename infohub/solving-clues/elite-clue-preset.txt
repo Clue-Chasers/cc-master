@@ -174,7 +174,7 @@ In-game sounds are able to assist with scans. Listening to the pulse instead of 
 ⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route
 ⬥ For the North Eastern Daemonheim spot - Either use Dragonkin Laboratory Tokens <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef
 ⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs
-⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 6 to 8 minutes.
+⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.
 ⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)
 ⬥ For the "No Sceptre of the Gods w/o Skips" preset, use <:shadowsgrace:895999229737185280> and run the Lumbridge Swamp Cave scan in the dark if you have too.
 .
