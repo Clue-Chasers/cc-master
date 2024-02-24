@@ -1,1 +1,9 @@
-
+{
+  "embed": {
+  "title": "",
+    "description":"[**Back to Directory**](https://discord.com/channels/332595657363685377/1190060124203655290)\n\n[Rules and Info](https://discord.com/channels/332595657363685377/440211606539075584)\n[Roles and Info](https://discord.com/channels/332595657363685377/613757537506033664)\n[Hall of Fame](https://discord.com/channels/332595657363685377/581552255581290506)\n[Affiliates](https://discord.com/channels/332595657363685377/567084692830945280)",
+    "color": 12745742
+   }
+}
+.embed:json
+.
