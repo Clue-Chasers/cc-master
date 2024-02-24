@@ -1,0 +1,11 @@
+## Directory
+.
+{
+  "embed": {
+  "title": "",
+    "description":"__**General Channels**__\n[Mod Mail](https://discord.com/channels/332595657363685377/1193636892130955394)\n[Announcements](https://discord.com/channels/332595657363685377/1193637083475087400) - Server updates, clue-news, jagex-media and reminders.\n[Server Information](https://discord.com/channels/332595657363685377/1210959692721954877) -  Rules, roles, hall-of-fame and affiliates.\n[Information Hub](https://discord.com/channels/332595657363685377/1190066236005027950) - Index for all the information hub channels.\n[Feedback Hub](https://discord.com/channels/332595657363685377/1193637160172134542) - Share feedback or make your voice heard.\n[Clue Assistance](https://discord.com/channels/332595657363685377/1193637201804787712) - Ask advice or questions relating to Clue Scrolls.\n[Command Channels](https://discord.com/channels/332595657363685377/1193637285200142487) - Update your clue role or check out some custom commands.\n[Social Channels](https://discord.com/channels/332595657363685377/1193637498279170118)\n[Voice Channels](https://discord.com/channels/332595657363685377/1210957406951972995)\n[Off Topic Channels](https://discord.com/channels/332595657363685377/1193637586258890813)\n[Infohub Source](https://discord.com/channels/332595657363685377/1193637681364750357)\n[Public Archives](https://discord.com/channels/332595657363685377/1193637734468829194)\n\n\n__**Guide Channels**__\n[Infohub Read Me](https://discord.com/channels/332595657363685377/1023169789381849098) - A quick guide on how the information hub works.\n[Getting Started](https://discord.com/channels/332595657363685377/1120257028762378310) - Useful information for getting into Clue Scrolls.\n[Gathering Clues](https://discord.com/channels/332595657363685377/1023016130077532300) - Methods and presets for gathering Clue Scrolls.\n[Solving Clues](https://discord.com/channels/332595657363685377/1023016354145648741) - Methods and presets for solving Clue Scrolls.\n[Faq and Misc](https://discord.com/channels/332595657363685377/1023016455429685389) - Frequently asked questions and miscellaneous.\n[Scan Trainer](https://discord.com/channels/332595657363685377/1103737270114209825) - Home of the Scan Trainer tool by <@338283681120780288>",
+    "color": 39423
+   }
+}
+.embed:json
+.
