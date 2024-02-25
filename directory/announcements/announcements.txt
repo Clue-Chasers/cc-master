@@ -1,7 +1,7 @@
 {
   "embed": {
   "title": "",
-    "description":"[**Back to Directory**](https://discord.com/channels/332595657363685377/1190060124203655290)\n\n[Announcements](https://discord.com/channels/332595657363685377/894988133794451456)\n[Clue News](https://discord.com/channels/332595657363685377/1128701374293618768)\n[Jagex Media](https://discord.com/channels/534508796639182860/639181967534850056)\n[Reminders](https://discord.com/channels/332595657363685377/1128747827334492180)",
+    "description":"[**Back to Directory**](https://discord.com/channels/332595657363685377/1190060124203655290)\n\n[Announcements](https://discord.com/channels/332595657363685377/894988133794451456)\n[Clue News](https://discord.com/channels/332595657363685377/1128701374293618768)\n[Jagex Media](https://discord.com/channels/332595657363685377/1128701374293618768)\n[Reminders](https://discord.com/channels/332595657363685377/1128747827334492180)",
     "color": 12745742
    }
 }
