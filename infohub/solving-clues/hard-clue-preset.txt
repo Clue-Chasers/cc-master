@@ -124,7 +124,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Tips__**",
-        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for [catalysts](https://runescape.wiki/w/Catalyst_of_alteration).\n⬥ Use [Lantadyme Incense sticks](https://runescape.wiki/w/Lantadyme_incense_sticks) <:Lantadymeincense:1127691837197525033> to extend potions timers from 6 to 8 minutes if bringing any.\n⬥ If [Dark Facet of Luck](https://runescape.wiki/w/Dark_Facet_of_Luck) <:lotdfacet:1123596338693673020> is not owned, bring [Dragon Trinkets](https://runescape.wiki/w/Dragon_trinkets) <:trinkets:1131303172292489427> for Baxtorian Falls and use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the diseased [Vine bush patch](https://runescape.wiki/w/Vine_bush_patch) in Herblore Habitat.",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ If [Dark Facet of Luck](https://runescape.wiki/w/Dark_Facet_of_Luck) <:lotdfacet:1123596338693673020> is not owned, bring Dragon Trinkets <:trinkets:1131303172292489427> for Baxtorian Falls and use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the diseased Vine bush patch in Herblore Habitat.\n⬥ Use [Load Last Preset](https://youtu.be/eQtuc5oRnmU) at Shilo Village and Fishing Guild.\n     • Make sure you load it before doing the step.\n     • [Insert the active clues](https://youtu.be/PpeL91FBlJE) into the empty clue + puzzle slots",
         "inline": true
       }
     ]
@@ -141,7 +141,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Magic__",
-        "value": "⬥ (tc) + <:icebarrage:537340400185245701> +<:gstaff:513203008608141314> <:eofspec:746403211908481184> → <:wrack:856662355952795658>",
+        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + Penance Trident / <:gstaff:513203008608141314> <:eofspec:746403211908481184>",
         "inline": false
       },
       {
@@ -149,9 +149,14 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
         "value": "⬥ (tc) + <:dragonclaw:779048041088024606> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
+            {
+        "name": "__Range__",
+        "value": "⬥ (tc) + <:snap:535534127131394088> / Zamorak Bow <:essenceoffinality:1128611952751554621>",
+        "inline": false
+      },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ Pre <:conjureundeadarmy:1166002063017259139> → <:commandzombie:1137809191231295549> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:746403211908481184> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
+        "value": "⬥ Pre <:conjureundeadarmy:1166002063017259139> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:746403211908481184> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
         "inline": false
       }
     ]
@@ -165,7 +170,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Preset Notes and Alterations__**",
-        "value": "⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> or wear Passage <:potared:1123597976208674888> and take an extra niche item such as Lantadyme Incense Sticks <:lantasticks:565726489404899368>, Weapon Poison <:weppoison:689525476158472288>\n⬥ If you don't own Sceptre of the Gods <:sotg:1097869036840300644> make sure you take noted gold items to recharge your sceptre",
+        "value": "⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Scrim <:elementsscrim:841409588959510539> or wear Passage <:potared:1123597976208674888> and take an extra niche item such as Inactive Spirit Tree re-rooter <:spirittreererooter:1123597953303584799>, Weapon Poison <:weppoison:689525476158472288>\n⬥ If you don't own Sceptre of the Gods <:sotg:1097869036840300644> make sure you take noted gold items to recharge your sceptre\n⬥ Overloads <:elderovl:841419289831800882> are no longer necessary for Magic <:magic:689504724159823906> and Range <:range:580168050121113623>",
         "inline": true
       }
     ]
@@ -178,8 +183,8 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "color": 6726,
     "fields": [
       {
-        "name": "**__Not using skips?__**",
-        "value": "These are items you can take in place of skips:\n⬥ Spirit Tree Re-rooter <:spirittreererooter:1123597953303584799>\n⬥ More Acceleration potions <:accel:756236265472524418>\n⬥ Lantadyme Incense Sticks <:lantasticks:565726489404899368>\n⬥ Weapon Poison <:weppoison:689525476158472288>\n⬥ Reaver Ring <:reaverring:839903943018283050> for damage (best with <:necromancy:1148995625896120460>)",
+        "name": "**__Not using skips / overloads?__**",
+        "value": "These are items you can take in place of skips:\n⬥ Spirit Tree Re-rooter <:spirittreererooter:1123597953303584799>\n⬥ More Acceleration potions <:accel:756236265472524418>\n⬥ Grand Seed Pod\n⬥ Spirit Attraction Potions",
         "inline": true
       }
     ]
@@ -193,17 +198,22 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Magic__ <:magic:689504724159823906>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/ZI3W9Es8iOiTw8EIi9Q0)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/EH1vcVkznJ1VSxHxVWCh)",
         "inline": true
       },
       {
         "name": "__Melee__ <:melee:1096130867279171706>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/A5PxEoOzCofEhlwQManv)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/SOoIUCbmAx5foIYUSiyl)",
+        "inline": true
+      },
+            {
+        "name": "__Range__ <:range:580168050121113623>",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/YzwUsJ4TsbtJNI9rifRW)",
         "inline": true
       },
       {
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/5VULf0mNRC1X2q3W8jIK)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/U3YUoHdigGD4BFZwEJWd)",
         "inline": true
       }
     ]
