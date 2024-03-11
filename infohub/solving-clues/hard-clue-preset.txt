@@ -141,17 +141,17 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Magic__",
-        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + Penance Trident / <:gstaff:513203008608141314> <:eofspec:746403211908481184>",
+        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:penancetrident:1215806147165032598> / <:gstaff:513203008608141314> <:eofspec:746403211908481184>",
         "inline": false
       },
       {
         "name": "__Melee__",
-        "value": "⬥ (tc) + <:dragonclaw:779048041088024606> <:essenceoffinality:1128611952751554621>",
+        "value": "⬥ (tc) + <:armagodsword:860891314379554846> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
             {
         "name": "__Range__",
-        "value": "⬥ (tc) + <:snap:535534127131394088> / Zamorak Bow <:essenceoffinality:1128611952751554621>",
+        "value": "⬥ (tc) + <:snap:535534127131394088> / <:zammybow:1215929540908679208> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
       {
