@@ -41,7 +41,7 @@ If Necromancy:
     "fields": [
       {
         "name": "__Presets__",
-        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/SfCSM491R9VhsaG82PD5)\n⬥ [Melee](https://pvme.io/preset-maker/#/B0pFKLiAxBTB8A5VJcmt)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/wTuZ0GkcXu7TFwAtCwLz)",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/SfCSM491R9VhsaG82PD5)\n⬥ [Melee](https://pvme.io/preset-maker/#/t3jKDvd8wakH1kAnuGvP)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/wTuZ0GkcXu7TFwAtCwLz)",
         "inline": true
       }
     ]
@@ -58,8 +58,8 @@ If Necromancy:
     • If you use <:reaverpouch:839903693837959228> Reaver with <:necromancy:1148995625896120460> Necromancy do not use <:darkness:1137809209782698024> Darkness alongside it.
 **Magic 600+ kph**
 .img:https://media.discordapp.net/attachments/668944906521280533/1151246925958488265/ActionBar_2.png
-**Melee 530+ kph**
-.img:https://media.discordapp.net/attachments/668944906521280533/1151268254204051538/ActionBar_3.png
+**Melee 645+ kph**
+.img:https://cdn.discordapp.com/attachments/874985149937365064/1217482434153812178/ActionBar_6.png
 **Necromancy 580+ kph**
 .img:https://media.discordapp.net/attachments/668944906521280533/1180491846011584603/ActionBar_4.png
 .
