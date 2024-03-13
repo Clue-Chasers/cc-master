@@ -69,7 +69,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
