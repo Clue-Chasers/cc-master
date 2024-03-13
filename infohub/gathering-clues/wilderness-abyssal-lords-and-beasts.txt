@@ -20,7 +20,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
 ⬥ <:jasboost:1006121672790773770> Stone of Jas buff active
-⬥ <:cryptbloombody:892819107253194762> 4/5 Cryptbloom pieces
+⬥ <:cryptbloombody:892819107253194762> 4 Cryptbloom pieces
 ⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times
@@ -43,12 +43,12 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
     "fields": [
       {
         "name": "__Positioning__",
-        "value": "⬥ [Cannon and Standing spots](https://img.pvme.io/images/jnu05zwRvR.png)\n⬥ [Lower Gear Alternative](https://cdn.discordapp.com/attachments/1101214731571822673/1123342621767647272/wildyafkguide.jpg)",
+        "value": "⬥ [Cannon and Standing spots](https://img.pvme.io/images/jnu05zwRvR.png)",
         "inline": true
       },
       {
         "name": "__Preset__",
-        "value": "⬥ [Preset and Breakdown](https://pvme.github.io/preset-maker/#/AhI9qkqPlYQ3r4kB28x1)",
+        "value": "⬥ [Preset and Breakdown](https://pvme.github.io/preset-maker/#/hp5r935TPKlbdn18FUZe)",
         "inline": true
       }
     ]
@@ -59,7 +59,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 .
 **Action Bar**
 .tag:bar
-.img:https://img.pvme.io/images/BOVzuOf2AP.png
+.img:https://media.discordapp.net/attachments/668944906521280533/1217448446622044180/ActionBar_5.png?ex=66041038&is=65f19b38&hm=cd772f781937fe7ac5cc02b6181b9d8eac736baf7ea19487d399356a638a7908&=&format=webp&quality=lossless
 .
 {
   "embed": {
