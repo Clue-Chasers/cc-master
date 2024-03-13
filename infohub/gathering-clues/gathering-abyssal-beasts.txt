@@ -30,7 +30,7 @@ If Necromancy:
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1151275891289227344> Darkness and your best damage boosting prayer on at all times.
 ⬥ You will need to stand in a specific spot for this to be optimal
-.img:https://img.pvme.io/images/ejhBZ7LwSL.png
+.img:https://img.pvme.io/images/xvsUVHqUdb.png
 
 .tag:positionpreset
 {
