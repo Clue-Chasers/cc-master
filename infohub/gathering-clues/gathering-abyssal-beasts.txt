@@ -26,7 +26,7 @@ If Melee:
 ⬥ <:vestmentsofhavochood:994189297659940904> Full Vestments
 If Necromancy:
 ⬥ <:spectralscythe3:1151275912164290641> Full Spectral Scythe
-⬥ <:conjureundeadarmy:1166002063017259139> Conjure Undead Army
+⬥ <:conjurearmy:1166094935066423348> Conjure Undead Army
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1151275891289227344> Darkness and your best damage boosting prayer on at all times.
 ⬥ You will need to stand in a specific spot for this to be optimal
