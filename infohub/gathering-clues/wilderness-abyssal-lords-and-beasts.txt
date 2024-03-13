@@ -59,7 +59,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 .
 **Action Bar**
 .tag:bar
-.img:https://media.discordapp.net/attachments/668944906521280533/1217448446622044180/ActionBar_5.png?ex=66041038&is=65f19b38&hm=cd772f781937fe7ac5cc02b6181b9d8eac736baf7ea19487d399356a638a7908&=&format=webp&quality=lossless
+.img:https://img.pvme.io/images/qX5PZslVXP.png
 .
 {
   "embed": {
