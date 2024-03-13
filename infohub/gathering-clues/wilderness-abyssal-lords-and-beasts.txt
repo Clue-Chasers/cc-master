@@ -1,7 +1,7 @@
 *(courtesy of <@145884917627224065>)*
 > **Introduction**
 .tag:intro
-Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
+Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 
 Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:633732493228638209> via crystal triskelion key fragments <:trisk:643215216934518815> and actual clue drops.
 .
@@ -23,29 +23,26 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 ⬥ <:cryptbloombody:892819107253194762> 4 Cryptbloom pieces
 ⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times
-⬥ Try to not fill your inventory as the aim is to get crystal triskelion key fragments <:trisk:643215216934518815> for elite clues <:Elite:633732493228638209>
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times.
+⬥ Try to not fill your inventory as the aim is to get crystal triskelion key fragments <:trisk:643215216934518815> for elite clues. <:Elite:633732493228638209>
 
-⬥ You can aggro 5 Abyssal Lords and 3 Abyssal Beasts with this method
-⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon and getting some beasts stuck on the rock close by whilst they try to run away
-⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead
-⬥ You will need to stand in a specific spot for this to be optimal
-⬥ You need to place your cannon in a specific position for this to be optimal
+⬥ You can aggro 5 Abyssal Lords and 3 Abyssal Beasts with this method.
+⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon and getting some beasts stuck on the rock close by whilst they try to run away.
+⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead.
+⬥ You will need to stand in a specific spot for this to be optimal.
+⬥ You need to place your cannon in a specific position for this to be optimal.
     • You can use an alt account to aggro an additional 2 Beasts to be in range of your area of effect abilities
-    • All of which are detailed in the embed below
-
-.tag:positionpreset
+    • All of which are detailed in the embed below.
+.tag:position
+.img:https://img.pvme.io/images/VtwbZiAD72.png
+.
+.tag:preset
 {
   "embed": {
 "title": "",
     "description": "",
     "color": 39423,
     "fields": [
-      {
-        "name": "__Positioning__",
-        "value": "⬥ [Cannon and Standing spots](https://img.pvme.io/images/jnu05zwRvR.png)",
-        "inline": true
-      },
       {
         "name": "__Preset__",
         "value": "⬥ [Preset and Breakdown](https://pvme.github.io/preset-maker/#/hp5r935TPKlbdn18FUZe)",
@@ -55,7 +52,6 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
   }
 }
 .embed:json
-
 .
 **Action Bar**
 .tag:bar
@@ -69,7 +65,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_position$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
