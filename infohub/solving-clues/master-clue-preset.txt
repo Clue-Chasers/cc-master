@@ -1,6 +1,5 @@
 ### **__Master Clue Preset Guide__ (courtesy of <@145884917627224065>, <@332549285923127304> & <@161545097597550593>**)
 *Note: a **Table of Contents** can be found in the pins.*
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ### **__Introduction__**
 .tag:intro
 .
