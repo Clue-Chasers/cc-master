@@ -41,7 +41,7 @@ If Necromancy:
     "fields": [
       {
         "name": "__Presets__",
-        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/SfCSM491R9VhsaG82PD5)\n⬥ [Melee](https://pvme.io/preset-maker/#/t3jKDvd8wakH1kAnuGvP)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/wTuZ0GkcXu7TFwAtCwLz)",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/wwUmZd7u7zIFSkfxNlPr)\n⬥ [Melee](https://pvme.io/preset-maker/#/ltWr4Z1LIybEE4vCT7lk)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/bN1K3Ldh4j3HkYdavLUR)",
         "inline": true
       }
     ]
@@ -54,14 +54,14 @@ If Necromancy:
 .tag:bar
 ⬥ Note:
     • The kills per hour is using best in slot and having the max levels in the relevant style
-    • All methods use Legendary Pet and <:aggrovl:689551388576972805> Aggroverloads, you can get higher kills per hour with <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
+    • All methods used <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
     • If you use <:reaverpouch:839903693837959228> Reaver with <:necromancy:1148995625896120460> Necromancy do not use <:darkness:1137809209782698024> Darkness alongside it.
-**Magic 600+ kph**
+**Magic 670+ kph**
 .img:https://img.pvme.io/images/y5peEQqt6R.png
 **Melee 645+ kph**
 .img:https://img.pvme.io/images/EfV9ZS0v86.png
-**Necromancy 580+ kph**
-.img:https://img.pvme.io/images/pJGaWCRtfg.png
+**Necromancy 600+ kph**
+.img:https://img.pvme.io/images/mnUgmBN3MM.png
 .
 {
   "embed": {
