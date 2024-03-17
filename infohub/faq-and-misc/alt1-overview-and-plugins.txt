@@ -54,7 +54,7 @@ While official Alt1 support is not offered for these operating systems, there's 
 .
 ### > __**Scan Trainer**__ - `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json`
 .tag:scantrainer
-**Explanation** - guides players through efficiently solving scan steps in elite <:eliteclue:1123586941057769552> and master clues <:masterclue:1123586937245151303> see <#1123544061052207114> or [here](<https://i.imgur.com/tJ0VIH7.jpeg>)**.
+**Explanation** - guides players through efficiently solving scan steps in elite <:eliteclue:1123586941057769552> and master clues <:masterclue:1123586937245151303> see <#1123544061052207114> or **[here](<https://i.imgur.com/tJ0VIH7.jpeg>)**.
 .
 ### > __**Bik Book Timer**__ - `alt1://addapp/https://amerryma.github.io/alt1-bik-proc-timer/appconfig.json`
 .tag:bikbook
