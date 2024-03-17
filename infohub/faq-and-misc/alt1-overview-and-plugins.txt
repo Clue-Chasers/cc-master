@@ -57,27 +57,28 @@ While official Alt1 support is not offered for these operating systems, there's 
 ### > __**Scan Trainer**__ - `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json`
 .tag:scantrainer
 **Explanation** - guides players through efficiently solving scan steps in elite <:eliteclue:1123586941057769552> and master clues <:masterclue:1123586937245151303> see <#1123544061052207114>
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153742543574536423/image.png
+.img:https://i.imgur.com/tJ0VIH7.jpeg
 
 .
 ### > __**Bik Book Timer**__ - `alt1://addapp/https://amerryma.github.io/alt1-bik-proc-timer/appconfig.json`
 .tag:bikbook
 **Explanation** - alerts when to disassemble with Bik book <:scriptureofbik:892342109791735848>
+.img:https://i.imgur.com/dMsSSoy.jpeg
 **Important Notes** - Both in-game time stamps and the app above use your local machine time. For most people it's off from RuneScape's internal server time by +/- 2 seconds.
 ⬥ The few seconds can be corrected like this:
-.img:https://cdn.discordapp.com/attachments/400499160094212097/965589572354441216/Sync.mp4
+.img:https://i.imgur.com/yyS30zD.png
 ⬥ For more information on Bik: <#1022589092262842508>
 .
 ### > __**OpenLogger**__ - `alt1://addapp/https://redx1000.github.io/OpenLogger/appconfig.json`
 .tag:openlogger
 **Explanation** - an open source clue logger that will help keep track of your clues as you open them
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153743363317710918/OpenLogger20Tall.png
+.img:https://i.imgur.com/7d3ONxG.jpeg
 
 .
 ### > __**Clue Splits**__ - `alt1://addapp/https://yongyi781.github.io/clue-split/appconfig.json`
 .tag:splits
 **Explanation** - automatically tracks your clue times while doing a clue run, with no input required <:surge:535533810004262912>
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153743099282075719/image.png
+.img:https://i.imgur.com/MKhTp0D.jpeg
 **Requirements and recommendations for Clue Split Timer:**
 ⬥ Timestamps on in chat - it's how the app tracks clue times.
 ⬥ Interface transparency off, for best chatbox reading accuracy.
@@ -88,7 +89,7 @@ While official Alt1 support is not offered for these operating systems, there's 
 ### > __**Catalyst Tracker**__ - `alt1://addapp/https://ibbykay.github.io/CatalystClueTracker/appconfig.json`
 .tag:catalyst
 **Explanation** - tracks clues from Catalyst of alterations displayed in the chat window
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153746703061614682/image.png
+.img:https://i.imgur.com/IX95g8q.jpeg
 .
 {
   "embed": {
