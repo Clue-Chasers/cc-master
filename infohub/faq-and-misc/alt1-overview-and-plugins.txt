@@ -51,7 +51,7 @@ In addition to the default apps that come with Alt1, there are a number of other
 .
 ### > __**Linux and macOS Support**__
 .tag:linuxmac
-Whilst there is no official Alt1 Support for these operating systems there's an alternative which can be found [here](<https://github.com/whs/runekit>).
+While official Alt1 support is not offered for these operating systems, there's an alternative plugin designed for macOS called [RuneKit](https://github.com/whs/runekit), which you might find beneficial to explore.
 
 .
 ### > __**Scan Trainer**__ - `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json`
