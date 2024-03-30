@@ -31,8 +31,6 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 ⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead.
 ⬥ You will need to stand in a specific spot for this to be optimal.
 ⬥ You need to place your cannon in a specific position for this to be optimal.
-    • You can use an alt account to aggro an additional 2 Beasts to be in range of your area of effect abilities
-    • All of which are detailed in the embed below.
 .tag:position
 .img:https://img.pvme.io/images/VtwbZiAD72.png
 .
