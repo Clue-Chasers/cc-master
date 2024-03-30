@@ -66,16 +66,16 @@ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillste
 .tag:pota
 {
   "embed": {
-    "title": "__Passage of the Abyss__ <:potagreen:1123597971737559110> <:potared:1123597976208674888>",
-    "color": 39423,
+    "title": "__Which teleport jewellery to store?__ ",
+    "color": 12745742,
     "fields": [
       {
-        "name": "__Passage  #1__",
+        "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
         "value": "⬥ [Skills Necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat Bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Digsite Pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of Slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's Necklace](https://runescape.wiki/w/Traveller%27s_necklace) <:travellersnecklace:1124783946186629171>",
         "inline": true
       },
       {
-        "name": "__Passage #2__",
+        "name": "__Passage #2__ <:potared:1123597976208674888>",
         "value": "⬥ [Enlightened Amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of Respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569> \n⬥ [Ring of Duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games Necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
         "inline": true
       }
@@ -91,7 +91,7 @@ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillste
     "color": 39423,
     "fields": [
       {
-        "name": "__Fairy Ring Favorites <:portablefairyring:1084799722780360704>__",
+        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
         "value": "⬥ [**A J R** - Fremennik Slayer Dungeon](https://imgur.com/EcwYinG)\n⬥ [**A K Q** - Kandarin: Piscatoris Hunter area](https://imgur.com/LdFjQ8X)\n⬥ [**A K S** - Feldip Hills: Jungle Hunter area](https://imgur.com/rcQ8c04)\n⬥ [**A L Q** - Morytania: Haunted Woods east of Canifis](https://imgur.com/KXsCis9)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canifis](https://imgur.com/ttdts1D)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://imgur.com/0tLfDoU)\n⬥ **C J S** - Karamja: Kharazi Jungle\n\u00a0\u00a0\u00a0\u00a0• Used for Karamja scan only.\n⬥ **C K Q** - Menaphos: Imperial District\n\u00a0\u00a0\u00a0\u00a0• Used for Menaphos scan only.\n⬥ [**C K R** - Karamja: South of Tai Bwo Wannai Village](https://imgur.com/MYDjPML)\n⬥ [**D L Q** - Kharidian Desert: North of Nardah](https://imgur.com/3z0Ovlu)",
         "inline": true
       }
