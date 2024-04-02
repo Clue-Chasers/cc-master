@@ -1,5 +1,4 @@
 ### **__Optimal Requirements Hard Clues__** <:Hard:633728361918758930>
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Hard Seer's](<https://runescape.wiki/w/Hard_Seers_Village_tasks>)__**
@@ -92,6 +91,10 @@
 ⬥ Livid Farm spell
 ### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
 ⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
+.
+### __**[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)**__ <:amuletofnature:1123599470911815750>
+⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty).
+        ⬩ For hard clues it's recommended to bind the amulet to the [Vine bush patch](<https://runescape.wiki/w/Vine_bush_patch>) in [Herblore Habitat](<https://runescape.wiki/w/https://runescape.wiki/w/Herblore_Habitat>).
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
