@@ -1,6 +1,5 @@
 ### **__Optimal Requirements Master Clues__** <:masterclue:1123586937245151303>
 *Note: a **Table of Contents** can be found in the pins.*
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Medium Desert](<https://runescape.wiki/w/Medium_Desert_achievements>)__**
@@ -32,11 +31,6 @@
 ⬥ A [Tokkul-Zo](<https://runescape.wiki/w/Tokkul-Zo>) <:tokkulzo:975012160759550042> allowing teleportation around [TzHaar City](<https://runescape.wiki/w/TzHaar_City>).
 ### **__[Moving Phillipe Carnillean ](<https://runescape.wiki/w/Philipe_Carnillean>)__**
 ⬥ Requires 400 quests points + talking to him until he moves to [TzHaar City](<https://runescape.wiki/w/Philipe_Carnillean#mapFullscreen>).
-### __**[Pieces of Hate](<https://runescape.wiki/w/Pieces_of_Hate>)**__
-⬥ Ability to upgrade the [Little Book o' Piracy](<https://runescape.wiki/w/Little_Book_o'_Piracy>) to [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>). <:Big_Book_o_Piracy:1128728575491715122>
-        ⬩ It can teleport the player to four different locations: [Mos Le'Harmless](<https://runescape.wiki/w/Mos_Le'Harmless>), [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>), [Dragontooth Island](<https://runescape.wiki/w/Dragontooth_Island>) and [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
-.
-        ⬩ [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>) can be substituted for the [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> which allows the player to teleport directly to the attended patch only if the patch becomes diseased. For master clues you can bind it to the [Allotment patch](<https://runescape.wiki/w/Allotment_patch>) on [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
 .
 ### __**[Love Story](<https://runescape.wiki/w/Love_Story>)**__
 ⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals. <:chippedHouseTele:1127678790231916645>
@@ -96,6 +90,12 @@ There are five tortle portals on the Islands That Once Were Turtles to get aroun
 ### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
 ⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
 .
+### __**[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)**__ <:amuletofnature:1123599470911815750>
+⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty).
+        ⬩ For master clues it's recommended to bind the amulet to the [Allotment patch](<https://runescape.wiki/w/Allotment_patch>) on [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
+        ⬩ Can be replaced with [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>) which is upgraded from the [Little Book o' Piracy](<https://runescape.wiki/w/Little_Book_o'_Piracy>) but requires the [Pieces of Hate](<https://runescape.wiki/w/Pieces_of_Hate>) quest completion.
+        ⬩ It can teleport the player to four different locations: [Mos Le'Harmless](<https://runescape.wiki/w/Mos_Le'Harmless>), [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>), [Dragontooth Island](<https://runescape.wiki/w/Dragontooth_Island>) and [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
+.
 ### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__ <:pcodex:643166740833894400>**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
         ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>.
@@ -106,8 +106,8 @@ There are five tortle portals on the Islands That Once Were Turtles to get aroun
 .
 ### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
 ### **__[Unlock the Mazcab teleport](<https://runescape.wiki/w/Mazcab_Teleport>)__** <:Mazcab_Teleport_icon:1131959088348147813>
-### **__[Limitless Sigil](<https://runescape.wiki/w/Limitless_sigil>)__** <:limitless:641339233638023179>
 ### **__[Unlock Chaos Roar](<https://runescape.wiki/w/Chaos_Roar>)__** <:chaosroar:994644356671737966>
+⬥ Only required if using melee.
 ### **__[Twin Furies | Gregorovic](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
 ⬥ 1kc requirement for these bosses → teleport access in the [portal interface](<https://runescape.wiki/w/Boss_portal_(War's_Retreat)>).
 ### **__[100 boss kc requirement](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
