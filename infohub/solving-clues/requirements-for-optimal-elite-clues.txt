@@ -1,6 +1,5 @@
 ### **__Optimal Requirements Elite Clues__** <:eliteclue:1123586941057769552>
 *Note: a **Table of Contents** can be found in the pins.*
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .tag:area
 ### **__[Elite Desert](<https://runescape.wiki/w/Elite_Desert_achievements>)__**
@@ -79,11 +78,11 @@
 ### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
 ⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
 ### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
+.
 ### __**[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)**__ <:amuletofnature:1123599470911815750>
 ⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty).
         ⬩ For elite clues it's recommended to bind the amulet to the [Tree patch](<https://runescape.wiki/w/Tree_patch>) in [Falador Park](<https://runescape.wiki/w/Falador_Park>).
-.
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
 .
 ### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
 ⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
