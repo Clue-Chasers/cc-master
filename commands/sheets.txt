@@ -1,0 +1,14 @@
+{
+  "embed": {
+    "title": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Google Sheets__ <a:PETTHESHEET:999046578318889073>",
+        "value": "⬥ **[Hall of Fame](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=343818176>)**\n⬥ **[Daily Clue Completion](<https://docs.google.com/spreadsheets/d/140WDk6aMr0-O2Wtri1tAQ4xO_sj51XU1USUdEUktqnQ/edit#gid=867380064>)**\n⬥ **[GP/Casket](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=1645276893>)**\n⬥ **[Scripture of Bik](<https://docs.google.com/spreadsheets/d/1YilLeJ3YzCfr1nMNTo2XH0nukrtAqOtlVhIfQkJJno4/edit#gid=1425348308>)**\n⬥ **[Clue Broadcast Template](<https://docs.google.com/spreadsheets/d/1iX06orbl4AF6KKn2guSge3QMcY_8zEFHPHP7fH8fWGs/edit#gid=0>)**\n⬥ **[Desired Updates](<https://docs.google.com/spreadsheets/d/1HFJoaLWNI339y7iJVGqeOz3RvubJsFCGAUG7zXzrfnw/edit#gid=375639779>)**\n⬥ **[Fortunate Price Calc](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>)**\n⬥ **[Clues/Hour](<https://docs.google.com/spreadsheets/d/1j8tt-yjZ77Mlecfc6-D6F42_QuEeiJviVknggyHoXnc/edit#gid=0>)**",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
