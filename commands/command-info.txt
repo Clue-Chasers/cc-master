@@ -28,6 +28,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 .
 > __**Spreadsheets**__
 .tag:sheets
+⬥ `!sheets` - Generates a list of commonly used sheets.
 ⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
 ⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
 ⬥ `!spectacle` - List explanation and link to the upcoming or ongoing events.
