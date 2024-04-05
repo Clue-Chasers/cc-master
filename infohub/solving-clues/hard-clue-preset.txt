@@ -110,7 +110,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Notes__",
-        "value": "⬥ Be on Ancient Spellbook. \n⬥ Have runes available for spellbook swapping, spiritual healing and ice barrage.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsLunar:1127633074520346724> <:spiritualhealing:1091050892142325780>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:bloodrune:1128732003601236129> <:waterrune:536252660165115905> → <:icebarrage:537340400185245701>",
+        "value": "⬥ Be on Lunar Spellbook if using Melee, Ranged or Necromancy.\n⬥ Be on Ancient Spellbook if using Magic for Ice Barrage.\n⬥ Have runes available for spellbook swapping, spiritual healing and ice barrage.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsLunar:1127633074520346724> <:spiritualhealing:1091050892142325780>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:bloodrune:1128732003601236129> <:waterrune:536252660165115905> → <:icebarrage:537340400185245701>",
         "inline": true
       }
     ]
