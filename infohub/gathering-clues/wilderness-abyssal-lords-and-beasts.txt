@@ -1,15 +1,14 @@
-*(courtesy of <@145884917627224065> & <@211049089050214400>)*
-> **Introduction**
+## Wilderness Abyssal Lords and Beasts
+*Note: a **Table of Contents** can be found in the pins.*
+### **Introduction** *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 .tag:intro
-Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
-
-Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:633732493228638209> via crystal triskelion key fragments <:trisk:643215216934518815> and actual clue drops.
+Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 .
-> **Requirements**
+For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal Beasts are your best bet, whether through crystal triskelion key fragments <:trisk:643215216934518815> or direct clue drops.
+### **Requirements**
 .tag:reqs
 ⬥ <:slayer:797896049548066857> 115 Slayer
-
-> **Useful Items and Information**
+### **Useful Items and Information**
 .tag:useful
 ⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
@@ -31,7 +30,13 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
 ⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead.
 ⬥ You will need to stand in a specific spot for this to be optimal.
 ⬥ You need to place your cannon in a specific position for this to be optimal.
-.tag:position
+### **Location and How to Get there**
+.tag:location
+The best place to find abyssal beasts and lords is in the Wilderness, between levels 45 and 47, near the Lava Maze and Red Dragon Isle. To get there fast, just use the Wilderness sword to teleport to the Herb patch at around level 39 Wilderness and head north.
+
+⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one square west of the skeleton located southeast of the large rock surrounded by three stones. As for your own position stand on the designated red tile, situated two squares north and two squares west of the western surrounding rock.
+
+⬥ A video on how to optimally do this can be found **[here](https://www.youtube.com/watch?v=lSpJ8OvLBzQ)**.
 .img:https://img.pvme.io/images/VtwbZiAD72.png
 .
 .tag:preset
@@ -63,7 +68,7 @@ Abyssal Lords and Abyssal Beasts are good for gathering elite clues <:Elite:6337
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_position$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
