@@ -1,1 +1,40 @@
-test
+Clue casket drop mechanics:
+
+When you open a casket, it is first determined how many rolls you will be receiving with each tier being:
+<:Easy:633728862039179294> Easies: 2-4
+<:Medium:633728704438075435> Mediums: 3-5
+<:Hard:633728361918758930> Hards: 4-6
+<:Elite:633732493228638209> Elites: 4-6
+<:Master:1019920500807450666> Masters: 6
+
+For each roll, you first roll a number to whether you hit the rare table, affected by T4 Luck and BLM, with each tier being:
+
+T4 Luck: Reduces denominator by 1%, applies before BLM.
+
+BLM*, applies to all the rolls in the casket:
+<:Hard:633728361918758930> Hards: Reduces denominator by 1 for each casket, up to a max of 100.
+<:Elite:633732493228638209> Elites: Reduces denominator by 25 for each casket, up to a max of 75.
+<:Master:1019920500807450666> Masters: Reduces denominator by 25 for each casket, up to a max of 75.
+.
+Hards: 100/(1592 * .99 - BLM)
+Elites: 100/(1400 * .99 - BLM)
+Masters: 100/(1400 * .99 - BLM)
+
+If you don't hit the rare table, you roll an item from the common table.
+
+On the predetermined last roll, if you have not hit the rare table in the casket so far** AND you did not hit the rare table roll, you will instead roll on the shared table instead.
+
+After the last roll is completed, it then checks to see if a pity roll*** is qualified based on the following requirements:
+Have at least 10-max(predetermined tier roll) empty slots****
+GE value of casket is below predetermined amount AND roll a number to qualify:
+Tier | GE Value | Chance
+Easies | 15000 | 33%
+Mediums | 35000 | 50%
+Hards | 150000 | 50%
+Elites | 250000 | 100%
+Does not apply to masters
+
+*Rares, including forts, will reset BLM. But it is unclear whether missed rolls will reset BLM.
+**Missed rolls, e.g. receiving a super set when missing 3a, does not block shared roll. Specific items for hards (dyes, capes, amulet of fury (t)) also does not block shared table. Reroll tokens and triskelion piece from elite clues DO block shared.
+***Pity roll is an extra roll outside of your predetermined rolls. It is possible to hit rare table on this roll.
+****Yes, OSH can block pity rolls. If you get OSH proc, get max rolls for the tier, receive unique items for each roll, then the casket is not qualified for a pity roll.
