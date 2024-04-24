@@ -1,1 +1,98 @@
+This provides supplementary insights into the intricacies involved in determining the values and scaling factors for the numbers mentioned in <#1232653933176950865>.
+##Theoretical effects of pity rolls on broadcast rates
+.tag:theoretical
+```In order to determine how pity rolls affect the broadcast rates, we have to think through every component that might be affected. First, let's consider the case without pity. The probability[1] that we obtain e.g. a barrows dye from a specific hard casket can be deconstructed as:
 
+p(Barrows dye) = E[rolls] * p(RareTable | roll) * p(Barrows | RareTable), where
+- E[rolls] is just the average number of rolls (since hards are 4, 5, or 6 pre-determined rolls, all equally likely, this is (4+5+6)/3=5)
+- p(RareTable | roll) is the likelihood that a given roll will roll on the rare table, including t4 and BLM. In our example, before t4 and BLM are considered, this is 1/15.92.
+- p(Barrows | RareTable) is the likelihood we actually roll a barrows dye, given we made it to the rare drop table. This is 1/96 * (9/10) * 1/5 = 3/1600.
+
+Pity rolls affect E[rolls] (since we are obviously adding a roll to the count), but perhaps somewhat surprisingly they also affect p(RareTable | roll). This is because of an interaction with BLM -- sometimes, when we add a pity roll, it will result in a rare fort being added to the casket, which presumably resets a BLM streak that otherwise would have kept incrementing. The net effect would be to reduce the strength of BLM slightly.
+The only factor not affected is p(Barrows | RareTable) -- this means that adding the interaction due to pity will affect all items on the rare table equally, and so we don't need to focus on specifically broadcasts.```
+.
+```Determining even the probability that we make a pity roll (i.e. the effect on E[rolls]) is quite challenging, due to the nature of the pity roll mechanism. Since it's based on the GE value of all drops, in order to obtain an exact solution for p(pity) we would need to find the size of the set of all possible caskets that satisfy the pity GE condition, which is a form of knapsack problem and likely requires an enormously large search space, even excluding forts from the calculation. However it's possible to obtain a fairly good approximation of p(pity) by simply simulating many caskets instead, and observing what fraction of caskets would have satisfied the pity condition.
+
+The effects on p(RareTable | roll) are even more challenging to solve exactly, due to the complex relationship between BLM and pity. Normally BLM can be solved exactly (either with or without t4) by treating it as a Markov process, an example of this is performed for masters (without t4) here: https://runescape.wiki/w/Treasure_Trails/Rewards#Weighted_average_chance
+
+This interaction goes both ways: BLM is more likely to be reset because pity rolls may add forts, but pity rolls are less likely to occur when BLM is high (since that means one of the pre-pity rolls was more likely to roll a valuable fort, preventing a pity roll from occurring). However, this is also straightforward to approximate by simulation -- one could simulate a large number of caskets with pity enabled, and divide the number of RareTable rolls by the number of total rolls.```
+.
+## Simulation method and validation
+.tag:simvalidation
+```In practice, since the effects of pity on both p(RareTable | roll) and E[rolls] are best determined using simulation, we instead considered the joint probability[1] p(RareTable) = E[rolls] * p(RareTable | roll), and measured the effects via simulation on that probability, by looking at several top-level forts in the rare table (i.e. ones without a sub-table) and contrasting the observed rates for those forts in simulation with pity and BLM enabled, with the theoretical exact rate we should expect for each top-level fort when pity and BLM are disabled. We also contrasted with observed rates in a "control" simulation with pity and BLM disabled, in order to validate the simulation itself against the theoretical baseline. Here is what we observed for the validation results on a simulation of 11m caskets with no pity, blm, t4, or any other toggle on:
+
+avg count | standard deviation
+35991.51  | 181.140
+
+The theoretical count we would expect from 11m caskets is: 11000000*5*(1/15.92)*(1/96) = 35987.23
+This value agrees quite closely with the observed average count in the simulation of 35991.51 (only ~4 away, well within one standard deviation).```
+.
+## Measuring BLM and pity
+.tag:blmpity
+```For measuring the strength of BLM and pity, we compared against the theoretical baseline as opposed to a control simulation, in order to reduce the overall noise (having already validated the simulation results). The reason this reduces the overall noise is that taking the ratio between two noisy counts requires that you add the standard deviations of each (in quadrature) in order to determine the standard deviation of the ratio. Comparing against a theoretical baseline instead allows for tighter estimates.We only consider the joint effect of BLM and pity together due to the aforementioned strong interaction between the two -- they aren't separable since each is a function of the other.
+
+Hards (50m casket simulation, with t4 luck on):
+avg count | standard deviation
+171135.11 | 443.552
+
+The theoretical baseline expected would be 50m caskets without pity or BLM, but still with t4. This corresponds to an expected value of: 50000000*5*(1/15.92)*(1/96)*(1/0.99) = 165230.61
+
+Giving us a scaling factor for pity+blm of: 171135.11/165230.61 = 1.0357.
+A 95% confidence interval of this factor (using the standard deviation from the rare table counts in the simulation) is [1.0305, 1.0410]. This means that if we were to repeat this simulation repeatedly, we would expect the result we obtain to fall within this interval at least 95% of the time.
+
+Repeating this for elites (also a 50m casket simulation, with t4 luck on):
+avg count | standard deviation
+376064.11 |  554.237
+
+Comparing to a baseline of: 50000000*5*(1/14)*(1/54)*(1/0.99) = 334028.11, we obtain a scaling factor for pity+blm of:
+376064.11/334028.11 = 1.1258, with a 95% confidence interval of: [1.1226, 1.1291]```
+.
+## Measuring the effects of t4, biscuits, and prismatic stars
+.tag:t4biscuitsstars
+```However, we separately looked at the effects of t4 luck, staying below your holy biscuit cap, and keeping inventory spaces free to receive prismatic stars. The biscuits/stars factors have a convoluted path for how they may affect broadcast rates: for biscuits, if you are above your cap, you receive purple sweets instead, which have a higher GE value and thus may prevent a pity roll that would have otherwise been allowed. For stars, if you have a full inventory you'll receive a certain amount of coins instead, which also net raises your GE value and thus may prevent a pity roll that otherwise would have been allowed. Even t4 can potentially interact with pity and BLM, although admittedly this would be a tiny correction factor to the 1/0.99 value expected.
+
+Here is the raw data from 50m-sized simulations, all with pity/blm enabled.
+type | t4  | biscuits | stars | avg count | std dev | scaling factor | 95% confidence interval
+hard | no  | no       | no    | 36269.21  | 210.700 | n/a            | n/a
+hard | yes | no       | no    | 37654.63  | 184.158 | 1.0103         | [0.9955, 1.0251]
+hard | no  | yes      | no    | 37313.26  | 194.391 | 1.0012         | [0.9861, 1.0163]
+hard | no  | no       | yes   | 37283.90  | 216.804 | 1.0004         | [0.9844, 1.0163]
+elite| no  | no       | no    | 81959.85  | 278.955 | n/a            | n/a
+elite| yes | no       | no    | 82804.04  | 251.408 | 1.0103         | [1.0013, 1.0194]
+elite| no  | yes      | no    | 81997.11  | 365.963 | 1.0002         | [0.9892, 1.0112]
+elite| no  | no       | yes   | 81948.66  | 311.784 | 0.9999         | [0.9899, 1.0099]```
+.
+```The only statistically significant result (meaning that the scaling factor of 1.0 does not lie in the 95% confidence interval) was t4, for elites. Note that the theoretical value expected is 1/0.99 = 1.0101.. which is in statistical agreement with 1.0103 as it lies in the confidence interval. (And it is again possible the value differs slightly, due to an interaction with BLM and pity.)
+In an attempt to obtain more statistically significant results, we ran a couple of 500m-sized simulations, with results below:
+
+type | t4  | biscuits| avg count | std dev | scaling factor | 95% confidence interval
+hard | no  | no      | 1694219.52| 1225.036| n/a            | n/a
+hard | yes | no      | 1711157.01| 1363.781| 1.0100         | [1.0079, 1.0121]
+hard | no  | yes     | 1694586.79| 1185.040| 1.0002         | [0.9982, 1.0022]
+elite| no  | no      | 3724192.57| 1680.180| n/a            | n/a
+elite| no  | yes     | 3724976.79| 1868.833| 1.0002         | [0.9989, 1.0015]
+```
+.
+```We were able to make the t4 hard result significant (since 1.0 no longer lies in the confidence interval), but the biscuits estimate was still noisy. Given the value for this factor appears to be extremely close to one (e.g. for hards we can be 95% confident it is at most 0.22%, and 80% confident it is at most 0.12%) it may not be worth pursuing sufficiently sized simulations that can provide a statistically significant estimation (these would potentially be 100x larger). We have provided the implied scaling factor from this 500m as our best estimate, but it is again worth noting that the estimate is still somewhat noisy. Stars are expected to be even more challenging to estimate properly, since theoretically we would expect them to have ~half the effect of biscuits (since biscuits have twice the drop rate). We have used that one half factor applied to the biscuits factor as the stars factor in lieu of larger simulations for now.```
+.
+## Effects of rerolls on broadcast rates
+.tag:rerolls
+```All of these results are obtained without rerolls, either the automatic reroll obtained every 3 caskets, or reroll tokens obtained as drops. Rerolls would not affect any of these rates, since a reroll progresses BLM similarly to opening another casket. However, pity, blm, t4 etc. all affect the likelihood of reroll tokens as drops. By looking at the rate of tokens obtained in the simulation (with t4, pity, blm enabled), we obtained a rate of 1/162.03 per casket for elites, with no estimation made for hards since we do not know the base drop rate for hard reroll tokens. In practice, this means that using reroll tokens for elites boosts broadcast rates by a factor of 162.03/161.03. In order to arrive at this factor, note that reroll tokens may themselves lead to a casket that contains another reroll token, and so forth. So if the base probability of a reroll is p, we obtain a geometric series:
+1 + p + p^2 + p^3 + ... = 1/(1-p). If we relabel p=1/k, then 1/(1-p)=1/(1-(1/k)) = k/(k-1), where in this case k = 162.03. This leads to a factor of k/(k-1) = 162.03/161.03.
+Even though masters do not have pity rolls, we can apply the same logic to incorporate using reroll token (master) obtained as drops in order to arrive at a factor of 63.236/62.236 (if t4 is enabled) or 63.875/62.875 (if t4 is disabled).```
+.
+## Footnote
+.tag:footnote
+```[1] It's worth clarifying that the broadcast rates we are computing are expected values, not probabilities, but we will nevertheless treat them as probabilities as well. To see the distinction, let's say a hypothetical casket had four rolls, and the probability of getting a broadcast was 1/4 per roll. The expected number of broadcasts per casket is therefore E[rolls] * p(Broadcast | roll) = 4*(1/4)=1, but the probability of obtaining (at least) a broadcast is 1-(1-1/4)^4=175/256, or about 68%. There is still a ~32% chance we don't obtain a broadcast from a given casket, even though on average we expect to get one per casket. It is perfectly fine to use expected values when one wants to answer questions like GP/casket, but for questions like how-many-caskets-to-complete-a-log, we would want to use probabilities (e.g. the 68% figure) instead. Nevertheless we will pretend that these expected values are also probabilities for log completion purposes. It is a fairly good approximation when both the probabilities involved and the number of rolls are small (as both are in this case).```
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Theoretical effects of pity rolls on broadcast rates]($linkmsg_theoretical$)\n⬥ [Simulation method and validations]($linkmsg_simvalidation$)\n⬥ [Measuring BLM and pity]($linkmsg_blmpity$)\n⬥ [Measuring the effects of t4, biscuits, and prismatic stars]($linkmsg_t4biscuitsstars$)\n⬥ [Effects of rerolls on broadcast rates]($linkmsg_rerolls$)\n⬥ [Footnote]($linkmsg_footnote$)",
+    "color": 39423
+  }
+}
+.embed:json
+.pin:delete
+.
+Return to <#1023016455429685389>
