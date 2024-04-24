@@ -1,5 +1,5 @@
 This provides supplementary insights into the intricacies involved in determining the values and scaling factors for the numbers mentioned in <#1232653933176950865>.
-##Theoretical effects of pity rolls on broadcast rates
+## Theoretical effects of pity rolls on broadcast rates
 .tag:theoretical
 ```In order to determine how pity rolls affect the broadcast rates, we have to think through every component that might be affected. First, let's consider the case without pity. The probability[1] that we obtain e.g. a barrows dye from a specific hard casket can be deconstructed as:
 
@@ -88,11 +88,10 @@ Even though masters do not have pity rolls, we can apply the same logic to incor
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Theoretical effects of pity rolls on broadcast rates]($linkmsg_theoretical$)\n⬥ [Simulation method and validations]($linkmsg_simvalidation$)\n⬥ [Measuring BLM and pity]($linkmsg_blmpity$)\n⬥ [Measuring the effects of t4, biscuits, and prismatic stars]($linkmsg_t4biscuitsstars$)\n⬥ [Effects of rerolls on broadcast rates]($linkmsg_rerolls$)\n⬥ [Footnote]($linkmsg_footnote$)",
+    "description": "⬥ [Theoretical effects of pity rolls on broadcast rates]($linkmsg_theoretical$)\n⬥ [Simulation method and validations]($linkmsg_simvalidation$)\n⬥ [Measuring BLM and pity]($linkmsg_blmpity$)\n⬥ [Measuring the effects of t4, biscuits, and prismatic stars]($linkmsg_t4biscuitsstars$)\n⬥ [Effects of rerolls on broadcast rates]($linkmsg_rerolls$)\n⬥ [Footnote]($linkmsg_footnote$)\n⬥ Return to <#1023016455429685389>",
     "color": 39423
   }
 }
 .embed:json
 .pin:delete
 .
-Return to <#1023016455429685389>
