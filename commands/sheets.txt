@@ -1,12 +1,48 @@
 {
   "embed": {
-    "title": "",
+    "title": "__Google Sheets__ <a:PETTHESHEET:999046578318889073>",
+    "description": "⬥ Use `!sheets` to generate a list of commonly used sheets. ",
     "color": 12745742,
     "fields": [
       {
-        "name": "__Google Sheets__ <a:PETTHESHEET:999046578318889073>",
-        "value": "⬥ **[Hall of Fame](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=343818176>)**\n⬥ **[Daily Clue Completion](<https://docs.google.com/spreadsheets/d/140WDk6aMr0-O2Wtri1tAQ4xO_sj51XU1USUdEUktqnQ/edit#gid=867380064>)**\n⬥ **[GP/Casket](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=1645276893>)**\n⬥ **[Scripture of Bik](<https://docs.google.com/spreadsheets/d/1oe1W7PrSUuLdpmK66fpD6ab3ruLQKdlQWDw-SELXWKk/edit#gid=1425348308>)**\n⬥ **[Clue Broadcast Template](<https://docs.google.com/spreadsheets/d/1iX06orbl4AF6KKn2guSge3QMcY_8zEFHPHP7fH8fWGs/edit#gid=0>)**\n⬥ **[Desired Updates](<https://docs.google.com/spreadsheets/d/1HFJoaLWNI339y7iJVGqeOz3RvubJsFCGAUG7zXzrfnw/edit#gid=375639779>)**\n⬥ **[Fortunate Price Calc](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>)**\n⬥ **[Clues/Hour](<https://docs.google.com/spreadsheets/d/1j8tt-yjZ77Mlecfc6-D6F42_QuEeiJviVknggyHoXnc/edit#gid=0>)**",
-        "inline": true
+        "name": "__Hall of Fame__",
+        "value": "⬥ **[Hall of Fame](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=343818176>)**"
+      },
+      {
+        "name": "__Daily Clue Completion__",
+        "value": "⬥ **[Daily Clue Completion](<https://docs.google.com/spreadsheets/d/140WDk6aMr0-O2Wtri1tAQ4xO_sj51XU1USUdEUktqnQ/edit#gid=867380064>)**"
+      },
+      {
+        "name": "__GP/Casket__",
+        "value": "⬥ **[GP/Casket](<https://docs.google.com/spreadsheets/d/1w7jpuZMnkhXafTYNgcNjDUWwjVfl48mPr4ehE0eI57k/edit#gid=1645276893>)**"
+      },
+      {
+        "name": "__Clue Broadcast Rates__",
+        "value": "⬥ **[Clue Broadcast Rates](<https://docs.google.com/spreadsheets/d/15ojW2EzaEX594pjzooqDIYi0vWSQBslFQwOmNHVfNy8/edit#gid=1960913368>)**"
+      },
+      {
+        "name": "__Scripture of Bik__",
+        "value": "⬥ **[Scripture of Bik](<https://docs.google.com/spreadsheets/d/1oe1W7PrSUuLdpmK66fpD6ab3ruLQKdlQWDw-SELXWKk/edit#gid=1425348308>)**"
+      },
+      {
+        "name": "__Scripture of Bik Profit Calculator__",
+        "value": "⬥ **[Scripture of Bik Profit Calculator](<https://docs.google.com/spreadsheets/d/1EA9SJNdYWjAfeKK_wyes9f28Yx51wk-Rjh0uV7Veokw/edit#gid=0>)**"
+      },
+      {
+        "name": "__Clue Broadcast Template__",
+        "value": "⬥ **[Clue Broadcast Template](<https://docs.google.com/spreadsheets/d/1iX06orbl4AF6KKn2guSge3QMcY_8zEFHPHP7fH8fWGs/edit#gid=0>)**"
+      },
+      {
+        "name": "__Desired Clue Updates__",
+        "value": "⬥ **[Desired Clue Updates](<https://docs.google.com/spreadsheets/d/1HFJoaLWNI339y7iJVGqeOz3RvubJsFCGAUG7zXzrfnw/edit#gid=375639779>)**"
+      },
+      {
+        "name": "__Fortunate Price Calculator__",
+        "value": "⬥ **[Fortunate Price Calculator](<https://docs.google.com/spreadsheets/d/1oV5IKHI4-mNEEx8fU7EWtuZR7PogMedyOCzE2y0pq8E/edit#gid=0>)**"
+      },
+      {
+        "name": "__Clues/Hour__",
+        "value": "⬥ **[Clues/Hour](<https://docs.google.com/spreadsheets/d/1j8tt-yjZ77Mlecfc6-D6F42_QuEeiJviVknggyHoXnc/edit#gid=0>)**"
       }
     ]
   }
