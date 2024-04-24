@@ -1,4 +1,4 @@
-Clue casket drop mechanics:
+```Clue casket drop mechanics:
 
 When you open a casket, it is first determined how many rolls you will be receiving with each tier being:
 <:Easy:633728862039179294> Easies: 2-4
@@ -37,4 +37,4 @@ Does not apply to masters
 *Rares, including forts, will reset BLM. But it is unclear whether missed rolls will reset BLM.
 **Missed rolls, e.g. receiving a super set when missing 3a, does not block shared roll. Specific items for hards (dyes, capes, amulet of fury (t)) also does not block shared table. Reroll tokens and triskelion piece from elite clues DO block shared.
 ***Pity roll is an extra roll outside of your predetermined rolls. It is possible to hit rare table on this roll.
-****Yes, OSH can block pity rolls. If you get OSH proc, get max rolls for the tier, receive unique items for each roll, then the casket is not qualified for a pity roll.
+****Yes, OSH can block pity rolls. If you get OSH proc, get max rolls for the tier, receive unique items for each roll, then the casket is not qualified for a pity roll.```
