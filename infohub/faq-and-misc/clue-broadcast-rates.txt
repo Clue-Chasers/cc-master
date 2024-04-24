@@ -1,5 +1,6 @@
 ## Clue Broadcast Rates
-
+.img:https://i.imgur.com/ftRYGhR.jpeg
+.
 For in-depth information, **[click here](<https://docs.google.com/spreadsheets/d/15ojW2EzaEX594pjzooqDIYi0vWSQBslFQwOmNHVfNy8/edit#gid=1960913368>).**
 
 **How to use the sheet**
