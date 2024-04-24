@@ -1,4 +1,4 @@
-This provides supplementary insights into the intricacies involved in determining the values and scaling factors for the numbers mentioned in <#1232653933176950865>.
+This provides supplementary insights into the intricacies involved in determining the values and scaling factors for the numbers mentioned in <#1232648156609777705>.
 ## Theoretical effects of pity rolls on broadcast rates
 .tag:theoretical
 ```In order to determine how pity rolls affect the broadcast rates, we have to think through every component that might be affected. First, let's consider the case without pity. The probability[1] that we obtain e.g. a barrows dye from a specific hard casket can be deconstructed as:
