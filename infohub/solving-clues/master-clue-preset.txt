@@ -125,12 +125,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Range__",
-        "value": "⬥ Pre <:ecb:615618531937222657> <:eofspec:746403211908481184> → <:gricocaroming:867678153966878740> → <:bolg:994189289623662702> <:spec:537340400273195028> → <:mds:535541259033378827>",
+        "value": "⬥ Pre <:ecb:615618531937222657> <:eofspec:746403211908481184> + tele to step → <:gricocaroming:867678153966878740> → <:bolg:994189289623662702> <:spec:537340400273195028> → <:piercing:535541258538450944>\n\n    • *Note: this rotation is the most popular but not the best*\n    • Click [here](https://imgur.com/a/mnZwLQu) for other range rotations",
         "inline": false
       },
       {
         "name": "__Melee__",
-        "value": "⬥ <:chaosroar:994644356671737966> → <:slaughter:535532879237873666> walked → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> / <:destroy:535532879330148352> → <:cane:535532878969438210> → <:punish:535532879439069184> → <:deci:535532879325822986>",
+        "value": "⬥ <:chaosroar:994644356671737966> → <:overpowerigneous:959089455640215633>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n\n⬥ <:gfury:535532879334080527> → <:overpowerigneous:959089455640215633> → <:punish:535532879439069184>\n\n    • Click [here](https://imgur.com/a/WL0Wsvk) for other melee rotations",
         "inline": false
       },
       {
@@ -177,17 +177,17 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Ranged__ <:range:580168050121113623>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/16Y1gml61SIKRZ01lNqa)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/Ck864UaC2Kl59hv8rQID)",
         "inline": true
       },
       {
         "name": "__Melee__ <:melee:1096130867279171706>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/LdSPobOjMg6zTlCGluw1)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/Ke0VXmVmdA5jnzUQOfwp)",
         "inline": true
       },
       {
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.github.io/preset-maker/#/62ZQxxXeNVIl2TdrUckk)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/d2tA5toDX0msWqJj4NQj)",
         "inline": true
       },
       {
