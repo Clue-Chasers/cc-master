@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Clue Trainer__",
-    "description": "Clue Trainer (formerly Scan Trainer and currently work-in-progress) is a new and feature-rich clue solver for Alt1 developed by <@338283681120780288>. It not only shows you where to go, but also how to efficiently get there using movement abilities. It includes an improved puzzle solver that allows you to go at your own pace.\n\nThe current in-development preview can already be used **[here](<https://leridon.github.io/rs3scantrainer/>)**.\nFor discussion and support visit <#1103737270114209825>\n\n An installation guide on Alt1Toolkit & Clue Trainer can be found **[here](<https://www.youtube.com/watch?v=6mNQN4lWT5E>)**.",
+    "description": "Clue Trainer (formerly Scan Trainer and currently work-in-progress) is a new and feature-rich clue solver for Alt1 developed by <@338283681120780288>. It not only shows you where to go, but also how to efficiently get there using movement abilities. It includes an improved puzzle solver that allows you to go at your own pace.\n\nThe current in-development preview can already be used **[here](<https://leridon.github.io/rs3scantrainer/>)**.\nFor discussion and support visit <#1103737270114209825>\n\n An installation guide on Alt1Toolkit & Clue Trainer can be found **[here](<https://www.youtube.com/watch?v=OWFgy66klf4>)**.",
     "color": 12745742,
     "fields": []
   }
