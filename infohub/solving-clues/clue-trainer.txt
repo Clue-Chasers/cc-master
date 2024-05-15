@@ -1,0 +1,77 @@
+**__Clue Trainer__** *(courtesy of <@338283681120780288>)*
+.tag:start
+To get started quickly, jump into Clue Trainer by visiting the [Web Version](https://leridon.github.io/rs3scantrainer), where you can also find the installation link for Alt1.
+
+.
+__**Introduction**__
+.tag:intro
+Clue Trainer is a new clue solver plugin for Alt1 developed by fellow clue chaser <@338283681120780288>.
+Originally started under the name "Scan Trainer" and intended to be just an interactive guide for efficient strategies for scan clues, Clue Trainer has evolved into a fully featured clue solver and assistant for Alt1. It has several advantages over Alt1's included clue solver tool. Some highlights include:
+
+- Improved puzzle solver producing fewer steps and updating the overlay in real time according to your actual solving speed.
+- Efficient movement suggestions shown directly on the map.
+- Advanced strategies for scan clues displayed in an interactive, easy to memorize fashion.
+- A compass solver more accurate than ever with the ability to preselect triangulation strategies.
+- Real time overlay updating for celtic knots, lockboxes and tower.
+- A path and method editor so you can create, save, and share your own ways of solving clues.
+
+Clue Trainer is highly customizable so you can adjust it to your individual needs.
+
+.
+__**Clue Trainer is actively in development**__
+.tag:beta
+Visit <#1103737270114209825> to leave praise and criticism, report issues, get support, or just say hi and join the discussion. Any kind of input is very appreciated and helps shaping the future of Clue Trainer.
+
+Even though Clue Trainer is quite mature and can already solve all types of clues, it is still under active development. This means that some features may not be as polished as they are supposed to be and you may encounter issues. Despite this, Clue Trainer can be used successfully. In this phase of development, Clue Trainer will benefit from feedback more than ever, so please share your thoughts like described above.
+
+.
+__**Background**__
+.tag:background
+Clue Trainer originally started as "Scan Trainer" an was intended to be an interactive guide for efficient strategies for scan clues. Over time, as features for scan clues were added, it became clear that it should eventually evolve into a full clue solver.
+.
+__**FAQ**__
+.tag:faq
+**⬥ How do I install Clue Trainer?**
+The [Web Version](https://leridon.github.io/rs3scantrainer/) includes
+Open `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json` in your browser to get a prompt whethere you want to add the tool to Alt1 or visit https://leridon.github.io/cluetrainer-live/ in Alt1's browser to get a prompt.
+
+.img:https://imgur.com/1CiAo88
+
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image2.png
+**⬥ Why do my customized Passages of the abyss don't show?**
+You are probably missing a setup step. Below the settings for passages of the abyss there is a section used to setup presets for teleport settings. You need to activate your passages in the presets they belong to.
+The reasoning behind this feature is to also support the use case of having more than 2 passages for different clue tiers without having to change the settings everytime you switch clue tiers.
+
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image4.png
+.
+**⬥ Can I be notified of significant updates?**
+You can sign up for the Clue Trainer role at <id:customize> to get notified about updates.
+
+**⬥ Can I customize how close the map is zoomed after it detects a clue? It's zooming in too close/not close enough?**
+Currently, the zooming behaviour is a little wonky. We are aware of the issue and there are plans to improve this.
+
+.
+__**Attention theorycrafters**__
+.tag:editor
+Clue Trainer includes interactive tools to edit paths for clues (as well as independent from clues). It includes data about teleports and other methods of transportation and ingame collision data. You can check and analyze your paths without having to tediously check them ingame. Check out the "Methods" and "Paths" tab in your browser to get started.
+
+.
+__**Credits**__
+.tag:credits
+Several people deserve credit for making it possible for Clue Trainer to be what it is now.
+- <@85770447047643136> for creating a majority of the builtin paths using Clue Trainer's editing tools.
+- Skillbert for providing Alt1, map data and some code from the base clue solver to get this project started.
+- Everone who offered their thoughts in <#1103737270114209825>.
+
+.tag:overview
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Quick Start]($linkmsg_start$)\n⬥ [Introduction]($linkmsg_intro$)\n⬥ [Development]($linkmsg_beta$)\n⬥ [Background]($linkmsg_background$)\n⬥ [FAQ]($linkmsg_faq$)\n⬥ [Theorycrafting]($linkmsg_editor$) \n⬥ [Credits]($linkmsg_credits$)\n",
+    "color": 12745742
+  }
+}
+.embed:json
+.pin:delete
+.
+Return to <#1023016354145648741>
