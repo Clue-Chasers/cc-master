@@ -35,8 +35,6 @@ __**FAQ**__
 The [Web Version](https://leridon.github.io/rs3scantrainer/) includes
 Open `alt1://addapp/https://leridon.github.io/cluetrainer-live/appconfig.json` in your browser to get a prompt whethere you want to add the tool to Alt1 or visit https://leridon.github.io/cluetrainer-live/ in Alt1's browser to get a prompt.
 
-.img:https://imgur.com/1CiAo88
-
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image2.png
 **⬥ Why do my customized Passages of the abyss don't show?**
 You are probably missing a setup step. Below the settings for passages of the abyss there is a section used to setup presets for teleport settings. You need to activate your passages in the presets they belong to.
