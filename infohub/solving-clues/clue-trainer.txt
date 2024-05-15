@@ -1,7 +1,7 @@
 **__Clue Trainer__** *(courtesy of <@338283681120780288>)*
 .tag:start
 To get started quickly, jump into Clue Trainer by visiting the [Web Version](https://leridon.github.io/rs3scantrainer), where you can also find the installation link for Alt1.
-https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image1.png
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image1.png
 
 .
 __**Introduction**__
