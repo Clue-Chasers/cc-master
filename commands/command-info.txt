@@ -13,7 +13,7 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!commands` - Links the channel on where to check out commands and where to use them.
 ⬥ `!nature` - Explains the Amulet of Nature and it's utility.
 ⬥ `!totem` - Explains the Totem of Treasure.
-⬥ `!scantrainer` - Explains the Scan Trainer addon for alt1.
+⬥ `!cluetrainer` - Explains the Clue Trainer addon for alt1.
 ⬥ `!sentinel` - Lists suggested teleport locations for the nature sentinel outfit for Elite clues.
 ⬥ `!sotg` - Explains the Sceptre of The Gods and it's utility.
 
@@ -31,16 +31,11 @@ This channel contains a list of all Clue Chasers discord commands along with a b
 ⬥ `!sheets` - Generates a list of commonly used sheets.
 ⬥ `!casketvalue` - Generates a list of the average value of each tier of clue casket.
 ⬥ `!hof` - Generates a link to Hall of Fame spreadsheet, a place dedicated to our most prestigious members.
-⬥ `!spectacle` - List explanation and link to the upcoming or ongoing events.
 
 .
 > __**Miscellaneous**__
 .tag:misc
 ⬥ `!beach` - Explains the Beach Event and Sandy Clues.
-
-> __**Hard Clue Pathing**__
-⬥ `!hetoasis - !oasis` - Displays pathing for the Het's Oasis step.
-⬥ `!shilovillage - !shilo ` - Displays pathing for the Shilo Village step.
 .
 {
   "embed": {
