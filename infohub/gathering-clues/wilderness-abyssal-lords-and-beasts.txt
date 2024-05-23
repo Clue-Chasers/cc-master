@@ -35,7 +35,7 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one square west of the skeleton located southeast of the large rock surrounded by three stones. As for your own position stand on the designated red tile, situated two squares north and two squares west of the western surrounding rock.
 
-⬥ A video on how to optimally do this can be found **[below](https://www.youtube.com/watch?v=lSpJ8OvLBzQ)**.
+⬥ For an optimal guide on how to do this, check out the video by <@168667605647753216> **[here](https://www.youtube.com/watch?v=a4fjTsdvhWk)**.
 .img:https://img.pvme.io/images/VtwbZiAD72.png
 .
 .tag:preset
