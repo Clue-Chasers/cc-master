@@ -18,7 +18,6 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 ⬥ <:animatedead:856635090453135382> Animate Dead (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
-⬥ <:jasboost:1006121672790773770> Stone of Jas buff active
 ⬥ <:cryptbloombody:892819107253194762> 4 Cryptbloom pieces
 ⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
@@ -48,7 +47,7 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
     "fields": [
       {
         "name": "__Preset__",
-        "value": "⬥ [Preset and Breakdown](https://pvme.github.io/preset-maker/#/hp5r935TPKlbdn18FUZe)",
+        "value": "⬥ [Preset and Breakdown](https://pvme.io/preset-maker/#/TI6KltkJgRk1WOliRJQq)",
         "inline": true
       }
     ]
