@@ -51,7 +51,7 @@ In addition to the default apps that come with Alt1, there are a number of other
 .tag:linuxmac
 While official Alt1 support is not offered for these operating systems, there's an alternative plugin designed for macOS called [RuneKit](https://github.com/whs/runekit), which you might find beneficial to explore.
 .
-### > __**Clue Trainer**__ - `alt1://addapp/https://leridon.github.io/rs3scantrainer/appconfig.json `
+### > __**Clue Trainer**__ - `alt1://addapp/https://cluetrainer.app/appconfig.json `
 .tag:cluetrainer
 **Explanation** - An alternative, fully featured clue solver featuring improved puzzle solvers and recommendations for efficient movement. A more detailled explanation and FAQ can be found in <#1240372943725531339>
 
