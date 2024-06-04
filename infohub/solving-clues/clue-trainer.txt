@@ -1,6 +1,6 @@
 **__Clue Trainer__** *(courtesy of <@338283681120780288>)*
 .tag:start
-To get started quickly, jump into Clue Trainer by visiting the [Web Version](https://leridon.github.io/rs3scantrainer), where you can also find the installation link for Alt1.
+To get started quickly, jump into Clue Trainer by visiting the [Web Version](https://cluetrainer.app), where you can also find the installation link for Alt1.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image1.png
 
 .
@@ -34,7 +34,7 @@ Clue Trainer originally started as "Scan Trainer" an was intended to be an inter
 __**FAQ**__
 .tag:faq
 **⬥ How do I install Clue Trainer?**
-The [Web Version](https://leridon.github.io/rs3scantrainer/) includes links to install Clue Trainer with one click as shown below.
+The [Web Version](https://cluetrainer.app) includes links to install Clue Trainer with one click as shown below.
 
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image2.png
 
