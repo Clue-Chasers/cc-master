@@ -1,68 +1,73 @@
 ### **__Optimal Requirements Master Clues__** <:masterclue:1123586937245151303>
 *Note: a **Table of Contents** can be found in the pins.*
-> ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
+.
 .tag:area
-### **__[Medium Desert](<https://runescape.wiki/w/Medium_Desert_achievements>)__**
-⬥ Unlimited teleports to [Nardah](<https://runescape.wiki/w/Nardah>) using the [Desert Amulet 2](<https://runescape.wiki/w/Desert_amulet_2>). <:desertamulet4:1123599472291758192>
-### **__[Hard Tirannwn](<https://runescape.wiki/w/Hard_Tirannwn_achievements>)__**
-⬥ No longer fail stick traps using the [Tirannwn Quiver 3](<https://runescape.wiki/w/Tirannwn_quiver_3>). <:quiver3:1123599463227867267>
-⬥ Additional unlimited teleport locations: [__Elf Camp__](<https://runescape.wiki/w/Elf_Camp>) and Tirannwn mushroom patch.
+# **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .
-> ## **__Skills__** <:skill:1151954385736306760>
+### **[Medium Desert](<https://runescape.wiki/w/Medium_Desert_achievements>)**
+⬥ Unlimited teleports to [Nardah](<https://runescape.wiki/w/Nardah>) using the [Desert Amulet 2](<https://runescape.wiki/w/Desert_amulet_2>) <:desertamulet4:1123599472291758192>
+### **[Hard Tirannwn](<https://runescape.wiki/w/Hard_Tirannwn_achievements>)**
+⬥ No longer fail stick traps using the [Tirannwn Quiver 3](<https://runescape.wiki/w/Tirannwn_quiver_3>) <:quiver3:1123599463227867267>
+⬥ Additional unlimited teleport locations: [Elf Camp](<https://runescape.wiki/w/Elf_Camp>) and Tirannwn mushroom patch
+.
 .tag:skills
-### **__[Max Cape](<https://runescape.wiki/w/Max_cape>)__** <:maxcape:580177795703898117>
-⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
-⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
-### **__[Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
-⬥ [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>) <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
-⬥ [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>) <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
-⬥ [Persistent Rage](<https://runescape.wiki/w/Persistent_Rage>) <:persistentrage:1128437146546622504> requires level 98. (can be boosted)
-### **__[Herblore](<https://runescape.wiki/w/Herblore>)__** <:herblore:689554435583508558>
-⬥ [Adrenaline Renewals](<https://runescape.wiki/w/Adrenaline_renewal_flask>) <:adrenrenewalflask:736298313980182541> requires level 115. (can be boosted) (if used in the preset)
-> ## **__Quests__** <:questpoint:1151954665227960390>
-.tag:quests
-### __**[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**__
-⬥ Access to Ancient Curses. <:soulsplit:615613924506599497>
-### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
-⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
-### __**[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**__
-⬥ Access to [Spellbook Swap](<https://runescape.wiki/w/Spellbook_Swap>). <:sbs:543875425055670275>
-### __**[The Elder Kiln](<https://runescape.wiki/w/The_Elder_Kiln>)**__
-⬥ A [Tokkul-Zo](<https://runescape.wiki/w/Tokkul-Zo>) <:tokkulzo:975012160759550042> allowing teleportation around [TzHaar City](<https://runescape.wiki/w/TzHaar_City>).
-### **__[Moving Phillipe Carnillean ](<https://runescape.wiki/w/Philipe_Carnillean>)__**
-⬥ Requires 400 quests points + talking to him until he moves to [TzHaar City](<https://runescape.wiki/w/Philipe_Carnillean#mapFullscreen>).
+# **__Skills__** <:skill:1151954385736306760>
 .
-### __**[Love Story](<https://runescape.wiki/w/Love_Story>)**__
-⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals. <:chippedHouseTele:1127678790231916645>
-### __**[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**__
-⬥ The [ectophial](<https://runescape.wiki/w/Ectophial>) <:Ectophial:1152269826413318256>, which provides a reusable one-click teleport to the [Ectofuntus](<https://runescape.wiki/w/Ectofuntus>).
-### __**[Branches of Darkmeyer](<https://runescape.wiki/w/The_Branches_of_Darkmeyer>)**__
+### **[Max Cape](<https://runescape.wiki/w/Max_cape>)** <:maxcape:580177795703898117>
+⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks
+⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once
+### **[Archaeology](<https://runescape.wiki/w/Archaeology>)** <:archaeology:941211288665739274>
+⬥ [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>) <:abyssallink:1124762426265583727> requires level 112 (can be boosted)
+⬥ [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>) <:Shadows_Grace:1128078767399653486> requires level 67 (can be boosted)
+⬥ [Persistent Rage](<https://runescape.wiki/w/Persistent_Rage>) <:persistentrage:1128437146546622504> requires level 98 (can be boosted)
+### **[Herblore](<https://runescape.wiki/w/Herblore>)** <:herblore:689554435583508558>
+⬥ [Adrenaline Renewals](<https://runescape.wiki/w/Adrenaline_renewal_flask>) <:adrenrenewalflask:736298313980182541> requires level 115 (can be boosted) (if used in the preset)
+.
+.tag:quests
+# **__Quests__** <:questpoint:1151954665227960390>
+.
+### **[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**
+⬥ Access to Ancient Curses <:soulsplit:615613924506599497>
+### **[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**
+⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
+### **[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**
+⬥ Access to [Spellbook Swap](<https://runescape.wiki/w/Spellbook_Swap>) <:sbs:543875425055670275>
+### **[The Elder Kiln](<https://runescape.wiki/w/The_Elder_Kiln>)**
+⬥ A [Tokkul-Zo](<https://runescape.wiki/w/Tokkul-Zo>) <:tokkulzo:975012160759550042> allowing teleportation around [TzHaar City](<https://runescape.wiki/w/TzHaar_City>)
+### **[Moving Phillipe Carnillean ](<https://runescape.wiki/w/Philipe_Carnillean>)**
+⬥ Requires 400 quests points + talking to him until he moves to [TzHaar City](<https://runescape.wiki/w/Philipe_Carnillean#mapFullscreen>)
+.
+### **[Love Story](<https://runescape.wiki/w/Love_Story>)**
+⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals <:chippedHouseTele:1127678790231916645>
+### **[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**
+⬥ The [ectophial](<https://runescape.wiki/w/Ectophial>) <:Ectophial:1152269826413318256>, which provides a reusable one-click teleport to the [Ectofuntus](<https://runescape.wiki/w/Ectofuntus>)
+### **[Branches of Darkmeyer](<https://runescape.wiki/w/The_Branches_of_Darkmeyer>)**
 ⬥ [A Drakans medallion](<https://runescape.wiki/w/Drakans_medallion>) <:drakansmedallion:1123599468495913073>, allowing teleportation to various places in [Morytania](<https://runescape.wiki/w/Morytania>):
-        ⬩ [Barrows](<https://runescape.wiki/w/Barrows>), [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>), [Meiyerditch](<https://runescape.wiki/w/Meiyerditch_tunnels>), [Darkmeyer](<https://runescape.wiki/w/Darkmeyer>) and [Meiyerditch Dungeon](<https://runescape.wiki/w/The_Myreque>).
-### __**[Required Tales of the Arc](<https://runescape.wiki/w/Tales_of_the_Arc_quest_series>)**__
+        ⬩ [Barrows](<https://runescape.wiki/w/Barrows>), [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>), [Meiyerditch](<https://runescape.wiki/w/Meiyerditch_tunnels>), [Darkmeyer](<https://runescape.wiki/w/Darkmeyer>) and [Meiyerditch Dungeon](<https://runescape.wiki/w/The_Myreque>)
+### **[Required Tales of the Arc](<https://runescape.wiki/w/Tales_of_the_Arc_quest_series>)**
 ⬥ [Damage Control](<https://runescape.wiki/w/Damage_Control_(miniquest)>)
-        ⬩ unlocks the ability to use [Goshima Teleport](<https://runescape.wiki/w/Goshima_teleport>) tabs. <:Goshima_teleport:1152316132007612527>
+        ⬩ unlocks the ability to use [Goshima Teleport](<https://runescape.wiki/w/Goshima_teleport>) tabs <:Goshima_teleport:1152316132007612527>
 ⬥ [Ghosts from the Past](<https://runescape.wiki/w/Ghosts_from_the_Past_(miniquest)>)
-        ⬩ Unlocks the ability to use [Islands That Once Were Turtles Teleport](<https://runescape.wiki/w/Islands_That_Once_Were_Turtles_teleport>) tabs. <:Islands_That_Once_Were_Turtles_t:1152316129616867479>
+        ⬩ Unlocks the ability to use [Islands That Once Were Turtles Teleport](<https://runescape.wiki/w/Islands_That_Once_Were_Turtles_teleport>) tabs <:Islands_That_Once_Were_Turtles_t:1152316129616867479>
 .
 ⬥ [Tuai Leit’s Own](<https://runescape.wiki/w/Tuai_Leit's_Own_(miniquest)>)
-        ⬩ Unlocks the ability to use [Tuai Leit Teleport](<https://runescape.wiki/w/Tuai_Leit_teleport>) tabs. <:Tuai_Leit_teleport:1152316126290780232>
+        ⬩ Unlocks the ability to use [Tuai Leit Teleport](<https://runescape.wiki/w/Tuai_Leit_teleport>) tabs <:Tuai_Leit_teleport:1152316126290780232>
 ⬥ [Eye for an Eye](<https://runescape.wiki/w/Eye_for_an_Eye_(miniquest)>)
-        ⬩ Unlocks the ability to use [Cyclosis Teleport](<https://runescape.wiki/w/Cyclosis_teleport>) tabs. <:Cyclosis_teleport:1152316128337604671>
-All of these teleport tablets can be bought at the [Waiko Reward Shop](<https://runescape.wiki/w/Waiko_Reward_Shop>) and stored inside the [Arc Journal](<https://runescape.wiki/w/Arc_journal>). <:arcjournal:1123597950787002408>
-### **__[Unlock Tortle Portals](<https://runescape.wiki/w/Tortle_portal>)__**
-There are five tortle portals on the Islands That Once Were Turtles to get around.
-### **__[Rescue Alazea Oakheart](<https://runescape.wiki/w/Azalea_Oakheart>)__**
+        ⬩ Unlocks the ability to use [Cyclosis Teleport](<https://runescape.wiki/w/Cyclosis_teleport>) tabs <:Cyclosis_teleport:1152316128337604671>
+All of these teleport tablets can be bought at the [Waiko Reward Shop](<https://runescape.wiki/w/Waiko_Reward_Shop>) and stored inside the [Arc Journal](<https://runescape.wiki/w/Arc_journal>) <:arcjournal:1123597950787002408>
+### **[Unlock Tortle Portals](<https://runescape.wiki/w/Tortle_portal>)**
+There are five tortle portals on the Islands That Once Were Turtles to get around
+### **[Rescue Alazea Oakheart](<https://runescape.wiki/w/Azalea_Oakheart>)**
 ⬥ Rescuing Oakheart will unlock the gnome glider on Tuai Leit.
-### **__[Tales of the God Wars](<https://runescape.wiki/w/Tales_of_the_God_Wars_(miniquest)>)__**
-        ⬩ Unlocks [Heart of Gielinor teleport](<https://runescape.wiki/w/The_Heart_teleport>) tabs. <:The_Heart_teleport:1152316125057650698>
+### **[Tales of the God Wars](<https://runescape.wiki/w/Tales_of_the_God_Wars_(miniquest)>)**
+        ⬩ Unlocks [Heart of Gielinor teleport](<https://runescape.wiki/w/The_Heart_teleport>) tabs <:The_Heart_teleport:1152316125057650698>
 .
-### **__[Succession](<https://runescape.wiki/w/Succession>)__**
+### **[Succession](<https://runescape.wiki/w/Succession>)**
 ⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable. <:dive:1049378668197195808>
-⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt.
-### **__[Reset Gower Quest](<https://runescape.wiki/w/Gower_Quest>)__**
+⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt
+### **[Reset Gower Quest](<https://runescape.wiki/w/Gower_Quest>)**
 ⬥ For easy access to [Paul Gower](<https://runescape.wiki/w/Paul>) (Note: DO NOT DO THIS IF YOU HAVE MQC <:masterquestcape:1091050888828813412>)
-### **__[Quest cape](<https://runescape.wiki/w/Quest_Cape>)__**
+### **[Quest cape](<https://runescape.wiki/w/Quest_Cape>)**
 ⬥ This cape provides teleports to the following locations:
         ⬩ Ancient Guthix Temple
         ⬩ Behind the Scenes
@@ -74,46 +79,47 @@ There are five tortle portals on the Islands That Once Were Turtles to get aroun
         ⬩ Tears of Guthix
         ⬩ Varrock Museum
         ⬩ World Gate
-. 
-> ## **__Other__**
+.
 .tag:other
-### **__[Full Globetrotter outfit](<https://runescape.wiki/w/Globetrotter_outfit>)__** <:globetrotterjacket:1123592261175889971>
-⬥ The globetrotter outfit is an outfit that is obtainable from the [Treasure Trails Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>) with points obtained by completing [Treasure Trails](<https://runescape.wiki/w/Treasure_Trails>).
-        ⬩ The outfit will provide several QoL features some of which are charged-based through solving clues.
+# **__Other__**
 .
-### **__[Double Surge ability](<https://runescape.wiki/w/Double_Surge_codex>)__** <:surgecodex:602561894414417944>
-⬥ An item that can be read to unlock an upgrade to the [Surge](<https://runescape.wiki/w/Surge>) ability, giving it an extra charge with a separate independent and hidden cooldown.
-        ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP.
-        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use.
-        ⬩ This version can be bought from or sold to other players or the Grand Exchange, but the __untradeable version only requires 500 codex pages__.
-### **__[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)__** <:bd:535532854281764884>
-### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
-⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
+### **[Full Globetrotter outfit](<https://runescape.wiki/w/Globetrotter_outfit>)** <:globetrotterjacket:1123592261175889971>
+⬥ The globetrotter outfit is an outfit that is obtainable from the [Treasure Trails Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>) with points obtained by completing [Treasure Trails](<https://runescape.wiki/w/Treasure_Trails>)
+        ⬩ The outfit will provide several QoL features some of which are charged-based through solving clues
 .
-### __**[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)**__ <:amuletofnature:1123599470911815750>
-⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty).
-        ⬩ For master clues it's recommended to bind the amulet to the [Allotment patch](<https://runescape.wiki/w/Allotment_patch>) on [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
-        ⬩ Can be replaced with [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>) which is upgraded from the [Little Book o' Piracy](<https://runescape.wiki/w/Little_Book_o'_Piracy>) but requires the [Pieces of Hate](<https://runescape.wiki/w/Pieces_of_Hate>) quest completion.
-        ⬩ It can teleport the player to four different locations: [Mos Le'Harmless](<https://runescape.wiki/w/Mos_Le'Harmless>), [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>), [Dragontooth Island](<https://runescape.wiki/w/Dragontooth_Island>) and [Harmony Island](<https://runescape.wiki/w/Harmony_Island>).
+### **[Double Surge ability](<https://runescape.wiki/w/Double_Surge_codex>)** <:surgecodex:602561894414417944>
+⬥ An item that can be read to unlock an upgrade to the [Surge](<https://runescape.wiki/w/Surge>) ability, giving it an extra charge with a separate independent and hidden cooldown
+        ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP
+        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use
+        ⬩ This version can be bought from or sold to other players or the Grand Exchange, the __untradeable version only requires 500 codex pages__
+### **[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)** <:bd:535532854281764884>
+### **[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)** <:totemoftreasure:1124764867237269665>
+⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one
 .
-### **__[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>)__ <:pcodex:643166740833894400>**
+### **[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)** <:amuletofnature:1123599470911815750>
+⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty)
+        ⬩ For master clues it's recommended to bind the amulet to the [Allotment patch](<https://runescape.wiki/w/Allotment_patch>) on [Harmony Island](<https://runescape.wiki/w/Harmony_Island>)
+        ⬩ Can be replaced with [Big Book o' Piracy](<https://runescape.wiki/w/Big_Book_o'_Piracy>) which is upgraded from the [Little Book o' Piracy](<https://runescape.wiki/w/Little_Book_o'_Piracy>) but requires the [Pieces of Hate](<https://runescape.wiki/w/Pieces_of_Hate>) quest completion
+        ⬩ It can teleport the player to four different locations: [Mos Le'Harmless](<https://runescape.wiki/w/Mos_Le'Harmless>), [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>), [Dragontooth Island](<https://runescape.wiki/w/Dragontooth_Island>) and [Harmony Island](<https://runescape.wiki/w/Harmony_Island>)
+.
+### **[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>) <:pcodex:643166740833894400>**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
-        ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>.
-### **__Zerk Auras__**
+        ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>
+### **Zerk Auras**
 ⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
-        ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>) <:mani:643505153709965322>, [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>) <:berserker:643505116347105290>, or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>) <:reckless:643505179378974748>.
+        ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>) <:mani:643505153709965322>, [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>) <:berserker:643505116347105290>, or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>) <:reckless:643505179378974748>
         ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War's_Wares>)
 .
-### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
-### **__[Unlock the Mazcab teleport](<https://runescape.wiki/w/Mazcab_Teleport>)__** <:Mazcab_Teleport_icon:1131959088348147813>
-### **__[Unlock Chaos Roar](<https://runescape.wiki/w/Chaos_Roar>)__** <:chaosroar:994644356671737966>
-⬥ Only required if using melee.
-### **__[Twin Furies | Gregorovic](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
-⬥ 1kc requirement for these bosses → teleport access in the [portal interface](<https://runescape.wiki/w/Boss_portal_(War's_Retreat)>).
-### **__[100 boss kc requirement](<https://runescape.wiki/w/War's_Retreat>)__** <:warsretreatteleport:1126149193908633721>
+### **[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)** <:invention:689509250946695292>
+### **[Unlock the Mazcab teleport](<https://runescape.wiki/w/Mazcab_Teleport>)** <:Mazcab_Teleport_icon:1131959088348147813>
+### **[Unlock Chaos Roar](<https://runescape.wiki/w/Chaos_Roar>)** <:chaosroar:994644356671737966>
+⬥ Only required if using melee
+### **[Twin Furies & Gregorovic](<https://runescape.wiki/w/War's_Retreat>)** <:warsretreatteleport:1126149193908633721>
+⬥ 1kc requirement for these bosses → teleport access in the [portal interface](<https://runescape.wiki/w/Boss_portal_(War's_Retreat)>)
+### **[100 boss kc requirement](<https://runescape.wiki/w/War's_Retreat>)** <:warsretreatteleport:1126149193908633721>
 ⬥ Access to the [portals](<https://runescape.wiki/w/War's_Retreat>) at [War's Retreat](<https://runescape.wiki/w/War's_Retreat>)
-### **__[Tier 5 prawnbroker perk](<https://runescape.wiki/w/Prawnbroker>)__** <:Prawnbroker_chathead:1152332619099418734>
-⬥ Unlock the ability to catch Great White Sharks from any Shark fishing spots.
+### **[Tier 5 prawnbroker perk](<https://runescape.wiki/w/Prawnbroker>)** <:Prawnbroker_chathead:1152332619099418734>
+⬥ Unlock the ability to catch Great White Sharks from any Shark fishing spots
 .
 {
   "embed": {
