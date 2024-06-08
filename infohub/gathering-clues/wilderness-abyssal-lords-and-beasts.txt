@@ -7,10 +7,9 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 .
 .tag:reqs
 ### **Requirements**
-.
 ⬥ <:slayer:797896049548066857> 115 Slayer
-.tag:useful
 .
+.tag:useful
 ### **Useful Items and Information**
 ⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
