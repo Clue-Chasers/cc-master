@@ -1,15 +1,14 @@
 ## Wilderness Abyssal Lords and Beasts
 *Note: a **Table of Contents** can be found in the pins.*
-### **Introduction** *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 .tag:intro
+### **Introduction** *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
-.
 For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal Beasts are your best bet, whether through crystal triskelion key fragments <:trisk:643215216934518815> or direct clue drops.
-### **Requirements**
 .tag:reqs
+### **Requirements**
 ⬥ <:slayer:797896049548066857> 115 Slayer
-### **Useful Items and Information**
 .tag:useful
+### **Useful Items and Information**
 ⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
 ⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave (unlocked)
@@ -23,14 +22,14 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times.
 ⬥ Try to not fill your inventory as the aim is to get crystal triskelion key fragments <:trisk:643215216934518815> for elite clues. <:Elite:633732493228638209>
-
 ⬥ You can aggro 5 Abyssal Lords and 3 Abyssal Beasts with this method.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon and getting some beasts stuck on the rock close by whilst they try to run away.
 ⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead.
 ⬥ You will need to stand in a specific spot for this to be optimal.
 ⬥ You need to place your cannon in a specific position for this to be optimal.
-### **Location and How to Get there**
+.
 .tag:location
+### **Location and How to Get there**
 The best place to find abyssal beasts and lords is in the Wilderness, between levels 45-47, near the Lava Maze and Red Dragon Isle. To get there fast, just use the Wilderness sword to teleport to the Herb patch at around level 39 Wilderness and head north.
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one square west of the skeleton located southeast of the large rock surrounded by three stones. As for your own position stand on the designated red tile, situated two squares north and two squares west of the western surrounding rock.
