@@ -1,56 +1,61 @@
 ### **__Optimal Requirements Elite Clues__** <:eliteclue:1123586941057769552>
 *Note: a **Table of Contents** can be found in the pins.*
-> ## **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
+.
 .tag:area
-### **__[Elite Desert](<https://runescape.wiki/w/Elite_Desert_achievements>)__**
-⬥ Unlimited teleports to __[the Ruins of Uzer](<https://runescape.wiki/w/Uzer>)__ and [Nardah](<https://runescape.wiki/w/Nardah>) using the [Desert Amulet 4](<https://runescape.wiki/w/Desert_amulet_4>). <:desertamulet4:1123599472291758192>
-### **__[Elite Fremennik](<https://runescape.wiki/w/Elite_Fremennik_achievements>)__**
+# **__Area tasks__** <:Area_Tasks_achievements_icon:1151954133746733187>
 .
-⬥ Unlimited teleports to the [Rellekka marketplace](<https://runescape.wiki/w/Rellekka>) on [Fremmenik Sea Boots](<https://runescape.wiki/w/Fremennik_sea_boots_4>) <:seaboots:1123596356175548506> and [Enchanted Lyre](<https://runescape.wiki/w/Enchanted_lyre>). <:lyre:1151959953729409034>
-⬥ [Fremennik Isles](<https://runescape.wiki/w/The_Fremennik_Isles>) on the [Enchanted Lyre](<https://runescape.wiki/w/Enchanted_lyre>). <:lyre:1151959953729409034>
-⬥ Ability to toggle the lyre teleport destination to Jatizso, Neitiznot, Miscellania or [__Etceteria__](<https://runescape.wiki/w/Etceteria>) by speaking to Olaf the Bard.
-### **__[Hard Tirannwn](<https://runescape.wiki/w/Hard_Tirannwn_achievements>)__**
-⬥ No longer fail stick traps using the [Tirannwn Quiver 3](<https://runescape.wiki/w/Tirannwn_quiver_3>). <:quiver3:1123599463227867267>
-⬥ Additional unlimited teleport locations: [__Elf Camp__](<https://runescape.wiki/w/Elf_Camp>) and Tirannwn mushroom patch.
+### **[Elite Desert](<https://runescape.wiki/w/Elite_Desert_achievements>)**
+⬥ Unlimited teleports to [the Ruins of Uzer](<https://runescape.wiki/w/Uzer>) and [Nardah](<https://runescape.wiki/w/Nardah>) using the [Desert Amulet 4](<https://runescape.wiki/w/Desert_amulet_4>) <:desertamulet4:1123599472291758192>
+### **[Elite Fremennik](<https://runescape.wiki/w/Elite_Fremennik_achievements>)**
 .
-> ## **__Skills__** <:skill:1151954385736306760>
+⬥ Unlimited teleports to the [Rellekka marketplace](<https://runescape.wiki/w/Rellekka>) on [Fremmenik Sea Boots](<https://runescape.wiki/w/Fremennik_sea_boots_4>) <:seaboots:1123596356175548506> and [Enchanted Lyre](<https://runescape.wiki/w/Enchanted_lyre>) <:lyre:1151959953729409034>
+⬥ [Fremennik Isles](<https://runescape.wiki/w/The_Fremennik_Isles>) on the [Enchanted Lyre](<https://runescape.wiki/w/Enchanted_lyre>) <:lyre:1151959953729409034>
+⬥ Ability to toggle the lyre teleport destination to Jatizso, Neitiznot, Miscellania or [Etceteria](<https://runescape.wiki/w/Etceteria>) by speaking to Olaf the Bard
+### **[Hard Tirannwn](<https://runescape.wiki/w/Hard_Tirannwn_achievements>)**
+⬥ No longer fail stick traps using the [Tirannwn Quiver 3](<https://runescape.wiki/w/Tirannwn_quiver_3>) <:quiver3:1123599463227867267>
+⬥ Additional unlimited teleport locations: [Elf Camp](<https://runescape.wiki/w/Elf_Camp>) and Tirannwn mushroom patch
+.
 .tag:skills
-### **__[Max Cape](<https://runescape.wiki/w/Max_cape>)__** <:maxcape:580177795703898117>
-⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks.
-⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
-### **__[Archaeology](<https://runescape.wiki/w/Archaeology>)__** <:archaeology:941211288665739274>
-⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>). <:abyssallink:1124762426265583727> requires level 112. (can be boosted)
-[Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>)
-⬥ Level requirement for [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>). <:Shadows_Grace:1128078767399653486> requires level 67. (can be boosted)
-> ## **__Quests__** <:questpoint:1151954665227960390>
-.tag:quests
-### __**[Evil Dave’s Big Day Out](<https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide>)**__
-⬥ Ability to chip teleport tablets to alternate teleport destination by using the tablet on Dave's spellbook.
-⬥ [Dave's Spellbook](<https://runescape.wiki/w/Dave_spellbook>) <:davespellbook:1123597962937905242> that holds up to 1000 charges of chipped teleports).
-### __**[Fur ‘n’ Seek](<https://runescape.wiki/w/Fur_%27n_Seek/Wish_list>) + [Rag and Bone Man Wish List](<https://runescape.wiki/w/Rag_and_Bone_Man/Wish_list>)**__
-⬥ Access to the Skeletal horror Teleport spell. <:Skeletal_horror_Teleport_icon:1131959111404224672>
-### __**[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**__
-⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>).
-### __**[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**__
-⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
-### __**[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**__
-⬥ Access to [Spellbook Swap](https://runescape.wiki/w/Spellbook_Swap). <:sbs:543875425055670275>
-### __**[King of the Dwarves](<https://runescape.wiki/w/King_of_the_Dwarves>)**__
-⬥ For access to the [Lava Flow Mine](<https://runescape.wiki/w/Lava_Flow_Mine>).
-### __**[The Dig Site](<https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](<https://runescape.wiki/w/Dig_Site_pendant>)**__
+# **__Skills__** <:skill:1151954385736306760>
 .
-⬥ Unlocks Dig Site Pendant. <:digsitependant:1124762422507479151>
-### __**[Love Story](<https://runescape.wiki/w/Love_Story>)**__ ⬥
-⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals. <:chippedHouseTele:1127678790231916645>
-### __**[The Jack of Spades](<https://runescape.wiki/w/The_Jack_of_Spades>)**__
-⬥ Access to [Menaphos](<https://runescape.wiki/w/Menaphos>) <:menaphoslode:1032552289589796904> and ability to relocate the [Player-owned-house](<https://runescape.wiki/w/Player-owned_house>) there.
-### __**[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**__
-⬥ The [ectophial](<https://runescape.wiki/w/Ectophial>) <:Ectophial:1152269826413318256>, which provides a reusable one-click teleport to the [Ectofuntus](<https://runescape.wiki/w/Ectofuntus>).
+### **[Max Cape](<https://runescape.wiki/w/Max_cape>)** <:maxcape:580177795703898117>
+⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks
+⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once.
+### **[Archaeology](<https://runescape.wiki/w/Archaeology>)** <:archaeology:941211288665739274>
+⬥ Level requirement for [Abyssal Link](<https://runescape.wiki/w/Abyssal_Link>) <:abyssallink:1124762426265583727> requires level 112 (can be boosted)
+[Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>)
+⬥ Level requirement for [Shadow's Grace](<https://runescape.wiki/w/Shadow's_Grace>) <:Shadows_Grace:1128078767399653486> requires level 67 (can be boosted)
+.
+.tag:quests
+# **__Quests__** <:questpoint:1151954665227960390>
+.
+### **[Evil Dave’s Big Day Out](<https://runescape.wiki/w/Evil_Dave%27s_Big_Day_Out/Quick_guide>)**
+⬥ Ability to chip teleport tablets to alternate teleport destination by using the tablet on Dave's spellbook
+⬥ [Dave's Spellbook](<https://runescape.wiki/w/Dave_spellbook>) <:davespellbook:1123597962937905242> that holds up to 1000 charges of chipped teleports
+### **[Fur ‘n’ Seek](<https://runescape.wiki/w/Fur_%27n_Seek/Wish_list>) + [Rag and Bone Man Wish List](<https://runescape.wiki/w/Rag_and_Bone_Man/Wish_list>)**
+⬥ Access to the Skeletal horror Teleport spell <:Skeletal_horror_Teleport_icon:1131959111404224672>
+### **[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**
+⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)
+### **[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**
+⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
+### **[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**
+⬥ Access to [Spellbook Swap](<https://runescape.wiki/w/Spellbook_Swap>) <:sbs:543875425055670275>
+### **[King of the Dwarves](<https://runescape.wiki/w/King_of_the_Dwarves>)**
+⬥ For access to the [Lava Flow Mine](<https://runescape.wiki/w/Lava_Flow_Mine>)
+### **[The Dig Site](<https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](<https://runescape.wiki/w/Dig_Site_pendant>)**
+.
+⬥ Unlocks Dig Site Pendant <:digsitependant:1124762422507479151>
+### **[Love Story](<https://runescape.wiki/w/Love_Story>)**
+⬥ Ability to make [Teleport to house (chipped)](<https://runescape.wiki/w/Teleport_to_house_(chipped)>), allowing players to teleport to any one of the POH portals <:chippedHouseTele:1127678790231916645>
+### **[The Jack of Spades](<https://runescape.wiki/w/The_Jack_of_Spades>)**
+⬥ Access to [Menaphos](<https://runescape.wiki/w/Menaphos>) <:menaphoslode:1032552289589796904> and ability to relocate the [Player-owned-house](<https://runescape.wiki/w/Player-owned_house>) there
+### **[Ghost ahoy](<https://runescape.wiki/w/Ghost_Ahoy>)**
+⬥ The [ectophial](<https://runescape.wiki/w/Ectophial>) <:Ectophial:1152269826413318256>, which provides a reusable one-click teleport to the [Ectofuntus](<https://runescape.wiki/w/Ectofuntus>)
 .
 ### **__[Succession](<https://runescape.wiki/w/Succession>)__**
-⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable. <:dive:1049378668197195808>
-⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt.
-### **__[Quest cape](<https://runescape.wiki/w/Quest_Cape>)__**
+⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable <:dive:1049378668197195808>
+⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt
+### **[Quest cape](<https://runescape.wiki/w/Quest_Cape>)**
 ⬥ This cape provides teleports to the following locations:
         ⬩ Ancient Guthix Temple
         ⬩ Behind the Scenes
@@ -63,37 +68,36 @@
         ⬩ Varrock Museum
         ⬩ World Gate
 . 
-> ## **__Other__**
+# **__Other__**
 .tag:other
-### **__[Full Globetrotter outfit](<https://runescape.wiki/w/Globetrotter_outfit>)__** <:globetrotterjacket:1123592261175889971>
-⬥ The globetrotter outfit is an outfit that is obtainable from the [Treasure Trails Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>) with points obtained by completing [Treasure Trails](<https://runescape.wiki/w/Treasure_Trails>).
-        ⬩ The outfit will provide several QoL features some of which are charged-based through solving clues.
+### **[Full Globetrotter outfit](<https://runescape.wiki/w/Globetrotter_outfit>)** <:globetrotterjacket:1123592261175889971>
+⬥ The globetrotter outfit is an outfit that is obtainable from the [Treasure Trails Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>) with points obtained by completing [Treasure Trails](<https://runescape.wiki/w/Treasure_Trails>)
+        ⬩ The outfit will provide several QoL features some of which are charged-based through solving clues
 .
-### **__[Double Surge ability](<https://runescape.wiki/w/Double_Surge_codex>)__** <:surgecodex:602561894414417944>
-⬥ An item that can be read to unlock an upgrade to the [Surge](<https://runescape.wiki/w/Surge>) ability, giving it an extra charge with a separate independent and hidden cooldown.
-        ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP.
-        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use.
-        ⬩ This version can be bought from or sold to other players or the Grand Exchange, but the __untradeable version only requires 500 codex pages__.
-### **__[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)__** <:bd:535532854281764884>
-### **__[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)__** <:totemoftreasure:1124764867237269665>
-⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one.
-### **__[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)__** <:gamesnecklace:1124762416597700618>
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace.
+### **[Double Surge ability](<https://runescape.wiki/w/Double_Surge_codex>)** <:surgecodex:602561894414417944>
+⬥ An item that can be read to unlock an upgrade to the [Surge](<https://runescape.wiki/w/Surge>) ability, giving it an extra charge with a separate independent and hidden cooldown
+        ⬩ The double Surge ability is not functional in the [Wilderness](<https://runescape.wiki/w/Wilderness>) when opted into PvP
+        ⬩ It can be created with 750 [codex pages](<https://runescape.wiki/w/Codex_page>) using the lectern. It is consumed upon use
+        ⬩ This version can be bought from or sold to other players or the Grand Exchange, the __untradeable version only requires 500 codex pages__
+### **[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)** <:bd:535532854281764884>
+### **[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)** <:totemoftreasure:1124764867237269665>
+⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one
+### **[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)** <:gamesnecklace:1124762416597700618>
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace
 .
-### __**[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)**__ <:amuletofnature:1123599470911815750>
-⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) <:amuletofnature:1123599470911815750> allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty).
-        ⬩ For elite clues it's recommended to bind the amulet to the [Tree patch](<https://runescape.wiki/w/Tree_patch>) in [Falador Park](<https://runescape.wiki/w/Falador_Park>).
+### **[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)** <:amuletofnature:1123599470911815750>
+⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty)
+        ⬩ For elite clues it's recommended to bind the amulet to the [Tree patch](<https://runescape.wiki/w/Tree_patch>) in [Falador Park](<https://runescape.wiki/w/Falador_Park>)
 .
-### **__[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)__** <:sotg:1123599971023847485>
-⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>).
-⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) <:pharaohsceptre:1123599968477909052> but has an additional teleport to the Golden Palace in Menaphos.
-⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed.
-.
-### **__[Nature's Sentinel Outfit](<https://runescape.wiki/w/Natures_sentinel_outfit>)__** <:naturesentinelhelm:1104717297219797052>
-### **__[Master archaeologist's outfit](<https://runescape.wiki/w/Master_archaeologist_outfit>)__** <:archoutfitjacket:900765150691360768>
-### **__[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)__** <:portablefairyring:1084799722780360704>
-### **__[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)__** <:invention:689509250946695292>
-### **__[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)__** <:spirittreererooter:1123597953303584799>
+### **[Sceptre of the Gods](<https://runescape.wiki/w/Sceptre_of_the_gods>)** <:sotg:1123599971023847485>
+⬥ The Sceptre of the gods is an item that may be received when playing [Pyramid Plunder](<https://runescape.wiki/w/Pyramid_Plunder>)
+⬥ It teleports to the same locations as the regular [pharaoh's sceptre](<https://runescape.wiki/w/Pharaohs_sceptre>) <:pharaohsceptre:1123599968477909052> but has an additional teleport to the Golden Palace in Menaphos
+⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed
+### **[Nature's Sentinel Outfit](<https://runescape.wiki/w/Natures_sentinel_outfit>)** <:naturesentinelhelm:1104717297219797052>
+### **[Master archaeologist's outfit](<https://runescape.wiki/w/Master_archaeologist_outfit>)** <:archoutfitjacket:900765150691360768>
+### **[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)** <:portablefairyring:1084799722780360704>
+### **[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)** <:invention:689509250946695292>
+### **[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)** <:spirittreererooter:1123597953303584799>
 .
 {
   "embed": {
