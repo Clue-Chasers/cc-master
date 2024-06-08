@@ -4,8 +4,10 @@
 ### **Introduction** *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal Beasts are your best bet, whether through crystal triskelion key fragments <:trisk:643215216934518815> or direct clue drops.
+.
 .tag:reqs
 ### **Requirements**
+.
 ⬥ <:slayer:797896049548066857> 115 Slayer
 .tag:useful
 ### **Useful Items and Information**
