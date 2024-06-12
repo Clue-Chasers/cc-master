@@ -39,19 +39,20 @@ If you already have Master clues, prioritize completing those first. Then, use t
 
 ⬥Please take note: The Master drop rate (after re-rolls) from Hard clues is `1/11.25`, and from Elite clues, it's `1/3.75`.
     • So, while Hard clues might appear to yield better points per hour compared to Elites, be sure to factor in the number of Masters you obtain as well.
-
 .
 ### > **__Globetrotter Buying Sequence__**
 .tag:gorder
 <#1024461576314568784>
-
 .
 ### > **__Gathering Hard and Elite Clues__**
 .tag:gathering
 <:scriptureofbik:892342109791735848> <#1153774687810244648>
 <:Hard:633728361918758930> <#1024158713310892112> | <#1024158713310892112>
 <:Elite:633732493228638209> <#1151272561259323422> | <#1024159311913566258> | <#1123335749044031518>
-
+.
+### > **__Solving Hard, Elite and Master Clues__**
+.tag:solving
+<:cluescroll:1037463867716018206> Clue Trainer a fully featured clue solver and assistant for Alt1 can be found here: <#1240372943725531339>
 .
 ### > **__Hard Clues__**
 *Note: The exact ordering of teleports is a personal choice. Information on how to obtain these items. → [Passage of the Abyss](<https://runescape.wiki/w/Passage_of_the_abyss>) | [Portable Fairy Ring](<https://runescape.wiki/w/Portable_fairy_ring>)*
@@ -278,7 +279,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
       },
             {
         "name": "__Elites Notes__",
-        "value": "⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>\n⬥ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset. Shadow's Grace can be substituted for an MH/OH with mobile on it.\n⬥ Scan Guides can be found here: <#1023174431943700531>\n⬥ Clue Trainer can be found here: <#1240372943725531339>\n⬥ Compass Guides are currently being worked on, this will be included once finished",
+        "value": "⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>\n⬥ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset. Shadow's Grace can be substituted for an MH/OH with mobile on it.\n⬥ Scan Guides can be found here: <#1023174431943700531>",
         "inline": true
       }
     ]
@@ -352,7 +353,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Quick Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Hard Clues]($linkmsg_hards$)\n⬥ [Elite Clues]($linkmsg_elites$)\n⬥ [Master Clues]($linkmsg_masters$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Clue Tiers]($linkmsg_tiers$)\n⬥ [Quick Tiers]($linkmsg_fastest$)\n⬥ [Globetrotter Order]($linkmsg_gorder$)\n⬥ [Gathering]($linkmsg_gathering$)\n⬥ [Solving]($linkmsg_solving$)\n⬥ [Hard Clues]($linkmsg_hards$)\n⬥ [Elite Clues]($linkmsg_elites$)\n⬥ [Master Clues]($linkmsg_masters$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
