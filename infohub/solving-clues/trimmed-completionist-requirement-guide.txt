@@ -1,6 +1,6 @@
 ### **__Trimmed Completionist Cape Requirement Guide__ (Courtesy of <@332549285923127304>)**
 *Note: a **Table of Contents** can be found in the pins.*
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/cluebanner.webp
 > ### **__Introduction__**
 .tag:intro
 This guide is designed for experienced players aiming to acquire the complete Globetrotter outfit. It assumes that you have already completed all the necessary quests and achievement diaries. Specific sections offer supplementary information to aid you further. However, if your primary goal is to optimize presets, you can find semi-advanced presets for Hards, Elites, and Masters towards the end of this guide. These presets may incur some additional costs compared to a Beginner preset, but not the maximum cost (e.g., using 1 Passage of the Abyss instead of 2).
@@ -48,7 +48,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
 .
 ### > **__Gathering Hard and Elite Clues__**
 .tag:gathering
-<:scriptureofbik:892342109791735848> <#1024159486644072468>
+<:scriptureofbik:892342109791735848> <#1153774687810244648>
 <:Hard:633728361918758930> <#1024158713310892112> | <#1024158713310892112>
 <:Elite:633732493228638209> <#1151272561259323422> | <#1024159311913566258> | <#1123335749044031518>
 
@@ -186,7 +186,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
     "fields": [
                                     {
         "name": "__Combo Preset Notes__",
-        "value": "⬥ Have your player owned house located at Taverly <:taverleylode:1032552329758650418>\n⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Portable Obelisk can be swapped for Obelisk Shards\n⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Keybind spade for faster digging <:spade:1124766345964306432>\n⬥ Dragon Trinkets <:trinkets:1123599465614413844> can be removed if the Dark Facet of Luck <:lotdfacet:1123596338693673020> is owned and replaced with something else\n⬥ For the best routes and what steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, please check the Google Sheet here: <#1023172759255253042>\n• Please note this sheet is slightly out of date but the methods still work",
+        "value": "⬥ Have your player owned house located at Taverly <:taverleylode:1032552329758650418>\n⬥ Make sure to have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Portable Obelisk can be swapped for Obelisk Shards\n⬥ Always use Meerkat Pouch with Scrolls <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Keybind spade for faster digging <:spade:1124766345964306432>\n⬥ Dragon Trinkets <:trinkets:1131303172292489427> can be removed if the Dark Facet of Luck <:lotdfacet:1123596338693673020> is owned and replaced with something else\n⬥ For the best routes and what steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, please check the Google Sheet here: <#1023172759255253042>\n• Please note this sheet is slightly out of date but the methods still work",
         "inline": false
       },
             {
@@ -278,7 +278,7 @@ If you already have Master clues, prioritize completing those first. Then, use t
       },
             {
         "name": "__Elites Notes__",
-        "value": "⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>\n⬥ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset. Shadow's Grace can be substituted for an MH/OH with mobile on it.\n⬥ Scan Guides can be found here: <#1023174431943700531>\n⬥ Scan Trainer can be found here: <#1123544061052207114>\n⬥ Compass Guides are currently being worked on, this will be included once finished",
+        "value": "⬥ For steps to use <:globetrotterjacket:1123592261175889971> jacket and <:globetrotterbackpack:1123592248056102993> backpack charges on, what the use of Sentinel outfit, Powerbursts, Quest Cape, Archaeology teleports are for check: <#1128065468142465115>\n⬥ When you obtain Globetrotter pieces; <:globetrotterjacket:1123592261175889971> Jacket replaces <:skullsceptre:1123599972558970930> Skull Sceptre <:globetrottergloves:1123592252036493344> Gloves replaces the teleport scrolls and you gain space to put <:skullsceptre:1123599972558970930> Skull Sceptre back into the preset. Shadow's Grace can be substituted for an MH/OH with mobile on it.\n⬥ Scan Guides can be found here: <#1023174431943700531>\n⬥ Clue Trainer can be found here: <#1240372943725531339>\n⬥ Compass Guides are currently being worked on, this will be included once finished",
         "inline": true
       }
     ]
