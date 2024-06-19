@@ -1,6 +1,5 @@
 ## **__Prosper Smithing Gathering Guide__**
 *Note: **a Table of Contents** can be found in the pins.*
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1152026526401974393/Clue_news_main.png
 > ### **__Introduction__**
 .tag:intro
 This guide is tailored for players aiming to utilize the [Scripture of Bik](<https://runescape.wiki/w/Scripture_of_Bik>) <:scriptureofbik:892342109791735848> alongside [Prosper](<https://runescape.wiki/w/Prosper>) <:Prosper:1152352942326829157> to collect clues with minimal attention required. Below, you'll find the preset and additional information, should you need it.
@@ -9,18 +8,19 @@ For information on Scripture of Bik <:scriptureofbik:892342109791735848> visit <
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, don't hesitate to make use of the <#400499160094212097> channel.
 .
-> ### **__Preset__**
+> ### **__Presets and Relics__**
 .tag:preset
 {
   "embed": {
-    "title": "",
-    "color": 2067276,
-    "fields": [
-      {
-        "name": "__Preset Suggestions__",
-        "value": "⬥ [Current Preset](<https://pvme.github.io/preset-maker/#/6DXqccwHeBAJOPhRrX8y>) \n⬥ [September's Preset](<https://imgur.com/lbW4HQv>)",
-        "inline": true
-      }
+    "color": 39423,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/prospersmithing.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Current Preset](<https://pvme.github.io/preset-maker/#/6DXqccwHeBAJOPhRrX8y>) \n⬥ [September's Preset](<https://imgur.com/lbW4HQv>)"
+        }
     ]
   }
 }
@@ -44,11 +44,11 @@ Clues/h: `3000/864 = 3.47`
 <:Elite:633732493228638209> - `5.91 clues/hr`
 .
 > ### **__Breakdown Sheet__**
-Profit/loss breakdown for 0 heat Prosper Smith using Scripture of Bik can be found [here](<https://docs.google.com/spreadsheets/d/1vc92HphSmHcDpk7U6AjWDkBSHZnsj5-YeGRNz8Ktilc/edit#gid=528203057>).
+Profit/loss breakdown for 0 heat Prosper Smith using Scripture of Bik can be found **[here](<https://docs.google.com/spreadsheets/d/1vc92HphSmHcDpk7U6AjWDkBSHZnsj5-YeGRNz8Ktilc/edit#gid=528203057>)**.
 .
 > ### **__ALT1 Catalyst Alert__**
 .tag:afk
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1153772628620890192/explorer_liKkYeln2J.mp4
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/alt1setup.gif
 {
 
   "embed": {
