@@ -15,7 +15,7 @@ All styles:
 ⬥ <:darkness:1151275891289227344> Darkness
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence (excl. melee)
 If Magic:
-⬥ <:gchain:787904334495088672> Greater Chain
+⬥ <:gchain:1257440278512537740> Greater Chain
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine
 ⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave
 ⬥ <:magmatempest:902209626509025290> Magma Tempest
