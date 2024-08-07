@@ -1,4 +1,5 @@
-[{"name": "Empty hand", "inventory": "No", "worn": "hand", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20hand.png"},
+[{"name": "Empty feet", "inventory": "No", "worn": "feet", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20feet.png"},
+{"name":"Empty hand","inventory":"No","worn":"hand","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20hand.png"},
 {"name":"Empty legs","inventory":"No","worn":"legs","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20legs.png"},
 {"name":"Empty body","inventory":"No","worn":"body","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20body.png"},
 {"name":"Empty Offhand","inventory":"No","worn":"offhand","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Offhand.png"},
