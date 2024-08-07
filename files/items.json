@@ -1,2 +1,7 @@
-[{"name": "Empty Aura", "inventory": "No", "worn": "aura", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Aura.png"},
-{"name":"Empty Pocket","inventory":"No","worn":"pocket","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Pocket.png"},{"name":"Empty Ring","inventory":"No","worn":"ring","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ring.png"},{"name":"Empty Neck","inventory":"No","worn":"neck","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Neck.png"},{"name":"Empty Head","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Head.png","inventory":"No","worn":"head"},{"name":"Empty Cape","inventory":"No","worn":"cape","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Cape.png"}]
+[{"name": "Empty Ammo", "inventory": "No", "worn": "ammo", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ammo.png"},
+{"name":"Empty Aura","inventory":"No","worn":"aura","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Aura.png"},
+{"name":"Empty Pocket","inventory":"No","worn":"pocket","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Pocket.png"},
+{"name":"Empty Ring","inventory":"No","worn":"ring","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ring.png"},
+{"name":"Empty Neck","inventory":"No","worn":"neck","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Neck.png"},
+{"name":"Empty Head","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Head.png","inventory":"No","worn":"head"},
+{"name":"Empty Cape","inventory":"No","worn":"cape","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Cape.png"}]
