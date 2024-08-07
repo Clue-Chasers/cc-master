@@ -1,4 +1,5 @@
-[{"name": "Empty Ammo", "inventory": "No", "worn": "ammo", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ammo.png"},
+[{"name": "Empty Mainhand", "inventory": "No", "worn": "mainhand", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Mainhand.png"},
+{"name":"Empty Ammo","inventory":"No","worn":"ammo","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ammo.png"},
 {"name":"Empty Aura","inventory":"No","worn":"aura","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Aura.png"},
 {"name":"Empty Pocket","inventory":"No","worn":"pocket","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Pocket.png"},
 {"name":"Empty Ring","inventory":"No","worn":"ring","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Ring.png"},
