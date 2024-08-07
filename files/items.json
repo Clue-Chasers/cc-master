@@ -1,2 +1,4 @@
-[{"name": Empty Neck, "inventory": No, "worn": neck, "url": https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Neck.webp},
-{"name":"Empty Head","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Head.png","inventory":"No","worn":"head"},{"name":"Empty Cape","inventory":"No","worn":"cape","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Cape.png"}]
+[
+  {"name":"Empty Head","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Head.png","inventory":"No","worn":"head"},
+  {"name":"Empty Cape","inventory":"No","worn":"cape","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty%20Cape.png"}
+]
