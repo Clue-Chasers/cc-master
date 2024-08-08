@@ -58,7 +58,7 @@ If Necromancy:
     • All methods used <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
     • If you use <:reaverpouch:839903693837959228> Reaver with <:necromancy:1148995625896120460> Necromancy do not use <:darkness:1137809209782698024> Darkness alongside it.
 **Magic 670+ kph**
-.img:https://img.pvme.io/images/y5peEQqt6R.png
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/abyssalbeastsbar.png
 **Melee 645+ kph**
 .img:https://img.pvme.io/images/EfV9ZS0v86.png
 **Necromancy 600+ kph**
