@@ -1,5 +1,6 @@
-[{"name": "Ripper demon", "inventory": "null", "worn": "1", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Ripper%20demon.webp"},
-{"name":"Kal'gerion Demon","inventory":"null","worn":"1","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Kal'gerion%20Demon.webp"},
+[{"name": "Empty", "inventory": "Yes", "worn": "", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Ripper%20demon.webp"},
+  {"name": "Ripper demon", "inventory": "Yes", "worn": "familiar", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Ripper%20demon.webp"},
+{"name":"Kal'gerion Demon","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Kal'gerion%20Demon.webp"},
 {"name":"Meerkats pouch","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Meerkats%20pouch.png"},
 {"name":"Abyssal Link","inventory":"No","worn":"relic","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Abyssal%20Link.png"},
 {"name":"Conservation of Energy","inventory":"No","worn":"relic","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Conservation%20of%20Energy.png"},
