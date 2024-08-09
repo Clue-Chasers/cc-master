@@ -1,4 +1,5 @@
-[{"name": "Globetrotter jacket", "inventory": "Yes", "worn": "body", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Globetrotter%20jacket.webp"},
+[{"name": "Globetrotter boots", "inventory": "Yes", "worn": "feet", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Globetrotter%20boots.webp"},
+{"name":"Globetrotter jacket","inventory":"Yes","worn":"body","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Globetrotter%20jacket.webp"},
 {"name":"Empty","inventory":"Yes","worn":"","url":""},
 {"name":"Ripper demon","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Ripper%20demon.webp"},
 {"name":"Kal'gerion Demon","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Kal'gerion%20Demon.webp"},
