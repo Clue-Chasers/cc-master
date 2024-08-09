@@ -1,4 +1,4 @@
-[{"name": "Empty", "inventory": "Yes", "worn": "", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Empty.png"},
+[{"name": "Empty", "inventory": "Yes", "worn": "", "url": ""},
   {"name": "Ripper demon", "inventory": "Yes", "worn": "familiar", "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Ripper%20demon.webp"},
 {"name":"Kal'gerion Demon","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Kal'gerion%20Demon.webp"},
 {"name":"Meerkats pouch","inventory":"Yes","worn":"familiar","url":"https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/Meerkats%20pouch.png"},
