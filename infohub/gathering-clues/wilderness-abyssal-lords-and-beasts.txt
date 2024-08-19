@@ -12,7 +12,7 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 .
 .tag:useful
 ### **Useful Items and Information**
-⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
+⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
 ⬥ <:gconc:869285393223254107> Greater Concentrated Blast (unlocked)
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
