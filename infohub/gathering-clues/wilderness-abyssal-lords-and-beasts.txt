@@ -14,12 +14,14 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 ### **Useful Items and Information**
 ⬥ <:gchain:787904334495088672> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
-⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave (unlocked)
+⬥ <:gconc:869285393223254107> Greater Concentrated Blast (unlocked)
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
-⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
+⬥ <:incitefear:856635090783567902> Incite Fear / <:exsanguinate:856635090745950258> Exsanguinate (unlocked)
 ⬥ <:animatedead:856635090453135382> Animate Dead (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
+⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
+⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
 ⬥ <:cryptbloombody:892819107253194762> 4 Cryptbloom pieces
 ⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
@@ -49,7 +51,7 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
     "fields": [
       {
         "name": "__Preset__",
-        "value": "⬥ [Preset and Breakdown](https://pvme.io/preset-maker/#/TI6KltkJgRk1WOliRJQq)",
+        "value": "⬥ [Preset and Breakdown](https://pvme.io/preset-maker/#/P42yjSoexrv0OIfhvud1)",
         "inline": true
       }
     ]
@@ -57,9 +59,15 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
 }
 .embed:json
 .
-**Action Bar**
+**Action Bars**
 .tag:bar
-.img:https://img.pvme.io/images/qX5PZslVXP.png
+If you want more kills per hour for near no effort, use <:demonslayer:641339921675845633> and <:roarofawakening:1266417538045317121> <:spec:537340400273195028> after <:gchain:1257440278512537740> manually.
+
+<:incitefear:856635090783567902> Incite Fear Bar
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_incitefearbar.png
+<:exsanguinate:856635090745950258> Exsanguinate Bar
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_exsanguinatebar.png
+
 .
 {
   "embed": {
