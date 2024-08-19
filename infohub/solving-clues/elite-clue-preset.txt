@@ -6,7 +6,6 @@ The below presets will cover both a non-skip ticket and skip ticket setup, as we
 To see the cost analysis of no skips vs. using skips, use the command !casket in <#333343575737892864>.
 Any questions regarding the presets, ask in <#400499160094212097>.
 Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
-
 .
 > **__Learning Elite Clues__**
 .tag:learningelites
@@ -18,14 +17,9 @@ __Compass Solving Basics__
 __Scan Guides__
 <#1023174431943700531>
 .
-__Scan Trainer__
-<#1123544061052207114>
-
-.
 > **__Gathering Elite Clues__**
 .tag:gatheringelites
 <#1023016130077532300>
-
 .
 > **__Elite Clue Presets__**
 .tag:presets
@@ -173,7 +167,7 @@ In-game sounds are able to assist with scans. Listening to the pulse instead of 
 ⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs
 ⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.
 ⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)
-⬥ For the "No Sceptre of the Gods w/o Skips" preset, use <:shadowsgrace:895999229737185280> and run the Lumbridge Swamp Cave scan in the dark if you have too.
+⬥ For the "No Sceptre of the Gods w/ Skips" preset, use <:shadowsgrace:895999229737185280> and run the Lumbridge Swamp Cave scan in the dark if you have too.
 .
 {
   "embed": {
