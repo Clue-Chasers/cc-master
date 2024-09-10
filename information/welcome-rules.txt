@@ -1,14 +1,13 @@
 .tag:intro
-### Clue Chasers began as a small group of friends united by their shared passion for RuneScape. It has since evolved into a discord for the entire community, where members can connect, discuss every aspect of clue scrolls, and build friendships with members of the discord.
+### Clue Chasers began as a small group of friends with a shared passion for RuneScape. It has since grown into a discord community where people can connect, discuss all aspects of clue scrolls, and build connections with one another. Below, you'll find detailed information about our rules, roles, and channels. We hope you enjoy your stay! <:ACLOO:1107839063857315991>
 ## Permanent Invite Link: https://discord.com/invite/cluechasers
 ## Ingame FC: [Clue Chasers](<https://i.imgur.com/RvkDivQ.png>)
-.
 .tag:rules
 {
   "embed": {
     "title": "__Server Rules__",
     "description": "If you have any concerns, feel free to create a ticket below, and we'll gladly assist in resolving the issue.",
-    "color": 12745742,
+    "color": 10038562,
     "footer": {
       "text": "All cases of rule-breaking are dealt with on a case-by-case basis, considering the circumstances and your server history. These rules also apply to the Voice Channels and Clue Chasers FC."
     },
@@ -23,7 +22,7 @@
       },
       {
         "name": "__Rule 3 - No trading__",
-        "value": "⬥ Player-to-player trading is strictly not allowed.\n⬥ Do not advertise, ask for trades/loans, or beg.\n⬥ Use the Grand Exchange or [RuneScape Marketplace](<https://discord.com/channels/303835144073248770/1160929885733277759>).\n⬥ Trading offers to members is considered an attempt to bypass this rule if this happens create a ticket with sufficient evidence in a modmail."
+        "value": "⬥ Player-to-player trading is strictly not allowed.\n⬥ Do not advertise, ask for trades/loans, or beg.\n⬥ Use the Grand Exchange or [RuneScape Marketplace](<https://discord.com/channels/303835144073248770/1160929885733277759>).\n⬥ Trading offers to members is considered an attempt to bypass this rule if this happens create a ticket with sufficient evidence in a modmail ticket below."
       },
       {
         "name": "__Rule 4 - Affiliate Communities and Advertising__",
@@ -31,7 +30,7 @@
       },
       {
         "name": "__Transparency and Suggestions__",
-        "value": "⬥ For transparency and freely voicing opinions, server suggestions on how the server should be moderated should be brought up in modmail\n⬥ Any suggestions made elsewhere are likely to be ignored as they become impossible for staff members to meaningfully follow up on."
+        "value": "⬥ For transparency and freely voicing opinions, server suggestions on how the server should be moderated should be brought up in a modmail ticket\n⬥ Any suggestions made elsewhere are likely to be ignored as they become impossible for staff members to meaningfully follow up on."
       },
       {
         "name": "__Disclaimer__",
@@ -41,52 +40,40 @@
   }
 }
 .embed:json
-.
 .tag:roles
 {
   "embed": {
   "title": "__Clue Roles Breakdown__",
-    "description":"⬥ The ranking is based on total Treasure Trail points you have accumulated on your account and is fetched directly from the hiscores.\n•  To get a **clue role** assigned to you, set your RSN by using `/setrsn rsnhere` and then use `/clues` to update your clue info in <#333343575737892864>.\n•  To simply look up your clue role or how many points you or someone else received use `/lookup rsn` command.\n• Having a clue role will also allow you to view the `broadcasted-uniques` and `achievements` channel.\n⬥ <@&611921938138529814> (2000 points)\n⬥ <@&611922363294023711> (4000 points)\n⬥ <@&611922906418511883> (8000 points)\n⬥ <@&611922992523509760> (16 000 points)\n⬥ <@&611923028951040011> (32 000 points)\n⬥ <@&611923063629414410> (64 000 points)\n⬥ <@&611923093505441832> (128 000 points)\n⬥ <@&611923144013381642> (256 000 points)\n⬥ <@&853970923988451378> (512 000 points)\n⬥ <@&1040964536070586378> (1 024 000 points)\n⬥ <@&534028503084040204> - Exclusive role for Top 50s on any of the clue hiscores.",
+    "description":"⬥ The ranking is based on total Treasure Trail points you have accumulated on your account and is fetched directly from the hiscores.\n•  To get a **clue role** assigned to you, set your RSN by using `/setrsn rsnhere` and then use `/clues` to update your clue info in <#333343575737892864>.\n•  To simply look up your clue role or how many points you or someone else received use `/lookup rsn` command.\n• Having a clue role will also allow you to view the `broadcasted-uniques` and `achievements` channel.\n\n⬥ <@&611921938138529814> (2000 points)\n⬥ <@&611922363294023711> (4000 points)\n⬥ <@&611922906418511883> (8000 points)\n⬥ <@&611922992523509760> (16 000 points)\n⬥ <@&611923028951040011> (32 000 points)\n⬥ <@&611923063629414410> (64 000 points)\n⬥ <@&611923093505441832> (128 000 points)\n⬥ <@&611923144013381642> (256 000 points)\n⬥ <@&853970923988451378> (512 000 points)\n⬥ <@&1040964536070586378> (1 024 000 points)\n⬥ <@&534028503084040204> - Exclusive role for Top 50s on any of the clue hiscores.",
     "color": 12745742
    }
 }
 .embed:json
-.
 .tag:hof
 {
   "embed": {
-  "title": "__HoF Roles Breakdown__",
-    "description":"⬥ There are currently thirteen obtainable roles by completing the in-game collection logs.\n • These roles are assigned upon submission in <#765478301581574164> and periodically added to <#581552255581290506>.",
-    "color": 12745742
-   }
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__HoF Roles Breakdown__",
+        "value": "⬥ There are currently thirteen obtainable roles by completing the in-game collection logs.\n • These roles are assigned upon submission in <#765478301581574164> and periodically added to <#581552255581290506>."
+      },
+      {
+        "name": "__Obtainable Base Clue Titles__",
+        "value": "⬥ <:Easy:633728862039179294> <@&923228914229325854> - requires `the Gold Digger` title.\n⬥ <:Medium:633728704438075435> <@&923229123978088469> - requires `Clueless` title.\n⬥ <:Hard:633728361918758930> <@&923228832260055130> - requires `Double Agent` base title.\n⬥ <:Elite:633732493228638209> <@&923228731638685736> - requires `the Clue Chaser` base title.\n⬥ <:Master:1019920500807450666> <@&923228589288218685>  - requires `Master of Clues` base title.\n⬥ <:tt_points:1051567584237064233> <@&1064628552483483779> - requires all of the above."
+      },
+      {
+        "name": "__Obtainable Golden Clue Titles__",
+        "value": "⬥ <:gda:1180951435576356964> <@&923203751156789308> - requires `Double Agent` golden title.\n⬥ <:gcc:1180951432262848614> <@&923203960737787964> - requires `the Clue Chaser` golden title.\n⬥ <:gmoc:1180951429867917322> <@&923204050420391976> - requires `Master of Clues` golden title."
+      },
+      {
+        "name": "__Obtainable Golden Clue Combination Titles__",
+        "value": "⬥ <:gdagcc:1180951481927614594> <@&1180984434938355763> - requires golden `Double Agent` | `the Clue Chaser` title.\n⬥ <:gdagmoc:1180951478446342154> <@&1039216605944610877> - requires golden `Double Agent` | `Master of Clues` title.\n⬥ <:gccgmoc:1180951483584368700> <@&1003730869128798248> - requires golden `the Clue Chaser` | `Master of Clues` title.\n⬥ <:gdagccgmoc:1180951476948967525> <@&1039217204740247653> - requires all of the above."
+      }
+    ]
+  }
 }
 .embed:json
-.
-{
-  "embed": {
-  "title": "__Base Clue Titles__",
-    "description":"⬥ <:Easy:633728862039179294> <@&923228914229325854> - requires `the Gold Digger` title.\n⬥ <:Medium:633728704438075435> <@&923229123978088469> - requires `Clueless` title.\n⬥ <:Hard:633728361918758930> <@&923228832260055130> - requires `Double Agent` base title.\n⬥ <:Elite:633732493228638209> <@&923228731638685736> - requires `the Clue Chaser` base title.\n⬥ <:Master:1019920500807450666> <@&923228589288218685>  - requires `Master of Clues` base title.\n⬥ <:tt_points:1051567584237064233> <@&1064628552483483779> - requires all of the above.",
-    "color": 12745742
-   }
-}
-.embed:json
-{
-  "embed": {
-  "title": "__Golden Clue Titles__",
-    "description":"⬥ <:gda:1180951435576356964> <@&923203751156789308> - requires `Double Agent` golden title.\n⬥ <:gcc:1180951432262848614> <@&923203960737787964> - requires `the Clue Chaser` golden title.\n⬥ <:gmoc:1180951429867917322> <@&923204050420391976> - requires `Master of Clues` golden title.",
-    "color": 12745742
-   }
-}
-.embed:json
-{
-  "embed": {
-  "title": "__Golden Clue Combination Titles__",
-    "description":"⬥ <:gdagcc:1180951481927614594> <@&1180984434938355763> - requires golden `Double Agent` | `the Clue Chaser` title.\n⬥ <:gdagmoc:1180951478446342154> <@&1039216605944610877> - requires golden `Double Agent` | `Master of Clues` title.\n⬥ <:gccgmoc:1180951483584368700> <@&1003730869128798248> - requires golden `the Clue Chaser` | `Master of Clues` title.\n⬥ <:gdagccgmoc:1180951476948967525> <@&1039217204740247653> - requires all of the above.",
-    "color": 12745742
-   }
-}
-.embed:json
-.
 .tag:assign
 {
   "embed": {
@@ -96,22 +83,20 @@
    }
 }
 .embed:json
-.
 .tag:directory
 {
   "embed": {
   "title": "__Channel Directory__",
     "description":"__**General Channels**__\n[Server Information](https://discord.com/channels/332595657363685377/1283185616514977914) -  Welcome, rules, hall-of-fame and affiliates.\n[Announcements](https://discord.com/channels/332595657363685377/1283185186321989642) - Announcements, clue-news, jagex-media, polls, reminders.\n[Information Hub](https://discord.com/channels/332595657363685377/1283185262968574022) - Index for all the information hub channels.\n[Clue Trainer](https://discord.com/channels/332595657363685377/1283185519403991080) - News and discussion channel for the Clue Trainer app.\n[Clue Assistance](https://discord.com/channels/332595657363685377/1283185435132297258) - Ask advice or questions relating to Clue Scrolls.\n[Command Channels](https://discord.com/channels/332595657363685377/1283186025468006440) - Update your clue role or check out some commands.\n[Social Channels](https://discord.com/channels/332595657363685377/1283185719233347657)\n[Off Topic Channels](https://discord.com/channels/332595657363685377/1283185825642844233)\n[Voice Channels](https://discord.com/channels/332595657363685377/1283186083433025642)\n[Infohub Source](https://discord.com/channels/332595657363685377/1283185358619541595)\n[Public Archives](https://discord.com/channels/332595657363685377/1283185903355039846)\n\n__**Guide Channels**__\n[Infohub Read Me](https://discord.com/channels/332595657363685377/1023169789381849098) - A quick guide on how the information hub works.\n[Getting Started](https://discord.com/channels/332595657363685377/1120257028762378310) - Useful information for getting into Clue Scrolls.\n[Gathering Clues](https://discord.com/channels/332595657363685377/1023016130077532300) - Methods and presets for gathering Clue Scrolls.\n[Solving Clues](https://discord.com/channels/332595657363685377/1023016354145648741) - Methods and presets for solving Clue Scrolls.\n[Faq and Misc](https://discord.com/channels/332595657363685377/1023016455429685389) - Frequently asked questions and miscellaneous.",
-    "color": 12745742
+    "color": 3447003
    }
 }
 .embed:json
-.
 {
   "embed": {
     "title": "__Table of Contents__",
     "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Server Rules]($linkmsg_rules$)\n⬥ [Clue Roles Breakdown]($linkmsg_roles$)\n⬥ [HoF Roles Breakdown]($linkmsg_hof$)\n⬥ [Assignable Roles]($linkmsg_assign$)\n⬥ [Channel Directory]($linkmsg_directory$)",
-    "color": 12745742
+    "color": 3447003
   }
 }
 .embed:json
