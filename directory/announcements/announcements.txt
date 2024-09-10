@@ -6,4 +6,4 @@
    }
 }
 .embed:json
-.
+.pin:delete
