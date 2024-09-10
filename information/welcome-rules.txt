@@ -2,6 +2,7 @@
 ### Clue Chasers began as a small group of friends with a shared passion for RuneScape. It has since grown into a discord community where people can connect, discuss all aspects of clue scrolls, and build connections with one another. Below, you'll find detailed information about our rules, roles, and channels. We hope you enjoy your stay! <:ACLOO:1107839063857315991>
 ## Permanent Invite Link: https://discord.com/invite/cluechasers
 ## Ingame FC: [Clue Chasers](<https://i.imgur.com/RvkDivQ.png>)
+.
 .tag:rules
 {
   "embed": {
