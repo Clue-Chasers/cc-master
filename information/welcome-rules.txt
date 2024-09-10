@@ -4,7 +4,6 @@
 ## Ingame FC: [Clue Chasers](<https://i.imgur.com/RvkDivQ.png>)
 .
 .tag:rules
-.
 {
   "embed": {
     "title": "__Server Rules__",
@@ -42,8 +41,8 @@
   }
 }
 .embed:json
-.tag:roles
 .
+.tag:roles
 {
   "embed": {
   "title": "__Clue Roles Breakdown__",
@@ -52,8 +51,8 @@
    }
 }
 .embed:json
-.tag:hof
 .
+.tag:hof
 {
   "embed": {
     "color": 12745742,
@@ -78,8 +77,8 @@
   }
 }
 .embed:json
-.tag:assign
 .
+.tag:assign
 {
   "embed": {
   "title": "__Assignable Roles__",
@@ -88,8 +87,8 @@
    }
 }
 .embed:json
-.tag:directory
 .
+.tag:directory
 {
   "embed": {
   "title": "__Channel Directory__",
