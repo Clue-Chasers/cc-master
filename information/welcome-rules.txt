@@ -23,7 +23,7 @@
       },
       {
         "name": "__Rule 3 - No trading__",
-        "value": "⬥ Player-to-player trading is strictly not allowed.\n⬥ Do not advertise, ask for trades/loans, or beg.\n⬥ Use the Grand Exchange or [RuneScape Marketplace](<https://discord.com/channels/303835144073248770/1160929885733277759>).\n⬥ Trading offers to members is considered an attempt to bypass this rule if this happens create a ticket with sufficient evidence in a modmail ticket below."
+        "value": "⬥ Player-to-player trading is strictly not allowed.\n⬥ Do not advertise, ask for trades/loans, or beg.\n⬥ Use the Grand Exchange or [RuneScape Marketplace](<https://discord.com/channels/303835144073248770/1240277796937535632/1259934082662662205>).\n⬥ Trading offers to members is considered an attempt to bypass this rule if this happens create a ticket with sufficient evidence in a modmail ticket below."
       },
       {
         "name": "__Rule 4 - Affiliate Communities and Advertising__",
