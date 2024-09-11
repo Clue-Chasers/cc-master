@@ -1,9 +1,0 @@
-{
-  "embed": {
-  "title": "",
-    "description":"[**Back to Directory**](https://discord.com/channels/332595657363685377/1190060124203655290)\n\n[General](https://discord.com/channels/332595657363685377/332595657363685377)\n[Excluwusives](https://discord.com/channels/332595657363685377/535563092264878110) - requires frontpage on any clue tier.\n[Clue Design](https://discord.com/channels/332595657363685377/1183111377955602603)\n[Clue Titles](https://discord.com/channels/332595657363685377/765478301581574164)\n[Broadcasted Uniques](https://discord.com/channels/332595657363685377/395523570870255616) - requires a clue role.\n[Clue Logs](https://discord.com/channels/332595657363685377/374280345966608384)\n[Achievements](https://discord.com/channels/332595657363685377/332814886872678400) - requires a clue role.\n[OSRS General](https://discord.com/channels/332595657363685377/565515173889048587)\n[Theorycrafting](https://discord.com/channels/332595657363685377/874985149937365064)\n[Oyster Competition](https://discord.com/channels/332595657363685377/424345150248976384)\n[Event Clue Stacks](https://discord.com/channels/332595657363685377/1181315924742115390)\n[Hof Log Entries](https://discord.com/channels/332595657363685377/1181299697726521454)",
-    "color": 12745742
-   }
-}
-.embed:json
-.

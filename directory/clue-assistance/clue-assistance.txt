@@ -1,9 +1,0 @@
-{
-  "embed": {
-  "title": "",
-    "description":"[**Back to Directory**](https://discord.com/channels/332595657363685377/1190060124203655290)\n\n[Clue Questions](https://discord.com/channels/332595657363685377/400499160094212097)\n[Clue Help](https://discord.com/channels/332595657363685377/1100780489700294746)",
-    "color": 12745742
-   }
-}
-.embed:json
-.
