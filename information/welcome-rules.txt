@@ -38,7 +38,7 @@
         "value": "⬥ The rules are not exhaustive. Staff members reserve the right to ban/mute where needed.\n⬥ If behaviour is brought to our attention from our affiliate servers admins we may act on them where necessary to protect the community.\n⬥ If people go out of their way to bend the rules, punishments will escalate.\n⬥ Repeat offenders will face harsher punishments."
       },
             {
-        "name": "[__Link to Server Staff Application__](<https://dyno.gg/form/3585ac36>)",
+        "name": "[Link to Server Staff Application](<https://dyno.gg/form/3585ac36>)",
         "value": "⬥ Our staff applications are always open incase we have to recruit additional team members. Above you’ll find a form with the responsibilities and requirements for the role."
       }
     ]
