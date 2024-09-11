@@ -99,7 +99,7 @@
 .tag:booster
 {
   "embed": {
-  "title": "__Booster Role__",
+  "title": "__Nitro Booster Role__",
     "description":"⬥ If you'd like to support the Discord server with your Nitro Boost, you'll gain access to the `booster-icons` channel, where you can request an optional custom role.\n• This gives you the freedom to choose a unique name and icon, as long as they follow our community rules.",
     "color": 15418782
    }
@@ -119,7 +119,7 @@
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Server Rules]($linkmsg_rules$)\n⬥ [Clue Roles Breakdown]($linkmsg_roles$)\n⬥ [HoF Roles Breakdown]($linkmsg_hof$)\n⬥ [Assignable Roles]($linkmsg_assign$)\n⬥ [Channel Directory]($linkmsg_directory$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Server Rules]($linkmsg_rules$)\n⬥ [Clue Roles Breakdown]($linkmsg_roles$)\n⬥ [HoF Roles Breakdown]($linkmsg_hof$)\n⬥ [Assignable Roles]($linkmsg_assign$)\n⬥ [Nitro Booster Role]($linkmsg_booster$)\n⬥ [Channel Directory]($linkmsg_directory$)",
     "color": 3447003
   }
 }
