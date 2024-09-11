@@ -31,17 +31,40 @@ Easy, medium, hard, and master clues often include [emote clues](<https://runesc
 
 For example, in a hard clue step, the Shilo Village bank offers a site to build a hidey-hole. You can use this hidey-hole to store items like the splitbark helm, mud pie, and rune platebody. This way, when you encounter this clue step again, you can retrieve the items from the hidey-hole rather than fetching them from your bank.
 
-For a complete overview of hidey-holes and their contents:
-⬥ **[Link to RSWiki Hidey-holes](<https://runescape.wiki/w/Hidey-holes>)**
+For a complete overview of hidey-holes and their contents: **[Link to RSWiki Hidey-holes](<https://runescape.wiki/w/Hidey-holes>)**
 #### Globetrotter Outfit
-(list benefit and recommended purchase order)
+When you completing clue scrolls, you earn [Treasure Trail Points](<https://runescape.wiki/w/Treasure_Trail_Points>). These points can be used to purchase for items and unlocks at [Zaida’s Treasure Trail Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>), situated just south of the Grand Exchange. Among the notable items Zaida offers are the globetrotter outfit pieces, each providing significant benefits:
+
+.
+<:globetrotterjacket:1123592261175889971> Ability to teleport directly to the clue scroll location.
+<:globetrotterlegs:1123592257556205638> Activate to automatically perform the correct emote for emote clue. (contrary to using emotes from the emote tab, shorts can be used while in combat)
+<:globetrottergloves:1123592252036493344> Ability store teleport scrolls and use those stored teleport scrolls from the arm guards.
+<:globetrotterbackpack:1123592248056102993> Ability to exchange the player's current clue scroll for a new one, of the same difficulty with the same amount of steps completed.
+<:globetrotterboots:1123592254066536478> Activate for unlimited running for a randomly selected duration.
+.
+The Globetrotter set offers valuable set effects. When wearing the full outfit, it counts as having the outfit in your hidey-holes. For instance, during the Shilo Village bank step mentioned earlier, you can use the globetrotter shorts to perform the emote, and the outfit will substitute for the splitbark helm, mud pie, and rune platebody, speeding up your clue completions.
+
+For advice on the best order to obtain the pieces, see <#1024461576314568784>
+
 #### Totem of Treasure
-(list benefit and totem reminder role)
+The [Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>) reduces both the minimum and maximum clue scroll steps by one and is crafted by combining the top, middle, and base pieces, which can be obtained from various Anachronia activities.
+
+⬥ Activation resets weekly on Wednesdays at 00:00 UTC. • Once activated, it can’t be removed or swapped.
+    • If you lose activation, reactivate it by redoing the minigame.
+    • To receive weekly notifications, select `Totem Reset Reminder` at <id:customize>
 .
 .tag:beneficial
-### __Beneficial Items__ (TODO)
+### __Beneficial Items__
 #### Meerkat Familiar
-(list benefits and cost argument)
+Clue Chasers often use a meerkat familiar for hard, elite, and master clues. The meerkat offers two main benefits:
+
+    • It extends your scanning range by 5, speeding up the process. All scanning guides here are designed with this range in mind.
+    • For a meerkat scroll, it will dig up the casket without spawning a wizard, saving time.
+    • Meerkats can now hold up to 500 scrolls, so it doesn’t even take up an inventory slot.
+
+For a visual comparison of scanning ranges with and without a meerkat, see the following images:
+https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange1.png
+https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange2.png
 .
 .tag:navinfo
 ### __Navigating Information__
