@@ -17,7 +17,7 @@ Becoming proficient with clue scrolls requires mastering several key factors, in
       },
             {
         "name": "__Additional Information__",
-        "value": "⬥ **[Link to Alt1Overview & Plugins](<https://discord.com/channels/332595657363685377/1128437423022538802>)**\n⬥ **[Link to Clue Trainer Guide](<https://discord.com/channels/332595657363685377/1240372943725531339>)**"
+        "value": "⬥ **[Link to Alt1 Overview & Plugins](<https://discord.com/channels/332595657363685377/1128437423022538802>)**\n⬥ **[Link to Clue Trainer Guide](<https://discord.com/channels/332595657363685377/1240372943725531339>)**"
       }
     ]
   }
@@ -63,8 +63,8 @@ Clue Chasers often use a meerkat familiar for hard, elite, and master clues. The
     • Meerkats can now hold up to 500 scrolls, so it doesn’t even take up an inventory slot.
 
 For a visual comparison of scanning ranges with and without a meerkat, see the following images:
-[Range w/o Meerkat](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange1.png>)
-[Range w/ Meerkat](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange2.png>)
+[Range w/o Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange1.png)
+[Range w/ Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange2.png)
 .
 .tag:navinfo
 ## __Navigating Information__
