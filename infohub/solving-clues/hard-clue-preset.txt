@@ -137,7 +137,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Magic__",
-        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:penancetrident:1215806147165032598> / <:gstaff:513203008608141314> <:eofspec:746403211908481184>",
+        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:penancetrident:1215806147165032598> / <:gstaff:513203008608141314> <:eofspec:1257438999794946099>",
         "inline": false
       },
       {
@@ -152,7 +152,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:746403211908481184> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
+        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
         "inline": false
       }
     ]
