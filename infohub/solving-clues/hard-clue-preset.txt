@@ -194,22 +194,22 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Magic__ <:magic:689504724159823906>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/EH1vcVkznJ1VSxHxVWCh)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/5RVULbFzSW7ptfdbbtFU)",
         "inline": true
       },
       {
         "name": "__Melee__ <:melee:1096130867279171706>",
-        "value": "⬥ [Preset Link](https://pvme.github.io/preset-maker/#/lvt22m6yih9xqdAc4rex)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/21l7y0gcBEa6dxyj8WAA)",
         "inline": true
       },
             {
         "name": "__Range__ <:range:580168050121113623>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/YzwUsJ4TsbtJNI9rifRW)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/U3YUoHdigGD4BFZwEJWd)",
         "inline": true
       },
       {
         "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/U3YUoHdigGD4BFZwEJWd)",
+        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/6R7W8BY3yA3HH3gNSSQK)",
         "inline": true
       }
     ]
