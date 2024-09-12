@@ -1,6 +1,5 @@
 ### **__Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>**)
 *Note: a **Table of Contents** can be found in the pins.*
-
 > ### **__Introduction__**
 .tag:intro
 .
@@ -11,17 +10,14 @@ This guide is tailored for players aiming to optimize their presets for solving 
 .                  
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
-
 .
 > ### **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1024156645267353630> or <#1024158713310892112>
-
 .
 > ### **__Optimal Requirements__**
 .tag:requirements
 For information on how to get the optimal requirements check out <#1023963587351420949>
-
 .
 > ### **__Teleport Information__**
 .tag:teleports
@@ -124,7 +120,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Tips__**",
-        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ If [Dark Facet of Luck](https://runescape.wiki/w/Dark_Facet_of_Luck) <:lotdfacet:1123596338693673020> is not owned, bring Dragon Trinkets <:trinkets:1131303172292489427> for Baxtorian Falls and use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the diseased Vine bush patch in Herblore Habitat.\n⬥ Use [Load Last Preset](https://youtu.be/eQtuc5oRnmU) at Shilo Village and Fishing Guild.\n     • Make sure you load it before doing the step.\n     • [Insert the active clues](https://youtu.be/PpeL91FBlJE) into the empty clue + puzzle slots",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ If [Dark Facet of Luck](https://runescape.wiki/w/Dark_Facet_of_Luck) <:lotdfacet:1123596338693673020> is not owned, bring Dragon Trinkets <:trinkets:1131303172292489427> for Baxtorian Falls and use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Vine Bush patch in Herblore Habitat (patch condition irrelevant—can be empty, diseased, or fully grown).\n⬥ Use [Load Last Preset](https://youtu.be/eQtuc5oRnmU) at Shilo Village and Fishing Guild.\n     • Make sure you load it before doing the step.\n     • [Insert the active clues](https://youtu.be/PpeL91FBlJE) into the empty clue + puzzle slots",
         "inline": true
       }
     ]
