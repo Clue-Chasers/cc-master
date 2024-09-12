@@ -204,7 +204,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
             {
         "name": "__Range__ <:range:580168050121113623>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/21l7y0gcBEa6dxyj8WAA)",
+        "value": "⬥ [Preset Link](https://pvme.github.io/preset-maker/#/pn0VMOQptILwquUSfFXf)",
         "inline": true
       },
       {
