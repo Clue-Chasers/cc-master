@@ -54,18 +54,18 @@
 .tag:roles
 {
   "embed": {
-  "title": "__Clue Roles Breakdown__",
-    "description":"⬥ The ranking is based on total Treasure Trail points you have accumulated on your account and is fetched directly from the hiscores.\n•  To get a **clue role** assigned to you, set your RSN by using `/setrsn rsnhere` and then use `/clues` to update your clue info in <#333343575737892864>.\n•  To simply look up your clue role or how many points you or someone else received use `/lookup rsn` command.\n• Having a clue role will also allow you to view the `broadcasted-uniques` and `achievements` channel.\n\n⬥ <@&611921938138529814> (2000 points)\n⬥ <@&611922363294023711> (4000 points)\n⬥ <@&611922906418511883> (8000 points)\n⬥ <@&611922992523509760> (16 000 points)\n⬥ <@&611923028951040011> (32 000 points)\n⬥ <@&611923063629414410> (64 000 points)\n⬥ <@&611923093505441832> (128 000 points)\n⬥ <@&611923144013381642> (256 000 points)\n⬥ <@&853970923988451378> (512 000 points)\n⬥ <@&1040964536070586378> (1 024 000 points)\n⬥ <@&534028503084040204> - Exclusive role for Top 50s on any of the clue hiscores.",
-    "color": 12745742
-   }
-}
-.embed:json
-.
-.tag:hof
-{
-  "embed": {
+    "title": "__**Server Roles**__",
+    "url": "",
+    "description": "",
+    "thumbnail": {
+      "url": "https://i.imgur.com/z8pJBTc.png"
+    },
     "color": 12745742,
     "fields": [
+      {
+        "name": "__Clue Role Breakdown__",
+        "value": "⬥ The ranking is based on total Treasure Trail points you have accumulated on your account and is fetched directly from the hiscores.\n•  To get a **clue role** assigned to you, set your RSN by using `/setrsn rsnhere` and then use `/clues` to update your clue info in <#333343575737892864>.\n•  To simply look up your clue role or how many points you or someone else received use `/lookup rsn` command.\n• Having a clue role will also allow you to view the `broadcasted-uniques` and `achievements` channel.\n\n⬥ <@&611921938138529814> (2000 points)\n⬥ <@&611922363294023711> (4000 points)\n⬥ <@&611922906418511883> (8000 points)\n⬥ <@&611922992523509760> (16 000 points)\n⬥ <@&611923028951040011> (32 000 points)\n⬥ <@&611923063629414410> (64 000 points)\n⬥ <@&611923093505441832> (128 000 points)\n⬥ <@&611923144013381642> (256 000 points)\n⬥ <@&853970923988451378> (512 000 points)\n⬥ <@&1040964536070586378> (1 024 000 points)\n⬥ <@&534028503084040204> - Exclusive role for Top 50s on any of the clue hiscores."
+      },
       {
         "name": "__HoF Roles Breakdown__",
         "value": "⬥ There are currently thirteen obtainable roles by completing the in-game collection logs.\n • These roles are assigned upon submission in <#765478301581574164> and periodically added to <#581552255581290506>."
@@ -87,42 +87,63 @@
 }
 .embed:json
 .
-.tag:assign
-{
-  "embed": {
-  "title": "__Assignable Roles__",
-    "description":"⬥ There are various self-assignable roles in the discord that can be opt-in or opted-out at any given time.\n  • These specific roles are meant for their dedicated pings whicn can be found at <id:customize>.\n ⬥ You also have the option to control visibility of certain channels by selecting or deselecting them to create a more personalized experience at <id:browse>.",
-    "color": 12745742
-   }
-}
-.embed:json
-.
 .tag:booster
 {
   "embed": {
-  "title": "__Nitro Booster Role__",
-    "description":"⬥ If you'd like to support the Discord server with your Nitro Boost, you'll gain access to the `booster-icons` channel, where you can request an optional custom role.\n• This gives you the freedom to choose a unique name and icon, as long as they follow our community rules.",
-    "color": 15418782
-   }
-}
-.embed:json
-.
-.tag:directory
-{
-  "embed": {
-  "title": "__Channel Directory__",
-    "description":"__**General Channels**__\n[Server Information](https://discord.com/channels/332595657363685377/1283185616514977914) -  Welcome, rules, hall-of-fame and affiliates.\n[Announcements](https://discord.com/channels/332595657363685377/1283185186321989642) - Announcements, clue-news, jagex-media, polls, reminders.\n[Information Hub](https://discord.com/channels/332595657363685377/1283185262968574022) - Index for all the information hub channels.\n[Clue Trainer](https://discord.com/channels/332595657363685377/1283185519403991080) - News and discussion channel for the Clue Trainer app.\n[Clue Assistance](https://discord.com/channels/332595657363685377/1283185435132297258) - Ask advice or questions relating to Clue Scrolls.\n[Command Channels](https://discord.com/channels/332595657363685377/1283186025468006440) - Update your clue role or check out some commands.\n[Social Channels](https://discord.com/channels/332595657363685377/1283185719233347657)\n[Off Topic Channels](https://discord.com/channels/332595657363685377/1283185825642844233)\n[Voice Channels](https://discord.com/channels/332595657363685377/1283186083433025642)\n[Infohub Source](https://discord.com/channels/332595657363685377/1283185358619541595)\n[Public Archives](https://discord.com/channels/332595657363685377/1283185903355039846)\n\n__**Guide Channels**__\n[Intro to Clues](https://discord.com/channels/332595657363685377/1023169789381849098) - Offers introductory clue scroll topics.\n[Getting Started](https://discord.com/channels/332595657363685377/1120257028762378310) - Useful information for getting into Clue Scrolls.\n[Gathering Clues](https://discord.com/channels/332595657363685377/1023016130077532300) - Methods and presets for gathering Clue Scrolls.\n[Solving Clues](https://discord.com/channels/332595657363685377/1023016354145648741) - Methods and presets for solving Clue Scrolls.\n[Faq and Misc](https://discord.com/channels/332595657363685377/1023016455429685389) - Frequently asked questions and miscellaneous.\n[Suggestions ](https://discord.com/channels/332595657363685377/1060257606217773057) - Used to provide server feedback.",
-    "color": 3447003
-   }
-}
-.embed:json
-.
-{
-  "embed": {
-    "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Server Rules]($linkmsg_rules$)\n⬥ [Clue Roles Breakdown]($linkmsg_roles$)\n⬥ [HoF Roles Breakdown]($linkmsg_hof$)\n⬥ [Assignable Roles]($linkmsg_assign$)\n⬥ [Nitro Booster Role]($linkmsg_booster$)\n⬥ [Channel Directory]($linkmsg_directory$)",
-    "color": 3447003
+    "title": "",
+    "url": "",
+    "description": "",
+    "thumbnail": {
+      "url": "https://i.imgur.com/yLwthor.png"
+    },
+    "color": 15418782,
+    "fields": [
+      {
+        "name": "__Nitro Booster Role__",
+        "value": "If you'd like to support the Discord server with your Nitro Boost, you'll gain access to the `booster-icons` channel, where you can request an optional custom role.\n• This gives you the freedom to choose a unique name and icon, as long as they follow our community rules."
+      }
+    ]
   }
 }
 .embed:json
-.pin:delete
+.
+.tag:customize
+{
+  "embed": {
+    "title": "__Channel Directory__",
+    "url": "",
+    "description": "__**General Channels**__\n[Server Information](https://discord.com/channels/332595657363685377/1283185616514977914) -  Welcome, rules, hall-of-fame and affiliates.\n[Announcements](https://discord.com/channels/332595657363685377/1283185186321989642) - Announcements, clue-news, jagex-media, polls, reminders.\n[Information Hub](https://discord.com/channels/332595657363685377/1283185262968574022) - Index for all the information hub channels.\n[Clue Trainer](https://discord.com/channels/332595657363685377/1283185519403991080) - News and discussion channel for the Clue Trainer app.\n[Clue Assistance](https://discord.com/channels/332595657363685377/1283185435132297258) - Ask advice or questions relating to Clue Scrolls.\n[Command Channels](https://discord.com/channels/332595657363685377/1283186025468006440) - Update your clue role or check out some commands.\n[Social Channels](https://discord.com/channels/332595657363685377/1283185719233347657)\n[Off Topic Channels](https://discord.com/channels/332595657363685377/1283185825642844233)\n[Voice Channels](https://discord.com/channels/332595657363685377/1283186083433025642)\n[Infohub Source](https://discord.com/channels/332595657363685377/1283185358619541595)\n[Public Archives](https://discord.com/channels/332595657363685377/1283185903355039846)\n\n__**Guide Channels**__\n[Intro to Clues](https://discord.com/channels/332595657363685377/1023169789381849098) - Offers introductory clue scroll topics.\n[Getting Started](https://discord.com/channels/332595657363685377/1120257028762378310) - Useful information for getting into Clue Scrolls.\n[Gathering Clues](https://discord.com/channels/332595657363685377/1023016130077532300) - Methods and presets for gathering Clue Scrolls.\n[Solving Clues](https://discord.com/channels/332595657363685377/1023016354145648741) - Methods and presets for solving Clue Scrolls.\n[Faq and Misc](https://discord.com/channels/332595657363685377/1023016455429685389) - Frequently asked questions and miscellaneous.\n[Suggestions ](https://discord.com/channels/332595657363685377/1060257606217773057) - Used to provide server feedback.",
+    "thumbnail": {
+      "url": "https://i.imgur.com/z8pJBTc.png"
+    },
+    "color": 3447003,
+    "fields": [
+      {
+        "name": "__Assignable Roles__",
+        "value": "⬥ There are various self-assignable roles in the discord that can be opt-in or opted-out at any given time.\n  • These specific roles are meant for their dedicated pings whicn can be found at <id:customize>.\n ⬥ You also have the option to control visibility of certain channels by selecting or deselecting them to create a more personalized experience at <id:browse>."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:contact
+{
+  "embed": {
+    "title": "__Contacting Server Staff__",
+    "url": "",
+    "description": "",
+    "thumbnail": {
+      "url": ""
+    },
+    "color": 3447003,
+    "fields": [
+      {
+        "name": "Below, you’ll find a button to create a private modmail ticket with the <@&336568187552530434> team.",
+        "value": "__What can modmail be used for?__\n ⬥ Reporting incidents that breach RuneScape, Clue Chasers, or discord guidelines with sufficient evidence and user IDs\n     • Enable Discord Developer Mode to copy these from profiles. **[See here](<https://www.youtube.com/watch?v=mc3cV57m3mM>)** for more details.\n\n ⬥ Requesting to add RSNs to specific sheets, such as the daily clue completion sheet.\n\n__What can’t modmail be used for?__\n ⬥ Submitting unban appeals on behalf of others.\n ⬥ Submitting tickets to spam or harass staff.\n ⬥ Creating tickets for casual conversations without a clear purpose."
+      }
+    ]
+  }
+}
+.embed:json
+.
