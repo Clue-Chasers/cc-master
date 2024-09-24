@@ -1,7 +1,7 @@
 .tag:intro
 ## Clue Chasers Voice and Events
 Welcome to the Voice Events FAQ! Here, you’ll find an overview of our voice and event channels, along with guidelines and roles. We’re dedicated to creating an enjoyable experience for everyone, so please take a moment to familiarize yourself with this information. We hope you have a great time, both in voice and during the events! <:ACLOO:1107839063857315991>
-**Permanent Invite Link: https://discord.com/invite/cluechasers**
+**Permanent Invite Link: <https://discord.com/invite/cluechasers>**
 **Follow us on Twitter for Event Updates: [@ClueChasersRS](<https://x.com/ClueChasersRS>)**
 .
 .tag:guidelines
@@ -76,11 +76,11 @@ Welcome to the Voice Events FAQ! Here, you’ll find an overview of our voice an
 .embed:json
 .
 .tag:information
-## Set your calendar for the [Upcoming Event](https://discord.com/events/332595657363685377/1264382808835620925)!
+## Set your calendar for the [Upcoming Event](<https://discord.com/events/332595657363685377/1264382808835620925>)!
 .
 ## Follow details on the next [Event Sheet](https://docs.google.com/spreadsheets/d/1tskClfkjWrocNAZmpUtAWhi4v0HefT2epUTU29-M_Wk/edit?gid=0#gid=0)!
 .
-## Friends Chat: [Clue Chasers](<https://i.imgur.com/RvkDivQ.png>)!
+## Friends Chat: [Clue Chasers](https://i.imgur.com/RvkDivQ.png)!
 .
 {
   "embed": {
