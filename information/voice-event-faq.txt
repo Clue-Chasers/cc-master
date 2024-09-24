@@ -1,1 +1,93 @@
-
+.tag:intro
+## Clue Chasers Voice and Events
+Welcome to the Voice Events FAQ! Here, you’ll find an overview of our voice and event channels, along with guidelines and roles. We’re dedicated to creating an enjoyable experience for everyone, so please take a moment to familiarize yourself with this information. We hope you have a great time, both in voice and during the events! <:ACLOO:1107839063857315991>
+**Permanent Invite Link: https://discord.com/invite/cluechasers**
+**Follow us on Twitter for Event Updates: [@ClueChasersRS](<https://x.com/ClueChasersRS>)**
+.
+.tag:guidelines
+{
+  "embed": {
+    "title": "**__Event & Voice Channel Guidelines__**",
+    "url": "",
+    "description": "Members participating in voice channels are expected to abide by the same rules as those in text channels (check ⁠<#1283170720599248938>), as well as specific voice channel guidelines.",
+    "color": 10038562,
+    "fields": [
+      {
+        "name": "__Voice Channel Guidelines__",
+        "value": "__**Voice Conduct:**__\nMute yourself or use push-to-talk if there’s background noise. Mic spamming, fighting trolling, or being visibly intoxicated will result in a removal.\n\n__**Screen Sharing Conduct:**__\nEnsure everything you share is PG13 appropriate and that you have permission. If you’re streaming on Twitch or YouTube, inform everyone in voice chat that you’re live and get their consent if their voices are included."
+      },
+      {
+        "name": "**__Event Guidelines__**",
+        "value": "⬥ We’ve successfully hosted these mass events so far, and we’re eager to keep that momentum going. While it’s natural for some friction to arise between groups, we encourage everyone to resolve disagreements privately rather than bringing them into the spotlight during our events.\n\n⬥ Our events are open to anyone, and it’s wonderful to see so many people enjoying themselves and connecting from various backgrounds, creating an amazing atmosphere.\n\n⬥We want to ensure that no individual or community feels excluded or overwhelmed by larger ones, as that goes against the spirit of our events. If you notice anything during the event that makes you uncomfortable, please don’t hesitate to **[reach out to us](<https://discord.com/channels/332595657363685377/1283170720599248938>)**.\n\n⬥ We’re committed to addressing any concerns with the relevant parties, as we strongly believe in the power of open communication."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:directory
+{
+  "embed": {
+    "title": "__**Event & Voice Channel Information**__",
+    "url": "",
+    "description": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Voice Channel Directory__:",
+        "value": "⬥ [voice-chat](https://discord.com/channels/332595657363685377/1087829269687836702) -  Accessible to people with the voice-role.\n⬥ [e-daters](https://discord.com/channels/332595657363685377/1256542239891525733) -  Private channel for two people.\n⬥ [join-to-create](https://discord.com/channels/332595657363685377/1137371820299911308) -  Generates a public voice channel upon joining.\n⬥ [corner-of-shame](https://discord.com/channels/332595657363685377/332631526208569364) -  AFK channel for inactive users."
+      },
+      {
+        "name": "__Event Channel Directory__",
+        "value": "⬥ [event-voice-faq](https://discord.com/channels/332595657363685377/1287097750638559242) -  Information and guidelines for voice-chats and events.\n⬥ [event-announcements](https://discord.com/channels/332595657363685377/1190434031637110824) - Restricted to streamers and clan owners for coordinating event updates and notifications about upcoming events.\n⬥ [event-collaboration](https://discord.com/channels/332595657363685377/1190064004094242817) -  Restricted to streamers and clan owners for coordinating event collaborations.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your casket stacks for upcoming clue mass openings.\n⬥ [mystery-channel](https://discord.com/channels/332595657363685377/1287164867567947807) -  Details coming soon. <:PauseChamp:955401543602040842>\n⬥ [oyster-competition](https://discord.com/channels/332595657363685377/424345150248976384) - A monthly competition by Elba to obtain the closest oyster value of the month."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:collab
+{
+  "embed": {
+    "title": "__Assignable Roles__",
+    "url": "",
+    "description": "",
+    "color": 5763719,
+    "fields": [
+          {
+        "name": "__Voice Chat Role__ 🎙️",
+        "value": "⬥ If you’ve read and agree to the guidelines above, please click the reaction below to receive the voice chat role, granting you access to the voice channels."
+      },
+      {
+        "name": "__Event Announcement Role__ ❗",
+        "value": "⬥ You can opt-in or out of event announcements at any time, giving you full control over the notifications you receive."
+      },
+      {
+        "name": "__Streamer Role__ 🎞️",
+        "value": "⬥ This role is for streamers who want to join and broadcast during our mass openings. If you’re interested in participating, we’d be thrilled to have you with us! Click the reaction below to receive the role."
+      },
+      {
+        "name": "__Clan Owner Role__ 👑",
+        "value": "⬥ This role is for leaders of clans who wish to join with their teams during our mass openings. If you’re a clan leader looking to participate, we’d be thrilled to have you with us! Click the reaction below to receive the role."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:information
+## Set your calendar for the [Upcoming Event](https://discord.com/events/332595657363685377/1264382808835620925)!
+.
+## Follow details on the next [Event Sheet](https://docs.google.com/spreadsheets/d/1tskClfkjWrocNAZmpUtAWhi4v0HefT2epUTU29-M_Wk/edit?gid=0#gid=0)!
+.
+## Friends Chat: [Clue Chasers](<https://i.imgur.com/RvkDivQ.png>)!
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Channel Guidelines]($linkmsg_guidelines$)\n⬥ [Channel Directories]($linkmsg_directory$)\n⬥ [Assignable Roles]($linkmsg_collab$)\n⬥ [Event and Sheet]($linkmsg_information$)",
+    "color": 3447003
+  }
+}
+.embed:json
+.pin:delete
