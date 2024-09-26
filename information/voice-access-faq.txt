@@ -1,1 +1,69 @@
+.tag:intro
+## Welcome to the Voice Access FAQ!
+We’re glad you’re here! This section provides an overview of our voice channels, guidelines, and roles to ensure a smooth and enjoyable for all voice chat enjoyers. We encourage you to take a moment to familiarize yourself with this information before grabbing the role.
+.
+.tag:guidelines
+{
+  "embed": {
+    "title": "__Voice Channel Guidelines__",
+    "url": "",
+    "description": "Members participating in voice channels are expected to abide by the same rules as those in text channels (check ⁠<#1283170720599248938>), as well as specific voice channel guidelines.",
+    "color": 10038562,
+    "fields": [
+      {
+        "name": "__**Voice Chat Conduct**__",
+        "value": "Mute yourself or use push-to-talk if there’s background noise. Mic spamming, fighting trolling, or being visibly intoxicated will result in a removal."
+      },
+      {
+        "name": "__**Screen Sharing Conduct**__",
+        "value": "Ensure everything you share is PG13 appropriate and that you have permission. If you’re streaming on Twitch or YouTube, inform everyone in voice chat that you’re live and get their consent if their voices are included."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:directory
+{
+  "embed": {
+    "title": "",
+    "url": "",
+    "description": "",
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Voice Channel Directory__:",
+        "value": "⬥ [voice-chat](https://discord.com/channels/332595657363685377/1087829269687836702) -  Accessible to people with the voice-role.\n⬥ [e-daters](https://discord.com/channels/332595657363685377/1256542239891525733) -  Private channel for two people.\n⬥ [join-to-create](https://discord.com/channels/332595657363685377/1137371820299911308) -  Generates a public voice channel upon joining.\n⬥ [corner-of-shame](https://discord.com/channels/332595657363685377/332631526208569364) -  AFK channel for inactive users."
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:roles
+{
+  "embed": {
+    "title": "__Assignable Roles__",
+    "url": "",
+    "description": "",
+    "color": 5763719,
+    "fields": [
+          {
+        "name": "__Voice Chat Role__ 🎙️",
+        "value": "⬥ If you’ve read and agree to the guidelines above, please click the reaction below to receive the voice chat role, granting you access to the voice channels."
+      }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Voice Guidelines]($linkmsg_guidelines$)\n⬥ [Voice Directory]($linkmsg_directory$)\n⬥ [Voice Chat Role]($linkmsg_roles$)",
+    "color": 3447003
+  }
+}
+.embed:json
+.pin:delete
 
