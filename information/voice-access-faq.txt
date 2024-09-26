@@ -56,7 +56,4 @@ We’re glad you’re here! This section provides an overview of our voice chann
   }
 }
 .embed:json
-.
-.embed:json
 .pin:delete
-
