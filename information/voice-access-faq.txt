@@ -57,13 +57,6 @@ We’re glad you’re here! This section provides an overview of our voice chann
 }
 .embed:json
 .
-{
-  "embed": {
-    "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Voice Guidelines]($linkmsg_guidelines$)\n⬥ [Voice Directory]($linkmsg_directory$)\n⬥ [Voice Chat Role]($linkmsg_roles$)",
-    "color": 3447003
-  }
-}
 .embed:json
 .pin:delete
 
