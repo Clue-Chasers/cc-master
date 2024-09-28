@@ -100,7 +100,7 @@
     "fields": [
       {
         "name": "__Nitro Booster Role__",
-        "value": "If you'd like to support the Discord server with your Nitro Boost, you'll gain access to the `booster-icons` channel, where you can request an optional custom role.\n• This gives you the freedom to choose a unique name and icon, as long as they follow our community rules."
+        "value": "If you'd like to support the Discord server with a Nitro Boost, you'll unlock the ability to post polls in <#332595657363685377> and gain access to the `boosters` channel. In this exclusive channel, you can request an optional custom role, giving you the freedom to choose a unique name and icon, as long as they comply with our community guidelines."
       }
     ]
   }
