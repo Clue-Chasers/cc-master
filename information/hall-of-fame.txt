@@ -214,7 +214,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
         "inline": true
       },
       {
-        "name": "__25 Category w/skips__",
+        "name": "__25 Category no skips__",
         "value": "⬥ 0:59:49 - [so idiotic](https://www.youtube.com/watch?v=_UOkwy_C3JY)",
         "inline": false
       },
