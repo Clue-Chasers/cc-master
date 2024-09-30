@@ -228,12 +228,11 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
   }
 }
 .embed:json
-
 .
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "__Golden Title Leaderboard__\n⬥ [Hall of Fame Sheet]($linkmsg_hof$)\n⬥ [Golden Double Agents]($linkmsg_gda$)\n⬥ [Golden Clue Chasers]($linkmsg_gcc$)\n⬥ [Golden Master of Clues]($linkmsg_gmoc$)\n\n**__Solving Time Leaderboard__**\n⬥ [Easy Clue Runs]($linkmsg_easies$)\n⬥ [Medium Clue Runs]($linkmsg_meds$)\n⬥ [Hard Clue Runs]($linkmsg_hards$)\n⬥ [Elite Clue Runs]($linkmsg_elites$)\n⬥ [Master Clue Runs]($linkmsg_masters$)",
+    "description": "**__Golden Title Leaderboard__**\n⬥ [Hall of Fame Sheet]($linkmsg_hof$)\n⬥ [Golden Double Agents]($linkmsg_gda$)\n⬥ [Golden Clue Chasers]($linkmsg_gcc$)\n⬥ [Golden Master of Clues]($linkmsg_gmoc$)\n\n**__Solving Time Leaderboard__**\n⬥ [Easy Clue Runs]($linkmsg_easies$)\n⬥ [Medium Clue Runs]($linkmsg_meds$)\n⬥ [Hard Clue Runs]($linkmsg_hards$)\n⬥ [Elite Clue Runs]($linkmsg_elites$)\n⬥ [Master Clue Runs]($linkmsg_masters$)",
     "color": 12745742
   }
 }
