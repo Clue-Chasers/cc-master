@@ -1,5 +1,5 @@
 # **Welcome to the <#581552255581290506>**
-.tag:intro
+.tag:hof
 The Hall of Fame started as a discord leaderboard, but as clue scrolls gained popularity, the volume of data increased. Now, all this information is tracked in a comprehensive Google Sheet, covering golden clue titles, treasure trail points, broadcast stats, and more. For full details, check the sheet linked below.
 ## **[Link to Hall of Fame sheet](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)**
 
