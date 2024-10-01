@@ -135,7 +135,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)\n⬥ 0:55:56 - [xaj](https://www.youtube.com)\n⬥ 0:57:01 - [jeroenk110](https://www.youtube.com)",
+        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)\n⬥ 0:55:56 - [xaj](https://www.twitch.tv/videos/1733153377)\n⬥ 0:57:01 - [jeroenk110](https://www.youtube.com)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
@@ -184,7 +184,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)\n⬥ 1:03:50 - [September](https://www.twitch.tv/videos/1114972429?t=0h0m1s)\n⬥ 1:17:52 - [GanB](https://www.twitch.tv/videos/1247962613?t=0h0m1s)\n⬥ 1:22:00 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=712)",
+        "value": "⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)\n⬥ 1:03:15 - [xaj](https://www.twitch.tv/videos/2264929442)\n⬥ 1:03:50 - [September](https://www.twitch.tv/videos/1114972429?t=0h0m1s)\n⬥ 1:17:52 - [GanB](https://www.twitch.tv/videos/1247962613?t=0h0m1s)\n⬥ 1:22:00 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=712)",
         "inline": true
       },
       {
