@@ -135,7 +135,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)\n⬥ 0:55:56 - [xaj](https://www.twitch.tv/videos/1733153377)\n⬥ 0:57:01 - [jeroenk110](https://www.youtube.com)",
+        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)\n⬥ 0:55:56 - [xaj](https://www.twitch.tv/videos/1733153377)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
@@ -144,7 +144,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)\n⬥ 0:25:45 - [Golden Globe](https://www.youtube.com/watch?v=dn2ipQXKDV0&t=2s)\n⬥ 0:29:21 - [Alek](https://www.youtube.com/watch?v=FLvx1kir9rs&t=3s)\n⬥ 0:30:25 - [Maikeru](https://drive.google.com/file/d/1nQS4odtSZ5AKIAnw2y3Y4zWPAcrlmY1B/view)",
+        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)\n⬥ 0:25:45 - [Golden Globe](https://www.youtube.com/watch?v=dn2ipQXKDV0&t=2s)\n⬥ 0:29:21 - [Alek](https://www.youtube.com/watch?v=FLvx1kir9rs&t=3s)",
         "inline": false
       },
             {
