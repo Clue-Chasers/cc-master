@@ -184,7 +184,7 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)\n⬥ 1:03:15 - [xaj](https://www.twitch.tv/videos/2264929442)\n⬥ 1:03:50 - [September](https://www.twitch.tv/videos/1114972429?t=0h0m1s)\n⬥ 1:17:52 - [GanB](https://www.twitch.tv/videos/1247962613?t=0h0m1s)\n⬥ 1:22:00 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=712)",
+        "value": "⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)\n⬥ 1:03:15 - [xaj](https://www.youtube.com/watch?v=hl9goei_X00)\n⬥ 1:03:50 - [September](https://www.twitch.tv/videos/1114972429?t=0h0m1s)\n⬥ 1:17:52 - [GanB](https://www.twitch.tv/videos/1247962613?t=0h0m1s)\n⬥ 1:22:00 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=712)",
         "inline": true
       },
       {
@@ -205,12 +205,12 @@ We also track clue-solving times across various tiers, with dedicated leaderboar
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:15:23 - [Phyzzix4PF](https://www.youtube.com/watch?v=ZdFEq64sF8o&t=177s)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)\n⬥ 1:23:40 - [Dudey xD](https://www.twitch.tv/videos/1445400698?t=0h0m1s)\n⬥ 1:24:18 - [L33](https://www.youtube.com/watch?v=UpbAwOTe7h4)",
+        "value": "⬥ 1:07:23 - [Phyzzix4PF](https://youtu.be/s_wh3ID-YBQ?si=WT4dTnWNSrXEgRCU)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)\n⬥ 1:23:40 - [Dudey xD](https://www.twitch.tv/videos/1445400698?t=0h0m1s)\n⬥ 1:24:18 - [L33](https://www.youtube.com/watch?v=UpbAwOTe7h4)",
         "inline": true
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:35:34 - [Phyzzix4PF](https://www.youtube.com/watch?v=ZdFEq64sF8o&t=11s)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)\n⬥ 0:40:06 - [L33](https://youtu.be/UpbAwOTe7h4?t=1746)",
+        "value": "⬥ 0:32:46 - [Phyzzix4PF](https://www.youtube.com/watch?v=dbRkZssx-N8)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)\n⬥ 0:40:06 - [L33](https://youtu.be/UpbAwOTe7h4?t=1746)",
         "inline": true
       },
       {
