@@ -63,7 +63,7 @@ While official Alt1 support is not offered for these operating systems, there's 
 **Important Notes** - Both in-game time stamps and the app above use your local machine time. For most people it's off from RuneScape's internal server time by +/- 2 seconds.
 ⬥ The few seconds can be corrected like this:
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/image5.png
-⬥ For more information on Bik: <#1022589092262842508>
+⬥ For more information on Bik: <#1292468831171776532>
 .
 ### > __**OpenLogger**__ - `alt1://addapp/https://redx1000.github.io/OpenLogger/appconfig.json`
 .tag:openlogger
