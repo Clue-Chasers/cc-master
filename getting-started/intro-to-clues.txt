@@ -1,0 +1,83 @@
+.tag:intro
+## __Introduction__
+.
+In RuneScape there are many distinct archetypes. Clue Scrolls, what began years ago as a simple Distraction and Diversion has since evolved into a niche yet active playstyle for many players. Although the content may initially seem daunting and overwhelming, our community is dedicated to making it more approachable and less intimidating.
+.
+.tag:essentials
+## __Key Tips & Essentials__
+Becoming proficient with clue scrolls requires mastering several key factors, including knowing where to go and how to navigate efficiently. This is especially challenging for beginners due to the hundreds of locations and steps across various tiers. That's where the Alt1Toolkit comes in. This third-party program helps by providing an overlay on your screen, showing you exactly what to do and greatly reducing the need to memorize locations and routes. For more information, be sure to check out the links below.
+.
+{
+  "embed": {
+    "color": 12745742,
+    "fields": [
+      {
+        "name": "__Installation Links__",
+        "value": "⬥ **[Link to Alt1Toolkit](<https://runeapps.org/alt1>)**\n⬥ **[Link to Clue Trainer](https://cluetrainer.app>)**"
+      },
+            {
+        "name": "__Additional Information__",
+        "value": "⬥ **[Link to Alt1 Overview & Plugins](<https://discord.com/channels/332595657363685377/1128437423022538802>)**\n⬥ **[Link to Clue Trainer Guide](<https://discord.com/channels/332595657363685377/1240372943725531339>)**"
+      }
+    ]
+  }
+}
+.embed:json
+.
+.tag:perma
+## __Permanent Unlocks__
+### Hidey holes
+Easy, medium, hard, and master clues often include [emote clues](<https://runescape.wiki/w/Treasure_Trails/Guide/Emotes>), which require you to equip specific items in certain locations and perform an emote. Hidey-holes are storage units that can be used to keep these items for emote steps. Before using them, hidey-holes must be built and are typically located near relevant sites.
+
+For example, in a hard clue step, the Shilo Village bank offers a site to build a hidey-hole. You can use this hidey-hole to store items like the splitbark helm, mud pie, and rune platebody. This way, when you encounter this clue step again, you can retrieve the items from the hidey-hole rather than fetching them from your bank.
+
+For a complete overview of hidey-holes and their contents: **[Link to RSWiki Hidey-holes](<https://runescape.wiki/w/Hidey-holes>)**
+### Globetrotter Outfit
+When you completing clue scrolls, you earn [Treasure Trail Points](<https://runescape.wiki/w/Treasure_Trail_Points>). These points can be used to purchase for items and unlocks at [Zaida’s Treasure Trail Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>), situated just south of the Grand Exchange. Among the notable items Zaida offers are the globetrotter outfit pieces, each providing significant benefits:
+
+.
+<:globetrotterjacket:1123592261175889971> Ability to teleport directly to the clue scroll location.
+<:globetrotterlegs:1123592257556205638> Activate to automatically perform the correct emote for emote clue. (contrary to using emotes from the emote tab, shorts can be used while in combat)
+<:globetrottergloves:1123592252036493344> Ability store teleport scrolls and use those stored teleport scrolls from the arm guards.
+<:globetrotterbackpack:1123592248056102993> Ability to exchange the player's current clue scroll for a new one, of the same difficulty with the same amount of steps completed.
+<:globetrotterboots:1123592254066536478> Activate for unlimited running for a randomly selected duration.
+.
+The Globetrotter set offers valuable set effects. When wearing the full outfit, it counts as having the outfit in your hidey-holes. For instance, during the Shilo Village bank step mentioned earlier, you can use the globetrotter shorts to perform the emote, and the outfit will substitute for the splitbark helm, mud pie, and rune platebody, speeding up your clue completions.
+
+For advice on the best order to obtain the pieces, see <#1024461576314568784>
+
+### Totem of Treasure
+The [Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>) reduces both the minimum and maximum clue scroll steps by one and is crafted by combining the top, middle, and base pieces, which can be obtained from various Anachronia activities.
+
+⬥ Activation resets weekly on Wednesdays at 00:00 UTC. • Once activated, it can’t be removed or swapped.
+    • If you lose activation, reactivate it by redoing the minigame.
+    • To receive weekly notifications, select `Totem Reset Reminder` at <id:customize>
+.
+.tag:beneficial
+## __Beneficial Items__
+### Meerkat Familiar
+Clue Chasers often use a meerkat familiar for hard, elite, and master clues. The meerkat offers two main benefits:
+
+    • It extends your scanning range by 5, speeding up the process. All scanning guides here are designed with this range in mind.
+    • For a meerkat scroll, it will dig up the casket without spawning a wizard, saving time.
+    • Meerkats can now hold up to 500 scrolls, so it doesn’t even take up an inventory slot.
+
+For a visual comparison of scanning ranges with and without a meerkat, see the following images:
+[Range w/o Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange1.png)
+[Range w/ Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange2.png)
+.
+.tag:navinfo
+## __Navigating Information__
+The Information Hub centralizes and organizes information through three channels: <#1023016130077532300>, <#1023016354145648741>, and <#1023016455429685389>. Use these channels to navigate directly to the forums you need.
+
+For example, to find the solving preset for hard clues, go to the <#1023016354145648741> channel and click the link to the forum post. Each post also includes a link back to the index pages for easy navigation. This system helps keep information centralized and easily accessible.
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Key Tips & Essentials]($linkmsg_essentials$)\n⬥ [Permanent Unlocks]($linkmsg_perma$)\n⬥ [Beneficial Items]($linkmsg_beneficial$)\n⬥ [Navigating Information]($linkmsg_navinfo$)",
+    "color": 3447003
+  }
+}
+.embed:json
+.pin:delete
