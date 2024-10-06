@@ -1,0 +1,5 @@
+Assuming you have totem of treasure <:totemoftreasure:1124764867237269665> active, each clue contains on average:
+
+<:Hard:633728361918758930> 0.55 x Puzzle boxes
+<:Elite:633732493228638209> 1.625 x Puzzle boxes & 1.625 x Celtic knots
+<:Master:1019920500807450666> 0.85 x Towers puzzles & 0.85 x Lockboxes
