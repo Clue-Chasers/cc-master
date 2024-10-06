@@ -1,0 +1,42 @@
+How bladed dive algorithm works:
+
+Draw the smallest rectangle that includes you and your target tile with maximum width and length of 11 tiles. You will evaluate tiles 1 at a time. Each search has 3 possible directions, each with a fixed order.
+
+They are:
+1. Move towards the target tile diagonally. Only if diagonal walk is permitted.
+(E.g. in an attempt to move 1 tile north-east, you actually move 1 tile east, then north due to a wall = doesn't count.)
+2. Move towards the target tile on X-axis.
+3. Move towards the target tile on Y-axis.
+
+As soon as a viable direction is found, move to the tile. Start the search again from the top of the list. If you end up on the selected tile, bladed dive destination is granted. If all 3 checks fail at any point before target tile, you will receive error message: "You can't dive through something you can't walk through!"
+
+When you ask to move beyond 11 tiles, you will not get the error message. The ability is always used and you are placed as far as the algorithm can take. Including no actual movement; you may be moved to a tile you are already at.
+To easily see where blocked tiles and walls exist, use Mej's map with "Areas (inverted)" turned on: https://mejrs.github.io/?layer=Areas+%28inverted%29
+
+Notes:
+1. It will be 99% accurate however depending on what you have or haven't done in the game, there can be some divergence. E.g. a cabbage counts as a blocking tile because you haven't finished a quest. After the quest, the cabbage is removed and the tile is now accessible.
+2. The map assumes doors are at their natural state. Most typical doors "move a wall to a different location", which will affect the algorithm. Diagonal doors can move entire blocking tile to a different location.
+3. It shows the map without NPCs. Some NPCs also block tiles.
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement1.png
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement2.png
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement3.png
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement4.png
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement5.png
+.
+If you want to play the game with a pen and paper, here are some samples. See if you get the same result.
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement6.png
+Assuming you are heading towards the same direction, surge will stop at the same tile as clicking bladed dive beyond its maximum range.
+Example: surge will place you on the same tile as bladed dive in picture 4.
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement7.png
+Assuming you want to go diagonal, It will check from 10, 9, 8 etc until first acceptable tile is found.
+.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement8.png
+This image from PVME discord is also useful for seeing which "out of range" clicks counts towards NE/NW/SE/SW, which towards N/S/E/W.
+.
