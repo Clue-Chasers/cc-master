@@ -12,4 +12,4 @@ When the ring shines to double a casket, the player will receive a pop-up chatbo
 __Additional teleport to the Dwarven Outpost, only when the player is using the equipment.__
 The effects of the enchantment are permanently applied to the player once used.
 
-.img:https://cdn.discordapp.com/attachments/1125898662262886461/1151265970237735112/image.png
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/facet.png
