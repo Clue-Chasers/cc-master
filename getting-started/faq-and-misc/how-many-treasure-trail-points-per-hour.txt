@@ -1,1 +1,6 @@
+At peak efficiency these are the points per hour you can expect currently.
+To input your own values head to this sheet (edit the part above it with profit per hour):
+https://docs.google.com/spreadsheets/d/1j8tt-yjZ77Mlecfc6-D6F42_QuEeiJviVknggyHoXnc/edit#gid=0
+(only edit the darker cells)
 
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/points.png
