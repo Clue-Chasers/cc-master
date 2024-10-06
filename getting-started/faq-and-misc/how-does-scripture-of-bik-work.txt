@@ -1,0 +1,48 @@
+**__How the Scripture of Bik Works__**
+**TLDR: Basically, the book procs on most actions, even in combat, and you can get one proc per server minute. Bik can only proc on the first eligible action of the server minute.**
+
+The Scripture of Bik procs on most skilling and combat activities in the game.
+
+When doing an activity it is able to proc once every server minute (between XX:XX:00 and XX:XX:59 on the server clock). The distinction of server minute is important as your chat box in game shows the client side clock which may be ahead or behind of, the server clock. The proc can only occur on the first experience gain of the server minute if you are performing an activity that can activate the book.
+
+What this means is, as long as you're doing an activity that can proc a catalyst spawn, if you do it at least once per minute, you will get the maximum catalysts per hour. This has been thoroughly tested and proven in this video where a vial was disassembled once per minute and the normal amount of catalysts were received (https://www.youtube.com/watch?v=rA5raKQJ01U). This also means if you are doing an activity that cannot proc the book, if you disassemble an item once per minute, you can get catalysts at a normal rate.
+
+In the past, bonecrusher prevented the scripture from activating in that server minute if it was actively burying bones. This used to be the only thing that prevented procs but more recently we've seen reports of it working regardless. If you notice anything that seems to be preventing procs while doing an activity that would normally give procs, notify us.
+.
+**List of Items that __WON'T__ proc the book**
+- Training Dummies
+- Creating player-owned ports items (armours, scrimshaws, soups)
+- Chopping Miniature Evil Trees (from Nature's sentinel outfit)
+- Silverhawk Boots
+- Repairing Croesus statues (you can disassemble while repairing the statue)
+- Divine Locations
+- Grinding Mud runes
+- Making Porters
+- Creating summoning pouch scrolls
+.
+**List of Items that __WILL__ proc the book** - *Only items that are frequently asked about will be listed. If training any non-combat skill or killing any enemy, it is safe to assume the book will proc unless otherwise noted (Notify a staff if there's another frequently asked about activity and we will add it)*
+- Disassembling
+- Desert Phoenix Thieving
+- Junk Refining
+- Skilling activities on The Arc
+- Skilling with Proteans
+- Teleporting with use of runes and **not** the Abyssal Link relic
+- Magic Imbue
+- Transmuting items
+- Abyssal Creatures
+- Shadow Creatures
+- Glacytes
+- Hellhounds
+- Necromancy Rituals
+- Double Agents
+- Creating summoning pouches
+
+If you go multiple hours without a proc doing anything not included in these lists, inform us about it so it can be added to the list.
+
+If you plan on doing activities that themselves don't grant any procs, you can add any noted stack of items (preferably cheap) to disassemble. One item per minute will suffice, because (as mentioned before) only the first activity can spawn a catalyst.
+.
+Some chance based skills can proc Bik without actually giving any XP drops. When training woodcutting and fishing, you roll for the resource every 4 ticks (2.4s). For example, when you are fishing for sailfish, you have a chance to catch a sailfish every 4 ticks. Failed rolls can proc Bik. Pickpocketing is another example. Smithing masterwork can also trigger Bik, even if it doesn't provide XP drops every minute.
+
+Please note that the clock you see in the client can be a few seconds ahead or behind the server clock. This can cause you to miss a new server minute if you thought you activated the book during a new minute while the old server minute was still running. The discrepancy between server time and your in game click can be solved like this in a few seconds:
+
+# Additional information about the Scripture of Bik can be found **[here](<https://docs.google.com/spreadsheets/d/1oe1W7PrSUuLdpmK66fpD6ab3ruLQKdlQWDw-SELXWKk/edit#gid=1425348308>)**
