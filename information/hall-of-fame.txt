@@ -40,12 +40,12 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
     "fields": [
       {
         "name": "__the Clue Chaser__ <:Elitecasket:690876744382545950>",
-        "value": "⬥ [asdasd](https://discord.com/channels/332595657363685377/374280345966608384/778293830196920331)\n⬥ [Uni Sushi](https://discord.com/channels/332595657363685377/765478301581574164/834191612606677033)\n⬥ [Bojio](https://discord.com/channels/332595657363685377/374280345966608384/903354934915903518)\n⬥ [eXo eviL](https://discord.com/channels/332595657363685377/374280345966608384/949696456435060776)\n⬥ [Wisely Done](https://discord.com/channels/332595657363685377/374280345966608384/991429557737508895)\n⬥ [Paw](https://discord.com/channels/332595657363685377/374280345966608384/1007696666729644082)\n⬥ [smurfatte](https://discord.com/channels/332595657363685377/374280345966608384/1014881404049432718)\n⬥ [GanB](https://discord.com/channels/332595657363685377/374280345966608384/1038910794420731924)\n⬥ [Deftness](https://discord.com/channels/332595657363685377/374280345966608384/1096424207778336869)",
+        "value": "⬥ [asdasd](https://discord.com/channels/332595657363685377/374280345966608384/778293830196920331)\n⬥ [Uni Sushi](https://discord.com/channels/332595657363685377/765478301581574164/834191612606677033)\n⬥ [Bojio](https://discord.com/channels/332595657363685377/374280345966608384/903354934915903518)\n⬥ [eXo eviL](https://discord.com/channels/332595657363685377/374280345966608384/949696456435060776)\n⬥ [Wisely Done](https://discord.com/channels/332595657363685377/374280345966608384/991429557737508895)\n⬥ [Paw](https://discord.com/channels/332595657363685377/374280345966608384/1007696666729644082)\n⬥ [smurfatte](https://discord.com/channels/332595657363685377/374280345966608384/1014881404049432718)\n⬥ [GanB](https://discord.com/channels/332595657363685377/374280345966608384/1038910794420731924)\n⬥ [Deftness](https://discord.com/channels/332595657363685377/374280345966608384/1096424207778336869)\n⬥ [Hellmouth13](https://discord.com/channels/332595657363685377/374280345966608384/1108794847122427985)",
         "inline": true
       },
       {
         "name": "\u200b",
-        "value": "⬥ [Hellmouth13](https://discord.com/channels/332595657363685377/374280345966608384/1108794847122427985)\n⬥ [zJoe](https://discord.com/channels/332595657363685377/374280345966608384/1113100392927072296)\n⬥ [Phyzzix4PF](https://discord.com/channels/332595657363685377/374280345966608384/1115732418280820796)\n⬥ [LovveL](https://discord.com/channels/332595657363685377/374280345966608384/1141112643499864124)\n⬥ [Hartu PL](https://discord.com/channels/332595657363685377/374280345966608384/1151571902024929381)\n⬥ [Ninjah Kate](https://discord.com/channels/332595657363685377/374280345966608384/1214869723523715132)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1237556247734124565)\n⬥ [xWannes](https://discord.com/channels/332595657363685377/374280345966608384/1260042279209402398)\n⬥ [The T1g3r](https://discord.com/channels/332595657363685377/374280345966608384/1267140234445983845)",
+        "value": "⬥ [zJoe](https://discord.com/channels/332595657363685377/374280345966608384/1113100392927072296)\n⬥ [Phyzzix4PF](https://discord.com/channels/332595657363685377/374280345966608384/1115732418280820796)\n⬥ [LovveL](https://discord.com/channels/332595657363685377/374280345966608384/1141112643499864124)\n⬥ [Hartu PL](https://discord.com/channels/332595657363685377/374280345966608384/1151571902024929381)\n⬥ [Ninjah Kate](https://discord.com/channels/332595657363685377/374280345966608384/1214869723523715132)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1237556247734124565)\n⬥ [xWannes](https://discord.com/channels/332595657363685377/374280345966608384/1260042279209402398)\n⬥ [The T1g3r](https://discord.com/channels/332595657363685377/374280345966608384/1267140234445983845)\n⬥ [0rland0Smith](https://discord.com/channels/332595657363685377/374280345966608384/1297359324317880431)",
         "inline": true
       }
     ]
@@ -74,6 +74,8 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 }
 .embed:json
 We also track clue-solving times across various tiers, with dedicated leaderboards for each type of clue (e.g. easy, medium, hard, elite and master clue times). These leaderboards showcase the top solvers and their fastest completion times, allowing you to compete for the top spot and see how you stack up against the community!
+
+For future updates to the leaderboard, feel free to post any eligible entry in <⁠#1183111377955602603> and tag a <@&1283334339995893833>.
 .
 .tag:easies
 {
