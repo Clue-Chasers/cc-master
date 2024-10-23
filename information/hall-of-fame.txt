@@ -185,7 +185,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=4mFHcmqrb0M)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
+        "value": "⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
