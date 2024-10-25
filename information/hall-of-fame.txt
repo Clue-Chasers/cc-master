@@ -134,7 +134,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:21 - [Sully5](https://www.youtube.com/watch?v=huHUnPvkIg0)\n⬥ 0:00:22 - [Ecruteak](https://www.youtube.com/watch?v=vbkw5kpAA2Q)\n⬥ 0:00:24 - [Foox](https://www.youtube.com/watch?v=FxRHI3eXYaw)\n⬥ 0:00:27 - [Brandonn RS](https://www.youtube.com/watch?v=dY8YHU0eVb4)",
+        "value": "⬥ 0:00:21 - [Sully5](https://www.youtube.com/watch?v=huHUnPvkIg0)\n⬥ 0:00:22 - [Ecruteak](https://www.youtube.com/watch?v=vbkw5kpAA2Q)\n⬥ 0:00:22 - [suky nuty](https://www.youtube.com/watch?v=WSFvKu_K1pg)\n⬥ 0:00:24 - [Foox](https://www.youtube.com/watch?v=FxRHI3eXYaw)\n⬥ 0:00:27 - [Brandonn RS](https://www.youtube.com/watch?v=dY8YHU0eVb4)",
         "inline": false
       }
     ]
