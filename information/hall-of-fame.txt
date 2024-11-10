@@ -24,7 +24,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
             {
         "name": "\u200b",
-        "value": "⬥ [Tcf99](https://discord.com/channels/332595657363685377/374280345966608384/1198669020539396177)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1200856537900535911)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1206394726950113320)\n⬥ [Poptart](https://discord.com/channels/332595657363685377/374280345966608384/1207479308667588699)\n⬥ [Cahooots](https://discord.com/channels/332595657363685377/374280345966608384/1213581998388678736)\n⬥ [Uther](https://discord.com/channels/332595657363685377/374280345966608384/1214033681002401873)\n⬥ [Zowkii](https://discord.com/channels/332595657363685377/374280345966608384/1259867359011930175) <:Ironman:1100965836396703826>\n⬥ [furyslayer](https://discord.com/channels/332595657363685377/374280345966608384/1300247332410888312)",
+        "value": "⬥ [Tcf99](https://discord.com/channels/332595657363685377/374280345966608384/1198669020539396177)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1200856537900535911)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1206394726950113320)\n⬥ [Poptart](https://discord.com/channels/332595657363685377/374280345966608384/1207479308667588699)\n⬥ [Cahooots](https://discord.com/channels/332595657363685377/374280345966608384/1213581998388678736)\n⬥ [Uther](https://discord.com/channels/332595657363685377/374280345966608384/1214033681002401873)\n⬥ [Zowkii](https://discord.com/channels/332595657363685377/374280345966608384/1259867359011930175) <:Ironman:1100965836396703826>\n⬥ [furyslayer](https://discord.com/channels/332595657363685377/374280345966608384/1300247332410888312)\n⬥ [W X L](https://discord.com/channels/332595657363685377/374280345966608384/1303511255226781696)\n⬥ Spinodragon",
         "inline": true
       }
     ]
@@ -108,7 +108,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [P U P](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)",
+        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [P U P](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)\n⬥ 0:00:11 - [Zatox](https://www.youtube.com/watch?v=VulFWuUSN6g)",
         "inline": false
       }
     ]
