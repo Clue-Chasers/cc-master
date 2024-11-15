@@ -154,7 +154,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:59:09 - [P U P](https://youtu.be/6BjSDzT2sTs?t=32)\n⬥ 0:59:57 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 1:02:35 - [1Brett](https://www.youtube.com/watch?v=UvXOHL22dME)\n⬥ 1:08:46 - [ikea](https://www.youtube.com/watch?v=prDXyVkdC2U)\n⬥ 1:09:33 - [Paly](https://www.twitch.tv/videos/1445854660?t=0h8m51s)",
+        "value": "⬥ 0:59:09 - [P U P](https://youtu.be/6BjSDzT2sTs?t=32)\n⬥ 0:59:57 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 1:02:35 - [1Brett](https://www.youtube.com/watch?v=UvXOHL22dME)\n⬥ 1:08:46 - [ikia](https://www.youtube.com/watch?v=prDXyVkdC2U)\n⬥ 1:09:33 - [Paly](https://www.twitch.tv/videos/1445854660?t=0h8m51s)",
         "inline": true
       },
       {
