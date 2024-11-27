@@ -1,47 +1,47 @@
 **Discord FAQ**
-[Welcome Rules](<#1283170720599248938>)
+<#1283170720599248938>
 
 **Clue Scroll FAQ**
-[Which teleports should I have in Passage of the Abyss?](<#1022566907645263892>)
-[What is the best order to get the Globetrotter pieces in?](<#1024461576314568784>)
-[What are the fortunate component rates of clues?](<#1022577507033169980>)
-[What's the average value of each clue casket?](<#1022580128020172810>)
-[How many puzzles are there in each clue tier on average?](<#1022581015258071110>)
-[Which clue tier should I solve to maximize the number of master clues obtained per hour?](<#1022584947980116138>)
-[How does Scripture of Bik work?](<#1022589092262842508>)
-[Why am I not getting any clues?](<#1022630885209677931>)
-[What's soft cap?](<#1024690532682829905>)
-[What's the chance I get x type of clue step? (E.g. emote, scan, compass etc.)](<#1024690151605141587>)
-[Why am I unable to obtain prismatic stars for my clue collection log?](<#1022940030202806342>)
-[How to obtain secondary ingredients for alchemical jewellery?](<#1022944438248542258>)
-[How do movement abilities work?](<#1023033271107473458>)
-[What should I spend my treasure trail points on?](<#1036330221495910541>)
-[Are skipping tickets worth using?](<#1023613462854779030>)
-[What's the average number of clues per hour from Scripture of Bik?](<#1022587718506643516>)
-[What patches are available to bind my Amulet of Nature to?](<#1128455408894353418>)
-[How do pings/pulses work?](<#1072176239323926630>)
-[Dark Facet of Luck](<#1073281107769962569>)
-[Profit per hour](<#1089561352269484133>)
-[Treasure Trail Points per hour](<#1089570205216288889>)
-[What is my profit from using Scripture of Bik?](<#1177303487017652244>)
-[How is casket loot determined?](<#1232666236895367221>)
-[Simulation Analysis](<#1232653933176950865>)
-.
+<#1022566907645263892>
+<#1024461576314568784>
+<#1022577507033169980>
+<#1022580128020172810>
+<#1022581015258071110>
+<#1022584947980116138>
+<#1022589092262842508>
+<#1022630885209677931>
+<#1024690532682829905>
+<#1024690151605141587>
+<#1022940030202806342>
+<#1022944438248542258>
+<#1023033271107473458>
+<#1036330221495910541>
+<#1023613462854779030>
+<#1022587718506643516>
+<#1128455408894353418>
+<#1072176239323926630>
+<#1073281107769962569>
+<#1089561352269484133>
+<#1089570205216288889>
+<#1177303487017652244>
+<#1232666236895367221>
+<#1232653933176950865>
+
 **Alt1**
-[Alt1 Overview & Plugins](<#1128437423022538802>)
-.
+<#1128437423022538802>
+
 **Useful Links**
-[Archive Clue Records](<#1071487786244378715>)
-[Mikal's Clue Simulator](<#1022626154970107984>)
-[Treasure Trail point calculator](<#1022626307760214046>)
-[Daily Clue Completions](<#1177344853798035627>)
-[Clue Requirements Optimizer](<#1022627852023238666>)
-[Interactive RuneScape maps](<#1022632784478621746>)
-[Calculate an estimated amount of clues for log completion](<#1024689628806135898>)
-[Fortunate Price Calculator](<#1065255782846836756>)
-[Clue broadcasts template](<#1177335707967164466>)
-[Desired Clue Updates](<#1067525693304483970>)
-[Clue Broadcast Rates](<#1232705982006562947>)
+<#1071487786244378715>
+<#1022626154970107984>
+<#1022626307760214046>
+<#1177344853798035627>
+<#1022627852023238666>
+<#1022632784478621746>
+<#1024689628806135898>
+<#1065255782846836756>
+<#1177335707967164466>
+<#1067525693304483970>
+<#1232705982006562947>
 
 **Trivia**
-[Questions you did not ask](<#1024063449556320347>)
+<#1024063449556320347>
