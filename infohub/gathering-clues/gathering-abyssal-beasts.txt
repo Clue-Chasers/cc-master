@@ -42,7 +42,7 @@ If Necromancy:
     "fields": [
       {
         "name": "__Presets__",
-        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/JWW4yRPaPJFnHbpjGXr6)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/VR1fAogOcUJPlefzbXrf)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/EWpMNB1BZ3chEswW2uVU)",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/OGeB7VBpNCdlHBnZnylr)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/VR1fAogOcUJPlefzbXrf)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/EWpMNB1BZ3chEswW2uVU)",
         "inline": true
       }
     ]
