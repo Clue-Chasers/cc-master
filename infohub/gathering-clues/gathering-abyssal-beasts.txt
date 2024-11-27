@@ -55,8 +55,7 @@ If Necromancy:
 .tag:bar
 ⬥ Note:
     • The kills per hour is using best in slot and having the max levels in the relevant style
-    • All methods used <:reaverpouch:839903693837959228> Reaver, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
-    • If you use <:reaverpouch:839903693837959228> Reaver with <:necromancy:1148995625896120460> Necromancy do not use <:darkness:1137809209782698024> Darkness alongside it.
+    • All methods used <:kalgpouch:921410226484301925> <:kalgscroll:841409588954923049> Kal'gerion Demon with scrolls, <:elderovl:841419289831800882> Elder Overloads and <:aggressionpotion:925794592199147581> Aggression Potions.
 **Magic 700+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/abyssalbeastsbar.png
 **Melee 645+ kph**
