@@ -26,10 +26,10 @@
 [What is my profit from using Scripture of Bik?](<#1177303487017652244>)
 [How is casket loot determined?](<#1232666236895367221>)
 [Simulation Analysis](<#1232653933176950865>)
-
+.
 **Alt1**
 [Alt1 Overview & Plugins](<#1128437423022538802>)
-
+.
 **Useful Links**
 [Archive Clue Records](<#1071487786244378715>)
 [Mikal's Clue Simulator](<#1022626154970107984>)
