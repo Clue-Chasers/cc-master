@@ -124,12 +124,12 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category__",
-        "value": "⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)\n⬥ 0:45:05 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)\n⬥ 0:54:39 - [Mathy](https://www.youtube.com/watch?v=C2JQUxq42rk)\n⬥ 0:59:07 - [Vorthion](https://www.youtube.com/watch?v=R8r0AOGnwiE)",
+        "value": "⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)\n⬥ 0:45:05 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)\n⬥ 0:54:39 - [Mathy](https://www.youtube.com/watch?v=C2JQUxq42rk)",
         "inline": true
       },
       {
         "name": "__25 Category__",
-        "value": "⬥ 0:20:23 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h16m32s)\n⬥ 0:21:38 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)",
+        "value": "⬥ 0:19:12 - [Ecruteak](https://www.youtube.com/watch?v=hZ12T0a6Yfg)\n⬥ 0:20:23 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h16m32s)\n⬥ 0:21:38 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)",
         "inline": true
       },
       {
