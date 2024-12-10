@@ -154,7 +154,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:59:09 - [P U P](https://youtu.be/6BjSDzT2sTs?t=32)\n⬥ 0:59:57 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 1:02:35 - [1Brett](https://www.youtube.com/watch?v=UvXOHL22dME)\n⬥ 1:08:46 - [ikia](https://www.youtube.com/watch?v=prDXyVkdC2U)\n⬥ 1:09:33 - [Paly](https://www.twitch.tv/videos/1445854660?t=0h8m51s)",
+        "value": "⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:59:09 - [P U P](https://youtu.be/6BjSDzT2sTs?t=32)\n⬥ 0:59:57 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 1:02:35 - [1Brett](https://www.youtube.com/watch?v=UvXOHL22dME)\n⬥ 1:08:46 - [ikia](https://www.youtube.com/watch?v=prDXyVkdC2U)",
         "inline": true
       },
       {
@@ -164,7 +164,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:27:37 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 0:35:14 - [Warhead42](https://youtu.be/trA5BCXOZqM?t=14)\n⬥ 0:35:21 - [Sully5](https://www.twitch.tv/videos/912099457?t=0h37m20s)\n⬥ 0:38:59 - [Californ1a](https://youtu.be/6KGhCqWc6cs?t=51)",
+        "value": "⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:27:37 - [xaj](https://www.youtube.com/watch?v=r2KLUx9E0RA)\n⬥ 0:35:14 - [Warhead42](https://youtu.be/trA5BCXOZqM?t=14)\n⬥ 0:35:21 - [Sully5](https://www.twitch.tv/videos/912099457?t=0h37m20s)",
         "inline": true
       },
       {
