@@ -134,7 +134,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Optimisation Tips__**",
-        "value": "⬥ Keybind [Aventures](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset1.png) tab, this allows you to go to the Minigames tab then teleport to Lodestones in combat.\n     • Favourite Big Chinchompa (Eagles' Peak) and Meg (Port Sarim)\n⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly",
+        "value": "⬥ Keybind [Adventures](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset1.png) tab, this allows you to go to the Minigames tab then teleport to Lodestones in combat.\n     • Favourite Big Chinchompa (Eagles' Peak) and Meg (Port Sarim)\n⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly",
         "inline": true
       },
       {
