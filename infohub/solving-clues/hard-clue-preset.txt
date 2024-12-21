@@ -105,8 +105,8 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "color": 2067276,
     "fields": [
       {
-        "name": "__Notes__",
-        "value": "⬥ Be on Lunar Spellbook if using Melee, Ranged or Necromancy.\n⬥ Be on Ancient Spellbook if using Magic for Ice Barrage.\n    ⬩ Reason being, you need a spell to autocast and cannot sbs <:sbs:543875425055670275> on regular spellbook.\n⬥ Have runes available for spellbook swapping, spiritual healing and ice barrage.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsLunar:1127633074520346724> <:spiritualhealing:1091050892142325780>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:bloodrune:1128732003601236129> <:waterrune:536252660165115905> → <:icebarrage:537340400185245701>",
+        "name": "__Spellbook__",
+        "value": "⬥ Be on Lunar Spellbook if using Melee, Ranged or Necromancy.\n⬥ Be on Ancient Spellbook if using Magic for Ice Barrage.\n    ⬩ Reason being, you need a spell to autocast and cannot sbs <:sbs:543875425055670275> on regular spellbook.\n⬥ If maging have runes available for spellbook swapping, spiritual healing and ice barrage.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsLunar:1127633074520346724> <:spiritualhealing:1091050892142325780>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:bloodrune:1128732003601236129> <:waterrune:536252660165115905> → <:icebarrage:537340400185245701>",
         "inline": true
       }
     ]
@@ -116,16 +116,36 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 2067276,
+    "color": 67276,
     "fields": [
       {
-        "name": "**__Tips__**",
+        "name": "**__General Tips__**",
         "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ If [Dark Facet of Luck](https://runescape.wiki/w/Dark_Facet_of_Luck) <:lotdfacet:1123596338693673020> is not owned, bring Dragon Trinkets <:trinkets:1131303172292489427> for Baxtorian Falls and use powerburst <:accelpb:1128031529063428116> from Fishing Guild → Dwarven Outpost.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Vine Bush patch in Herblore Habitat (patch condition irrelevant—can be empty, diseased, or fully grown).\n⬥ Use [Load Last Preset](https://youtu.be/eQtuc5oRnmU) at Shilo Village and Fishing Guild.\n     • Make sure you load it before doing the step.\n     • [Insert the active clues](https://youtu.be/PpeL91FBlJE) into the empty clue + puzzle slots",
         "inline": true
       }
     ]
   }
 }
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 67276,
+    "fields": [
+      {
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ Keybind [Aventures](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset1.png) tab, this allows you to go to the Minigames tab then teleport to Lodestones in combat.\n     • Favourite Big Chinchompa (Eagles' Peak) and Meg (Port Sarim)\n⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly",
+        "inline": true
+      },
+      {
+        "name": "**__Extended__**",
+        "value": "⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246>, <:slayercape:975284344123953164> + <:gote:900765150678749204> teleports\n⬥ You can pre-meerkat special attack to be slightly faster, as it takes a bit to go off and it will use your location when it goes off not when you activated it",
+        "inline": false
+      }
+    ]
+  }
+}
+
 .embed:json
 .
 > ### **__Rotations | Presets__**
@@ -154,34 +174,6 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
         "name": "__Necromancy__ ",
         "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
         "inline": false
-      }
-    ]
-  }
-}
-.embed:json
-{
-  "embed": {
-    "title": "",
-    "color": 67276,
-    "fields": [
-      {
-        "name": "**__Preset Notes and Alterations__**",
-        "value": "⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Scrim <:elementsscrim:841409588959510539> or wear Passage <:potared:1123597976208674888> and take an extra niche item such as Inactive Spirit Tree re-rooter <:spirittreererooter:1123597953303584799>, Weapon Poison <:weppoison:689525476158472288>\n⬥ If you don't own Sceptre of the Gods <:sotg:1097869036840300644> make sure you take noted gold items to recharge your sceptre\n⬥ Overloads <:elderovl:841419289831800882> are no longer necessary for Magic <:magic:689504724159823906> and Range <:range:580168050121113623>",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-{
-  "embed": {
-    "title": "",
-    "color": 6726,
-    "fields": [
-      {
-        "name": "**__Not using skips / overloads?__**",
-        "value": "These are items you can take in place of skips:\n⬥ Spirit Tree Re-rooter <:spirittreererooter:1123597953303584799>\n⬥ More Acceleration potions <:accel:756236265472524418>\n⬥ Grand Seed Pod\n⬥ Spirit Attraction Potions",
-        "inline": true
       }
     ]
   }
