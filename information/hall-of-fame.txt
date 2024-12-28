@@ -24,7 +24,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
             {
         "name": "\u200b",
-        "value": "⬥ [Tcf99](https://discord.com/channels/332595657363685377/374280345966608384/1198669020539396177)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1200856537900535911)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1206394726950113320)\n⬥ [Poptart](https://discord.com/channels/332595657363685377/374280345966608384/1207479308667588699)\n⬥ [Cahooots](https://discord.com/channels/332595657363685377/374280345966608384/1213581998388678736)\n⬥ [Uther](https://discord.com/channels/332595657363685377/374280345966608384/1214033681002401873)\n⬥ [Zowkii](https://discord.com/channels/332595657363685377/374280345966608384/1259867359011930175) <:Ironman:1100965836396703826>\n⬥ [furyslayer](https://discord.com/channels/332595657363685377/374280345966608384/1300247332410888312)\n⬥ [W X L](https://discord.com/channels/332595657363685377/374280345966608384/1303511255226781696)\n⬥ Spinodragon",
+        "value": "⬥ [Tcf99](https://discord.com/channels/332595657363685377/374280345966608384/1198669020539396177)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1200856537900535911)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1206394726950113320)\n⬥ [Poptart](https://discord.com/channels/332595657363685377/374280345966608384/1207479308667588699)\n⬥ [Cahooots](https://discord.com/channels/332595657363685377/374280345966608384/1213581998388678736)\n⬥ [Uther](https://discord.com/channels/332595657363685377/374280345966608384/1214033681002401873)\n⬥ [Zowkii](https://discord.com/channels/332595657363685377/374280345966608384/1259867359011930175) <:Ironman:1100965836396703826>\n⬥ [furyslayer](https://discord.com/channels/332595657363685377/374280345966608384/1300247332410888312)\n⬥ [W X L](https://discord.com/channels/332595657363685377/374280345966608384/1303511255226781696)\n⬥ [Spinodragon](https://discord.com/channels/332595657363685377/374280345966608384/1322148275343593502)",
         "inline": true
       }
     ]
@@ -155,7 +155,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)\n⬥ 0:55:56 - [xaj](https://www.twitch.tv/videos/1733153377)",
+        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
@@ -164,7 +164,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)\n⬥ 0:25:45 - [Golden Globe](https://www.youtube.com/watch?v=dn2ipQXKDV0&t=2s)\n⬥ 0:29:21 - [Alek](https://www.youtube.com/watch?v=FLvx1kir9rs&t=3s)",
+        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)\n⬥ 0:25:45 - [Golden Globe](https://www.youtube.com/watch?v=dn2ipQXKDV0&t=2s)",
         "inline": false
       },
             {
@@ -174,7 +174,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:21 - [Dudey xD](https://www.twitch.tv/videos/958358350?t=0h0m1s)\n⬥ 0:00:28 - [GanB](https://youtu.be/kT04Toc_GGM)",
+        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:21 - [Dudey xD](https://www.twitch.tv/videos/958358350?t=0h0m1s)\n⬥ 0:00:28 - [GanB](https://youtu.be/kT04Toc_GGM)",
         "inline": true
       }
     ]
