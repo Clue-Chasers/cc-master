@@ -192,7 +192,8 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "name": "__50 Category w/skips__",
         "value": "⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
         "inline": true
-      },         {
+      },
+      {
         "name": "__50 Category no skips__",
         "value": "⬥ 1:30:04 - [Fcohdz](https://www.youtube.com/live/P8GIe1jGK9k)\n⬥ 1:33:31 - [Jere](https://www.twitch.tv/videos/2346690546)\n⬥ 1:43:32 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 1:45:57 - [Fiery001](https://www.twitch.tv/videos/1529425306?t=0h0m1s)\n⬥ 2:54:08 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=193)",
         "inline": true
@@ -229,19 +230,24 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },
       {
-        "name": "__25 Category w/skips__",
-        "value": "⬥ 0:32:46 - [Phyzzix4PF](https://www.youtube.com/watch?v=dbRkZssx-N8)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)\n⬥ 0:40:06 - [L33](https://youtu.be/UpbAwOTe7h4?t=1746)",
+        "name": "__50 Category no skips__",
+        "value": "⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)",
         "inline": true
       },
       {
-        "name": "__25 Category no skips__",
-        "value": "⬥ 0:59:49 - [so idiotic](https://www.youtube.com/watch?v=_UOkwy_C3JY)",
+        "name": "__25 Category w/skips__",
+        "value": "⬥ 0:32:46 - [Phyzzix4PF](https://www.youtube.com/watch?v=dbRkZssx-N8)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)\n⬥ 0:40:06 - [L33](https://youtu.be/UpbAwOTe7h4?t=1746)",
         "inline": false
+      },
+      {
+        "name": "__25 Category no skips__",
+        "value": "⬥ 0:47:46 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 0:59:49 - [so idiotic](https://www.youtube.com/watch?v=_UOkwy_C3JY)",
+        "inline": true
       },
       {
         "name": "__1 Category__",
         "value": "⬥ 0:00:30 - [zJoe](https://www.youtube.com/watch?v=7wjl4Qgh3t4)\n⬥ 0:00:37 - [Phyzzix4PF](https://www.youtube.com/watch?v=TukqO5KhzXw)\n⬥ 0:00:40 - [Golden Globe](https://clips.twitch.tv/EnchantingRelatedScorpionWholeWheat-bdB4Ik8kNbg8Unkx)",
-        "inline": false
+        "inline": true
       }
       ]
   }
