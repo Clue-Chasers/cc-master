@@ -47,6 +47,11 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
         "name": "\u200b",
         "value": "⬥ [zJoe](https://discord.com/channels/332595657363685377/374280345966608384/1113100392927072296)\n⬥ [Phyzzix4PF](https://discord.com/channels/332595657363685377/374280345966608384/1115732418280820796)\n⬥ [LovveL](https://discord.com/channels/332595657363685377/374280345966608384/1141112643499864124)\n⬥ [Hartu PL](https://discord.com/channels/332595657363685377/374280345966608384/1151571902024929381)\n⬥ [Ninjah Kate](https://discord.com/channels/332595657363685377/374280345966608384/1214869723523715132)\n⬥ [le me](https://discord.com/channels/332595657363685377/374280345966608384/1237556247734124565)\n⬥ [xWannes](https://discord.com/channels/332595657363685377/374280345966608384/1260042279209402398)\n⬥ [The T1g3r](https://discord.com/channels/332595657363685377/374280345966608384/1267140234445983845)\n⬥ [0rland0Smith](https://discord.com/channels/332595657363685377/374280345966608384/1297359324317880431)\n⬥ [A3rch M1ner](https://discord.com/channels/332595657363685377/374280345966608384/1320844593339695176)",
         "inline": true
+      },
+      {
+        "name": "\u200b",
+        "value": "⬥ [TripleDylan](https://discord.com/channels/332595657363685377/374280345966608384/1327768832818810885)",
+        "inline": true
       }
     ]
   }
@@ -79,6 +84,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 }
 .embed:json
 .
+# **Clue Records Information & Rules**
 .tag:info
 We also track clue-solving times across various tiers, with dedicated leaderboards for each type of clue (e.g. easy, medium, hard, elite and master clue times). These leaderboards showcase the top solvers and their fastest completion times, allowing you to compete for the top spot and see how you stack up against the community!
 
