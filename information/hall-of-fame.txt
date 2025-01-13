@@ -206,7 +206,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__50 Category no skips__",
-        "value": "⬥ 1:30:04 - [Fcohdz](https://www.youtube.com/live/P8GIe1jGK9k)\n⬥ 1:33:31 - [Jere](https://www.twitch.tv/videos/2346690546)\n⬥ 1:43:32 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 1:45:57 - [Fiery001](https://www.twitch.tv/videos/1529425306?t=0h0m1s)\n⬥ 2:54:08 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=193)",
+        "value": "⬥ 1:30:04 - [Fcohdz](https://www.youtube.com/live/P8GIe1jGK9k)\n⬥ 1:31:23 - [Jere](https://www.youtube.com/watch?v=cKz56AW9QHQ)\n⬥ 1:43:32 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 1:45:57 - [Fiery001](https://www.twitch.tv/videos/1529425306?t=0h0m1s)\n⬥ 2:54:08 - [Robin HSR](https://youtu.be/UnQVohLw-3w?t=193)",
         "inline": true
       },
       {
@@ -216,7 +216,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:43:29 - [Fcohdz](https://www.youtube.com/live/P8GIe1jGK9k)\n⬥ 0:44:05 - [Jere](https://www.youtube.com/watch?v=X_h5kDvsbNI)\n⬥ 0:49:40 - [snowy alan](https://www.youtube.com/watch?v=ynVqE7W62fs)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)",
+        "value": "⬥ 0:42:28 - [Jere](https://www.youtube.com/watch?v=cKz56AW9QHQ)\n⬥ 0:43:29 - [Fcohdz](https://www.youtube.com/live/P8GIe1jGK9k)\n⬥ 0:49:40 - [snowy alan](https://www.youtube.com/watch?v=ynVqE7W62fs)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 0:52:02 - [Fiery001](https://www.twitch.tv/videos/1577578662)",
         "inline": true
       },
       {
