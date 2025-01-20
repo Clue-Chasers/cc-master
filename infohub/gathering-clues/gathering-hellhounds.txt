@@ -1,0 +1,64 @@
+**__Hellhounds - Hard Gathering__ (courtesy of <@145884917627224065>)**
+> **Introduction**
+.tag:intro
+Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have the second highest master clue scroll <:Master:1019920500807450666> per clue at 1/64 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 57/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
+
+Hellhounds are good for gathering hard clues <:Hard:633728361918758930>.
+.
+> **Requirements**
+.tag:reqs
+⬥ <:dungeoneering:1003947795541143632> 55 Dungeoneering
+
+> **Useful Items and Unlocks**
+.tag:useful
+⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
+⬥ <:gchain:1257440278512537740> Greater Chain
+⬥ <:gsunshine:994644352871714836> Greater Sunshine
+⬥ <:magmatempest:902209626509025290> Magma Tempest
+⬥ <:cannon:869283142350041098> Dwarven Siege Engine fully upgraded
+
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and your best damage boosting prayer on at all times.
+⬥ You will need to place your cannon in a specific spot as well as stand in a specific spot for this to be optimal
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhound%20map.png
+
+.tag:positionpreset
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset__",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/bKoOT3qjrc2ohGXmG0Hd)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+
+.
+**Action Bar**
+.tag:bar
+⬥ Note:
+    • You can opt to use <:elderovl:841419289831800882> Overloads.
+**Magic 2400+ kph**
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhound%20bar.png
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
+.
