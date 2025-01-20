@@ -1,8 +1,10 @@
-A soft cap is a type of limit placed on a quantity of something in RuneScape. Unlike a hard cap, which places an unavoidable limit on the quantity, soft caps allow players to go over defined limits, but with extra restrictions placed on the excess. The restriction placed varies based on the applied soft cap.
+A soft cap in RuneScape is a limit on the quantity of an item that can be obtained, but unlike a hard cap—which strictly prevents exceeding the limit—a soft cap allows players to surpass it under certain conditions. The restrictions on exceeding a soft cap vary depending on the specific mechanic.
 
-Clue scrolls: there is a soft cap of 25 (50 with the clue capacity upgrade) clues per clue difficulty, except for sealed master clue scrolls, which have no cap. However, players can receive over 25 clues of a certain difficulty if that clue scroll is received from a guaranteed source, such as the treasure chest decoration guaranteeing a sealed elite clue scroll each time it is opened. Additionally, the Prosper perk allows players to obtain clue scrolls above the cap, and clue scrolls obtained from harvesting a Sacred yak bypass the cap.
+For example, clue scrolls have a soft cap of 25, except for sealed master clue scrolls, which have no limit. This cap is entirely removed upon purchasing the clue capacity upgrade for 750 points in the Treasure Trails Reward Shop.
 
-__Ways to bypass soft cap:__
+However, even without this upgrade, players can still obtain more than 25 clue scrolls of a specific difficulty (easy, medium, hard, or elite) if acquired from guaranteed sources, such as the treasure chest decoration, which grants a sealed elite clue scroll with each use.
+
+For additional ways to bypass the soft cap without purchasing the upgrade:
 
     • Prosper Perk
     • Fire Spirits
