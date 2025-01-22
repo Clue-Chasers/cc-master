@@ -17,7 +17,6 @@ All styles:
 If Magic:
 ⬥ <:gchain:1257440278512537740> Greater Chain
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine
-⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave
 ⬥ <:magmatempest:902209626509025290> Magma Tempest
 ⬥ <:incitefear:856635090783567902> Incite Fear
 If Melee:
