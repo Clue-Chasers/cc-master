@@ -2,7 +2,7 @@
   "embed": {
     "title": "__Scripture of Bik__ <:scriptureofbik:892342109791735848>",
 		"url":"https://runescape.wiki/w/Scripture_of_Bik",
-    "description": "⬥ Bik is effective with most skilling and combat activities in the game.\n⬥ The proc occurs only on the first roll of the server minute.\n⬥ As of 26 March 2024, the scripture's tooltip was adjusted to reflect it's effect. This change however was not listed in the patch notes.\n\nFor a detailed sheet, **[click here](<https://docs.google.com/spreadsheets/d/1oe1W7PrSUuLdpmK66fpD6ab3ruLQKdlQWDw-SELXWKk/edit#gid=1425348308>)**.\n For in-depth information, **[click here](<https://discord.com/channels/332595657363685377/1022589092262842508>)**.",
+    "description": "⬥ Bik is effective with most skilling and combat activities in the game.\n⬥ The proc occurs only on the first roll of the server minute.\n⬥ As of 26 March 2024, the scripture's tooltip was adjusted to reflect it's effect. This change however was not listed in the patch notes.\n\nFor a detailed guide on what can and can't trigger Bik and crowdsourced data, **[click here](<https://discord.com/channels/332595657363685377/1022589092262842508>)**.\nFor insights on whether the Scripture of Bik is worth using, **[click here](<https://docs.google.com/spreadsheets/d/10itcbGsoqwYlhBZKY_SXX9_WtAXn0c7TSSHwaRs6zp8/edit?gid=0#gid=0>)**.",
     "color": 12745742,
     "fields": []
   }
