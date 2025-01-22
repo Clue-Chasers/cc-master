@@ -1,8 +1,8 @@
-Make sure you haven't unticked any of the options in: Settings - > **Gameplay -> Item Drops -> Clue scrolls**
-https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/dropsettings.png
-
-1) Have you purchased the Clue Cap Removal upgrade? If not, remember that the default clue cap is set at 25 clues per tier with the exception of master clues. This cap becomes unlimited once the upgrade is acquired. 
+1) Have you purchased the Clue Cap Removal upgrade? If not, remember that the default clue cap is set at 25 clues per tier with the exception of master clues. This cap becomes unlimited once the upgrade is acquired.
 2) Make sure to also check your bank, inventory, and clue carrier to see if you’re below the initial soft cap. Additionally the cap is based on the sum of each clue tier separately. Unfinished clues count towards the cap.
-3) If you are pickpocketing H.A.M. members, make sure you have you completed "(Lost Her Marbles miniquest)[<https://runescape.wiki/w/Lost_Her_Marbles_(miniquest)>]".
+3) If you are pickpocketing H.A.M. members, make sure you have you completed "[Lost Her Marbles miniquest](<https://runescape.wiki/w/Lost_Her_Marbles_(miniquest)>)".
+4) Make sure you haven't unticked any of the options in: Settings - > **Gameplay → Item Drops → Clue scrolls**
 
+https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/dropsettings.png
+.
 Return to <#1023016455429685389>
