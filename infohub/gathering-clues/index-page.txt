@@ -5,6 +5,10 @@
 4.3 x Sealed clue scroll <:Hard:633728361918758930>
 4.7 x Sealed clue scroll <:Elite:633732493228638209>
 0.17 x Sealed clue scroll <:Master:1019920500807450666>
+.
+Short AFK are guides where you are still AFK but are AFK for less periods of time to pick up the clue scrolls whenever they drop.
+Long AFK are guides where you are AFK until you have to do something to stop yourself logging out, which is usually repotting <:Spiritattractionflask:1127681167005589545> and refilling <:cannon:869283142350041098>
+In Long AFK, we often use Legendary Pet to pickup some clues, the amount it picks up is completely random and there's no average to it as far as we are aware.
 
 **Easy Clues <:Easy:633728862039179294>**
 <#1024155876552085594> (85/h) + Bik <:scriptureofbik:892342109791735848>
@@ -18,12 +22,12 @@ Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735
 <#1330996952367890585> (37/h) + Bik <:scriptureofbik:892342109791735848>
 <#1024156645267353630> (44/h) + Bik <:scriptureofbik:892342109791735848>
 
-
 **Elite Clues <:Elite:633732493228638209>**
 <#1123335749044031518> (16.4/h) + Bik <:scriptureofbik:892342109791735848>
+<#1333018655801217024> (~14/hr Short  ~1.25/hr Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 <#1151272561259323422> (11.8/h) + Bik <:scriptureofbik:892342109791735848>
 <#1024159311913566258> (6/h) + Bik <:scriptureofbik:892342109791735848>
-<#1153774687810244648> (1/h) + Bik <:scriptureofbik:892342109791735848> 
+<#1153774687810244648> (1/h) + Bik <:scriptureofbik:892342109791735848>
 **Master Clues <:Master:1019920500807450666>**
 For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
 <#1022584947980116138> check this channel out for more information.
