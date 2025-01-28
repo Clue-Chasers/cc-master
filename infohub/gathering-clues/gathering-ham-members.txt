@@ -44,6 +44,7 @@ The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pick
 }
 .embed:json
 **Preset Notes**
+⬥ You can turn off receiving Memory Shards <:memoryshard:1333859605557809234> at the Memorial of Guthix which allows for the second Spirit Attraction flask <:spiritattractionflask:1102531518741622854>.
 ⬥ You can take precisely 11 Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> but this will only add an additional 6 minutes of trip length.
 
 .
