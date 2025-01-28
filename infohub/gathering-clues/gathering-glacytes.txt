@@ -51,7 +51,7 @@ Here is a guide displaying how to lure them:
     "fields": [
       {
         "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/L4NAWBGBEfQBMcCWhtYt)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://pastebin.com/2qrF0wyW)",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/L4NAWBGBEfQBMcCWhtYt)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
         "inline": true
       }
     ]
