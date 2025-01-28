@@ -1,0 +1,64 @@
+## Thieving H.A.M. Members
+*Note: a **Table of Contents** can be found in the pins.*
+.
+.tag:intro
+### **Introduction** *(courtesy of <@145884917627224065>)*
+Easy clues <:easyclue:1123586950989885510> are very fast to gather and solve. They have the lowest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 21/50, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
+
+Thieving H.A.M. Members is the fastest way of gathering easy clues <:easyclue:1123586950989885510>.
+
+This guide aims to give you all the information you need to gather easy clues efficiently.
+Due to the nature of thieving H.A.M. Members, there is no short form afk, the only inputs you need to do is drink a Spirit Attraction <:spiritattractionflask:1102531518741622854> every 15 minutes which is the same as your lobby timer.
+.
+.tag:reqs
+### **Requirements**
+⬥ <:thieving:1039864807920250900> 99 Thieving
+⬥ <:Quest_points:1151954130177368114> Lost Her Marbles (miniquest)
+⬥ <:stickyfingers:1333857886820110366> Sticky Fingers Relic
+.
+.tag:useful
+.
+.tag:location
+### **Location and How to Get there**
+The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pickpocket any H.A.M. Member:
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/lumbridge%20ham%20hideout.png
+.
+.
+.tag:preset
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset and Afkwarden__",
+        "value": "⬥ [Long AFK Preset and Breakdown](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/easy-clue-preset.png)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ham-members.txt)",
+        "inline": true
+      }
+    ],
+    "image": {
+      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/easy-clue-preset.png"
+    }
+  }
+}
+.embed:json
+**Preset Notes**
+⬥ You can take precisely 11 Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> but this will only add an additional 6 minutes of trip length.
+
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
