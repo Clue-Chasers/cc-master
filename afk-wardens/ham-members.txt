@@ -1,0 +1,1 @@
+{"name":"HAM Members","baseName":"slayer","alerters":[{"name":"Lobby timer","globalalarm":true,"alarm":null,"voice":null,"tooltip":"About to get lobbied","exportbar":true,"delay":870,"type":"inactive"}]}
