@@ -46,7 +46,7 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "fields": [
       {
         "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/jXEpityEoerWLhlFHutg)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/s8xA9p3aFaLJ7fdlMZV5)\n⬥ [Afkwarden Settings](https://pastebin.com/wAr3DeCV)",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/jXEpityEoerWLhlFHutg)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/s8xA9p3aFaLJ7fdlMZV5)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
         "inline": true
       }
     ]
