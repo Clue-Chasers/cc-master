@@ -1,48 +1,27 @@
-## Glacytes
-*Note: a **Table of Contents** can be found in the pins.*
-.
+**__Hellhounds - Hard Gathering__ (courtesy of <@145884917627224065>)**
+> **Introduction**
 .tag:intro
-### **Introduction** *(courtesy of <@145884917627224065>)*
-Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have the second highest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 57/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
+Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have the second highest master clue scroll <:Master:1019920500807450666> per clue at 1/64 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 57/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
-Glacytes are good for gathering hard clues <:Hard:633728361918758930>.
-
-This guide aims to give you both a short and long form method of AFKing Glacytes for Hard clues <:Hard:633728361918758930>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~3.03 Hard clues <:Hard:633728361918758930> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know.
-
+Hellhounds are good for gathering hard clues <:Hard:633728361918758930>.
 .
+> **Requirements**
 .tag:reqs
-### **Requirements**
-⬥ <:slayer:797896049548066857> 84 Slayer
-.
+⬥ <:dungeoneering:1003947795541143632> 55 Dungeoneering
+
+> **Useful Items and Unlocks**
 .tag:useful
-### **Useful Items and Information**
-⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
-⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
-⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave (unlocked)
-⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
-⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
-⬥ <:exsanguinate:856635090745950258> Exsanguinate (unlocked)
-⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
-⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
+⬥ <:gchain:1257440278512537740> Greater Chain
+⬥ <:gsunshine:994644352871714836> Greater Sunshine
+⬥ <:magmatempest:902209626509025290> Magma Tempest
+⬥ <:cannon:869283142350041098> Dwarven Siege Engine fully upgraded
 
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:affliction:513190158468907008> Affliction / <:torment:583429936958930964> Torment on at all times.
-⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
-⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
-.
-.tag:location
-### **Location and How to Get there**
-The only place to find Glacytes is in the Glacor front in Senntisten. To get there attune one of your boss portals to Arch Glacor.
-.
-### **Setup**
-In order to AFK Glacytes efficiently you must lure the Glacors to the portal.
-Here is a guide displaying how to lure them:
-⬥ [Luring Glacors](<https://www.youtube.com/watch?v=PUO2R0Hfu7E>)
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and your best damage boosting prayer on at all times.
+⬥ You will need to place your cannon in a specific spot as well as stand in a specific spot for this to be optimal
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhound%20map.png
 
-⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one south west of the tip of the gold symbol. As for your own position stand on the designated red tile, three tiles north of the left north pillar.
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/positionspot2.png
-.
-.tag:preset
+.tag:positionpreset
 {
   "embed": {
 "title": "",
@@ -50,27 +29,22 @@ Here is a guide displaying how to lure them:
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/L4NAWBGBEfQBMcCWhtYt)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
+        "name": "__Preset__",
+        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/bKoOT3qjrc2ohGXmG0Hd)",
         "inline": true
       }
-    ],
-    "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytes%20preset.png"
-    }
+    ]
   }
 }
 .embed:json
-**Preset Notes**
-⬥ If you're opting to do Long AFK, just pause the lootbeam.
-⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
+
 .
-**Action Bars**
-
+**Action Bar**
 .tag:bar
-**Magic Bar 2930+ kph**
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/bar2.1.png
-
+⬥ Note:
+    • You can opt to use <:elderovl:841419289831800882> Overloads.
+**Magic 2400+ kph**
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhound%20bar.png
 .
 {
   "embed": {
@@ -80,10 +54,11 @@ Here is a guide displaying how to lure them:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
 }
 .embed:json
 .pin:delete
+.
