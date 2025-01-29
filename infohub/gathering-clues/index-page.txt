@@ -22,7 +22,7 @@ Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735
 
 **Hard Clues <:Hard:633728361918758930>**
 <#1333408239613775882> (~45.6/h Short ~3.6/hr Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
-<#1330996952367890585> (~37.8/h Short ~3.03 Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
+<#1330996952367890585> (~37.8/h Short ~3.03/hr Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 <#1334126753777717289> (?/h - requires testing) + Bik <:scriptureofbik:892342109791735848>
 
 **Elite Clues <:Elite:633732493228638209>**
