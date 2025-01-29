@@ -8,7 +8,7 @@ Thieving Elven Workers is a decent alternative gathering method for hard clues <
 This guide aims to give you all the information you need to gather within the Prifddinas region.
 This is a medium AFK method, it's between 4-8 minutes AFK until you first get caught, then you have to tab back in roughly twice in a minute.
 
-Pickpocketing Elven Workers give cleus are these rates:
+Pickpocketing Elven Workers give clues are these rates:
 ⬥ Hard clue: 1/640 and 0.15625%
 ⬥ Elite clue: 9999/12,800,000 and 0.07812%
 ⬥ Master clue: 101/12,800,000 and 0.0007891%
