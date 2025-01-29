@@ -1,0 +1,83 @@
+## Thieving Elven Workers
+*Note: a **Table of Contents** can be found in the pins.*
+.
+.tag:intro
+### **Introduction** *(courtesy of <@145884917627224065>)*
+Thieving Elven Workers is a decent alternative gathering method for hard clues <:hardclue:1123586945273049109> and elite clues <:eliteclue:1123586941057769552>.
+
+This guide aims to give you all the information you need to gather within the Prifddinas region.
+This is a medium AFK method, it's between 4-8 minutes AFK until you first get caught, then you have to tab back in roughly twice in a minute.
+
+Pickpocketing Elven Workers give cleus are these rates:
+⬥ Hard clue: 1/640 and 0.15625%
+⬥ Elite clue: 9999/12,800,000 and 0.07812%
+⬥ Master clue: 101/12,800,000 and 0.0007891%
+These rates include Luck of the Dwarves <:lotd:566453486913323042>.
+.
+.tag:reqs
+### **Requirements**
+⬥ <:thieving:1039864807920250900> 99 Thieving
+    • <:thievingcape:1334114808865357902> Thieving skillcape
+⬥ <:teleportseed:1137737316354494607> Attuned crystal teleport seed
+⬥ <:stickyfingers:1333857886820110366> Sticky Fingers Relic
+.
+.tag:useful
+### **Useful Items and Information**
+⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
+⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
+⬥ <:fivefingerdiscountaura:1334114507865194506> Five-Finger Discount Aura
+⬥ <:lotd:566453486913323042> Luck of the Dwarves
+⬥ Putting NPC attack option on: Hidden
+    • Settings → Gameplay → Combat & Action Bar → 'Choose Option' Menu → NPC attack option: Hidden
+.
+.tag:location
+### **Location and How to Get there**
+Use the attuned crystal teleport seed <:teleportseed:1137737316354494607> to get to the districts.
+The order in which you should pickpocket the workers is as follows:
+⬥ Iorwerth
+⬥ Cadarn
+⬥ Hefin
+⬥ Trahaearn (bank here if you wish)
+⬥ Repeat
+*Note: when you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.*
+.
+.
+.tag:preset
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset and Afkwarden__",
+        "value": "⬥ [Medium AFK Preset and Breakdown](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/%09%20Pickpocketing%20elven%20workers%20preset.png)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt)",
+        "inline": true
+      }
+    ],
+    "image": {
+      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/%09%20Pickpocketing%20elven%20workers%20preset.png"
+    }
+  }
+}
+.embed:json
+**Preset Notes**
+⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033>.
+⬥ You can take up to 8 Spirit Attraction flasks <:spiritattractionflask:1102531518741622854>.
+
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
