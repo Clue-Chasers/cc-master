@@ -40,7 +40,7 @@ Here is a guide displaying how to lure them:
 ⬥ [Luring Glacors](<https://www.youtube.com/watch?v=PUO2R0Hfu7E>)
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one south west of the tip of the gold symbol. As for your own position stand on the designated red tile, three tiles north of the left north pillar.
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/positionspot2.png
+.img:https://github.com/Clue-Chasers/cc-master/blob/main/files/glacytescannon.png?raw=true
 .
 .tag:preset
 {
