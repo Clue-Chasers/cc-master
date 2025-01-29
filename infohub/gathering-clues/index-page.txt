@@ -29,8 +29,9 @@ Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735
 <#1123335749044031518> (16.4/h) + Bik <:scriptureofbik:892342109791735848>
 <#1333018655801217024> (~14/hr Short  ~1.25/hr Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 <#1151272561259323422> (11.8/h) + Bik <:scriptureofbik:892342109791735848>
-<#1024159311913566258> (6/h) + Bik <:scriptureofbik:892342109791735848>
+<#1334126753777717289> (?/h - requires testing) + Bik <:scriptureofbik:892342109791735848>
 <#1153774687810244648> (1/h) + Bik <:scriptureofbik:892342109791735848>
+
 **Master Clues <:Master:1019920500807450666>**
 For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
 <#1022584947980116138> check this channel out for more information.
