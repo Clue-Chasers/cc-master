@@ -19,7 +19,6 @@ These rates include Luck of the Dwarves <:lotd:566453486913323042>.
 ⬥ <:thieving:1039864807920250900> 99 Thieving
     • <:thievingcape:1334114808865357902> Thieving skillcape
 ⬥ <:teleportseed:1137737316354494607> Attuned crystal teleport seed
-⬥ <:stickyfingers:1333857886820110366> Sticky Fingers Relic
 .
 .tag:useful
 ### **Useful Items and Information**
