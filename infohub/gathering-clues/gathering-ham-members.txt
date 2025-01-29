@@ -13,10 +13,15 @@ Due to the nature of thieving H.A.M. Members, there is no short form afk, the on
 .tag:reqs
 ### **Requirements**
 ⬥ <:thieving:1039864807920250900> 99 Thieving
+    • <:thievingcape:1334114808865357902> Thieving skillcape
 ⬥ <:Quest_points:1151954130177368114> Lost Her Marbles (miniquest)
 ⬥ <:stickyfingers:1333857886820110366> Sticky Fingers Relic
 .
 .tag:useful
+### **Useful Items and Information**
+⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
+⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
+⬥ <:lotd:566453486913323042> Luck of the Dwarves
 .
 .tag:location
 ### **Location and How to Get there**
