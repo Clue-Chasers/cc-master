@@ -18,6 +18,7 @@ These rates include Luck of the Dwarves <:lotd:566453486913323042>.
 ### **Requirements**
 ⬥ <:thieving:1039864807920250900> 99 Thieving
     • <:thievingcape:1334114808865357902> Thieving skillcape
+⬥ <:Quest_points:1151954130177368114> Plague's End
 ⬥ <:teleportseed:1137737316354494607> Attuned crystal teleport seed
 .
 .tag:useful
