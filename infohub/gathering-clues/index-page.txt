@@ -13,16 +13,16 @@ Long AFK are guides where you are AFK until you have to do something to stop you
 *Note: Long AFK, we often use Dwarf weed incense <:dwarfincense:1333016299055484998> which will bank 8% of clues dropped and Legendary Pet to pickup some clues, the amount it picks up is completely random and there's no average to it as far as we are aware.*
 
 **Easy Clues <:Easy:633728862039179294>**
-<#1333860521224572979> (~85-90/h) + Bik <:scriptureofbik:892342109791735848>
+<#1333860521224572979> (~90/h) + Bik <:scriptureofbik:892342109791735848>
 
 **Medium Clues <:Medium:633728704438075435>**
-<#1315137992943206491> (49-53/hr) + Bik <:scriptureofbik:892342109791735848>
+<#1315137992943206491> (~49-53/hr) + Bik <:scriptureofbik:892342109791735848>
 <#1153774687810244648> (0.35/h) + Bik <:scriptureofbik:892342109791735848>
 Consider downgrading hard clues (37-44/h) + Bik <:scriptureofbik:892342109791735848>
 
 **Hard Clues <:Hard:633728361918758930>**
 <#1333408239613775882> (~45.6/h Short ~3.6/hr Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
-<#1330996952367890585> (37/h) + Bik <:scriptureofbik:892342109791735848>
+<#1330996952367890585> (~37.8/h Short ~3.03 Long + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 <#1334126753777717289> (?/h - requires testing) + Bik <:scriptureofbik:892342109791735848>
 
 **Elite Clues <:Elite:633732493228638209>**
