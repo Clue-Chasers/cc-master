@@ -68,7 +68,7 @@ Here is a guide displaying how to lure them:
 **Action Bars**
 
 .tag:bar
-**Magic Bar 2930+ kph**
+**Magic Bar 3010+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytes%20bar.png
 .
 {
