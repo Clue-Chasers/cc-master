@@ -1,0 +1,104 @@
+## Ivory Statues
+*Note: a **Table of Contents** can be found in the pins.*
+.
+.tag:intro
+### **Introduction** *(courtesy of <@299098494671519745> and <@145884917627224065>)*
+Medium clues <:mediumclue:1123586948905324637> are fast to gather and solve. They have the third highest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 53/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
+
+Ivory Statues are good for gathering medium clues <:mediumclue:1123586948905324637>.
+
+This guide aims to give you both a short and long form method of AFKing Ivory Statues for Medium clues <:mediumclue:1123586948905324637>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~4 Medium clues <:mediumclue:1123586948905324637> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know.
+
+Short AFK can be done a few ways:
+⬥ Actively hunting down the escaped ivory statues for them to reset
+⬥ Killing the escaped ivory statues each hour
+⬥ Both will be actively picking up Medium clues <:mediumclue:1123586948905324637> when they drop and of course repotting.
+
+.
+.tag:reqs
+### **Requirements**
+⬥ <:Quest_points:1151954130177368114> A Fairy Tale III - Battle at Ork's Rift
+.
+.tag:useful
+### **Useful Items and Information**
+⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
+⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
+⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave (unlocked)
+⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
+⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
+⬥ <:incite:553050196725071893> Incite Fear (unlocked)
+⬥ <:oldakcoilupgradekit:1334623311245742142> Oldak Coil Upgrade Kit (unlocked)
+⬥ <:seedicide:1134924028801450065> Seedicide
+    • <:seedicide:1134924028801450065> Seedicide Collector Upgrade (unlocked)
+⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
+⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
+
+⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:affliction:513190158468907008> Affliction / <:torment:583429936958930964> Torment on at all times.
+⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
+⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
+⬥ You can opt to have Seedicide <:seedicide:1134924028801450065> to destroy all seeds.
+⬥ You can use an alt to gain a 10-20% increase in kills per hour. *As detailed below.*
+.
+.tag:location
+### **Location and How to Get there**
+The only place to find Ivory Statues is in Ork's Rift. To get there use a fairy ring with codes (in order): BIR DIP CLR ALP. This should be in your travel log already after completing A Fairy Tale III.
+.
+### **Setup**
+In order to AFK Ivory Statues efficiently you must place your oldak coil <:oldakcoil:798285651387613194> then kill all the Ivory Statues to reset them.
+Here is a guide displaying the setup:
+⬥ [Ivory Statue Setup](<https://www.youtube.com/watch?v=ctPqem8DxIo>)
+
+⬥ Position your oldak coil <:oldakcoil:798285651387613194> on the designated yellow tile, as shown below, precisely three tiles above the left small mushroom. As for your own position stand on the designated red tile, one square north and two squares west of the flowers.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioning.png
+
+.
+If you are opting to use an alt to gain the 10-20% increase in kills per hour, you can also use the alt to kill escaped Ivory Statues (rare):
+⬥ Position your alts oldak coil <:oldakcoil:798285651387613194> on the designated yellow tile, as shown below, precisely two tiles north east of the far east patch. As for your alts position it should stand on the designated red tile, hugging the west wall at the top.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioningalt.png
+.
+.tag:preset
+{
+  "embed": {
+"title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/yu7SHn6zM0dE1HEovRnF)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/eDvAv9EgymIwGcdc5Lsp)\n⬥ [Alt Preset and Breakdown](https://pvme.io/preset-maker/#/75tICRoFsed3YeRjZYns)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt)",
+        "inline": true
+      }
+    ],
+    "image": {
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuespreset1.png"
+    }
+  }
+}
+.embed:json
+**Preset Notes**
+⬥ You can use Superior Elite Seasingers for the crates for some extra gp if you wish for slightly less kills per hour.
+⬥ If you're opting to do Long AFK, just pause the lootbeam.
+⬥ If you're opting to do Short AFK, make sure you loot the stackables, you can put them in your preset if you wish.
+⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
+.
+**Action Bars**
+
+.tag:bar
+**Magic Bar 1850+ kph** *(alt 2260+ kph)*
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuesbar.png
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
