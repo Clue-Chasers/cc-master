@@ -2,7 +2,7 @@
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### **Introduction** *(courtesy of <@299098494671519745> and <@145884917627224065>)*
+### **Introduction** *(courtesy of <@299098494671519745>)*
 Medium clues <:mediumclue:1123586948905324637> are fast to gather and solve. They have the third highest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 53/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
 Ivory Statues are good for gathering medium clues <:mediumclue:1123586948905324637>.
