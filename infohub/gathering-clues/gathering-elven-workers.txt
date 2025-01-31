@@ -23,6 +23,7 @@ These rates include Luck of the Dwarves <:lotd:566453486913323042>.
 .
 .tag:useful
 ### **Useful Items and Information**
+⬥ <:totemofcrystal:1334901208783261836> Totem of Crystal
 ⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
 ⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
 ⬥ <:fivefingerdiscountaura:1334114507865194506> Five-Finger Discount Aura
@@ -38,6 +39,7 @@ The order in which you should pickpocket the workers is as follows:
 ⬥ Cadarn
 ⬥ Hefin
 ⬥ Trahaearn (bank here if you wish)
+    • Ithell (if not using Totem of Crystal <:totemofcrystal:1334901208783261836>)
 ⬥ Repeat
 *Note: when you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.*
 .
