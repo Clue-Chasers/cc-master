@@ -9,7 +9,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 .tag:gda
 {
   "embed": {
-  	"title": "__Golden Variant:__",
+          "title": "__Golden Variant:__",
     "color": 12745742,
     "fields": [
       {
@@ -40,7 +40,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 .tag:gcc
 {
   "embed": {
-  	"title": "__Golden Variant:__",
+          "title": "__Golden Variant:__",
     "color": 12745742,
     "fields": [
       {
@@ -66,7 +66,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 .tag:gmoc
 {
   "embed": {
-  	"title": "__Golden Variant:__",
+          "title": "__Golden Variant:__",
     "color": 12745742,
     "fields": [
       {
@@ -109,7 +109,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 .tag:easies
 {
   "embed": {
-  	"title": "__Easy Clue Runs__ <:Easy:633728862039179294>",
+          "title": "__Easy Clue Runs__ <:Easy:633728862039179294>",
     "color": 9807270,
     "fields": [
          {
@@ -135,12 +135,12 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 .tag:meds
 {
   "embed": {
-  	"title": "__Medium Clue Runs__ <:Medium:633728704438075435>",
+          "title": "__Medium Clue Runs__ <:Medium:633728704438075435>",
     "color": 15844367,
     "fields": [
          {
         "name": "__50 Category__",
-        "value": "⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)\n⬥ 0:45:05 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)\n⬥ 0:54:39 - [Mathy](https://www.youtube.com/watch?v=C2JQUxq42rk)",
+        "value":"⬥ 0:41:52 - [Omid](https://www.twitch.tv/videos/2368124912)\n⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)\n⬥ 0:45:05 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)",
         "inline": true
       },
       {
@@ -161,7 +161,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 .tag:hards
 {
   "embed": {
-  	"title": "__Hard Clue Runs__ <:Hard:633728361918758930>",
+          "title": "__Hard Clue Runs__ <:Hard:633728361918758930>",
     "color": 12370112,
     "fields": [
          {
@@ -196,8 +196,8 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 .tag:elites
 {
   "embed": {
-  	"title": "__Elite Clue Runs__ <:Elite:633732493228638209>",
-    "color": 16776960	,
+          "title": "__Elite Clue Runs__ <:Elite:633732493228638209>",
+    "color": 16776960        ,
     "fields": [
          {
         "name": "__50 Category w/skips__",
@@ -232,7 +232,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 .tag:masters
 {
   "embed": {
-  	"title": "__Master Clue Runs__ <:Master:1019920500807450666>",
+          "title": "__Master Clue Runs__ <:Master:1019920500807450666>",
     "color": 3447003,
     "fields": [
          {
