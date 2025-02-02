@@ -20,7 +20,7 @@ This guide aims to give you both a short and long form method of AFKing Abyssal 
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
 ⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
-⬥ <:eclipsedsoul:1285372688457797672> Eclipsed Soul (unlocked)
+⬥ <:eclipsedsoul:1335746266289799268> Eclipsed Soul (unlocked)
 ⬥ <:divinerage:1285372247665803264> Rivine Rage (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:jasboost:1006121672790773770> Jas Boost from DKQ (unlocked)
@@ -28,7 +28,7 @@ This guide aims to give you both a short and long form method of AFKing Abyssal 
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
 
-⬥ Make sure you have <:eclipsedsoul:1285372688457797672> Eclipsed Soul / <:soulsplit:615613924506599497> Soulsplit alongside <:overcharge:1335739259834859582> Overcharge + <:mysticmight:1335739258434224189> Mystic Might / <:leechmagicstrength:1333014918353391617> Leech Magic Strength + <:leechmagicattack:1335739810047987773> Leech Magic Attack on at all times.
+⬥ Make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul / <:soulsplit:615613924506599497> Soulsplit alongside <:overcharge:1335739259834859582> Overcharge + <:mysticmight:1335739258434224189> Mystic Might / <:leechmagicstrength:1333014918353391617> Leech Magic Strength + <:leechmagicattack:1335739810047987773> Leech Magic Attack on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
 ⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
 .
