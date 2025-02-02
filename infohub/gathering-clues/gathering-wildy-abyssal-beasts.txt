@@ -5,7 +5,7 @@
 ### **Introduction** *(courtesy of <@145884917627224065>)*
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 
-This guide aims to give you both a short and long form method of AFKing Abyssal Beasts for Elite clues <:Elite:633732493228638209>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~1.25 Elite clues <:Elite:633732493228638209> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know. You can opt to reduce them by removing the cannon.
+This guide aims to give you both a short and long form method of AFKing Abyssal Beasts for Elite clues <:Elite:633732493228638209>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~1.39 Elite clues <:Elite:633732493228638209> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know. You can opt to reduce them by removing the cannon.
 
 .
 .tag:reqs
@@ -16,17 +16,19 @@ This guide aims to give you both a short and long form method of AFKing Abyssal 
 ### **Useful Items and Information**
 ⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
-⬥ <:gconc:869285393223254107> Greater Concentrated Blast (unlocked)
+⬥ <:gsonicwave:1095411826839257138> Greater Sonic (unlocked)
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
 ⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
+⬥ <:eclipsedsoul:1285372688457797672> Eclipsed Soul (unlocked)
+⬥ <:divinerage:1285372247665803264> Rivine Rage (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:jasboost:1006121672790773770> Jas Boost from DKQ (unlocked)
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
 
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:leechmagicstrength:1333014918353391617> Leech Magic Strength on at all times.
+⬥ Make sure you have <:eclipsedsoul:1285372688457797672> Eclipsed Soul / <:soulsplit:615613924506599497> Soulsplit alongside <:overcharge:1335739259834859582> Overcharge + <:mysticmight:1335739258434224189> Mystic Might / <:leechmagicstrength:1333014918353391617> Leech Magic Strength + <:leechmagicattack:1335739810047987773> Leech Magic Attack on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
 ⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
 .
@@ -46,7 +48,7 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "fields": [
       {
         "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/jXEpityEoerWLhlFHutg)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/s8xA9p3aFaLJ7fdlMZV5)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/wOnehgCUEu4N3vLhq529)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
         "inline": true
       }
     ]
@@ -56,13 +58,15 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
 **Preset Notes**
 ⬥ If you're opting to do Long AFK, just pause the lootbeam.
     • You can also remove cannon if you would like to reduce inputs but it will reduce your kph.
-⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
+⬥ You can use <:equilibriumaura:1233722649834684416> Equilibrium Aura, <:ripperpouch:703581275453128714> Ripper Demon and Legs with <:crack4:712073087662686249> <:demonslayerperk:689502842653900818> | <:scavenging4:1005934140669046824>
 .
 **Action Bars**
 
 .tag:bar
-**Magic Bar 780+ kph**
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/bar1.png
+**[Magic Bar 890+ kph](https://youtu.be/0vE3L-nPQkQ)**
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/wildybeastsbar.png
+
+.
 
 .
 {
