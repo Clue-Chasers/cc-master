@@ -22,11 +22,14 @@ This guide aims to give you both a short and long form method of AFKing Glacytes
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
 ⬥ <:exsanguinate:856635090745950258> Exsanguinate (unlocked)
+⬥ <:divinerage:1335746763151380490> Divine Rage (unlocked)
+⬥ <:eclipsedsoul:1335746266289799268> Eclipsed Soul (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
 
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:affliction:513190158468907008> Affliction / <:torment:583429936958930964> Torment on at all times.
+⬥ If opting for short form AFK make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul, <:divinerage:1335746763151380490> Divine Rage and <:overcharge:1335739259834859582> Overcharge on at all times.
+⬥ If opting for long form AFK make sure you have <:soulsplit:615613924506599497> Soulsplit and <:affliction:513190158468907008> Affliction / <:torment:583429936958930964> Torment on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
 ⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
 .
@@ -51,12 +54,12 @@ Here is a guide displaying how to lure them:
     "fields": [
       {
         "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/L4NAWBGBEfQBMcCWhtYt)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/4SrUbxMeuR1i8xU1DouX)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytes%20preset.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacyteszealotsbar.png"
     }
   }
 }
@@ -64,11 +67,14 @@ Here is a guide displaying how to lure them:
 **Preset Notes**
 ⬥ If you're opting to do Long AFK, just pause the lootbeam.
 ⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
-.
-**Action Bars**
 
 .tag:bar
-**Magic Bar 3010+ kph**
+**Action Bars**
+
+**Short AFK Magic Bar 3080+ kph**
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytesbarshortafk.png
+.
+**Long AFK Magic Bar 3010+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytes%20bar.png
 .
 {
