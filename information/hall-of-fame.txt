@@ -185,7 +185,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:21 - [Dudey xD](https://www.twitch.tv/videos/958358350?t=0h0m1s)\n⬥ 0:00:23 - [Muzuzo](https://www.youtube.com/watch?v=rFLToUygo0s)\n⬥ 0:00:28 - [GanB](https://youtu.be/kT04Toc_GGM)",
+        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:18 - [Brewer](https://youtu.be/SUa6XkY7vLU)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:21 - [Dudey xD](https://www.twitch.tv/videos/958358350?t=0h0m1s)\n⬥ 0:00:23 - [Muzuzo](https://www.youtube.com/watch?v=rFLToUygo0s)",
         "inline": true
       }
     ]
