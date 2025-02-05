@@ -27,7 +27,7 @@ Short AFK can be done a few ways:
 ⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
 ⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
 ⬥ <:incite:553050196725071893> Incite Fear (unlocked)
-⬥ <:oldakcoilupgradekit:1334623311245742142> Oldak Coil Upgrade Kit (unlocked)
+⬥ <:cannonupgradekit:869284271788023838> Dwarven Cannon Upgrade Kit (unlocked)
 ⬥ <:seedicide:1134924028801450065> Seedicide
     • <:seedicide:1134924028801450065> Seedicide Collector Upgrade (unlocked)
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
@@ -44,11 +44,11 @@ Short AFK can be done a few ways:
 The only place to find Ivory Statues is in Ork's Rift. To get there use a fairy ring with codes (in order): BIR DIP CLR ALP. This should be in your travel log already after completing A Fairy Tale III.
 .
 ### **Setup**
-In order to AFK Ivory Statues efficiently you must place your oldak coil <:oldakcoil:798285651387613194> then kill all the Ivory Statues to reset them.
+In order to AFK Ivory Statues efficiently you must place your cannon <:cannon:869283142350041098> then kill all the Ivory Statues to reset them.
 Here is a guide displaying the setup:
-⬥ [Ivory Statue Setup](<https://www.youtube.com/watch?v=ctPqem8DxIo>)
+⬥ [Ivory Statue Setup](<https://www.youtube.com/watch?v=4q02cj3rwus>)
 
-⬥ Position your oldak coil <:oldakcoil:798285651387613194> on the designated yellow tile, as shown below, precisely three tiles above the left small mushroom. As for your own position stand on the designated red tile, one square north and two squares west of the flowers.
+⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely three tiles above the left small mushroom. As for your own position stand on the designated red tile, one square north and two squares west of the flowers.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioning.png
 
 .
@@ -65,12 +65,12 @@ If you are opting to use an alt to gain the 10-20% increase in kills per hour, y
     "fields": [
       {
         "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/yu7SHn6zM0dE1HEovRnF)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/eDvAv9EgymIwGcdc5Lsp)\n⬥ [Alt Preset and Breakdown](https://pvme.io/preset-maker/#/75tICRoFsed3YeRjZYns)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt)",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/Qk8TYROIslOvY9OoDH9a)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/gCRKy6Mtwr1bWUtNOrXw)\n⬥ [Alt Preset and Breakdown](https://pvme.io/preset-maker/#/75tICRoFsed3YeRjZYns)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuespreset1.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuespreset2.png"
     }
   }
 }
@@ -84,7 +84,7 @@ If you are opting to use an alt to gain the 10-20% increase in kills per hour, y
 **Action Bars**
 
 .tag:bar
-**Magic Bar 1850+ kph** *(alt 2260+ kph)*
+**Magic Bar 2200+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuesbar.png
 .
 {
