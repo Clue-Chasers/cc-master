@@ -49,7 +49,7 @@ Here is a guide displaying the setup:
 ⬥ [Ivory Statue Setup](<https://www.youtube.com/watch?v=4q02cj3rwus>)
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely three tiles above the left small mushroom. As for your own position stand on the designated red tile, one square north and two squares west of the flowers.
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioning.png
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioning1.png
 
 .
 If you are opting to use an alt to gain the 10-20% increase in kills per hour, you can also use the alt to kill escaped Ivory Statues (rare):
