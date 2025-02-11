@@ -51,7 +51,10 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
         "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/wOnehgCUEu4N3vLhq529)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
         "inline": true
       }
-    ]
+    ],
+    "image": {
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/abyssalbeastswildypreset.png"
+    }
   }
 }
 .embed:json
