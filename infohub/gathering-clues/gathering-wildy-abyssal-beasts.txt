@@ -21,7 +21,7 @@ This guide aims to give you both a short and long form method of AFKing Abyssal 
 ⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
 ⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
 ⬥ <:eclipsedsoul:1335746266289799268> Eclipsed Soul (unlocked)
-⬥ <:divinerage:1335746763151380490> Rivine Rage (unlocked)
+⬥ <:divinerage:1335746763151380490> Divine Rage (unlocked)
 ⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
 ⬥ <:jasboost:1006121672790773770> Jas Boost from DKQ (unlocked)
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
