@@ -17,6 +17,9 @@
 ### **[Hard Tirannwn](<https://runescape.wiki/w/Hard_Tirannwn_achievements>)**
 ⬥ No longer fail stick traps using the [Tirannwn Quiver 3](<https://runescape.wiki/w/Tirannwn_quiver_3>) <:quiver3:1123599463227867267>
 ⬥ Additional unlimited teleport locations: [Elf Camp](<https://runescape.wiki/w/Elf_Camp>) and Tirannwn mushroom patch
+### **[Elite Tirannwn](<https://runescape.wiki/w/Elite_Tirannwn_achievements>)**
+⬥ Ability to fast travel through Tirannwn dense forests using the [Tirannwn Quiver 4](<https://runescape.wiki/w/Tirannwn_quiver_4>) <:quiver4:1123599461470453852>
+
 ### **[Hard Karamja](<https://runescape.wiki/w/Karamja_achievements#Hard_achievements>)**
 ⬥ Teleport to the underground portion of the [Shilo Village mining site](<https://runescape.wiki/w/Shilo_Village_mine>) using [Karamja Gloves 3](<https://runescape.wiki/w/Karamja_gloves_3>) <:karamjagloves:1123596354766250095>
 .
@@ -42,23 +45,32 @@
 ### **[Temple at Senntisten](<https://runescape.wiki/w/The_Temple_at_Senntisten>)**
 ⬥ Access to Ancient Curses. <:soulsplit:615613924506599497>
 ### **[Darkness of Hallowvale](<https://runescape.wiki/w/Darkness_of_hallowvale>)**
-⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)
+⬥ Ability to unlock the [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport option on the Games Necklace <:gamesnecklace:1124762416597700618> with 500 Companion levels from [Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)
 ### **[Desperate Times](<https://runescape.wiki/w/Desperate_Times>)**
 ⬥ Charos’ Clue Carrier <:cluecarrier:1123597957791481906>
+.
 ### **[Rum Deal](<https://runescape.wiki/w/Rum_Deal>)**
 ⬥ Access to [Braindeath Island](<https://runescape.wiki/w/Braindeath_Island>) and teleport on the [Dungeoneering cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>
+### **[Lunar Diplomacy](<https://runescape.wiki/w/Lunar_Diplomacy>)**
+⬥ Ability to use various [Lunar Spells](<https://runescape.wiki/w/Lunar_Spells>)
+### **[Desert Treasure](<https://runescape.wiki/w/Desert_Treasure>)**
+⬥ Ability to use various [Ancient Magicks](<https://runescape.wiki/w/Ancient_Magicks>)
 ### **[Dream Mentor](<https://runescape.wiki/w/Dream_Mentor>)**
 ⬥ Access to [Spellbook Swap](<https://runescape.wiki/w/Spellbook_Swap>) <:sbs:543875425055670275>
+### **[Legends' Quest](<https://runescape.wiki/w/Legends%27_Quest>)**
+⬥ Ability to use to [Western Kharazi Jungle Teleport](<https://runescape.wiki/w/Western_Kharazi_Jungle_Teleport>) <:westernkharazi:1346290370790555730>
+⬥ Ability to buy the [Cape of legends](<https://runescape.wiki/w/Cape_of_legends>) <:legendscape:1123599575228350577> from [Siegfried Erkle](<https://runescape.wiki/w/Siegfried_Erkle>) in the [Legends' Guild](<https://runescape.wiki/w/Legends%27_Guild>)
+        ⬩ This teleport can be toggled by using the cape itself, to go inside the guild or in front of the gates (preferred)
 .
 ### **[Blood Runs Deep](<https://runescape.wiki/w/Blood_Runs_Deep>)**
 ⬥ Moves Queen Sigrid to [Miscellania](<https://runescape.wiki/w/Miscellania>)
 ### **[King of the Dwarves](<https://runescape.wiki/w/King_of_the_Dwarves>)**
 ⬥ For access to the [Lava Flow Mine](<https://runescape.wiki/w/Lava_Flow_Mine>)
 ### **[The Dig Site](<https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](<https://runescape.wiki/w/Dig_Site_pendant>)**
-⬥ Unlocks Dig Site Pendant. <:digsitependant:1124762422507479151>
+⬥ Unlocks Dig Site Pendant <:digsitependant:1124762422507479151>
 ### **[Succession](<https://runescape.wiki/w/Succession>)**
 ⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable <:dive:1049378668197195808>
-⬥ Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> becomes available and ability to add to the tool belt
+⬥ Unlocks Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> and ability to add it to the toolbelt
 ### **[Quest cape](<https://runescape.wiki/w/Quest_Cape>)**
 ⬥ This cape provides teleports to the following locations:
         ⬩ Ancient Guthix Temple
@@ -93,10 +105,14 @@
 ### **[Bladed Dive ability](<https://runescape.wiki/w/Bladed_Dive>)** <:bd:535532854281764884>
 ### **[Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>)** <:totemoftreasure:1124764867237269665>
 ⬥ A totem that decreases both the minimum and maximum number of clue scroll steps by one
+        ⬩ The activation resets weekly every Wednesday at 00:00 UTC.
+### **[Totem of Summoning](<https://runescape.wiki/w/Totem_of_Summoning>)** <:TotemofSummoning:1127695244805287946>
+⬥ A totem that increases the duration of Summoning familiars by 16 minutes
+        ⬩ The activation resets weekly every Wednesday at 00:00 UTC.
 ### **[Trollheim Farm Teleport](<https://runescape.wiki/w/Trollheim_Farm_Teleport>)** <:Trollheim_Farm_Teleport_icon:1151997356674383953>
 ⬥ Livid Farm spell
 ### **[Total level 500 in Temple Trekking](<https://runescape.wiki/w/Temple_Trekking>)** <:gamesnecklace:1124762416597700618>
-⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport on games necklace
+⬥ Unlocks a shortcut to the [Nature’s Grotto](<https://runescape.wiki/w/Nature_Grotto#:~:text=A%20shortcut%20from%20the%20gate,The%20entrance%20to%20the%20Grotto.>) (total level 100) + [Burgh de Rott](<https://runescape.wiki/w/Burgh_de_Rott>) teleport option on the Games Necklace <:gamesnecklace:1124762416597700618>
 .
 ### **[Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>)** <:amuletofnature:1123599470911815750>
 ⬥ [Amulet of Nature](<https://runescape.wiki/w/Amulet_of_nature>) allows the player to teleport directly to the attended patch regardless of it's state (diseased, dead or even empty)
@@ -108,14 +124,16 @@
 ⬥ The sceptre has 10 teleport charges when fully charged, which is increased to 20 with [medium Desert achievements](<https://runescape.wiki/w/Desert_achievements#Medium_achievements>) completed, and further to 60 with [hard Desert achievements](<https://runescape.wiki/w/Hard_Desert_achievements>) completed
 .
 ### **[T99 Prayers](<https://runescape.wiki/w/Praesul_codex>) <:pcodex:643166740833894400>**
-⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
+⬥ Depending on preferred combat style, the following DPS prayers can be used when fighting Double Agents:
         ⬩ [Malevolence](<https://runescape.wiki/w/Malevolence>) <:malevolence:513190159416557573>, [Desolation](<https://runescape.wiki/w/Desolation>) <:Desolation:1128612787061538836>, [Affliction](<https://runescape.wiki/w/Affliction>) <:affliction:513190158468907008>, or [Ruination](<https://runescape.wiki/w/Ruination>) <:ruination:1137940996391452772>
 ### **Zerk Auras**
-⬥ Depending on style the following DPS prayers can be used when fighting Double Agents:
+⬥ Depending on preferred combat style, the following DPS prayers can be used when fighting Double Agents:
         ⬩ [Mahjarrat Aura](<https://runescape.wiki/w/Mahjarrat_aura>) <:mahj:643148943856762890>, [Maniacal Aura](<https://runescape.wiki/w/Maniacal_aura>) <:mani:643505153709965322>, [Berserker Aura](<https://runescape.wiki/w/Berserker_aura>) <:berserker:643505116347105290>, or [Reckless Aura](<https://runescape.wiki/w/Reckless_aura>) <:reckless:643505179378974748>
         ⬩ Can be bought with [Marks of War](<https://runescape.wiki/w/Marks_of_War>) <:marksofwar:704701746869567551> in [War's Wares](<https://runescape.wiki/w/War's_Wares>)
-### **[Repair the CJS Fairy Ring](<https://runescape.wiki/w/Kharazi_Jungle>)** <:portablefairyring:1084799722780360704>
+### **[Repair the CJS Fairy Ring in Kharazi Jungle](<https://runescape.wiki/w/Kharazi_Jungle>)** <:portablefairyring:1084799722780360704>
+⬥  [Western Kharazi Jungle Teleport](<https://runescape.wiki/w/Western_Kharazi_Jungle_Teleport>) <:westernkharazi:1346290370790555730> can be used instead.
 ### **[Unlock ancient invention](<https://runescape.wiki/w/Ancient_Invention>)** <:invention:689509250946695292>
+⬥ Depending on preferred combat style and gear choice, [ancient perks](<https://runescape.wiki/w/Ancient_weapon_gizmo_shell>) can be used to deal extra damage when fighting Double Agents
 ### **[Plant a Spirit Tree in Brimhaven](<https://runescape.wiki/w/Family_Spirit_Tree>)** <:spirittreererooter:1123597953303584799>
 .
 {
