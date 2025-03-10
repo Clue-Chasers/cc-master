@@ -1,5 +1,5 @@
-**__Abyssal Beasts - Elite Gathering__ (courtesy of <@145884917627224065>)**
-> **Introduction**
+## Abyssal Beasts - Elite Gathering
+> **Introduction (courtesy of <@145884917627224065>)**
 .tag:intro
 Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
