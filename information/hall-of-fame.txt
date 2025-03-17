@@ -55,7 +55,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [TripleDylan](https://discord.com/channels/332595657363685377/374280345966608384/1327768832818810885)",
+        "value": "⬥ [TripleDylan](https://discord.com/channels/332595657363685377/374280345966608384/1327768832818810885)\n⬥ [Runecoin](https://discord.com/channels/332595657363685377/374280345966608384/1351204516997103697)",
         "inline": true
       }
     ]
@@ -81,7 +81,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [2a goose](https://discord.com/channels/332595657363685377/374280345966608384/1320925081781800991)\n⬥ [Miepxie](https://discord.com/channels/332595657363685377/332595657363685377/1324851807507316807)\n⬥ [Rune Emperor](https://discord.com/channels/332595657363685377/374280345966608384/1336101515638607972)\n⬥ [ProgMetal](https://discord.com/channels/332595657363685377/374280345966608384/1340497725073920123)\n⬥ [twsted treln](https://discord.com/channels/332595657363685377/374280345966608384/1341095584261734400)\n⬥ [Laskari2](https://discord.com/channels/332595657363685377/374280345966608384/1348441429562626068)\n⬥ [Runecoin](https://discord.com/channels/332595657363685377/374280345966608384/1351204516997103697)",
+        "value": "⬥ [2a goose](https://discord.com/channels/332595657363685377/374280345966608384/1320925081781800991)\n⬥ [Miepxie](https://discord.com/channels/332595657363685377/332595657363685377/1324851807507316807)\n⬥ [Rune Emperor](https://discord.com/channels/332595657363685377/374280345966608384/1336101515638607972)\n⬥ [ProgMetal](https://discord.com/channels/332595657363685377/374280345966608384/1340497725073920123)\n⬥ [twsted treln](https://discord.com/channels/332595657363685377/374280345966608384/1341095584261734400)\n⬥ [Laskari2](https://discord.com/channels/332595657363685377/374280345966608384/1348441429562626068)",
         "inline": true
       }
     ]
