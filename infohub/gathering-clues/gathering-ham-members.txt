@@ -38,12 +38,12 @@ The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pick
     "fields": [
       {
         "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Long AFK Preset and Breakdown](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/easy-clue-preset.png)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ham-members.txt)",
+        "value": "⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/9LoNogzsGiiynkIDA3Vl)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ham-members.txt)",
         "inline": true
       }
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/easy-clue-preset.png"
+      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/easygatheringv2.png"
     }
   }
 }
