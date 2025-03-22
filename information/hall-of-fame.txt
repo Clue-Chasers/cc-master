@@ -29,7 +29,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
                   {
         "name": "\u200b",
-        "value": "⬥ [Phyzzix4PF](https://discord.com/channels/332595657363685377/374280345966608384/1328221573223551050)\n⬥ [Bojio](https://discord.com/channels/332595657363685377/374280345966608384/1347562712049385492)",
+        "value": "⬥ [Phyzzix4PF](https://discord.com/channels/332595657363685377/374280345966608384/1328221573223551050)\n⬥ [Bojio](https://discord.com/channels/332595657363685377/374280345966608384/1347562712049385492)\n⬥ [G ert](https://discord.com/channels/332595657363685377/374280345966608384/1353021386104242236)",
         "inline": true
       }
     ]
