@@ -10,7 +10,7 @@
       },
       {
         "name": "__Daily Clue Completion__",
-        "value": "⬥ **[Daily Clue Completion](<https://docs.google.com/spreadsheets/d/140WDk6aMr0-O2Wtri1tAQ4xO_sj51XU1USUdEUktqnQ/edit#gid=867380064>)**"
+        "value": "⬥ **[Daily Clue Completion](<https://docs.google.com/spreadsheets/d/1RmwB0s8cftA63budaCR-wiY9P_rr4OVRjFwXgIvBx6U/edit?gid=1121906459#gid=1121906459>)**"
       },
       {
         "name": "__GP/Casket__",
