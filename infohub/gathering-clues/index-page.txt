@@ -1,4 +1,4 @@
-**Assumes 10 procs an hour. 1 hour of Scripture of Bik <:scriptureofbik:892342109791735848>  averages:**
+**Assumes 10 procs an hour. 1 hour of Scripture of Bik <:scriptureofbik:892342109791735848> averages:**
 
 1.1 x Sealed clue scroll <:Easy:633728862039179294>
 5.2 x Sealed clue scroll <:Medium:633728704438075435>
@@ -36,3 +36,6 @@ Consider downgrading hard clues (~48.1/hr) + Bik <:scriptureofbik:89234210979173
 **Master Clues <:Master:1019920500807450666>**
 For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
 <#1022584947980116138> check this channel out for more information.
+
+**Tetracompass** <:tetracompass:1346902474090352753>
+<#1357717414351077716> (~0.99/hr <:tonymattock:900765150888480838> or 0.85/hr <:mattockoftimespace:1346895988039618591>) + Bik <:scriptureofbik:892342109791735848>
