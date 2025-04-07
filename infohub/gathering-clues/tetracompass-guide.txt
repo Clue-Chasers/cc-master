@@ -8,7 +8,8 @@ This guide is designed for players who want to use the Archaeology skill alongsi
 This guide focuses solely on the **[Green Gobbo Goodies 1](<https://runescape.wiki/w/Green_Gobbo_Goodies_I>)** collection, as it yields the highest number of Tetracompass pieces per hour. If you're interested in **[Red Rum Relics 3](<https://runescape.wiki/w/Red_Rum_Relics_III>)** or want to adjust any calculation parameters, use the RuneScape Wiki's **[Archaeology Hotspot Calculator](<https://runescape.wiki/w/Calculator:Archaeology/Hotspot>)**.
 
 Note: There is the assumption that you receive equal amounts of each artefact as this is what will happen over a long period of time and makes calculations easier.
-## **Tetracompass Numbers (excluding Scripture of Bik <:scriptureofbik:892342109791735848> & Research Team <:research:1357683628124934285>)**
+## **Tetracompass - AFK Gathering Yield**
+These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892342109791735848> and sending out your Research Team <:research:1357683628124934285>):
 <:tonymattock:900765150888480838> Guildmaster Tony's mattock will yield you 0.99 tetracompasses/hour.
 <:spacetimemattock:900765150674555000> Mattock of Time and Space will yield you 0.85 tetracompasses/hour.
 .
@@ -18,7 +19,7 @@ For information on Scripture of Bik, visit <#1022589092262842508>
 Any questions regarding the presets, ask in <#400499160094212097>
 Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
 .
-## **Gathering Preset**
+## **Gathering Presets**
 .tag:gathering
 {
   "embed": {
@@ -27,13 +28,13 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
     "color": 39423,
     "fields": [
       {
-        "name": "__Gathering Preset__",
-        "value": "⬥ [Tetracompass Gathering](https://pvme.github.io/preset-maker/#/jUj0JbfR5Qlv19UVMOhn)",
+        "name": "__Gathering Presets__",
+        "value": "⬥ [Tetracompass - AFK Gathering](https://pvme.io/preset-maker/#/abj2nUhHghRv06II9BsB) \n⬥ [Tetracompass - Active Gathering](https://pvme.github.io/preset-maker/#/qlPVY8aPVIjDfkKcBWvR)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/gatheringtetras3.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/afkgatheringtetras.png"
     }
   }
 }
@@ -54,7 +55,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/solvingtetras2.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/solvingtetras3.png"
     }
   }
 }
@@ -70,7 +71,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
 .
 .tag:advance
 ## **Advance Time Spell** <:advancetime:1357683352672403627>
-- Advance Time is a standard spellbook Magic spell castable three times per week to reset a selected activity. It can be used on the same activity repeatedly but fails without cost if the activity is inapplicable. The spell bypasses hard resets, making repeatable content available instantly.
+- Advance Time is a standard spellbook Magic spell castable 3x per week to reset a selected activity. It can be used on the same activity repeatedly but fails without cost if the activity is inapplicable. The spell bypasses hard resets, making repeatable content available instantly.
 - Charges reset every Wednesday at 00:00 game time. In Archaeology, it completes active research, regardless of duration.
 .
 .tag:extra
@@ -91,7 +92,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Advice | Suggestions]($linkmsg_advice$)\n⬥ [Gathering Preset]($linkmsg_gathering$)\n⬥ [Solving Preset]($linkmsg_solving$)\n⬥ [Research Team]($linkmsg_research$)\n⬥ [Advance Time Spell]($linkmsg_advance$)\n⬥ [Extra Information]($linkmsg_extra$)\n⬥ Return to <#1023016130077532300> or <#1023016354145648741>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Advice | Suggestions]($linkmsg_advice$)\n⬥ [Gathering Presets]($linkmsg_gathering$)\n⬥ [Solving Preset]($linkmsg_solving$)\n⬥ [Research Team]($linkmsg_research$)\n⬥ [Advance Time Spell]($linkmsg_advance$)\n⬥ [Extra Information]($linkmsg_extra$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
