@@ -216,7 +216,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:39:31 - [Jere](https://youtu.be/0B1kWvQ-00s?si=kYsGcWeUNMiNl9NI&t=518)\n⬥ 0:42:14 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)\n⬥ 0:49:40 - [snowy alan](https://www.youtube.com/watch?v=ynVqE7W62fs)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)",
+        "value": "⬥ 0:39:31 - [Jere](https://youtu.be/0B1kWvQ-00s?si=kYsGcWeUNMiNl9NI&t=518)\n⬥ 0:42:14 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 0:47:22 - [bunny alan](https://www.youtube.com/watch?v=yva5ttR6oY8)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)",
         "inline": true
       },
       {
