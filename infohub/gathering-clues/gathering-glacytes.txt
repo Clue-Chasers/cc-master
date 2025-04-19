@@ -8,7 +8,6 @@ Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have th
 Glacytes are good for gathering hard clues <:Hard:633728361918758930>.
 
 This guide aims to give you both a short and long form method of AFKing Glacytes for Hard clues <:Hard:633728361918758930>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~3.7 Hard clues <:Hard:633728361918758930> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know.
-
 .
 .tag:reqs
 ### **Requirements**
@@ -53,8 +52,8 @@ Here is a guide displaying how to lure them:
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/4SrUbxMeuR1i8xU1DouX)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/UudtifEe547tcgUsPCSO)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
+        "name": "__Preset and Afkwarden__",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/4SrUbxMeuR1i8xU1DouX)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/zlme6tWAJ0kdip3RSz8z)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)",
         "inline": true
       }
     ],
@@ -67,10 +66,8 @@ Here is a guide displaying how to lure them:
 **Preset Notes**
 ⬥ If you're opting to do Long AFK, just pause the lootbeam.
 ⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
-
 .tag:bar
 **Action Bars**
-
 **Short AFK Magic Bar 3080+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytesbarshortafk.png
 .
