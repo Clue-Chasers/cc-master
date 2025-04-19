@@ -54,7 +54,10 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
         "value": "⬥ [Preset and Breakdown](https://pvme.io/preset-maker/#/P42yjSoexrv0OIfhvud1)",
         "inline": true
       }
-    ]
+    ],
+    "image": {
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/wildyabyssalcreatures.png"
+    }
   }
 }
 .embed:json
@@ -67,7 +70,6 @@ If you want more kills per hour for near no effort, use <:demonslayer:6413399216
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_incitefearbar.png
 <:exsanguinate:856635090745950258> Exsanguinate Bar
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_exsanguinatebar.png
-
 .
 {
   "embed": {
