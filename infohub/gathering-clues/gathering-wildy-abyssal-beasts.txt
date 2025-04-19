@@ -47,8 +47,8 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset and Afkwarden (Fellstalk Incense is actually Dwarf Incense)__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/wOnehgCUEu4N3vLhq529)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
+        "name": "__Preset and Afkwarden__",
+        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZgpKT7xcGiVoZ7fgTJbp)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
         "inline": true
       }
     ],
@@ -68,8 +68,6 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
 .tag:bar
 **[Magic Bar 890+ kph](https://youtu.be/0vE3L-nPQkQ)**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/wildybeastsbar.png
-
-.
 
 .
 {
