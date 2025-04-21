@@ -1,4 +1,4 @@
-# __Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>**)
+# __Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>)
 *Note: a **Table of Contents** can be found in the pins.*
 ## __Introduction__
 .tag:intro
@@ -141,7 +141,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 
 .embed:json
 .
-## __Rotations__
+## __Double Agent Rotations__
 .tag:rots
 {
   "embed": {
@@ -173,6 +173,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 ## __Presets and Relics__
+.tag:presets
 .
 {
   "embed": {
