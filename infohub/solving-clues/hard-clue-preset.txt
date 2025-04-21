@@ -1,25 +1,24 @@
 ### **__Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>**)
 *Note: a **Table of Contents** can be found in the pins.*
-> ### **__Introduction__**
+### **__Introduction__**
 .tag:intro
 .
 This guide is tailored for players aiming to optimize their presets for solving hard clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
-        ⬩ For a comprehensive overview on hard clues, you can refer to <#1120274004222161006>.
         ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
 .                  
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 .
-> ### **__Gathering Hard Clues__**
+### **__Gathering Hard Clues__**
 .tag:gatheringhards
 For gathering hard clues check out <#1333408239613775882>, <#1330996952367890585> or <#1334126753777717289>
 .
-> ### **__Optimal Requirements__**
+### **__Optimal Requirements__**
 .tag:requirements
 For information on how to get the optimal requirements check out <#1023963587351420949>
 .
-> ### **__Teleport Information__**
+### **__Teleport Information__**
 .tag:teleports
 This section will outline which teleports are used and what their use cases are.
 .
@@ -70,14 +69,14 @@ This section will outline which teleports are used and what their use cases are.
   }
 }
 .embed:json
-> ### **__Jackets | Backpacks | Powerbursts__**
+### **__Jackets | Backpacks | Powerbursts__**
 .tag:utility
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
 .
 {
   "embed": {
     "title": "__Equipment Utility__ ",
-    "color": 2067276,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
@@ -102,7 +101,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 2067276,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Spellbook__",
@@ -116,7 +115,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 67276,
+    "color": 12745742,
     "fields": [
       {
         "name": "**__General Tips__**",
@@ -130,7 +129,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 67276,
+    "color": 12745742,
     "fields": [
       {
         "name": "**__Optimisation Tips__**",
@@ -148,12 +147,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 
 .embed:json
 .
-> ### **__Rotations | Presets__**
+### **__Rotations | Presets__**
 .tag:presets
 {
   "embed": {
     "title": "__Double Agent Rotations__",
-    "color": 155997,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Magic__",
@@ -179,31 +178,19 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
   }
 }
 .embed:json
+## __Presets and Relics__
+.
 {
   "embed": {
-    "title": "__Preset Examples__ ",
-    "color": 15548997,
-    "fields": [
-      {
-        "name": "__Magic__ <:magic:689504724159823906>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/UBaJBpAkq2SRyEyqDfus)",
-        "inline": true
-      },
-      {
-        "name": "__Melee__ <:melee:1096130867279171706>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/CR8MCIjRtNrIVIil8EwZ)",
-        "inline": true
-      },
-            {
-        "name": "__Range__ <:range:580168050121113623>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/zDw1qdDQZ4kMgzYLkOLv)",
-        "inline": true
-      },
-      {
-        "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/y9Dtoka1MuWKozhpWlFZ)",
-        "inline": true
-      }
+    "color": 12745742,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardsranged.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Ranged preset](<https://pvme.io/preset-maker/#/AvHJ1pr5Qwqoe2tdtstc>) <:range:580168050121113623>\n⬥ [Magic preset](<https://pvme.io/preset-maker/#/VRI4A9CfeFlnPULuYFyu>) <:magic:689504724159823906>\n⬥ [Melee preset](<https://pvme.io/preset-maker/#/xRAiXJFQmzxxk9n6g8ut>) <:melee:1096130867279171706>\n⬥ [Necromancy preset <:necromancy:1148995625896120460>](<https://pvme.io/preset-maker/#/VPsp2WtAvKqgkoDWqrI1>)"
+        }
     ]
   }
 }
@@ -212,7 +199,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 12745742,
     "fields": [
       {
         "name": "__Table of Contents__",
