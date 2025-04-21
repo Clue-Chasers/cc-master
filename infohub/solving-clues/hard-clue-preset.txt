@@ -1,17 +1,17 @@
-# __Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>)
+# Hard Clue Preset Guide
+## (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>)
 *Note: a **Table of Contents** can be found in the pins.*
 ## __Introduction__
 .tag:intro
 .
 This guide is tailored for players aiming to optimize their presets for solving hard clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
-        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
-
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
         ⬩ For gathering hard clues check out <#1333408239613775882>, <#1330996952367890585> or <#1334126753777717289>
         ⬩ For information on how to get the optimal requirements check out <#1023963587351420949>
+        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>
 ## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
