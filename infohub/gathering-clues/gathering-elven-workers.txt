@@ -43,7 +43,6 @@ The order in which you should pickpocket the workers is as follows:
 ⬥ Repeat
 *Note: when you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.*
 .
-.
 .tag:preset
 {
   "embed": {
@@ -53,12 +52,12 @@ The order in which you should pickpocket the workers is as follows:
     "fields": [
       {
         "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Mid AFK Preset and Breakdown](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/%09%20Pickpocketing%20elven%20workers%20preset.png)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt)",
+        "value": "⬥ [Mid AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZmbSjFqq8b80de9tvLSw)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt)",
         "inline": true
       }
     ],
     "image": {
-      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/%09%20Pickpocketing%20elven%20workers%20preset.png"
+      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elvenworkers.webp"
     }
   }
 }
@@ -66,7 +65,6 @@ The order in which you should pickpocket the workers is as follows:
 **Preset Notes**
 ⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033>.
 ⬥ You can take up to 8 Spirit Attraction flasks <:spiritattractionflask:1102531518741622854>.
-
 .
 {
   "embed": {
