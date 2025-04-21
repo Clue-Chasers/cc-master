@@ -1,25 +1,19 @@
-### **__Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>**)
+# __Hard Clue Preset Guide__ (courtesy of <@161545097597550593>, <@145884917627224065> & <@161169420444631040>**)
 *Note: a **Table of Contents** can be found in the pins.*
-### **__Introduction__**
+## __Introduction__
 .tag:intro
 .
 This guide is tailored for players aiming to optimize their presets for solving hard clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
-
+.
         ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
-.                  
+.               
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
-.
-### **__Gathering Hard Clues__**
-.tag:gatheringhards
+## __Gathering Hard Clues__
 For gathering hard clues check out <#1333408239613775882>, <#1330996952367890585> or <#1334126753777717289>
-.
-### **__Optimal Requirements__**
-.tag:requirements
+## __Optimal Requirements__
 For information on how to get the optimal requirements check out <#1023963587351420949>
-.
-### **__Teleport Information__**
-.tag:teleports
+## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
 {
@@ -69,7 +63,7 @@ This section will outline which teleports are used and what their use cases are.
   }
 }
 .embed:json
-### **__Jackets | Backpacks | Powerbursts__**
+## __Globetrotter & Powerbursts Usage__
 .tag:utility
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
 .
@@ -147,8 +141,8 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 
 .embed:json
 .
-### **__Rotations | Presets__**
-.tag:presets
+## __Rotations__
+.tag:rots
 {
   "embed": {
     "title": "__Double Agent Rotations__",
@@ -203,7 +197,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Hards]($linkmsg_gatheringhards$)\n⬥ [Optimal Requirements]($linkmsg_requirements$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Double Agent Rotations]($linkmsg_rots$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
