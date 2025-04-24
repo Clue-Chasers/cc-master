@@ -1,1 +1,171 @@
 
+# Easy Clue Preset Guide
+## (courtesy of <@145884917627224065>)
+*Note: a **Table of Contents** can be found in the pins.*
+## __Introduction__
+.tag:intro
+.
+This guide is tailored for players aiming to optimize their presets for solving easy clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
+
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
+
+        ⬩ For gathering easy clues check out <#1333860521224572979>.
+## __Teleport Information__
+This section will outline which teleports are used and what their use cases are.
+.
+{
+  "embed": {
+    "title": "__Which teleport jewellery to store?__ ",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
+        "inline": true
+      },
+      {
+        "name": "__Passage #2__ <:potared:1123597976208674888>",
+        "value": "⬥ [Enlightened amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>\n⬥ [Ring of wealth](https://runescape.wiki/w/Ring_of_Wealth) <:Ring_of_Wealth:1151211387692011680>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A I Q** - Asgarnia: Mudskipper Point](https://runescape.wiki/w/Fairy_ring#AIQ)\n⬥ [**D I S** - Misthalin: Wizards' Tower](https://runescape.wiki/w/Fairy_ring#DIS)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://runescape.wiki/w/Fairy_ring#CJR)\n\n*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Taverley](https://runescape.wiki/w/Portal_(player-owned_house) <:taverleylode:1032552329758650418>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Archaeology Campus](https://runescape.wiki/w/Archaeology_Campus) (1)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+## __Globetrotter & Powerbursts Usage__
+.tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
+{
+  "embed": {
+    "title": "__Equipment Utility__ ",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__Potential Jacket + Backpack Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Sinclair's Mansion (south)](https://runescape.wiki/w/Sinclair_Mansion) → <:Ringofrespawn:1127339224467775569> (3)\n⬥ [Het's Oasis (north-east)](https://runescape.wiki/w/Het%27s_Oasis) →  <:mysticalsandseed:1364917797922275348> only <:globetrotterbackpack:1123592248056102993> this step\n⬥ [Citharede Abbey](https://runescape.wiki/w/Abbey_of_St._Elspeth_Citharede) → <:alkharidlode:1032552328005419038>\n⬥ [Lumbridge Wheat Field (north west)](https://runescape.wiki/w/Lumbridge) → <:Lumbridge_Teleport_icon:1131959235094265876>\n⬥ [Sinclair's Mansion](https://runescape.wiki/w/Sinclair_Mansion) → <:portablefairyring:1084799722780360704> (CJR)\n⬥ [Falador Farm](https://runescape.wiki/w/Falador_farm) → <:explorer:1123596366359314512>\n⬥ [The Poison Arrow (Ardougne Pub)](https://runescape.wiki/w/The_Poison_Arrow) → <:davespellbook:1123597962937905242>\n⬥ [East Ardougne Church](https://runescape.wiki/w/East_Ardougne_church) → <:Ardougne_Teleport_icon1:1131959097663684661>",
+        "inline": false
+      },
+			      {
+        "name": "__Potential Jacket + Backpack Steps Extended__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Draynor Manor](https://runescape.wiki/w/Draynor_Manor) → <:amuletofnature:1123599470911815750>\n⬥ [Camelot Castle](https://runescape.wiki/w/Camelot) →  <:Ringofrespawn:1127339224467775569> (3)\n⬥ [Burthorpe Games Room](https://runescape.wiki/w/Burthorpe_Games_Room) →  <:Ringofrespawn:1127339224467775569> (5)",
+        "inline": false
+      },
+            {
+        "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
+        "value": "⬥ [Citharede Abbey](https://runescape.wiki/w/Abbey_of_St._Elspeth_Citharede) → <:alkharidlode:1032552328005419038> if no <:globetrotterbackpack:1123592248056102993> / <:globetrotterjacket:1123592261175889971> charges\n*Note: <:accelpb:1128031529063428116> use is entirely optional, and should be used when you feel it is beneficial.*",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+## __Supplementary Information__
+.tag:supp
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__Spellbook__",
+        "value": "⬥ Be on Lunar Spellbook for <:sbs:543875425055670275>.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsLunar:1127633074520346724>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "**__General Tips__**",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Nightshade patch in Draynor Manor (patch condition irrelevant—can be empty, diseased, or fully grown).",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "inline": true
+      }
+    ]
+  }
+}
+
+.embed:json
+## __Preset and Relics__
+.tag:presets
+.
+{
+  "embed": {
+    "color": 10402721,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/easysolvingpreset.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Preset](<https://pvme.io/preset-maker/#/1lFY94u31NI71PqG77X2>)"
+        }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 10402721,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
