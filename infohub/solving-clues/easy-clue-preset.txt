@@ -39,7 +39,7 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
-        "value": "⬥ [**A I Q** - Asgarnia: Mudskipper Point](https://runescape.wiki/w/Fairy_ring#AIQ)\n⬥ [**D I S** - Misthalin: Wizards' Tower](https://runescape.wiki/w/Fairy_ring#DIS)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://runescape.wiki/w/Fairy_ring#CJR)\n\n*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
+        "value": "⬥ [**A I Q** - Asgarnia: Mudskipper Point](https://runescape.wiki/w/Fairy_ring#AIQ)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://runescape.wiki/w/Fairy_ring#CJR)\n⬥ [**D I S** - Misthalin: Wizards' Tower](https://runescape.wiki/w/Fairy_ring#DIS)\n\n*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
         "inline": true
       }
     ]
