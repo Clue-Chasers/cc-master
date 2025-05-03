@@ -112,7 +112,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__General Tips__**",
-        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Nightshade patch in Draynor Manor (patch condition irrelevant—can be empty, diseased, or fully grown).",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Nightshade patch in Draynor Manor (patch condition irrelevant—can be empty, diseased, or fully grown).\n⬥ You can summon a [Pack Yak](<https://runescape.wiki/w/Pack_yak>) <:yak:513195712201228289> and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer sessions.",
         "inline": true
       }
     ]
@@ -141,12 +141,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
   "embed": {
     "color": 10402721,
     "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/easysolvingpreset.png"
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/easysolving1.png"
         },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [Preset](<https://pvme.io/preset-maker/#/1lFY94u31NI71PqG77X2>)"
+            "value":"⬥ [Preset](<https://pvme.io/preset-maker/#/RO1B4Vq0YWT6bFtobVea>)"
         }
     ]
   }
