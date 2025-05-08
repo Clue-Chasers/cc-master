@@ -66,6 +66,41 @@ For a visual comparison of scanning ranges with and without a meerkat, see the f
 [Range w/o Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange1.png)
 [Range w/ Meerkat](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/scanrange2.png)
 .
+.tag:interface
+## __Interface Guide__
+A well-organized user interface is important because it helps you set up your game view in a way that gives you convenient access to the windows you use most, like your inventory, gear, familiars, ability bars, and especially teleports. A good interface can make the game easier to play and more enjoyable.
+
+Creating a good interface is all about displaying the interface elements in a way where everything you need to access is open and important elements are appropriately close to one another, to minimize the distance your eyes and mouse need to travel around your screen. The game comes with a few pre-made layouts, but they all suffer from similar issues.
+
+In the end, the best interface is the one that fits how you play. Take a look at how experienced cluers set things up, spot any helpful patterns, and see how you can use those ideas to improve your own layout:
+.
+{
+  "embed": {
+    "title": "__Example Interfaces__",
+    "description": "These are example RS3 interface layouts, categorised by screen resolution.\nPercent % values in brackets indicate there's interface scaling - e.g. (150%).",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__1080p__ (1920x1080)",
+        "value": "⬥ [Ngis](https://i.imgur.com/lAXC40F.png)\n⬥ [beausz](https://i.imgur.com/x30GMuc.png)\n⬥ [Saltea](https://i.imgur.com/ZSJwSBA.png)\n⬥ [Phyzzix4PF](https://i.imgur.com/jGRqSuO.png)\n⬥ [Elise Poots](https://i.imgur.com/ijIuZpW.png)\n⬥ [7r5y](https://i.imgur.com/qSLc9WQ.png)\n⬥ [Fcohdz](https://i.imgur.com/DBT1jF6.png)\n⬥ [Ecruteak](https://i.imgur.com/rxCZKrQ.png)",
+        "inline": true
+      },
+      {
+        "name": "__1440p__ (2560x1440)",
+        "value": "⬥ [Brickade](https://i.imgur.com/8GsGKj3.png)\n⬥ [xaj](https://i.imgur.com/U0ykaVK.jpeg)\n⬥ [bunny alan](https://i.imgur.com/FwkWM3p.jpeg)\n⬥ [Slowdance](https://i.imgur.com/WNEa1Jp.jpeg)",
+        "inline": true
+      },
+      {
+        "name": "__2160p__ (3840x2160)",
+        "value": "[0400](https://i.imgur.com/4J3wr9C.jpeg)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+If you’re looking for a more extended interface guide or want to understand how interface sharing works, we highly recommend checking out the **[PvME interface guide](https://discord.com/channels/534508796639182860/1020546905865986068)** and the official newspost: **[How to Share Player Interfaces](https://secure.runescape.com/m=news/how-to-share-player-interfaces)**.
+.
 .tag:navinfo
 ## __Navigating Information__
 The Information Hub centralizes and organizes information through three channels: <#1023016130077532300>, <#1023016354145648741>, and <#1023016455429685389>. Use these channels to navigate directly to the forums you need.
@@ -75,7 +110,7 @@ For example, to find the solving preset for hard clues, go to the <#102301635414
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Key Tips & Essentials]($linkmsg_essentials$)\n⬥ [Permanent Unlocks]($linkmsg_perma$)\n⬥ [Beneficial Items]($linkmsg_beneficial$)\n⬥ [Navigating Information]($linkmsg_navinfo$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Key Tips & Essentials]($linkmsg_essentials$)\n⬥ [Permanent Unlocks]($linkmsg_perma$)\n⬥ [Beneficial Items]($linkmsg_beneficial$)\n⬥ [Interface Guide]($linkmsg_interface$)\n⬥ [Navigating Information]($linkmsg_navinfo$)",
     "color": 3447003
   }
 }
