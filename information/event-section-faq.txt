@@ -55,7 +55,7 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
     "fields": [
       {
         "name": "__2024 Winter Mass__ ❄️",
-        "value": "⬥ sunny alan - 5b GP\n⬥ Elba - 5b GP\n⬥ Zte - 1b GP",
+        "value": "⬥ snowy alan - 5b GP\n⬥ Elba - 5b GP\n⬥ Zte - 1b GP",
         "inline": true
       },
       {
