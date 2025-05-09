@@ -11,7 +11,7 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
   "embed": {
     "title": "__**Event Information**__",
     "url": "",
-    "description": "We’ve had some great events and want to keep those good vibes going! To keep things positive, please sort out any conflicts in private and not during any of the events. Everyone’s welcome, and it’s awesome seeing so many people from all backgrounds having fun together. No one should feel left out or uncomfortable. If something’s bothering you, [reach out to us](<https://discord.com/channels/332595657363685377/1283170720599248938>), we’re here to listen and will handle things respectfully.",
+    "description": "We’ve had some great events and want to keep those good vibes going! To keep things positive, please sort out any conflicts in private and not during any of the events. Everyone’s welcome, and it’s awesome seeing so many people from all backgrounds having fun together. No one should feel left out or uncomfortable. If something’s bothering you, [reach out to us](<https://discord.com/channels/332595657363685377/1283170720599248938/1289714710337556490>), we’re here to listen and will handle things respectfully.",
     "color": 12745742,
     "fields": [
       {
