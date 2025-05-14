@@ -1,38 +1,31 @@
-### **__Master Clue Preset Guide__ (courtesy of <@145884917627224065>, <@332549285923127304> & <@161545097597550593>**)
+# Master Clue Preset Guide
+## (courtesy of <@145884917627224065>, <@332549285923127304> & <@161545097597550593>)
 *Note: a **Table of Contents** can be found in the pins.*
-> ### **__Introduction__**
+## __Introduction__
 .tag:intro
 .
 This guide is tailored for players aiming to optimize their presets for solving master clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
-Cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>.
-.                  
+To see the cost analysis of no skips vs. using skips, use the command !casket in <#333343575737892864>.
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
-.
-> ### **__Gathering Masters__**
-.tag:gathering
-Masters are gathered by solving other tiers of clues. Hards and Elites are best for this, which is better entirely depends on your personal solving and gathering speeds of both tiers.
+        ⬩ For gathering master clues check out <#1023016130077532300>.
+        ⬩ Masters are gathered by solving other tiers of clues.
+        ⬩ Solving Hards or Elites is preferred.
+        ⬩ Which is better entirely depends on your personal solving and gathering speeds of both tiers.
 
-.
-> ### **__Optimal Requirements__**
-.tag:requirements
-For information on how to get the optimal requirements check out <#1023991685832769587>
-
-.
-> ### **__Teleport Information__**
-.tag:teleports
+## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
 {
   "embed": {
-    "title": "",
-    "color": 12745742,
+    "title": "__Which teleport jewellery to store?__ ",
+    "color": 3447003,
     "fields": [
       {
         "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
-        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss).*\n*Master preset only requires one passage of the abyss.*",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: Current master preset only requires one passage of the abyss.*",
         "inline": true
       }
     ]
@@ -41,8 +34,8 @@ This section will outline which teleports are used and what their use cases are.
 .embed:json
 {
   "embed": {
-    "title": "",
-    "color": 12745742,
+    "title": "__Useful Teleport Options__",
+    "color": 3447003,
     "fields": [
       {
         "name": "__**Spellbook Teleports <:hometeleport:1032540077764653076>**__",
@@ -63,21 +56,21 @@ This section will outline which teleports are used and what their use cases are.
   }
 }
 .embed:json
-> ### **__Jackets | Backpacks | Powerbursts__**
+## __Globetrotter & Powerbursts Usage__
 .tag:utility
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
 .
 {
   "embed": {
-    "title": "",
-    "color": 2067276,
+    "title": "__Equipment Utility__ ",
+    "color": 3447003,
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
         "value": "⬥ Polypore Dungeon\n⬥ Cyclossis Compass South East Beach Spot\n⬥ Darkmeyer Scan South Spot\n⬥ If good jacket charges;\n        ⬩ Godwars 2 Scan, only if no triple when checking North West\n        ⬩ Port Phasmatys Emote",
         "inline": false
       },
-      {
+			      {
         "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
         "value": "⬥ Dorgesh-Kaan Agility Course\n⬥ Runespan\n⬥ Hefin Cleansing Crystal\n⬥ Polypore Dungeon (if out of Jacket charges)\n⬥ Charming Moths (if out of Trapper charges)",
         "inline": false
@@ -87,27 +80,25 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 .
+## __Supplementary Information__
+.tag:supp
 {
   "embed": {
     "title": "",
-    "color": 2066,
+    "color": 3447003,
     "fields": [
-      {
-        "name": "__Rune Pouches__",
+          {
+        "name": "__Rune Pouch Setup__",
         "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:waterrune:536252660165115905>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:earthrune:536252659808731137> <:firerune:536252659850674186> <:airrune:536252658986647589> <:soulrune:536252660333019136>",
         "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-{
-  "embed": {
-    "title": "",
-    "color": 2067276,
-    "fields": [
+      },
+                {
+        "name": "__Preset Notes__",
+        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All Skilling steps are personal preference in which you take with you and do in the secondary preset\n⬥ Overload <:elderovlsalve:648976643687317532> is a ~4.7% damage increase for Necromancy and can be repotted with the secondary preset",
+        "inline": false
+      },
       {
-        "name": "**__Tips and Unlocks__**",
+        "name": "__General Tips__",
         "value": "⬥ Use [Totem of Treasure](https://runescape.wiki/w/Totem_of_Treasure) to reduce the maximum clue steps by 1 each\n⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning) for an extended meerkat timer\n⬥ Use [Lantadyme Incense sticks](https://runescape.wiki/w/Lantadyme_incense_sticks) <:Lantadymeincense:1127691837197525033> to extend potion timers\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the allotment patch on Harmony Island\n⬥ Bind your Max Guild portals to Jadinko Lair + Living Rock Caverns\n⬥ Change your Max Guild teleport with [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) to be in the garden\n⬥ Set your Wars Retreat portals to Gregorovic + Twin Furies\n⬥ Have a Seiryu reaper task for Reaper portal\n⬥ Max Cape + cape stand perks: <:dungeoneering:1003947795541143632> + <:cooking:1011705729192820747> with one <:constitution:689509250887712902> / <:crafting:1039864810239705119> / <:masterquestcape:1091050888828813412>",
         "inline": true
       }
@@ -116,12 +107,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 .
-> ### **__Rotations | Presets__**
-.tag:presets
 {
   "embed": {
     "title": "__Double Agent Rotations__",
-    "color": 15548997,
+    "color": 3447003,
     "fields": [
       {
         "name": "__Range__",
@@ -145,42 +134,32 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 67276,
+    "color": 3447003,
     "fields": [
       {
-        "name": "**__Preset Notes and Alterations__**",
-        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All Skilling steps are personal preference in which you take with you and do in the secondary preset\n⬥ Overload <:elderovlsalve:648976643687317532> is a ~4.7% damage increase for Necromancy and can be repotted with the secondary preset",
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
         "inline": true
       }
     ]
   }
 }
+
 .embed:json
+## __Preset and Relics__
+.tag:presets
+.
 {
   "embed": {
-    "title": "__Preset Examples__ ",
-    "color": 155482,
-    "fields": [
-      {
-        "name": "__Ranged__ <:range:580168050121113623>",
-        "value": "⬥ [Preset Link](https://pvme.github.io/preset-maker/#/MdjQtbC7XWt6iIOQ3paP)",
-        "inline": true
-      },
-      {
-        "name": "__Melee__ <:melee:1096130867279171706>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/4kgINTSzDKzZpmPt5Iyx)",
-        "inline": true
-      },
-      {
-        "name": "__Necromancy__ <:necromancy:1148995625896120460>",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/d2tA5toDX0msWqJj4NQj)",
-        "inline": true
-      },
-      {
-        "name": "__Secondary Preset__",
-        "value": "⬥ [Preset Link](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0)",
-        "inline": true
-      }
+    "color": 3447003,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/mastercluepreset.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Ranged Preset](https://pvme.io/preset-maker/#/Ro3CNT3KiKnIMcyr9Svb) <:range:580168050121113623>\n⬥ [Melee Preset](https://pvme.io/preset-maker/#/YKBniL87XknvxM17uLlJ) <:melee:1096130867279171706>\n⬥ [Necromancy Preset](https://pvme.io/preset-maker/#/d2tA5toDX0msWqJj4NQj) <:necromancy:1148995625896120460>\n⬥ [Secondary Preset](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0) <:cluescroll:1037463867716018206>"
+        }
     ]
   }
 }
@@ -189,11 +168,11 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 3447003,
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Gathering Masters]($linkmsg_gathering$)\n⬥ [Optimal Requirements]($linkmsg_requirements$)\n⬥ [Teleport Information]($linkmsg_teleports$)\n⬥ [Jackets | Backpacks | Powerbursts]($linkmsg_utility$)\n⬥ [Rotations | Presets]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
@@ -201,3 +180,4 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 .pin:delete
+.
