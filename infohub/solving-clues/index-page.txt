@@ -1,25 +1,25 @@
-**All Clue tiers <:cluescroll:1037463867716018206>**
-<#1240372943725531339>
+**All Clue tiers**
+[Clue Trainer](<https://discord.com/channels/332595657363685377/1240372943725531339>)
 
 **Easy Clues <:Easy:633728862039179294>**
-<#1365056370365304894>
+[Easy Clue Preset Guide](<https://discord.com/channels/332595657363685377/1365056370365304894>)
 
 **Medium Clues <:Medium:633728704438075435>**
-<#1023171953235873895>
+[Medium clue preset](<https://discord.com/channels/332595657363685377/1023171953235873895>)
 
 **Hard Clues <:Hard:633728361918758930>**
-<#1151237984411201546>
-<#1023963587351420949>
+[Hard Clue Preset Guide](<https://discord.com/channels/332595657363685377/1151237984411201546>)
+[Requirements for optimal hard clues](<https://discord.com/channels/332595657363685377/1023963587351420949>)
 
 **Elite Clues <:Elite:633732493228638209>**
-<#1128065468142465115>
-<#1023174431943700531>
-<#1023970830138474507>
+[Elite Clue Preset Guide](<https://discord.com/channels/332595657363685377/1128065468142465115>)
+[Optimal scan routes elite clues](<https://discord.com/channels/332595657363685377/1023174431943700531>)
+[Requirements for optimal elite clues](<https://discord.com/channels/332595657363685377/1023970830138474507>)
 
 **Master Clues <:Master:1019920500807450666>**
-<#1154168787562672138>
-<#1080570681470750790>
-<#1023991685832769587>
+[Master Clue Preset Guide](<https://discord.com/channels/332595657363685377/1154168787562672138>)
+[Master Clue Scan Guide](<https://discord.com/channels/332595657363685377/1080570681470750790>)
+[Requirements for optimal master clues](<https://discord.com/channels/332595657363685377/1023991685832769587>)
 
 **Trimmed Completionists Requirement Guide** <:comptrim:654618235223932958>
-<#1124789070351048704>
+[Trimmed Completionists Requirement Guide](<https://discord.com/channels/332595657363685377/1124789070351048704>)
