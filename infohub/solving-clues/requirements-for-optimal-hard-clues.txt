@@ -68,8 +68,10 @@
 ⬥ For access to the [Lava Flow Mine](<https://runescape.wiki/w/Lava_Flow_Mine>)
 ### **[The Dig Site](<https://runescape.wiki/w/The_Dig_Site>) + [Find clean necklace in the Varrock Museum](<https://runescape.wiki/w/Dig_Site_pendant>)**
 ⬥ Unlocks Dig Site Pendant <:digsitependant:1124762422507479151>
+### **[Pharaoh's Folly](<https://runescape.wiki/w/Pharaohs_Folly>)**
+⬥ Access to the [Leela's favour](<https://runescape.wiki/w/Leelas_favour>) <:leelasfavour:1372307156346343565> - provides unlimited free teleports to different districts of Menaphos & the shifting tombs.
 ### **[Succession](<https://runescape.wiki/w/Succession>)**
-⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable <:dive:1049378668197195808>
+⬥ Access to the [Dive ability](<https://runescape.wiki/w/Dive>) when Bladed Dive is unavailable. <:dive:1049378668197195808>
 ⬥ Unlocks Tier 6 of the [Infernal Puzzle Box](<https://runescape.wiki/w/Infernal_Puzzle_Box>) <:infernalpuzzlebox:994189299681607800> and ability to add it to the toolbelt
 ### **[Quest cape](<https://runescape.wiki/w/Quest_Cape>)**
 ⬥ This cape provides teleports to the following locations:
