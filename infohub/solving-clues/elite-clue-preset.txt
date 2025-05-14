@@ -1,67 +1,23 @@
-**Elite Clue Preset Guide**  *(Courtesy of <@332549285923127304>)*
-.
-> **__Introduction__**
+# Elite Clue Preset Guide
+## (courtesy of <@332549285923127304>)
+*Note: a **Table of Contents** can be found in the pins.*
+## __Introduction__
 .tag:intro
-The below presets will cover both a non-skip ticket and skip ticket setup, as well as an alternative preset for when your Sentinel Outfit runs out/if you dont want to use the Sentinel Outfit. Presets also assume you are using <:Bik:908044805475553321> whilst solving. If you aren't, replace <:Bik:908044805475553321> and <:Spiritattractionflask:1127681167005589545> with items of your choice.
+.
+This guide is tailored for players aiming to optimize their presets for solving elite clues, whether they prefer using skip tickets or not. It also includes an alternative preset for when your Sentinel Outfit charges are depleted or if you choose not to use it. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
+
 To see the cost analysis of no skips vs. using skips, use the command !casket in <#333343575737892864>.
-Any questions regarding the presets, ask in <#400499160094212097>.
-Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
+
+        ⬩ For gathering elite clues check out <#1023016130077532300>.
+## __Teleport Information__
+This section will outline which teleports are used and what their use cases are.
 .
-> **__Learning Elite Clues__**
-.tag:learningelites
-Below are a couple of useful resources to help you solve elites:
-.
-__Compass Solving Basics__
-<#1120274119884292127>
-.
-__Scan Guides__
-<#1023174431943700531>
-.
-> **__Gathering Elite Clues__**
-.tag:gatheringelites
-<#1023016130077532300>
-.
-> **__Elite Clue Presets__**
-.tag:presets
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset Examples__",
-        "value": "⬥ [BIS Preset w/ Skips](https://pvme.github.io/preset-maker/#/QrhBKbm5hg1v0bPm8Rmx)\n⬥ [BIS Preset w/o Skips](https://pvme.github.io/preset-maker/#/xJIQs1Tp0jEQEHkB8691)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.github.io/preset-maker/#/6MTaGgXK0kcDnOmBcuhV)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.github.io/preset-maker/#/XjEanj3BeWTCvea80kUK)\n⬥ [No Sceptre of the Gods w/ Skips](https://pvme.github.io/preset-maker/#/xQgcIQnlNLlTrrlCer31)\n⬥ [No Sceptre of the Gods w/o Skips](https://pvme.github.io/preset-maker/#/TTRhjhs5vMaWl2qYGAqf)\n⬥ <#1128064843254083655>",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-> __**Preset Notes**__
-.tag:notes
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset Notes__",
-        "value": "⬥ Be on Lunars <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Portable Obelisk <:portableobelisk:1131407613469409370> can be swapped for Obelisk Shards <:obeliskshard:1131407611162529822>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n\n**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164> \n⬥ Dungeoneering Cape <:dgcape:976732922545586246>\n⬥ Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols\n⬥ Lava Flow Mine",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports
-Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)
-.
-> __**Passage of the Abyss**__
-.tag:pota
 {
   "embed": {
     "title": "__Which teleport jewellery to store?__ ",
-    "color": 12745742,
+    "color": 16776960,
     "fields": [
       {
         "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
@@ -77,12 +33,10 @@ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillste
   }
 }
 .embed:json
-> __**Fairy Rings**__
-.tag:fairy
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 16776960,
     "fields": [
       {
         "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
@@ -93,92 +47,119 @@ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillste
   }
 }
 .embed:json
-> __**Globetrotter Jacket & Backpack**__
-.tag:jacketbackpack
 {
   "embed": {
     "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
-        "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after checking starting area\n⬥ [Tirannwn Scan](https://i.imgur.com/WGa2CNT.png) - after teleporting with <:quiver:656863806080811038> in order 7, 6, 1 ( <:dive:1049378668197195808> SW ), 3\n⬥ [Fremennik Slayer Dungeon](https://i.imgur.com/p6PSMdB.png) - if 'scan another level' message isn't received\n⬥ [Fremmenik Area - Iceberg](https://i.imgur.com/yNVeX6T.png) - North Fremennik Lodestone\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Needle's Skips Area - North of the Pier](https://i.imgur.com/5r9151Y.png)\n⬥ [Graveyard north Drakan's Castle](https://i.imgur.com/OB4Frqq.png)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-.
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
-        "value": "⬥ [Mos Le'Harmless Scan](https://i.imgur.com/tNSK8js.png)\n⬥ [Lumbridge Swamp Cave Scan](https://i.imgur.com/eHRMmYt.png)\n⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - if 'scan another level' message isn't received\n⬥ Wilderness Steps that aren't easily accessible",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-> __**Powerburst Usage**__
-.tag:powerbursts
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Powerbursts Usage__ <:accelpb:1128031529063428116>",
-        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Kharidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116> ",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-> __**Useful Teleports**__
-.tag:useful
-{
-  "embed": {
-    "title": "",
-    "color": 39423,
+    "color": 16776960,
     "fields": [
       {
         "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Artic Pine Tree (0,3) → Quick tp for Fremennik Isles scan\n⬥ Magic Trees (6,4) → Tirannwn scan\n⬥ Teaks South West of Castle Wars (0,1,3)\n⬥ North Yanille Ivy (0,5,7)\n⬥ Elder Tree North of Legends Guild (7,1)\n⬥ Overgrown Idols West of Shipyard (0,6,1)\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Daemonheim (7)\n⬥ Chief Tess (0,2)\n⬥ Goblin Generals (0,3) (1)\n⬥ Isaura (0,4)\n⬥ Lowse (0,5)\n⬥ Soran (0,8)\n\n__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (Compass)\n⬥ Blue Dragons (Taverly Scan)\n⬥ Red Dragons (Brimhaven Scan)\n⬥ Black Dragons - Evil Chicken (Zanaris Scan)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (7) → Quick TP → Fremennik Isles scan\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Teak Trees (0,4) → SW Castle Wars\n⬥ Choking Ivy (6,7) → North Yanille\n⬥ Elder Trees (2,1) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard \n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Daemonheim (7)\n⬥ Chief Tess (0,2)\n⬥ Goblin Generals (0,3) (1)\n⬥ Isaura (0,4)\n⬥ Lowse (0,5)\n⬥ Soran (0,8)\n\n__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (Compass)\n⬥ Blue Dragons (Taverly Scan)\n⬥ Red Dragons (Brimhaven Scan)\n⬥ Black Dragons - Evil Chicken (Zanaris Scan)",
         "inline": true
       }
     ]
   }
 }
 .embed:json
-> __**Tips & Tricks**__
-.tag:tricks
-In-game sounds are able to assist with scans. Listening to the pulse instead of staring at your feet allows you focus on surroundings and get information as you are teleporting from one place to another.
-
-⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>
-⬥ You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals
-⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route
-⬥ For the North Eastern Daemonheim spot - Either use Dragonkin Laboratory Tokens <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef
-⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs
-⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.
-⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)
-⬥ For the "No Sceptre of the Gods w/ Skips" preset, use <:shadowsgrace:895999229737185280> and run the Lumbridge Swamp Cave scan in the dark if you have too.
+## __Globetrotter & Powerbursts Usage__
+.tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
+{
+  "embed": {
+    "title": "__Equipment Utility__ ",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Potential Jacket + Backpack Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after checking starting area\n⬥ [Tirannwn Scan](https://i.imgur.com/WGa2CNT.png) - after teleporting with <:quiver:656863806080811038> in order 7, 6, 1 ( <:dive:1049378668197195808> SW ), 3\n⬥ [Fremennik Slayer Dungeon](https://i.imgur.com/p6PSMdB.png) - if 'scan another level' message isn't received\n⬥ [Fremmenik Area - Iceberg](https://i.imgur.com/yNVeX6T.png) - North Fremennik Lodestone\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Needle's Skips Area - North of the Pier](https://i.imgur.com/5r9151Y.png)\n⬥ [Graveyard north Drakan's Castle](https://i.imgur.com/OB4Frqq.png)",
+        "inline": false
+      },
+			      {
+        "name": "__Potential Jacket + Backpack Steps Extended__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Mos Le'Harmless Scan](https://i.imgur.com/tNSK8js.png)\n⬥ [Lumbridge Swamp Cave Scan](https://i.imgur.com/eHRMmYt.png)\n⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - if 'scan another level' message isn't received\n⬥ Wilderness Steps that aren't easily accessible",
+        "inline": false
+      },
+            {
+        "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
+        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Kharidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+## __Supplementary Information__
+.tag:supp
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+          {
+        "name": "__Triangulating Compass Clues__",
+        "value": "⬥ You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports\n⬥ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)\n",
+        "inline": false
+      },
+      {
+        "name": "__Preset Notes__",
+        "value": "⬥ Be on Lunars <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Portable Obelisk <:portableobelisk:1131407613469409370> can be swapped for Obelisk Shards <:obeliskshard:1131407611162529822>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n\n**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164>\n⬥ Dungeoneering Cape <:dgcape:976732922545586246>\n⬥ Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
 .
 {
   "embed": {
     "title": "",
-    "color": 39423,
+    "color": 16776960,
     "fields": [
       {
-        "name": "__Shoutouts__ �",
-        "value": "Thank you to <@350311991610703875> and <@127512892319858689> for providing the presets",
+        "name": "**__General Tips #1__**\u200b",
+        "value": "⬥ In-game sounds are able to assist with scans. Listening to the pulse instead of staring at your feet allows you focus on surroundings and get information as you are teleporting from one place to another.\n⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>\n⬥ You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals\n⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route\n⬥ For the North Eastern Daemonheim spot - Either use Dragonkin Laboratory Tokens <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef",
+        "inline": false
+      },
+            {
+        "name": "__General Tips #2__",
+        "value": "⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)",
         "inline": true
       }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "inline": true
+      }
+    ]
+  }
+}
+
+.embed:json
+## __Preset and Relics__
+.tag:presets
+.
+{
+  "embed": {
+    "color": 16776960,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elitesolvingpreset.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/XdKWAyYphEg1XIU9lnu9)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/sNspzmdYrGnn2o1lmcD1)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/TXpKxbX2v9hUKOd43b12)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/XCBsT1kdCozVkdr2wNQw)"
+        }
     ]
   }
 }
@@ -186,17 +167,12 @@ In-game sounds are able to assist with scans. Listening to the pulse instead of 
 .
 {
   "embed": {
-    "title": "__Table of Contents__",
-    "color": 39423,
+    "title": "",
+    "color": 16776960,
     "fields": [
       {
-        "name": "__Introduction__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Learning Elite Clues]($linkmsg_learningelites$)\n⬥ [Gathering Elites]($linkmsg_gatheringelites$)",
-        "inline": true
-      },
-      {
-        "name": "__Presets and Notes__",
-        "value": "⬥ [Elite Presets]($linkmsg_presets$)\n⬥ [Preset Notes]($linkmsg_notes$)\n⬥ [Passage of the Abyss]($linkmsg_pota$)\n⬥ [Fairy Ring Favourites]($linkmsg_fairy$)\n⬥ [Jacket & Backpack use]($linkmsg_jacketbackpack$)\n⬥ [Powerburst Usage]($linkmsg_powerbursts$)\n⬥ [Useful Teleports]($linkmsg_useful$)\n⬥ [Tips & Tricks]($linkmsg_tricks$)",
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
@@ -205,4 +181,3 @@ In-game sounds are able to assist with scans. Listening to the pulse instead of 
 .embed:json
 .pin:delete
 .
-Return to <#1023016354145648741>
