@@ -1,0 +1,89 @@
+## Prosper Runecrafting <:Prosper:1152352942326829157> <:runecrafting:1039864816073969734>
+*Note: a **Table of Contents** can be found in the pins.*
+.
+.tag:intro
+### **Introduction** *(courtesy of <@145884917627224065>)*
+## __DISCLAIMER:__ This method may be severely nerfed and/or removed.
+Prosper <:Prosper:1152352942326829157> is a great way to get all types of clues and with the Crystal Binding Rod <:crystalbindingrod:1372313973147570226> we can now Runecraft with Prosper <:Prosper:1152352942326829157>.
+
+This is a very click intensive method but it is the best method of gathering multiple types of clues in the game, it's very close to being the best Elite gathering method in game.
+
+This guide aims to give you all the information you need to do Prosper Runecrafting <:Prosper:1152352942326829157> <:runecrafting:1039864816073969734> optimally.
+
+This method only realisically works with Rune Essence and Impure Essence, it doesn't work well with Pure Essence as the left click option is chisel so you can't keybind it to drop it.
+.
+.tag:reqs
+### **Requirements**
+⬥ <:crystalbindingrod:1372313973147570226> Crystal Binding Rod
+    • <:Prosper:1152352942326829157> Prosper perk
+⬥ <:runecrafting:1039864816073969734> 60 Runecrafting
+⬥ Access to the City of Um
+.
+.tag:useful
+### **Useful Items**
+⬥ <:expansivepouch:1372315182490980493> Expansive Pouch
+⬥ <:abyssaltitan:1372315362774745199> Abyssal Titan Pouch
+⬥ <:infinityetherealhead:1104718191797731409> Full Infinity Ethereal
+⬥ <:soilbox:1372315703029403728> Archaeological Soil Box
+⬥ <:passingbracelet:1372316001592545441> Passing Bracelet
+⬥ <:gote:900765150678749204> Grace of the Elves
+    • Attuned to Deep Sea Fishing
+.
+.tag:method
+### Method
+*Notes:*
+*Prefill your items with essence.*
+*Keybind your essence, the more keybinds the better.*
+*Fill your Soil Box with the amount that would fill your inventory minus 2. So if you have 25 Essence in your inventory before dropped, put 23 soil in your box.*
+
+⬥ Teleport with Passing Bracelet to City of Um: Haunt on the Hill (option 2)
+⬥ <:dive:1049378668197195808> + <:surge:535533810004262912> to the Portal
+⬥ Enter portal and <:surge:535533810004262912>
+⬥ Start dropping your inventory essence with your keybinds
+⬥ Withdraw from your BoB (keybind it and set it to Take BoB in options) and drop the essence
+⬥ Withdraw from your Expansive Pouch and drop the essence until empty
+⬥ Withdaw from your Infinity Ethereal Outfit and drop the essence
+⬥ Withdraw your Soil from your Soil Box
+⬥ Open Area Loot, hit space and click the altar
+⬥ Hit space and click the altar repeatedly until there is no more essence on the floor
+⬥ Fill your Soil Box
+⬥ Bank at Deep Sea Fishing and repeat the whole process
+.
+.
+.tag:preset
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Example Preset__",
+        "value": "⬥ [Preset](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/rc%20preset.png)",
+        "inline": true
+      }
+    ],
+    "image": {
+      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/rc%20preset.png"
+    }
+  }
+}
+.embed:json
+#### Video Example
+**[Prosper Runecrafting](https://www.youtube.com/watch?v=KyOB77NesRA)**
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Method]($linkmsg_method$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
