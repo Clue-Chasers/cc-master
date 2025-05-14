@@ -8,19 +8,44 @@ This guide is designed for players who want to use the Archaeology skill alongsi
 This guide focuses solely on the **[Green Gobbo Goodies 1](<https://runescape.wiki/w/Green_Gobbo_Goodies_I>)** collection, as it yields the highest number of Tetracompass pieces per hour. If you're interested in **[Red Rum Relics 3](<https://runescape.wiki/w/Red_Rum_Relics_III>)** or want to adjust any calculation parameters, use the RuneScape Wiki's **[Archaeology Hotspot Calculator](<https://runescape.wiki/w/Calculator:Archaeology/Hotspot>)**.
 
 Note: There is the assumption that you receive equal amounts of each artefact as this is what will happen over a long period of time and makes calculations easier.
-## **Tetracompass - AFK Gathering Yield**
+
+For information on Scripture of Bik, visit <#1022589092262842508>
+Any questions regarding the presets, ask in <#400499160094212097>
+Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
+
+## __Tetracompass - AFK Gathering Yield__
 These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892342109791735848> and sending out your Research Team <:research:1357683628124934285>):
 <:tonymattock:900765150888480838> Guildmaster Tony's mattock will yield you 0.99 tetracompasses/hour.
 <:spacetimemattock:900765150674555000> Mattock of Time and Space will yield you 0.85 tetracompasses/hour.
 .
-## **Advice & Suggestions**
-.tag:advice
-For information on Scripture of Bik, visit <#1022589092262842508>
-Any questions regarding the presets, ask in <#400499160094212097>
-Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
+.tag:research
+## __Research Team__ <:research:1357683628124934285>
+- Research in Archaeology allows players to send teams on expeditions to earn materials, XP, and artefacts. Unlocked at the assistant qualification, the tutorial starts at the Exam Centre's research notes table.
+- Players pay researchers with chronotes, which are forfeited if an expedition is canceled. At level 120 (boostable), Mr. Mordaut can passively generate tetracompass pieces.
+- Upgrading the **[Command Centre](<https://runescape.wiki/w/Command_Centre#Benefits>)** reduces chronote costs by 3% (tier 2) and increases research speed by 3% (tier 3).
+- Recommended research team for players sending out research once per day:
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/researchteam1.png
 .
-## **Gathering Presets**
-.tag:gathering
+## __Advance Time Spell__ <:advancetime:1357683352672403627>
+- Advance Time is a standard spellbook Magic spell castable 3x per week to reset a selected activity. It can be used on the same activity repeatedly but fails without cost if the activity is inapplicable. The spell bypasses hard resets, making repeatable content available instantly.
+- Charges reset every Wednesday at 00:00 game time. In Archaeology, it completes active research, regardless of duration.
+.
+.tag:extra
+## __Supplementary Information__
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/cluetrainertetratab.png
+- Use the <#1240372943725531339> addon to solve Tetracompasses. Go to the Tetracompass tab (as shown above) and use two triangulation teleports of your choice, like compass clues.
+- Before teleporting, check for back-to-back tetracompass locations by clicking the last one in your inventory, if back-to-back, the game will use the first eligible tetracompass, saving you time in the long run. For a guide on duplicate tetracompass spots, watch <@257863450426998785>'s video **[here](<https://www.youtube.com/watch?v=lVnNNOzU2S0>)**.
+- Carry unpowered Tetracompasses and power as many as your inventory allows, leaving one space for the Ancient Casket.
+- Power more Tetracompasses only when you run out of powered ones.
+- Save **[Poison Waste Tetracompasses](<https://runescape.wiki/w/Tetracompass_(powered)/Locations#/media/File:Tetracompass_location_Tirannwn_center_of_Poison_Waste.png>)** for last to complete them all at once and reduce hassle.
+- For the math behind the calculations, check out this **[google document](https://docs.google.com/document/d/1A_IEkzCS7IV4yotfD3xcsYKJ875nBfDzrVps2XOKC1w/edit?tab=t.0)**.
+.
+## __Tetracompass Pieces from Artefacts__
+The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collections>)** filters artefacts that can be randomly obtained by claiming research team loot or by solving and opening a tetracompass which can then be restored and submitted to a collector for recurring rewards, most notably, a tetracompass piece.
+
+.
+## __Presets and Relics__
+.tag:preset
 {
   "embed": {
 "title": "",
@@ -29,7 +54,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
     "fields": [
       {
         "name": "__Gathering Presets__",
-        "value": "⬥ [Tetracompass - AFK Gathering](https://pvme.io/preset-maker/#/abj2nUhHghRv06II9BsB) \n⬥ [Tetracompass - Active Gathering](https://pvme.github.io/preset-maker/#/qlPVY8aPVIjDfkKcBWvR)",
+        "value": "⬥ [Tetracompass - AFK Gathering](https://pvme.io/preset-maker/#/I5Kr5Ha2GtywuCECcCpl)\n⬥ [Tetracompass - Active Gathering](https://pvme.io/preset-maker/#/IwlVtP9nAQCqFFcWp2Zb)",
         "inline": true
       }
     ],
@@ -40,8 +65,6 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
 }
 .embed:json
 .
-## **Solving Preset**
-.tag:solving
 {
   "embed": {
 "title": "",
@@ -50,7 +73,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
     "fields": [
       {
         "name": "__Solving Preset__",
-        "value": "⬥ [Tetracompass Solving](https://pvme.io/preset-maker/#/bMhzhmhR1ObJM18Eeaxo)",
+        "value": "⬥ [Tetracompass - Solving](https://pvme.io/preset-maker/#/bMhzhmhR1ObJM18Eeaxo)",
         "inline": true
       }
     ],
@@ -61,29 +84,6 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
 }
 .embed:json
 .
-.tag:research
-## **Research Team** <:research:1357683628124934285>
-- Research in Archaeology allows players to send teams on expeditions to earn materials, XP, and artefacts. Unlocked at the assistant qualification, the tutorial starts at the Exam Centre's research notes table.
-- Players pay researchers with chronotes, which are forfeited if an expedition is canceled. At level 120 (boostable), Mr. Mordaut can passively generate tetracompass pieces.
-- Upgrading the **[Command Centre](<https://runescape.wiki/w/Command_Centre#Benefits>)** reduces chronote costs by 3% (tier 2) and increases research speed by 3% (tier 3).
-- Recommended research team for players sending out research once per day:
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/researchteam1.png
-.
-.tag:advance
-## **Advance Time Spell** <:advancetime:1357683352672403627>
-- Advance Time is a standard spellbook Magic spell castable 3x per week to reset a selected activity. It can be used on the same activity repeatedly but fails without cost if the activity is inapplicable. The spell bypasses hard resets, making repeatable content available instantly.
-- Charges reset every Wednesday at 00:00 game time. In Archaeology, it completes active research, regardless of duration.
-.
-.tag:extra
-## **Extra Information**
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/cluetrainertetratab.png
-- Use the <#1240372943725531339> addon to solve Tetracompasses. Go to the Tetracompass tab (as shown above) and use two triangulation teleports of your choice, like compass clues.
-- Before teleporting, check for back-to-back tetracompass locations by clicking the last one in your inventory, if back-to-back, the game will use the first eligible tetracompass, saving you time in the long run. For a guide on duplicate tetracompass spots, watch <@257863450426998785>'s video **[here](<https://www.youtube.com/watch?v=lVnNNOzU2S0>)**.
-- Carry unpowered Tetracompasses and power as many as your inventory allows, leaving one space for the Ancient Casket.
-- Power more Tetracompasses only when you run out of powered ones.
-- Save **[Poison Waste Tetracompasses](<https://runescape.wiki/w/Tetracompass_(powered)/Locations#/media/File:Tetracompass_location_Tirannwn_center_of_Poison_Waste.png>)** for last to complete them all at once and reduce hassle.
-- For the math behind the calculations, check out this **[google document](https://docs.google.com/document/d/1A_IEkzCS7IV4yotfD3xcsYKJ875nBfDzrVps2XOKC1w/edit?tab=t.0)**.
-.
 {
   "embed": {
     "title": "",
@@ -92,7 +92,7 @@ Improvements and suggestions are always welcome. Post any you may have in <#8749
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Advice | Suggestions]($linkmsg_advice$)\n⬥ [Gathering Presets]($linkmsg_gathering$)\n⬥ [Solving Preset]($linkmsg_solving$)\n⬥ [Research Team]($linkmsg_research$)\n⬥ [Advance Time Spell]($linkmsg_advance$)\n⬥ [Extra Information]($linkmsg_extra$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Research and Advance Time]($linkmsg_research$)\n⬥ [Supplementary Information]($linkmsg_extra$)\n⬥ [Presets and Relics]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
