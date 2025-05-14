@@ -71,12 +71,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "color": 16776960,
     "fields": [
       {
-        "name": "__Potential Jacket + Backpack Steps__ <:globetrotterjacket:1123592261175889971>",
+        "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
         "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after checking starting area\n⬥ [Tirannwn Scan](https://i.imgur.com/WGa2CNT.png) - after teleporting with <:quiver:656863806080811038> in order 7, 6, 1 ( <:dive:1049378668197195808> SW ), 3\n⬥ [Fremennik Slayer Dungeon](https://i.imgur.com/p6PSMdB.png) - if 'scan another level' message isn't received\n⬥ [Fremmenik Area - Iceberg](https://i.imgur.com/yNVeX6T.png) - North Fremennik Lodestone\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Needle's Skips Area - North of the Pier](https://i.imgur.com/5r9151Y.png)\n⬥ [Graveyard north Drakan's Castle](https://i.imgur.com/OB4Frqq.png)",
         "inline": false
       },
 			      {
-        "name": "__Potential Jacket + Backpack Steps Extended__ <:globetrotterjacket:1123592261175889971>",
+        "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1181648124079521822>",
         "value": "⬥ [Mos Le'Harmless Scan](https://i.imgur.com/tNSK8js.png)\n⬥ [Lumbridge Swamp Cave Scan](https://i.imgur.com/eHRMmYt.png)\n⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - if 'scan another level' message isn't received\n⬥ Wilderness Steps that aren't easily accessible",
         "inline": false
       },
