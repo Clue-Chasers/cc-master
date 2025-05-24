@@ -41,7 +41,12 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
-        "value": "⬥ [**A L Q** - Morytania: Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**D K S** - Kandarin: Snowy Hunter Area](https://runescape.wiki/w/Fairy_ring#DKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**C K R** - South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**A K Q** - Kandarin: Piscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A L P** - Feldip Hills: Near Gu'Tanoth](https://runescape.wiki/w/Fairy_ring#ALP) - use if out of <:globetrotterjacket:1123592261175889971> charges\n\n*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
+        "value": "⬥ [**A K Q** - Kandarin: Piscatoris Hunter Area](https://runescape.wiki/w/Fairy_ring#AKQ)\n⬥ [**A K S** - Feldip Hills: Jungle Hunter area](https://runescape.wiki/w/Fairy_ring#AKS)\n⬥ [**A L P** - Feldip Hills: Near Gu'Tanoth](https://runescape.wiki/w/Fairy_ring#ALP) - use if out of <:globetrotterjacket:1123592261175889971> charges\n⬥ [**A L Q** - Morytania: Haunted Woods east of Canafis](https://runescape.wiki/w/Fairy_ring#ALQ)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**C J S** - Karamja: Kharazi Jungle](https://runescape.wiki/w/Fairy_ring#CJS)\n⬥ [**C K R** - South of Tai Bwo Wannai Village](https://runescape.wiki/w/Fairy_ring#CKR)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**D J P** - Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**D K S** - Kandarin: Snowy Hunter Area](https://runescape.wiki/w/Fairy_ring#DKS)",
+        "inline": false
+      },
+            {
+        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
+        "value": "*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)*",
         "inline": true
       }
     ]
