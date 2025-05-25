@@ -93,7 +93,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
 .tag:info
 We also track clue-solving times across various tiers, with dedicated leaderboards for each type of clue (e.g. easy, medium, hard, elite and master clue times). These leaderboards showcase the top solvers and their fastest completion times, allowing you to compete for the top spot and see how you stack up against the community!
 
-For future updates to the leaderboard, feel free to post any eligible entries in ⁠<#1183111377955602603> and tag a <@&1283334339995893833>.
+For future updates to the leaderboard, feel free to post any eligible entries in ⁠<#1183111377955602603> and tag a <@&1376278290242732112>.
 .
 **Information & Rules:**
 1. All submissions must be in video format. YouTube & Twitch highlights only.
@@ -201,7 +201,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
+        "value": "⬥ 1:10:04 - [Jere](https://youtu.be/aMq1tTK9rEs?si=gaKeRP6daB3xOzWv&t=2702)\n⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
         "inline": true
       },
       {
@@ -211,7 +211,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:36:47 - [Phyzzix4PF](https://www.youtube.com/watch?v=0vPjaDB2EM0)\n⬥ 0:39:39 - [zJoe](https://www.youtube.com/watch?v=xOFhtt2gjPs)",
+        "value": "⬥ 0:34:15 - [Jere](https://youtu.be/aMq1tTK9rEs?si=8l3hdEZ1GJCNue5a&t=2450)\n⬥ 0:36:47 - [Phyzzix4PF](https://www.youtube.com/watch?v=0vPjaDB2EM0)\n⬥ 0:39:39 - [zJoe](https://www.youtube.com/watch?v=xOFhtt2gjPs)",
         "inline": false
       },
             {
