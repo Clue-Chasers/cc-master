@@ -101,10 +101,10 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 3. You cannot buy any outfit charges of any kind in the middle of a run.
 4. The same people can hold multiple records but not in the same category.
 (You can hold skip and no skip 1 but not skip 1 and skip 2). You can submit any rank however.
-6. Submissions that use unobtainable or limited-access items will not be accepted. This includes the use of DTDs, as we believe they go against the spirit of speedrunning.
-7. Anyone found to be abusing any form of bug within a submission will have all submissions invalidated and will be banned from the leaderboard.
-8. No Skip records cannot use any type of skips. Skip records can use all. If you only opt to use puzzle skips and not knot skips it will still be a skip record and so forth.
-9. When submitting a run if it's a long video please either give us the timestamps or edit the video as this greatly speeds up the verification process.
+5. Submissions that use unobtainable or limited-access items will not be accepted. This includes the use of DTDs, as we believe they go against the spirit of speedrunning.
+6. Anyone found to be abusing any form of bug within a submission will have all submissions invalidated and will be banned from the leaderboard.
+7. No Skip records cannot use any type of skips. Skip records can use all. If you only opt to use puzzle skips and not knot skips it will still be a skip record and so forth.
+8. When submitting a run if it's a long video please either give us the timestamps or edit the video as this greatly speeds up the verification process.
 .
 .tag:easies
 {
