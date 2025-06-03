@@ -153,12 +153,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
   "embed": {
     "color": 16776960,
     "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elitesolvingpreset.png"
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elitecluesolving.png"
         },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/XdKWAyYphEg1XIU9lnu9)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/sNspzmdYrGnn2o1lmcD1)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/TXpKxbX2v9hUKOd43b12)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/XCBsT1kdCozVkdr2wNQw)"
+            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/OnoB4IykZH6xT2DesabV)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/9dTP9N5lrWZFcAKgn1Tg)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/1evYwzsH3GTE32byJoVe)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/eZOmENDRl8MOpNQtsAJf)"
         }
     ]
   }
