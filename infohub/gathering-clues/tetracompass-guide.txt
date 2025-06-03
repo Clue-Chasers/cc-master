@@ -37,7 +37,6 @@ These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892
 - Before teleporting, check for back-to-back tetracompass locations by clicking the last one in your inventory, if back-to-back, the game will use the first eligible tetracompass, saving you time in the long run. For a guide on duplicate tetracompass spots, watch <@257863450426998785>'s video **[here](<https://www.youtube.com/watch?v=lVnNNOzU2S0>)**.
 - Carry unpowered Tetracompasses and power as many as your inventory allows, leaving one space for the Ancient Casket.
 - Power more Tetracompasses only when you run out of powered ones.
-- Save **[Poison Waste Tetracompasses](<https://runescape.wiki/w/Tetracompass_(powered)/Locations#/media/File:Tetracompass_location_Tirannwn_center_of_Poison_Waste.png>)** for last to complete them all at once and reduce hassle.
 - For the math behind the calculations, check out this **[google document](https://docs.google.com/document/d/1A_IEkzCS7IV4yotfD3xcsYKJ875nBfDzrVps2XOKC1w/edit?tab=t.0)**.
 .
 ## __Tetracompass Pieces from Artefacts__
@@ -73,12 +72,12 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
     "fields": [
       {
         "name": "__Solving Preset__",
-        "value": "⬥ [Tetracompass - Solving](https://pvme.io/preset-maker/#/bMhzhmhR1ObJM18Eeaxo)",
+        "value": "⬥ [Tetracompass - Solving](https://pvme.io/preset-maker/#/nlcv43V3Pbt9OJzpPZKh)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/solvingtetras3.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/tetrasolving.png"
     }
   }
 }
