@@ -53,12 +53,12 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
     "fields": [
       {
         "name": "__Gathering Presets__",
-        "value": "⬥ [Tetracompass - AFK Gathering](https://pvme.io/preset-maker/#/I5Kr5Ha2GtywuCECcCpl)\n⬥ [Tetracompass - Active Gathering](https://pvme.io/preset-maker/#/IwlVtP9nAQCqFFcWp2Zb)",
+        "value": "⬥ [Tetracompass - AFK Gathering](https://pvme.github.io/preset-maker/#/FEAAt5LZCvAEj9A7WJIB)\n⬥ [Tetracompass - Active Gathering](https://pvme.io/preset-maker/#/IwlVtP9nAQCqFFcWp2Zb)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/afkgatheringtetras.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/tetragathering2.png"
     }
   }
 }
@@ -72,12 +72,12 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
     "fields": [
       {
         "name": "__Solving Preset__",
-        "value": "⬥ [Tetracompass - Solving](https://pvme.io/preset-maker/#/nlcv43V3Pbt9OJzpPZKh)",
+        "value": "⬥ [Tetracompass - Solving](https://pvme.github.io/preset-maker/#/WnN0gojI8OinRiB1wGtc)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/tetrasolving.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/tetrasolving2.png"
     }
   }
 }
