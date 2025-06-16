@@ -21,12 +21,12 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
-        "value": "⬥ [Skills Necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat Bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Digsite Pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of Slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's Necklace](https://runescape.wiki/w/Traveller%27s_necklace) <:travellersnecklace:1124783946186629171>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n⬥ [Delver's Anklet](https://runescape.wiki/w/Delvers_anklet) <:delversanklet:1384130525907648635>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
         "inline": true
       },
       {
         "name": "__Passage #2__ <:potared:1123597976208674888>",
-        "value": "⬥ [Enlightened Amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of Respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569> \n⬥ [Ring of Duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games Necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>",
+        "value": "⬥ [Enlightened amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>",
         "inline": true
       }
     ]
