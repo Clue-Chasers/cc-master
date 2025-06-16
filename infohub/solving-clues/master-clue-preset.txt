@@ -25,7 +25,7 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
-        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Delver's Anklet](https://runescape.wiki/w/Delvers_anklet) <:delversanklet:1384130525907648635>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Delver's Anklet](https://runescape.wiki/w/Delvers_anklet) <:delversanklet:1384130525907648635>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
         "inline": true
       }
     ]
