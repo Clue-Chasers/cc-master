@@ -55,7 +55,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [TripleDylan](https://discord.com/channels/332595657363685377/374280345966608384/1327768832818810885)\n⬥ [Runecoin](https://discord.com/channels/332595657363685377/374280345966608384/1351204516997103697)\n⬥ [gay4guts](https://discord.com/channels/332595657363685377/374280345966608384/1367265363921735762)",
+        "value": "⬥ [TripleDylan](https://discord.com/channels/332595657363685377/374280345966608384/1327768832818810885)\n⬥ [Runecoin](https://discord.com/channels/332595657363685377/374280345966608384/1351204516997103697)\n⬥ [gay4guts](https://discord.com/channels/332595657363685377/374280345966608384/1367265363921735762)\n⬥ DPS go brrr",
         "inline": true
       }
     ]
