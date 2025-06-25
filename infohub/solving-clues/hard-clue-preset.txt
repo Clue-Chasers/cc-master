@@ -60,7 +60,7 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Taverley](https://runescape.wiki/w/Portal_(player-owned_house) <:taverleylode:1032552329758650418>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Stormguard Citadel Digsite](https://runescape.wiki/w/Stormguard_Citadel_Dig_Site) (6) → [Sorcerer's Tower](https://runescape.wiki/w/General_Bentnoze)\n⬥ [Goblin Generals](https://runescape.wiki/w/General_Bentnoze) (0,3)\n\n__**Quest Cape**__ <:masterquestcape:1091050888828813412>\n⬥ [World Gate](https://runescape.wiki/w/World_gate) (0) → [Arandar](https://runescape.wiki/w/Arandar)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Taverley](https://runescape.wiki/w/Portal_(player-owned_house) <:taverleylode:1032552329758650418>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Stormguard Citadel Digsite](https://runescape.wiki/w/Stormguard_Citadel_Dig_Site) (6) → [Sorcerer's Tower](https://runescape.wiki/w/Sorcerer's_Tower)\n⬥ [Goblin Generals](https://runescape.wiki/w/General_Bentnoze) (0,3)\n\n__**Quest Cape**__ <:masterquestcape:1091050888828813412>\n⬥ [World Gate](https://runescape.wiki/w/World_gate) (0) → [Arandar](https://runescape.wiki/w/Arandar)",
         "inline": true
       }
     ]
