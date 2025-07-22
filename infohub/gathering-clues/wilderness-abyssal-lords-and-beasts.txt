@@ -2,16 +2,16 @@
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### **Introduction** *(courtesy of <@145884917627224065> & <@211049089050214400>)*
+### Introduction *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal Beasts are your best bet, whether through crystal triskelion key fragments <:trisk:643215216934518815> or direct clue drops.
 .
 .tag:reqs
-### **Requirements**
+### Requirements
 ⬥ <:slayer:797896049548066857> 115 Slayer
 .
 .tag:useful
-### **Useful Items and Information**
+### Useful Items and Information
 ⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
 ⬥ <:gconc:869285393223254107> Greater Concentrated Blast (unlocked)
@@ -22,7 +22,7 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 ⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
-⬥ <:cryptbloombody:892819107253194762> 4 Cryptbloom pieces
+⬥ <:cryptbloomtop:1334336168363561041> 4 Cryptbloom pieces
 ⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
 
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times.
@@ -34,7 +34,7 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 ⬥ You need to place your cannon in a specific position for this to be optimal.
 .
 .tag:location
-### **Location and How to Get there**
+### Location and How to Get there
 The best place to find abyssal beasts and lords is in the Wilderness, between levels 45-47, near the Lava Maze and Red Dragon Isle. To get there fast, just use the Wilderness sword to teleport to the Herb patch at around level 39 Wilderness and head north.
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one square west of the skeleton located southeast of the large rock surrounded by three stones. As for your own position stand on the designated red tile, situated two squares north and two squares west of the western surrounding rock.
