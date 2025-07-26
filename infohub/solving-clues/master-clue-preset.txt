@@ -124,7 +124,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ <:conjurearmy:1166094935066423348> + tele to step → (<:invokedeath:1137809121983336548> →) tc + <:touchofdeath:1137809175980810380> → <:deathguard90:1138809243143766118> <:eofspec:746403211908481184>\n\n⬥ <:conjurearmy:1166094935066423348> + tele to step → (<:splitsoul:1137809168368148490> →) tc + wait 1 tick + <:commandzombie:1137809191231295549> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109>",
+        "value": "⬥ <:conjurearmy:1166094935066423348> + tele to step → (<:invokedeath:1137809121983336548> →) tc + <:touchofdeath:1137809175980810380> → <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099>\n\n⬥ <:conjurearmy:1166094935066423348> + tele to step → (<:splitsoul:1137809168368148490> →) tc + wait 1 tick + <:commandzombie:1137809191231295549> → <:omniguard:1138809234922934282> <:spec:537340400273195028> → <:necroauto:1137809137401602109>",
         "inline": false
       }
     ]
@@ -153,12 +153,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
   "embed": {
     "color": 3447003,
     "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/mastercluepreset.png"
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/rangemasterpreset.png"
         },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [Ranged Preset](https://pvme.io/preset-maker/#/Ro3CNT3KiKnIMcyr9Svb) <:range:580168050121113623>\n⬥ [Melee Preset](https://pvme.io/preset-maker/#/YKBniL87XknvxM17uLlJ) <:melee:1096130867279171706>\n⬥ [Necromancy Preset](https://pvme.io/preset-maker/#/d2tA5toDX0msWqJj4NQj) <:necromancy:1148995625896120460>\n⬥ [Secondary Preset](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0) <:cluescroll:1037463867716018206>"
+            "value":"⬥ [Ranged Preset](https://pvme.io/preset-maker/#/g6sfPxDMupFUbk1WGTDp) <:range:580168050121113623>\n⬥ [Melee Preset](https://pvme.io/preset-maker/#/YKBniL87XknvxM17uLlJ) <:melee:1096130867279171706>\n⬥ [Necromancy Preset](https://pvme.io/preset-maker/#/d2tA5toDX0msWqJj4NQj) <:necromancy:1148995625896120460>\n⬥ [Secondary Preset](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0) <:cluescroll:1037463867716018206>"
         }
     ]
   }
