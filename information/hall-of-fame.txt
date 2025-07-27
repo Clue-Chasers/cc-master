@@ -3,7 +3,7 @@
 The Hall of Fame started as a discord leaderboard, but as clue scrolls gained popularity, the volume of data increased. Now, all this information is tracked in a comprehensive Google Sheet, covering golden clue titles, treasure trail points, broadcast stats, and more. For full details, check the sheet linked below.
 ## [Link to Hall of Fame sheet](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)
 
-**PSA**: If you'd like to be added to the Broadcast Leaderboard, please reach out to the staff team via modmail with either a Google Sheets link or images of all three logs (hards, elites & masters)
+**PSA**: If you'd like to be added to the Broadcast Leaderboards, please reach out to the staff team via modmail with either a Google Sheets link or images of all three logs (hards, elites & masters)
 
 For future manual updates (non-Google Sheet), post your update in ⁠<#374280345966608384> and tag a <@&1283334339995893833>.
 .tag:gda
