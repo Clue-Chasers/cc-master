@@ -105,6 +105,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 6. Anyone found to be abusing any form of bug within a submission will have all submissions invalidated and will be banned from the leaderboard.
 7. No Skip records cannot use any type of skips. Skip records can use all. If you only opt to use puzzle skips and not knot skips it will still be a skip record and so forth.
 8. When submitting a run if it's a long video please either give us the timestamps or edit the video as this greatly speeds up the verification process.
+9. Boon of Scabaras procs are not permitted in single clue categories but are allowed in all other cases.
 .
 .tag:easies
 {
@@ -216,7 +217,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:39:03 - [Jere](https://youtu.be/xpbJu8keeLE?si=b9CFjJ7MM_4eh2jh&t=1315)\n⬥ 0:42:14 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 0:47:22 - [bunny alan](https://www.youtube.com/watch?v=yva5ttR6oY8)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)",
+        "value": "⬥ 0:35:29 - [Jere](https://www.twitch.tv/videos/2525066366)\n⬥ 0:42:14 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 0:47:22 - [bunny alan](https://www.youtube.com/watch?v=yva5ttR6oY8)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)\n⬥ 0:50:06 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)",
         "inline": true
       },
       {
