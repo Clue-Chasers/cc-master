@@ -207,7 +207,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:10:04 - [Jere](https://youtu.be/aMq1tTK9rEs?si=gaKeRP6daB3xOzWv&t=2702)\n⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
+        "value": "⬥ 1:06:42 - [Jere](https://youtu.be/hWZIKp9DUo4?si=8e_Y-SywlnntszQ-&t=1518)\n⬥ 1:17:30 - [Phyzzix4PF](https://www.youtube.com/watch?v=WqCwIwdJpvk)\n⬥ 1:28:35 - [zJoe](https://www.youtube.com/watch?v=4mFHcmqrb0M)",
         "inline": true
       },
       {
@@ -217,7 +217,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:34:15 - [Jere](https://youtu.be/aMq1tTK9rEs?si=8l3hdEZ1GJCNue5a&t=2450)\n⬥ 0:36:47 - [Phyzzix4PF](https://www.youtube.com/watch?v=0vPjaDB2EM0)\n⬥ 0:39:39 - [zJoe](https://www.youtube.com/watch?v=xOFhtt2gjPs)",
+        "value": "⬥ 0:31:56 - [Jere](https://youtu.be/hWZIKp9DUo4?si=UiuI24gLewwvjdE3&t=3533)\n⬥ 0:36:47 - [Phyzzix4PF](https://www.youtube.com/watch?v=0vPjaDB2EM0)\n⬥ 0:39:39 - [zJoe](https://www.youtube.com/watch?v=xOFhtt2gjPs)",
         "inline": false
       },
             {
