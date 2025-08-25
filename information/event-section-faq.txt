@@ -4,7 +4,7 @@ We’re glad you’re here! This section gives a quick overview of our event gui
 
 Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1107839063857315991>
 **Permanent Invite Link: <https://discord.com/invite/cluechasers>**
-**Follow us on Twitter [@ClueChasersRS](<https://x.com/ClueChasersRS>) or BlueSky [@cluechasers.bsky.social](<https://bsky.app/profile/cluechasers.bsky.social>) for Event Updates!**
+**Follow us on Twitter [@ClueChasersRS](<https://x.com/ClueChasersRS>) for Event Updates!**
 .
 .tag:info
 {
@@ -16,7 +16,7 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
     "fields": [
       {
         "name": "__Event Channel Directory__",
-        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-announcements](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-chat](https://discord.com/channels/332595657363685377/1190064004094242817) -  Channel for streamers and clan owners to collaborate and coordinate on events.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [event-hide-and-seek](https://discord.com/channels/332595657363685377/1360962686552379666) - Round-specific hints will be posted here."
+        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-announcements](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-chat](https://discord.com/channels/332595657363685377/1190064004094242817) - Channel for streamers and clan owners to collaborate and coordinate on events.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [event-hide-and-seek](https://discord.com/channels/332595657363685377/1360962686552379666) - Round-specific hints will be posted here."
       }
     ]
   }
@@ -47,33 +47,13 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
   }
 }
 .embed:json
-{
-  "embed": {
-    "title": "__Prize Pool Contributions__ <:10kgp:1004023815157854308>",
-    "description": "⬥ We love giving away prizes at our events! If you’d like to contribute to any of the prize pools, your support would be greatly appreciated—but there’s no pressure at all.\n\n⬥As a small thank you, we’ll list your contribution on the prize sheet and in the embed below. Contributions can be made by contacting staff in a [ticket](https://discord.com/channels/332595657363685377/1283170720599248938/1289714710337556490).",
-    "color": 12745742,
-    "fields": [
-      {
-        "name": "__2024 Winter Mass__ ❄️",
-        "value": "⬥ snowy alan - 5b GP\n⬥ Elba - 5b GP\n⬥ Zte - 1b GP",
-        "inline": true
-      },
-      {
-        "name": "__2025 Summer Mass__ ☀️",
-        "value": "⬥\n⬥\n⬥",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
 .
 .tag:information
 ## Set your calendar for these upcoming events:
-## Clue Chasers: [Hide and Seek Event](<https://discord.com/events/332595657363685377/1360964477717319922>)
-## Clue Chasers: [Community Mass Opening](<https://discord.com/events/332595657363685377/1331267621391306869>)
+## Clue Chasers: [Hide and Seek Event](<https://discord.com/events/332595657363685377/1409555964410986667>)
+## Clue Chasers: [Community Mass Opening](<https://discord.com/events/332595657363685377/1409554557574582272>)
 .
-## Follow details on the next [Event Sheet](https://docs.google.com/spreadsheets/d/1Mi91mJBibtctjm23hYSed-0v6Whv43fuKlI4MLgD1wg/edit?gid=0#gid=0)
+## Follow details on the next [Event Sheet](https://docs.google.com/spreadsheets/d/1uMMSqXw2M-TNQTVehOh_yETSQawS3uJfmd-TNcEbQ2Y/edit?gid=0#gid=0)
 .
 ## Friends Chat: [Clue Chasers](https://i.imgur.com/RvkDivQ.png)
 .
