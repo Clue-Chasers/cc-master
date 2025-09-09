@@ -88,7 +88,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
             {
         "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
-        "value": "⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu'Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)\n\n*Note: The [Powerburst of Acceleration](https://runescape.wiki/w/Powerburst_of_acceleration#(4)) cannot be used in the Wilderness.* <:accelpb:1128031529063428116>",
+        "value": "⬥ [Gu'Tanoth below Yanille](https://runescape.wiki/w/Gu'Tanoth) → <:globetrottergloves:1123592252036493344> (4)\n⬥ [Arandar next to the World Gate](https://runescape.wiki/w/Arandar) →  <:sixthagecircuit:1123596357651927100> / <:masterquestcape:1091050888828813412> (0)",
         "inline": true
       }
     ]
