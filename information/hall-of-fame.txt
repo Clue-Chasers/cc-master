@@ -212,7 +212,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__50 Category no skips__",
-        "value": "⬥ 1:22:01 - [Jere](https://youtu.be/xpbJu8keeLE?si=1eViiTSCkAIJK2iu&t=1130)\n⬥ 1:26:44 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 1:37:55 - [xaj](https://www.twitch.tv/videos/2421057205?filter=highlights&sort=time)\n⬥ 1:43:32 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 1:45:57 - [Fiery001](https://www.twitch.tv/videos/1529425306?t=0h0m1s)",
+        "value": "⬥ 1:17:53 - [Jere](https://youtu.be/RYVb15_UEG0?si=tw0TW4akhaEnfz0u&t=2263)\n⬥ 1:26:44 - [Fcohdz](https://www.youtube.com/live/IWBWyZTl99A)\n⬥ 1:37:55 - [xaj](https://www.twitch.tv/videos/2421057205?filter=highlights&sort=time)\n⬥ 1:43:32 - [September](https://www.youtube.com/watch?v=CuwaElgrkxM)\n⬥ 1:45:57 - [Fiery001](https://www.twitch.tv/videos/1529425306?t=0h0m1s)",
         "inline": true
       },
       {
