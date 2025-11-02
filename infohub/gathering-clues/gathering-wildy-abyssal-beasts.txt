@@ -2,38 +2,47 @@
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### **Introduction** *(courtesy of <@145884917627224065>)*
+### Introduction (courtesy of <@145884917627224065>)
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 
 This guide aims to give you both a short and long form method of AFKing Abyssal Beasts for Elite clues <:Elite:633732493228638209>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~1.39 Elite clues <:Elite:633732493228638209> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know. You can opt to reduce them by removing the cannon.
 
 .
 .tag:reqs
-### **Requirements**
+### Requirements
 ⬥ <:slayer:797896049548066857> 105 Slayer
 .
 .tag:useful
-### **Useful Items and Information**
-⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
-⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
-⬥ <:gsonicwave:1095411826839257138> Greater Sonic (unlocked)
-⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
-⬥ <:corruptblast:513190159194259467> Corruption Blast (unlocked)
-⬥ <:incitefear:856635090783567902> Incite Fear (unlocked)
-⬥ <:eclipsedsoul:1335746266289799268> Eclipsed Soul (unlocked)
-⬥ <:divinerage:1335746763151380490> Divine Rage (unlocked)
-⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
-⬥ <:jasboost:1006121672790773770> Jas Boost from DKQ (unlocked)
-⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
-⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
-⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
+### Useful Items and Information
+⬥ Magic:
+    • <:gchain:1257440278512537740> Greater Chain
+    • <:gsunshine:994644352871714836> Greater Sunshine
+    • <:gsonicwave:1095411826839257138> Greater Sonic
+    • <:magmatempest:902209626509025290> Magma Tempest
+    • <:corruptblast:513190159194259467> Corruption Blast
+    • <:incitefear:856635090783567902> Incite Fear
+    • <:eclipsedsoul:1335746266289799268> Eclipsed Soul
+    • <:divinerage:1335746763151380490> Divine Rage
+    • <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
+⬥ Melee:
+    • <:chaosroar:994644356671737966> Chaos Roar
+    • <:gfury:535532879334080527> Greater Fury
+    • <:sacrifice:513201065907322880> Sacrifice
+    • <:malevolence:513190159416557573> Malevolence
+    • <:tumekenslight:1400511651014250596> Tumeken's Light
+⬥ All styles:
+    • <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit
+    • <:jasboost:1006121672790773770> Jas Boost from DKQ
+    • <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
+    • <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 
-⬥ Make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul / <:soulsplit:615613924506599497> Soulsplit alongside <:overcharge:1335739259834859582> Overcharge, <:divinerage:1335746763151380490> Divine Rage + <:mysticmight:1335739258434224189> Mystic Might / <:leechmagicstrength:1333014918353391617> Leech Magic Strength + <:leechmagicattack:1335739810047987773> Leech Magic Attack on at all times.
+⬥ For magic make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul alongside <:overcharge:1335739259834859582> Overcharge, <:divinerage:1335746763151380490> Divine Rage + <:mysticmight:1335739258434224189> Mystic Might on at all times.
+⬥ For melee make sure you have <:soulsplit:615613924506599497> Soul Split alongside <:malevolence:513190159416557573> Malevolence on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
 ⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
 .
 .tag:location
-### **Location and How to Get there**
+### Location and How to Get there
 The best place to find abyssal beasts is in the Wilderness, in level 37. To get there fast use an obelisk and option 4. Since the inventory is full of items to prolong the trip, you can use the Wilderness Lodestone and use the Obelisk nearby.
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely two squares east and one square south of the black mark. As for your own position stand on the designated red tile, 2 tiles north of the black skeleton.
@@ -47,27 +56,25 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "color": 39423,
     "fields": [
       {
-        "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZgpKT7xcGiVoZ7fgTJbp)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
+        "name": "__Presets and Afkwarden__",
+        "value": "⬥ [Melee Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/IPGRtfzYrsNNHkviSi02)\n⬥ [Magic Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Magic Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZgpKT7xcGiVoZ7fgTJbp)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
         "inline": true
       }
     ],
     "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/abyssalbeastswildypreset.png"
+    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/meleebeastspreset.png"
     }
   }
 }
 .embed:json
-**Preset Notes**
-⬥ If you're opting to do Long AFK, just pause the lootbeam.
-    • You can also remove cannon if you would like to reduce inputs but it will reduce your kph.
-⬥ You can use <:equilibriumaura:1233722649834684416> Equilibrium Aura, <:ripperpouch:703581275453128714> Ripper Demon and Legs with <:crack4:712073087662686249> <:demonslayerperk:689502842653900818> | <:scavenging4:1005934140669046824>
 .
 **Action Bars**
 
 .tag:bar
-**[Magic Bar 890+ kph](https://youtu.be/0vE3L-nPQkQ)**
+**[Magic Bar 880+ kph](<https://youtu.be/0vE3L-nPQkQ>)**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/wildybeastsbar.png
+**Melee Bar 940+ kph**
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/meleebeastsbar.png
 
 .
 {
@@ -78,7 +85,7 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Presets]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
