@@ -253,7 +253,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:31:45 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)\n⬥ 0:40:06 - [L33](https://youtu.be/UpbAwOTe7h4?t=1746)",
+        "value": "⬥ 0:31:45 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:37:48 - [cdram](https://youtu.be/wG5vGT8clMw?si=xqwUNyonvq_8w2di&t=89)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)\n⬥ 0:39:43 - [Dudey xD](https://www.twitch.tv/videos/1445396208?t=0h0m1s)",
         "inline": false
       },
       {
