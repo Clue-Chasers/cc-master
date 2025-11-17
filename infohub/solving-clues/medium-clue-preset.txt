@@ -123,7 +123,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Spellbook__",
-        "value": "⬥ Be on Lunar Spellbook for <:sbs:543875425055670275>.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsAncient:1127632915904344124>",
+        "value": "⬥ Be on Lunar Spellbook for <:sbs:543875425055670275>.\n    ⬩ <:graspingpouch:1390439139400224849> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsAncient:1127632915904344124>",
         "inline": true
       }
     ]
