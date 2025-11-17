@@ -9,7 +9,7 @@ This guide is tailored for players aiming to optimize their presets for solving 
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
-        ⬩ For gathering easy clues check out <#1023016130077532300>.
+        ⬩ For gathering medium clues check out <#1023016130077532300>.
 ## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
@@ -63,7 +63,7 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Rimmington](https://runescape.wiki/w/Portal_(player-owned_house) <:portsarimlode:1032552319662960693>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Kharid-et](https://runescape.wiki/w/Kharid-et_Dig_Site) (2)\n\n__**Dave's spellbook**__ <:davespellbook:1123597962937905242>\n⬥ [Watchtower](https://runescape.wiki/w/Kharid-et_Dig_Site) (1)\n⬥ [Ardougne](https://runescape.wiki/w/Kharid-et_Dig_Site) (4)\n⬥ [Varrock](https://runescape.wiki/w/Kharid-et_Dig_Site) (6)\n\n__**Globetrotter arm guards**__ <:globetrottergloves:1123592252036493344>\n⬥ [Gu'Tanoth](runescape.wiki/w/Gu'Tanoth_Teleport) (4)\n⬥ [Lighthouse](https://runescape.wiki/w/Lighthouse_Teleport) (5)\n⬥ [Pollnivneach](https://runescape.wiki/w/Pollnivneach_Teleport) (9)\n⬥ [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport) (0)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Rimmington](https://runescape.wiki/w/Portal_(player-owned_house) <:portsarimlode:1032552319662960693>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Kharid-et](https://runescape.wiki/w/Kharid-et_Dig_Site) (2)\n\n__**Dave's spellbook**__ <:davespellbook:1123597962937905242>\n⬥ [Watchtower](https://runescape.wiki/w/Kharid-et_Dig_Site) (1)\n⬥ [Ardougne](https://runescape.wiki/w/Kharid-et_Dig_Site) (4)\n⬥ [Varrock](https://runescape.wiki/w/Kharid-et_Dig_Site) (6)\n\n__**Globetrotter arm guards**__ <:globetrottergloves:1123592252036493344>\n⬥ [Gu'Tanoth](https://runescape.wiki/w/Gu%27Tanoth_Teleport) (4)\n⬥ [Lighthouse](https://runescape.wiki/w/Lighthouse_Teleport) (5)\n⬥ [Pollnivneach](https://runescape.wiki/w/Pollnivneach_Teleport) (9)\n⬥ [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport) (0)",
         "inline": false
       },
             {
