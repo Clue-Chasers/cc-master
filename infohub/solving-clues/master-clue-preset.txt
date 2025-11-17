@@ -49,7 +49,7 @@ This section will outline which teleports are used and what their use cases are.
       },
       {
         "name": "__**Items**__",
-        "value": "⬥ Attuned crystal teleport seed <:crystalseed:1123597959116881920>\n⬥ Desert Amulet 2/3 <:desertamulet3:1123599458593165363>\n⬥ Drakan's Medallion <:drakansmedallion:1123599468495913073>\n⬥ TokKul-Zo <:tokkulzo:975012160759550042>\n⬥ Grace of the Elves <:gote:900765150678749204>\n⬥ Amulet of Nature <:amuletofnature:1123599470911815750> / Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ Arc Journal <:arcjournal:1123597950787002408> + Menaphos Journal <:menaphosjournal:1123597967388057610>\n⬥ The Heart teleport tabs <:The_Heart_teleport:1152316125057650698>",
+        "value": "⬥ Attuned crystal teleport seed <:crystalseed:1123597959116881920>\n⬥ Desert Amulet 2/3 <:desertamulet3:1123599458593165363>\n⬥ Drakan's Medallion <:drakansmedallion:1123599468495913073>\n⬥ TokKul-Zo <:tokkulzo:975012160759550042>\n⬥ Grace of the Elves <:gote:900765150678749204>\n⬥ Amulet of Nature <:amuletofnature:1123599470911815750> / Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ Arc Journal <:arcjournal:1123597950787002408> + Leela's Favour <:leelasfavour:1372307156346343565>\n⬥ The Heart teleport tabs <:The_Heart_teleport:1152316125057650698>",
         "inline": false
       }
     ]
@@ -67,12 +67,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
-        "value": "⬥ Polypore Dungeon\n⬥ Cyclossis Compass South East Beach Spot\n⬥ Darkmeyer Scan South Spot\n⬥ If good jacket charges;\n        ⬩ Godwars 2 Scan, only if no triple when checking North West\n        ⬩ Port Phasmatys Emote",
+        "value": "⬥ The Lost Grove Scan\n⬥ Cyclossis Compass South East Beach Spot\n⬥ Darkmeyer Scan South Spot\n⬥ If good jacket charges;\n        ⬩ Godwars 2 Scan, only if no triple when checking North West\n        ⬩ Port Phasmatys Emote",
         "inline": false
       },
 			      {
         "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1123592248056102993>",
-        "value": "⬥ Dorgesh-Kaan Agility Course\n⬥ Runespan\n⬥ Hefin Cleansing Crystal\n⬥ Polypore Dungeon (if out of Jacket charges)\n⬥ Charming Moths (if out of Trapper charges)",
+        "value": "⬥ Dorgesh-Kaan Agility Course\n⬥ Runespan\n⬥ Hefin Cleansing Crystal\n⬥ The Lost Grove Scan (if out of Jacket charges)\n⬥ Charming Moths (if out of Trapper charges)",
         "inline": false
       }
     ]
