@@ -134,21 +134,9 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 
 .embed:json
-## __Preset and Relics__
+## __Presets and Relics__
 .tag:presets
-.
-{
-  "embed": {
-    "color": 10402721,
-    "fields":[
-        {
-            "name":"__Preset Suggestions__",
-            "value":"⬥ [Preset](https://presets.pvme.io?id=RO1B4Vq0YWT6bFtobVea)"
-        }
-    ]
-  }
-}
-.embed:json
+⬥ [Easy Clue Preset](https://presets.pvme.io/?id=RO1B4Vq0YWT6bFtobVea) <:Easy:633728862039179294>
 .
 {
   "embed": {
