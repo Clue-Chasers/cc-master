@@ -158,7 +158,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/l7VrcoUeWBmvLiUWQQ6I)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/rU3sCWkJg2Aa8wEoMmeY)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/venfxpSmXN9o37qAQ5io)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/nbwWeRxikXmTWZywhzrz)"
+            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/ZHpbyx5UVqnZeRLnuB3J)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/9LUZynoZp7ufZODhijcq)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/FeUiB8enYMYFbaY3GAnu)"
         }
     ]
   }
