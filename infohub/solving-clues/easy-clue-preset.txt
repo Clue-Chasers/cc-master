@@ -140,13 +140,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 {
   "embed": {
     "color": 10402721,
-    "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/easysolving1.png"
-        },
     "fields":[
         {
             "name":"__Preset Suggestions__",
-            "value":"⬥ [Preset](<https://pvme.io/preset-maker/#/RO1B4Vq0YWT6bFtobVea>)"
+            "value":"⬥ [Preset](<https://presets.pvme.io?id=RO1B4Vq0YWT6bFtobVea>)"
         }
     ]
   }
