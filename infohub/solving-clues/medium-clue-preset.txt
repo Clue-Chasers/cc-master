@@ -1,1 +1,195 @@
+# Medium Clue Preset Guide
+## (courtesy of <@299098494671519745>)
+*Note: a **Table of Contents** can be found in the pins.*
+## __Introduction__
+.tag:intro
+.
+This guide is tailored for players aiming to optimize their presets for solving medium clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
+
+        ⬩ For gathering easy clues check out <#1023016130077532300>.
+## __Teleport Information__
+This section will outline which teleports are used and what their use cases are.
+.
+{
+  "embed": {
+    "title": "__Which teleport jewellery to store?__ ",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>",
+        "inline": true
+      },
+      {
+        "name": "__Passage #2__ <:potared:1123597976208674888>",
+        "value": "⬥ [Enlightened amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>*",
+        "inline": true
+      },
+            {
+        "name": "\u200b",
+        "value": "*Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A I Q** - Asgarnia: Mudskipper Point](https://runescape.wiki/w/Fairy_ring#AIQ)\n⬥ [**A J R** - Kandarin: Slayer cave south-east of Rellekka](https://runescape.wiki/w/Fairy_ring#AJS)\n⬥ [**A K S** - Feldip Hills: Jungle Hunter area](https://runescape.wiki/w/Fairy_ring#AKS)\n⬥ [**A L S** - Kandarin: McGrubor's Woods](https://runescape.wiki/w/Fairy_ring#ALS)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canafis](https://runescape.wiki/w/Fairy_ring#BKR)\n⬥ [**C I P** - Islands: Miscellania](https://runescape.wiki/w/Fairy_ring#CIP)\n⬥ [**C K S** - Morytania: Canafis](https://runescape.wiki/w/Fairy_ring#CKS)\n⬥ [**C L S** - Islands: Jungle spiders near Yanille](https://runescape.wiki/w/Fairy_ring#CLS)\n⬥ [**D J P** - Kandarin: Tower of Life](https://runescape.wiki/w/Fairy_ring#DJP)\n⬥ [**D K P** - Karamja: South of Musa Point](https://runescape.wiki/w/Fairy_ring#DKP)",
+        "inline": false
+      },
+            {
+        "name": "\u200b",
+        "value": "Note: The exact ordering of teleports is a personal choice.\nInformation on how to create one → [Portable Fairy Ring](https://runescape.wiki/w/Portable_fairy_ring)",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Rimmington](https://runescape.wiki/w/Portal_(player-owned_house) <:portsarimlode:1032552319662960693>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Kharid-et](https://runescape.wiki/w/Kharid-et_Dig_Site) (2)\n\n__**Dave's spellbook**__ <:davespellbook:1123597962937905242>\n⬥ [Watchtower](https://runescape.wiki/w/Kharid-et_Dig_Site) (1)\n⬥ [Ardougne](https://runescape.wiki/w/Kharid-et_Dig_Site) (4)\n⬥ [Varrock](https://runescape.wiki/w/Kharid-et_Dig_Site) (6)\n\n__**Globetrotter arm guards**__ <:globetrottergloves:1123592252036493344>\n⬥ [Gu'Tanoth](runescape.wiki/w/Gu'Tanoth_Teleport) (4)\n⬥ [Lighthouse](https://runescape.wiki/w/Lighthouse_Teleport) (5)\n⬥ [Pollnivneach](https://runescape.wiki/w/Pollnivneach_Teleport) (9)\n⬥ [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport) (0)",
+        "inline": false
+      },
+            {
+        "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
+        "value": "__**Quest Cape**__ <:questcape:1123599570832736287>\n⬥ [World Gate](https://runescape.wiki/w/World_Gate) (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ [Brutal Green Dragons](https://runescape.wiki/w/Brutal_green_dragon) (1,2)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+## __Globetrotter & Powerbursts Usage__
+.tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
+{
+  "embed": {
+    "title": "__Equipment Utility__ ",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__Potential Jacket + Backpack Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Panic by the mausoleum](https://runescape.wiki/w/Clue_scroll_(medium)_-_Panic_by_the_mausoleum_in_Morytania)\n⬥ [Speak to Donovan, the family handyman](https://runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_Donovan,_the_family_handyman)\n⬥ [9°33' N, 2°15' E](https://runescape.wiki/w/Clue_scroll_(medium)_-_09_degrees_33_minutes_north,_02_degrees_15_minutes_east)\n⬥ [4°13' N, 12°45' E](https://runescape.wiki/w/Clue_scroll_(medium)_-_04_degrees_13_minutes_north,_12_degrees_45_minutes_east)\n⬥ [Cheer in the Ogre Pen](https://runescape.wiki/w/Clue_scroll_(medium)_-_Cheer_in_the_Ogre_Pen_in_the_Training_Camp)\n⬥ [This crate is mine, all mine](https://runescape.wiki/w/Clue_scroll_(medium)_-_This_crate_is_mine)\n⬥ [Anagram: Or A Vile](https://runescape.wiki/w/Clue_scroll_(medium)_-_OR_A_VILE)\n⬥ [For any aspiring mage, I'm sure searching this bookcase will be a rewarding experience](https://runescape.wiki/w/Clue_scroll_(medium)_-_For_any_aspiring_mage)",
+        "inline": false
+      },
+      			      {
+        "name": "__Potential Jacket + Backpack Steps Extended__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [In a town where the guards are armed with maces](https://runescape.wiki/w/Clue_scroll_(medium)_-_In_a_town_where_the_guards_are_armed_with_maces)\n⬥ [Try not to step on any aquatic nasties](https://runescape.wiki/w/Clue_scroll_(medium)_-_Try_not_to_step_on_any_aquatic_nasties_while_searching_this_crate)\n⬥ [In a town where thieves steal from stalls](https://runescape.wiki/w/Clue_scroll_(medium)_-_In_a_town_where_thieves_steal_from_stalls)\n⬥ [Anagram: Icy Fe](https://runescape.wiki/w/Clue_scroll_(medium)_-_ICY_FE)\n⬥ [Anagram: Arc O Line](https://runescape.wiki/w/Clue_scroll_(medium)_-_ARC_O_LINE)\n⬥ [1°26' N, 8°1' E](https://runescape.wiki/w/Clue_scroll_(medium)_-_01_degrees_26_minutes_north,_08_degrees_01_minutes_east)",
+        "inline": false
+              },
+			      {
+        "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1181648124079521822> ",
+        "value": "⬥ [Speak to a referee](https://runescape.wiki/w/Clue_scroll_(medium)_-_Speak_to_a_referee)",
+        "inline": false
+      },
+            {
+        "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
+        "value": "⬥ [Anagram: Or A Vile](https://runescape.wiki/w/Clue_scroll_(medium)_-_OR_A_VILE)\n\n*Note: <:accelpb:1128031529063428116> use is entirely optional, and should be used when you feel it is beneficial.*",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+## __Supplementary Information__
+.tag:supp
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+          {
+        "name": "__Preset Notes__",
+        "value": "⬥ Make sure to leave at least 3 empty inventory slots before entering the [Gnomeball arena](https://runescape.wiki/w/Gnome_Ball), as it contains a challenge scroll 'Speak to a referee' and entering will unequip your weapons.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Fruit Tree Patch, West of Tree Gnome Village maze (patch condition irrelevant—can be empty, diseased, or fully grown).\n⬥ If HSR <:hsr:513213693983588362> is unavailable, [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> should be bound to the Tree Patch at Tree Gnome Stronghold.\n⬥ [Ugthanki dung](<https://runescape.wiki/w/Ugthanki_dung>) (in a bucket) is used to recharge the Camulet or Cramulet, granting 4 charges per bucket.",
+        "inline": false
+      },
+      {
+        "name": "__Spellbook__",
+        "value": "⬥ Be on Lunar Spellbook for <:sbs:543875425055670275>.\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:bodyrune:536252659301089280> <:Astralrune:536252658961481769> <:cosmicrune:536252659615924258> → <:sbsStandard:1127632914792845373> <:sbsAncient:1127632915904344124>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "**__General Tips__**",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ You can summon a [Pack Yak](<https://runescape.wiki/w/Pack_yak>) <:yak:513195712201228289> and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer sessions.",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "inline": true
+      }
+    ]
+  }
+}
+
+.embed:json
+## __Preset and Relics__
+.tag:presets
+.
+{
+  "embed": {
+    "color": 15844367,
+    "image": {
+            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/mediumcluepreset.png"
+        },
+    "fields":[
+        {
+            "name":"__Preset Suggestions__",
+            "value":"⬥ [Preset](<https://pvme.io/preset-maker/#/LFFQjWQWh1xvXyGcANc8>)"
+        }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 15844367,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
