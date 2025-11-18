@@ -2,7 +2,7 @@
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### **Introduction** *(courtesy of <@145884917627224065>)*
+### Introduction *(courtesy of <@145884917627224065>)*
 Thieving Elven Workers is a decent alternative gathering method for hard clues <:hardclue:1123586945273049109> and elite clues <:eliteclue:1123586941057769552>.
 
 This guide aims to give you all the information you need to gather within the Prifddinas region.
@@ -15,14 +15,14 @@ Pickpocketing Elven Workers give clues are these rates:
 These rates include Luck of the Dwarves <:lotd:566453486913323042>.
 .
 .tag:reqs
-### **Requirements**
+### Requirements
 ⬥ <:thieving:1039864807920250900> 99 Thieving
     • <:thievingcape:1334114808865357902> Thieving skillcape
 ⬥ <:Quest_points:1151954130177368114> Plague's End
 ⬥ <:teleportseed:1137737316354494607> Attuned crystal teleport seed
 .
 .tag:useful
-### **Useful Items and Information**
+### Useful Items and Information
 ⬥ <:totemofcrystal:1334901208783261836> Totem of Crystal
 ⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
 ⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
@@ -32,7 +32,7 @@ These rates include Luck of the Dwarves <:lotd:566453486913323042>.
     • Settings → Gameplay → Combat & Action Bar → 'Choose Option' Menu → NPC attack option: Hidden
 .
 .tag:location
-### **Location and How to Get there**
+### Location and How to Get there
 Use the attuned crystal teleport seed <:teleportseed:1137737316354494607> to get to the districts.
 The order in which you should pickpocket the workers is as follows:
 ⬥ Iorwerth
@@ -42,27 +42,11 @@ The order in which you should pickpocket the workers is as follows:
     • Ithell (if not using Totem of Crystal <:totemofcrystal:1334901208783261836>)
 ⬥ Repeat
 *Note: when you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.*
-.
-.tag:preset
-{
-  "embed": {
-    "title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Mid AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZmbSjFqq8b80de9tvLSw)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt)",
-        "inline": true
-      }
-    ],
-    "image": {
-      "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elvenworkers.webp"
-    }
-  }
-}
-.embed:json
-**Preset Notes**
+## __Presets and Afkwarden__
+.tag:presets
+⬥ [Mid AFK Preset](https://presets.pvme.io?id=ZmbSjFqq8b80de9tvLSw)
+⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt>)
+## __Preset Notes__
 ⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033>.
 ⬥ You can take up to 8 Spirit Attraction flasks <:spiritattractionflask:1102531518741622854>.
 .
@@ -74,7 +58,7 @@ The order in which you should pickpocket the workers is as follows:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
