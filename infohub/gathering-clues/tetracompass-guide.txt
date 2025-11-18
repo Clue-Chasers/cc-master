@@ -44,6 +44,7 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
 .
 ## __Presets and Relics__
 .tag:presets
+.
 ⬥ [Tetracompass Preset - Active Gathering](https://presets.pvme.io?id=IwlVtP9nAQCqFFcWp2Zb) <:tonymattock:900765150888480838>
 ⬥ [Tetracompass Preset - AFK Gathering](<https://presets.pvme.io?id=FEAAt5LZCvAEj9A7WJIB>) <:spacetimemattock:900765150674555000>
 ⬥ [Tetracompass Preset - Solving](<https://presets.pvme.io?id=WnN0gojI8OinRiB1wGtc>) <:tetracompass:1346902474090352753>
@@ -56,7 +57,7 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Research and Advance Time]($linkmsg_research$)\n⬥ [Supplementary Information]($linkmsg_extra$)\n⬥ [Presets and Relics]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Research and Advance Time]($linkmsg_research$)\n⬥ [Supplementary Information]($linkmsg_extra$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
