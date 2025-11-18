@@ -58,7 +58,7 @@ The order in which you should pickpocket the workers is as follows:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
