@@ -171,7 +171,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Necromancy__ ",
-        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>",
+        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>\n\n• *tc = Target Cycle, can be keybound.*",
         "inline": false
       }
     ]
@@ -180,22 +180,11 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Presets and Relics__
 .tag:presets
+⬥ [Hard Clue Preset - Ranged](https://presets.pvme.io?id=bkY3nTJJdCiMHplZNA9n) <:range:580168050121113623>
+⬥ [Hard Clue Preset - Magic](<https://presets.pvme.io?id=BcL1kJHwMTdFJUsz5Ohk>) <:magic:689504724159823906>
+⬥ [Hard Clue Preset - Melee](<https://presets.pvme.io?id=ew5ycOMY1yQLvyaPb7eo>) <:melee:1096130867279171706>
+⬥ [Hard Clue Preset - Necromancy](<https://presets.pvme.io?id=jIi103bvWeIZ8UneHJxN>) <:necromancy:1148995625896120460>
 .
-{
-  "embed": {
-    "color": 12745742,
-    "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardsranged.png"
-        },
-    "fields":[
-        {
-            "name":"__Preset Suggestions__",
-            "value":"⬥ [Ranged preset](<https://pvme.io/preset-maker/#/bkY3nTJJdCiMHplZNA9n>) <:range:580168050121113623>\n⬥ [Magic preset](<https://pvme.io/preset-maker/#/BcL1kJHwMTdFJUsz5Ohk>) <:magic:689504724159823906>\n⬥ [Melee preset](<https://pvme.io/preset-maker/#/ew5ycOMY1yQLvyaPb7eo>) <:melee:1096130867279171706>\n⬥ [Necromancy preset <:necromancy:1148995625896120460>](<https://pvme.io/preset-maker/#/jIi103bvWeIZ8UneHJxN>)"
-        }
-    ]
-  }
-}
-.embed:json
 .
 {
   "embed": {
