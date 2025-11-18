@@ -89,7 +89,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Rune Pouch Setup__",
-        "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:892816437478051900> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:waterrune:536252660165115905>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:earthrune:536252659808731137> <:firerune:536252659850674186> <:airrune:536252658986647589> <:soulrune:536252660333019136>",
+        "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:1390439139400224849> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:waterrune:536252660165115905>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:earthrune:536252659808731137> <:firerune:536252659850674186> <:airrune:536252658986647589> <:soulrune:536252660333019136>",
         "inline": true
       },
                 {
@@ -148,22 +148,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Preset and Relics__
 .tag:presets
-.
-{
-  "embed": {
-    "color": 3447003,
-    "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/rangemasterpreset.png"
-        },
-    "fields":[
-        {
-            "name":"__Preset Suggestions__",
-            "value":"⬥ [Ranged Preset](https://pvme.io/preset-maker/#/g6sfPxDMupFUbk1WGTDp) <:range:580168050121113623>\n⬥ [Melee Preset](https://pvme.io/preset-maker/#/YKBniL87XknvxM17uLlJ) <:melee:1096130867279171706>\n⬥ [Necromancy Preset](https://pvme.io/preset-maker/#/8BjU6s2Ot7J3Auy8yn8s) <:necromancy:1148995625896120460>\n⬥ [Secondary Preset](https://pvme.io/preset-maker/#/BEMUK4SlgpaQljqsDQM0) <:cluescroll:1037463867716018206>"
-        }
-    ]
-  }
-}
-.embed:json
+⬥ [Master Clue Preset - Ranged](https://presets.pvme.io?id=g6sfPxDMupFUbk1WGTDp) <:range:580168050121113623>
+⬥ [Master Clue Preset - Melee](<https://presets.pvme.io?id=YKBniL87XknvxM17uLlJ>) <:melee:1096130867279171706>
+⬥ [Master Clue Preset - Necromancy](<https://presets.pvme.io?id=8BjU6s2Ot7J3Auy8yn8s>) <:necromancy:1148995625896120460>
+⬥ [Master Clue Preset - Support](<https://presets.pvme.io?id=BEMUK4SlgpaQljqsDQM0) <:cluescroll:1037463867716018206>
 .
 {
   "embed": {
@@ -180,4 +168,3 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 .pin:delete
-.
