@@ -34,7 +34,7 @@ If Necromancy:
 .tag:positionpreset
 ## __Presets and Relics__
 .tag:presets
-⬥ [Elite Clue Gathering - Magic](https://presets.pvme.io?id=OGeB7VBpNCdlHBnZnylr) <:magic:689504724159823906>
+⬥ [Elite Clue Gathering - Magic](https://presets.pvme.io?id=e8f8ad7f-9908-4569-9148-b352a37cdb96) <:magic:689504724159823906>
 ⬥ [Elite Clue Gathering - Melee](<https://presets.pvme.io?id=VR1fAogOcUJPlefzbXrf>) <:melee:1096130867279171706>
 ⬥ [Elite Clue Gathering - Necromancy](<https://presets.pvme.io?id=AXez9s2o5FsKuWjgbgaX>) <:necromancy:1148995625896120460>
 .
