@@ -148,22 +148,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Preset and Relics__
 .tag:presets
-.
-{
-  "embed": {
-    "color": 16776960,
-    "image": {
-            "url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elitecluesolving.png"
-        },
-    "fields":[
-        {
-            "name":"__Preset Suggestions__",
-            "value":"⬥ [BIS Preset w/ Skips](https://pvme.io/preset-maker/#/ZHpbyx5UVqnZeRLnuB3J)\n⬥ [BIS Preset w/o Skips](https://pvme.io/preset-maker/#/9LUZynoZp7ufZODhijcq)\n⬥ [BIS Preset (No Sentinel) w/ Skips](https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS)\n⬥ [BIS Preset (No Sentinel) w/o Skips](https://pvme.io/preset-maker/#/FeUiB8enYMYFbaY3GAnu)"
-        }
-    ]
-  }
-}
-.embed:json
+⬥ [Elite Clue Preset - With Skips](https://presets.pvme.io?id=ZHpbyx5UVqnZeRLnuB3J) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - Without Skips](<https://presets.pvme.io?id=9LUZynoZp7ufZODhijcq>)
+⬥ [Elite Clue Preset - With Sentinel Outfit](<https://pvme.io/preset-maker/#/FeUiB8enYMYFbaY3GAnu>) <:naturesentinelhelm:1104717297219797052>
+⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS>)
 .
 {
   "embed": {
