@@ -1,15 +1,15 @@
-## Abyssal Beasts - Elite Gathering
-> **Introduction (courtesy of <@145884917627224065>)**
+## Abyssal Beasts - Elite Clue Gathering
+## (courtesy of <@145884917627224065>)
+*Note: a **Table of Contents** can be found in the pins.*
+## __Introduction__
 .tag:intro
 Elite clues <:Elite:633732493228638209> are slow to gather and solve. They have the highest master clue scroll <:Master:1019920500807450666> per clue at 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
 Abyssal Beasts are good for gathering elite clues <:Elite:633732493228638209>.
-.
-> **Requirements**
+## __Requirements__
 .tag:reqs
 ⬥ <:slayer:797896049548066857> 105 Slayer
-
-> **Useful Items and Unlocks**
+## __Useful Items and Unlocks__
 .tag:useful
 All styles:
 ⬥ <:darkness:1151275891289227344> Darkness
@@ -31,26 +31,14 @@ If Necromancy:
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit, <:darkness:1151275891289227344> Darkness and your best damage boosting prayer on at all times.
 ⬥ You will need to stand in a specific spot for this to be optimal
 .img:https://img.pvme.io/images/xvsUVHqUdb.png
-
 .tag:positionpreset
-{
-  "embed": {
-"title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Presets__",
-        "value": "⬥ [Magic](https://pvme.io/preset-maker/#/OGeB7VBpNCdlHBnZnylr)\n⬥ [Melee](https://pvme.github.io/preset-maker/#/VR1fAogOcUJPlefzbXrf)\n⬥ [Necromancy](https://pvme.io/preset-maker/#/AXez9s2o5FsKuWjgbgaX)",
-        "inline": true
-      }
-    ]
-  }
-}
-.embed:json
-
+## __Presets and Relics__
+.tag:presets
+⬥ [Elite Clue Gathering - Magic](https://presets.pvme.io?id=OGeB7VBpNCdlHBnZnylr) <:magic:689504724159823906>
+⬥ [Elite Clue Gathering - Melee](<https://presets.pvme.io?id=VR1fAogOcUJPlefzbXrf>) <:melee:1096130867279171706>
+⬥ [Elite Clue Gathering - Necromancy](<https://presets.pvme.io?id=AXez9s2o5FsKuWjgbgaX>) <:necromancy:1148995625896120460>
 .
-**Action Bars**
+## __Action Bars__
 .tag:bar
 ⬥ Note:
     • The kills per hour is using best in slot and having the max levels in the relevant style
@@ -70,11 +58,10 @@ If Necromancy:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Presets]($linkmsg_positionpreset$)\n⬥ [Action Bars]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Unlocks]($linkmsg_useful$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
 }
 .embed:json
 .pin:delete
-.
