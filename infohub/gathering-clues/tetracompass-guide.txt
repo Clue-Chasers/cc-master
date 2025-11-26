@@ -14,7 +14,7 @@ Any questions regarding the presets, ask in <#400499160094212097>
 Improvements and suggestions are always welcome. Post any you may have in <#874985149937365064>
 
 ## __Tetracompass - AFK Gathering Yield__
-These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892342109791735848> and sending out your Research Team <:research:1357683628124934285>):
+These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892342109791735848> and sending out your Research Team <:research:1357683628124934285>:
 <:tonymattock:900765150888480838> Guildmaster Tony's mattock will yield you 0.99 tetracompasses/hour.
 <:spacetimemattock:900765150674555000> Mattock of Time and Space will yield you 0.85 tetracompasses/hour.
 .
