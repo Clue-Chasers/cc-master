@@ -39,8 +39,8 @@ The clue rates for Menaphos market guards are still being determined by the comm
 ## Location and How to Get there
 Use Leela's Favour <:leelasfavour:1372307156346343565> or Menaphos journal <:menaphosjournal:1123597967388057610> for quick access to the Merchant District.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/menaphosthieving.webp
-## __Presets and Afkwarden__
 .tag:presets
+## __Presets and Afkwarden__
 ⬥ [Long AFK Preset](https://presets.pvme.io?id=6778af02-93e7-44b8-b79b-e0a00895bbfd)
 ⬥ [Mid AFK Preset](<https://presets.pvme.io?id=c4e4508d-e493-4671-9ffb-50c29f7190f0>)
 ⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/menaphos-market-guards.txt>)
