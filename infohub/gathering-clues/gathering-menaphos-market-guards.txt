@@ -33,7 +33,6 @@ The clue rates for Menaphos market guards are still being determined by the comm
 ⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
     • Perked with Prosper & Oblivious
 ⬥ <:lotd:566453486913323042> Luck of the Dwarves ring
-⬥ <:fivefingerdiscountaura:1334114507865194506> Five-Finger Discount Aura
 ⬥ <:graspingpouchblack:1390439136875253810> Grasping pouch with runes <:earthrune:536252659808731137> <:firerune:536252659850674186> <:bodyrune:536252659301089280> <:soulrune:536252660333019136> for Crystal Mask <:crystalmask:892342109829464094>
 .
 .tag:location
@@ -43,12 +42,13 @@ Use Leela's Favour <:leelasfavour:1372307156346343565> or Menaphos journal <:men
 ## __Presets and Afkwarden__
 .tag:presets
 ⬥ [Long AFK Preset](https://presets.pvme.io?id=6778af02-93e7-44b8-b79b-e0a00895bbfd)
-⬥ [Mid AFK Preset](<https://presets.pvme.io?id=47695756-99bd-4df3-a550-83253b44a0ee>)
+⬥ [Mid AFK Preset](<https://presets.pvme.io?id=c4e4508d-e493-4671-9ffb-50c29f7190f0>)
 ⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/menaphos-market-guards.txt>)
 ## __Preset Notes__
 ⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> to extend your spirit attraction potion <:spiritattractionflask:1102531518741622854> timer.
 ⬥ You need a few super restores <:restore:642708657825644554> to restore familiar points if using a magpie familiar <:magpiepouch:1442996047592030218>.
 ⬥ When you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.
+⬥ Activating a God banner <:godbanner:1443590241700282398> temporarily boosts your Agility by 5 for 30 minutes of in-game time, increasing your chances of double looting for that duration.
 .
 {
   "embed": {
