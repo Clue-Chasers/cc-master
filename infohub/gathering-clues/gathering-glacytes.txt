@@ -27,7 +27,6 @@ This guide provides a method for AFKing Glacytes to farm Hard clues <:Hard:63372
 ⬥ Make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul, <:divinerage:1335746763151380490> Divine Rage and <:overcharge:1335739259834859582> Overcharge on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
 .
-.tag:location
 ### Location and How to Get there
 The only place to find Glacytes is in the Glacor front in Senntisten. To get there attune one of your boss portals to Arch Glacor.
 .
@@ -39,6 +38,7 @@ Here is a guide displaying how to lure them:
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one south west of the tip of the gold symbol. As for your own position stand on the designated red tile, three tiles north of the left north pillar.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/glacytescannon.png
 .
+.tag:presets
 ## __Presets and Afkwarden__
 ⬥ [AFK Preset](https://presets.pvme.io?id=9cf34ed8-f3b2-41de-b7a9-056788cd076f)
 ⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/glacytes.txt)
@@ -55,7 +55,7 @@ Here is a guide displaying how to lure them:
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_preset$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
