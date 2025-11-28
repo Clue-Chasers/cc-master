@@ -24,7 +24,7 @@ This guide aims to give you both a short and long form method of AFKing Hellhoun
 .
 .tag:presets
 ## __Presets and Afkwarden__
-⬥ [AFK Preset](https://presets.pvme.io?id=NIY4QhWoULEMHZDEYjFH)
+⬥ [AFK Preset](https://presets.pvme.io?id=6212c738-13d6-44bb-9ee3-77bbebc8114a)
 ⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/hellhounds.txt)
 .
 ## __Action Bar__
