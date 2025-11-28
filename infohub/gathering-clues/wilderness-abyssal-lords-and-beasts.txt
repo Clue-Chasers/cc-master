@@ -4,9 +4,7 @@
 .tag:intro
 ### Introduction *(courtesy of <@145884917627224065> & <@211049089050214400>)*
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
-For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal Beasts are your best bet, whether through crystal triskelion key fragments <:trisk:643215216934518815> or direct clue drops.
 .
-.tag:reqs
 ### Requirements
 ⬥ <:slayer:797896049548066857> 115 Slayer
 .
@@ -33,7 +31,6 @@ For gathering elite clues <:Elite:633732493228638209>, Abyssal Lords and Abyssal
 ⬥ You will need to stand in a specific spot for this to be optimal.
 ⬥ You need to place your cannon in a specific position for this to be optimal.
 .
-.tag:location
 ### Location and How to Get there
 The best place to find abyssal beasts and lords is in the Wilderness, between levels 45-47, near the Lava Maze and Red Dragon Isle. To get there fast, just use the Wilderness sword to teleport to the Herb patch at around level 39 Wilderness and head north.
 
@@ -42,28 +39,11 @@ The best place to find abyssal beasts and lords is in the Wilderness, between le
 ⬥ For an optimal guide on how to do this, check out the video by <@168667605647753216> **[here](https://www.youtube.com/watch?v=a4fjTsdvhWk)**.
 .img:https://img.pvme.io/images/VtwbZiAD72.png
 .
-.tag:preset
-{
-  "embed": {
-"title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset__",
-        "value": "⬥ [Preset and Breakdown](https://pvme.io/preset-maker/#/P42yjSoexrv0OIfhvud1)",
-        "inline": true
-      }
-    ],
-    "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/wildyabyssalcreatures.png"
-    }
-  }
-}
-.embed:json
+.tag:presets
+## __Presets and Afkwarden__
+⬥ [AFK Preset](https://presets.pvme.io?id=P42yjSoexrv0OIfhvud1)
 .
-**Action Bars**
-.tag:bar
+## __Action Bars__
 If you want more kills per hour for near no effort, use <:demonslayer:641339921675845633> and <:roarofawakening:1266417538045317121> <:spec:537340400273195028> after <:gchain:1257440278512537740> manually.
 
 <:incitefear:856635090783567902> Incite Fear Bar
@@ -79,7 +59,7 @@ If you want more kills per hour for near no effort, use <:demonslayer:6413399216
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
