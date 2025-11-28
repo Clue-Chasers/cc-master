@@ -58,6 +58,7 @@ If you are opting to use an alt to gain the 10-20% increase in kills per hour, y
 ⬥ [Long AFK Preset and Breakdown](<https://presets.pvme.io?id=iqX9UG9014TgREAxmAPR>)
 ⬥ [Alt Preset and Breakdown](<https://presets.pvme.io?id=75tICRoFsed3YeRjZYns>)
 ⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt>)
+.
 ## __Preset Notes__
 ⬥ You can use Superior Elite Seasingers for the crates for some extra gp if you wish for slightly less kills per hour.
 ⬥ If you're opting to do Long AFK, just pause the lootbeam.
