@@ -5,8 +5,7 @@
 ### Introduction (courtesy of <@145884917627224065>)
 Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 
-This guide aims to give you both a short and long form method of AFKing Abyssal Beasts for Elite clues <:Elite:633732493228638209>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~1.39 Elite clues <:Elite:633732493228638209> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know. You can opt to reduce them by removing the cannon.
-
+This guide provides a melee and magic method for AFKing Abyssal Beasts for Elite clues <:Elite:633732493228638209>. Using Dwarf Weed Incense <:dwarfincense:1333016299055484998> yields an average of ~1.39 Elite clues <:Elite:633732493228638209>. A Legendary pet familiar can also pick up sealed clues, though the amount is entirely RNG-based and cannot be reliably predicted.
 .
 .tag:reqs
 ### Requirements
@@ -39,43 +38,24 @@ This guide aims to give you both a short and long form method of AFKing Abyssal 
 ⬥ For magic make sure you have <:eclipsedsoul:1335746266289799268> Eclipsed Soul alongside <:overcharge:1335739259834859582> Overcharge, <:divinerage:1335746763151380490> Divine Rage + <:mysticmight:1335739258434224189> Mystic Might on at all times.
 ⬥ For melee make sure you have <:soulsplit:615613924506599497> Soul Split alongside <:malevolence:513190159416557573> Malevolence on at all times.
 ⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon.
-⬥ If opting for a long AFK setup, make sure to use Legendary Pet with Scavenge, turn everything but miscellaneous off.
 .
-.tag:location
 ### Location and How to Get there
 The best place to find abyssal beasts is in the Wilderness, in level 37. To get there fast use an obelisk and option 4. Since the inventory is full of items to prolong the trip, you can use the Wilderness Lodestone and use the Obelisk nearby.
 
 ⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely two squares east and one square south of the black mark. As for your own position stand on the designated red tile, 2 tiles north of the black skeleton.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/positionspot1.png
 .
-.tag:preset
-{
-  "embed": {
-"title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Presets and Afkwarden__",
-        "value": "⬥ [Melee Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/IPGRtfzYrsNNHkviSi02)\n⬥ [Magic Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/AqWd3YhFNifOsT8W2bF8)\n⬥ [Magic Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/ZgpKT7xcGiVoZ7fgTJbp)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)",
-        "inline": true
-      }
-    ],
-    "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/meleebeastspreset.png"
-    }
-  }
-}
-.embed:json
+.tag:presets
+## __Presets and Afkwarden__
+⬥ [Melee AFK Preset and Breakdown](https://presets.pvme.io?id=72941c1c-83b3-4bbe-8df1-ac82dceb2169)
+⬥ [Magic AFK Preset and Breakdown](<https://presets.pvme.io?id=836af697-8518-4f71-afdf-0f0b46aa5140>)
+⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/wildy-beasts.txt)
 .
-**Action Bars**
-
-.tag:bar
+## __Action Bars__
 **[Magic Bar 880+ kph](<https://youtu.be/0vE3L-nPQkQ>)**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/wildybeastsbar.png
 **Melee Bar 940+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/meleebeastsbar.png
-
 .
 {
   "embed": {
@@ -85,7 +65,7 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Presets]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
