@@ -1,6 +1,6 @@
 ## Hellhounds
-### Introduction *(courtesy of <@145884917627224065>)*
 .tag:intro
+### Introduction *(courtesy of <@145884917627224065>)*
 Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have the second highest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 57/100 per roll, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
 Hellhounds are good for gathering hard clues <:Hard:633728361918758930>.
@@ -10,8 +10,8 @@ This guide aims to give you both a short and long form method of AFKing Hellhoun
 ### Requirements
 ⬥ <:dungeoneering:1003947795541143632> 55 Dungeoneering
 .
-### Useful Items and Information
 .tag:useful
+### Useful Items and Information
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:gchain:1257440278512537740> Greater Chain
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine
@@ -28,7 +28,6 @@ This guide aims to give you both a short and long form method of AFKing Hellhoun
 ⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/hellhounds.txt)
 .
 ## __Action Bar__
-.tag:bar
 ⬥ Note:
     • You can opt to use <:elderovl:841419289831800882> Overloads for slightly more kph.
 **Magic 2400+ kph**
