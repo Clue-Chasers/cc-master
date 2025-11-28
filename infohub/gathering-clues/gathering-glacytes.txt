@@ -63,4 +63,3 @@ Here is a guide displaying how to lure them:
 .embed:json
 .pin:delete
 .
-.tag:presets
