@@ -47,11 +47,14 @@ Use Leela's Favour <:leelasfavour:1372307156346343565> or Menaphos journal <:men
 ⬥ [Long AFK Preset](https://presets.pvme.io?id=6778af02-93e7-44b8-b79b-e0a00895bbfd)
 ⬥ [Mid AFK Preset](<https://presets.pvme.io?id=c4e4508d-e493-4671-9ffb-50c29f7190f0>)
 ⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/menaphos-market-guards.txt>)
+.
 ## __Preset Notes__
+⬥ If your Thieving <:thieving:1039864807920250900> level isn’t enough to guarantee 100% success rate, consider using the Five-Finger Discount Aura <:fivefingerdiscountaura:1334114507865194506>.
+⬥ Activating a [God banner](<https://runescape.wiki/w/God_banner>) <:godbanner:1443590241700282398> temporarily boosts your Agility by 5 for 30 minutes of in-game time, increasing your chances of double looting for that duration.
 ⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> to extend your spirit attraction potion <:spiritattractionflask:1102531518741622854> timer if using a Scripture of Bik <:scriptureofbik:892342109791735848>.
 ⬥ If you aren't using Prism of Restoration <:prismofrestoration:938475261366784070> you can instead bring a few super restores <:restore:642708657825644554> to replenish familiar spell points, allowing you to resummon your magpie <:magpiepouch:1442996047592030218>.
-⬥ Activating a [God banner](<https://runescape.wiki/w/God_banner>) <:godbanner:1443590241700282398> temporarily boosts your Agility by 5 for 30 minutes of in-game time, increasing your chances of double looting for that duration.
-⬥ If your Thieving <:thieving:1039864807920250900> level isn’t enough to guarantee 100% success rate, consider using the Five-Finger Discount Aura <:fivefingerdiscountaura:1334114507865194506>.
+⬥ You can equip a Necklace of Shadows <:necklaceofshadows:1443986289392226364> if you’re not using the Prism of Restoration <:prismofrestoration:938475261366784070> to reduce summoning point drain, letting you summon more Magpies <:magpiepouch:1442996047592030218> before needing to replenish. Alternatively, you can use the nearby obelisk to restore your summoning points.
+⬥ You can also bring runes for Spiritual Healing <:spiritualhealing:1091050892142325780> if you have the spell unlocked, which helps extend Magpie duration <:magpiepouch:1442996047592030218>. This requires an extra pouch with runes <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:lawrune:536252661406760970> for spellbook swapping <:sbs:543875425055670275>, allowing you to use both Spiritual Healing and the Prism of Restoration.
 .
 {
   "embed": {
