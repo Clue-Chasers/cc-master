@@ -7,21 +7,21 @@
 0.17 x Sealed clue scrolls <:Master:1019920500807450666>
 .
 ## Easy Clues <:Easy:633728862039179294>
-[Pickpocketing HAM Members](<https://discord.com/channels/332595657363685377/1333860521224572979>) (~100/hr) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing HAM Members](<https://discord.com/channels/332595657363685377/1443974701885034567>) (~100/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Medium Clues <:Medium:633728704438075435>
-[Ivory Statues](<https://discord.com/channels/332595657363685377/1334638997145653268>) (~56-61/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
+[Ivory Statues](<https://discord.com/channels/332595657363685377/1443974612848349286>) (~56-61/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 Consider downgrading hard clues (~48.1/hr) + Bik <:scriptureofbik:892342109791735848>
 .
 ## Hard Clues <:Hard:633728361918758930>
-[Glacytes](<https://discord.com/channels/332595657363685377/1333408239613775882>) (~48.1/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
-[Hellhounds](<https://discord.com/channels/332595657363685377/1330996952367890585>) (~37.8/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
+[Glacytes](<https://discord.com/channels/332595657363685377/1443970805062172682>) (~48.1/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
+[Hellhounds](<https://discord.com/channels/332595657363685377/1443965875924373705>) (~37.8/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
 [Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1443028206465843320) (~21.6/hr) + Bik <:scriptureofbik:892342109791735848>
-[Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1334126753777717289>) (~4.52/hr) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1443975404162383943>) (~4.52/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Elite Clues <:Elite:633732493228638209>
 [Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1443028206465843320) (~17.9/hr) + Bik <:scriptureofbik:892342109791735848>
-[Wilderness Abyssal Lords and Beasts](<https://discord.com/channels/332595657363685377/1123335749044031518>) (16.4/hr) + Bik <:scriptureofbik:892342109791735848>
-[Wilderness Beasts](<https://discord.com/channels/332595657363685377/1333018655801217024>) (~15.9/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
-[Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1334126753777717289>) (~2.26/hr) + Bik <:scriptureofbik:892342109791735848>
+[Wilderness Abyssal Lords and Beasts](<https://discord.com/channels/332595657363685377/1443975174411259904>) (16.4/hr) + Bik <:scriptureofbik:892342109791735848>
+[Wilderness Beasts](<https://discord.com/channels/332595657363685377/1443975260054753282>) (~15.9/hr + legendary pet pickups) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1443975404162383943>) (~2.26/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Master Clues <:Master:1019920500807450666>
 For Master Clues it depends how fast you are at solving Hard clues and Elite clues.
 For more details, check out [this link](https://discord.com/channels/332595657363685377/1022584947980116138)
