@@ -6,10 +6,11 @@ Hard clues <:Hard:633728361918758930> are fast to gather and solve. They have th
 Hellhounds are good for gathering hard clues <:Hard:633728361918758930>.
 
 This guide aims to give you both a short and long form method of AFKing Hellhounds for Hard clues <:Hard:633728361918758930>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~3.03 Hard clues <:Hard:633728361918758930> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know.
+.
 ### Requirements
-.tag:reqs
 ⬥ <:dungeoneering:1003947795541143632> 55 Dungeoneering
-### Useful Items and Unlocks
+.
+### Useful Items and Information
 .tag:useful
 ⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
 ⬥ <:gchain:1257440278512537740> Greater Chain
@@ -20,28 +21,13 @@ This guide aims to give you both a short and long form method of AFKing Hellhoun
 ⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and your best damage boosting prayer on at all times.
 ⬥ You will need to place your cannon in a specific spot as well as stand in a specific spot for this to be optimal
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhound%20map.png
-.tag:positionpreset
-{
-  "embed": {
-"title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Short/Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/NIY4QhWoULEMHZDEYjFH)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/hellhounds.txt)",
-        "inline": true
-      }
-    ],
-    "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hellhoundsmagic.png"
-    }
-  }
-}
-.embed:json
-
 .
-**Action Bar**
+.tag:presets
+## __Presets and Afkwarden__
+⬥ [AFK Preset](https://presets.pvme.io?id=NIY4QhWoULEMHZDEYjFH)
+⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/hellhounds.txt)
+.
+## __Action Bar__
 .tag:bar
 ⬥ Note:
     • You can opt to use <:elderovl:841419289831800882> Overloads for slightly more kph.
@@ -56,7 +42,7 @@ This guide aims to give you both a short and long form method of AFKing Hellhoun
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Positioning]($linkmsg_positionpreset$)\n⬥ [Preset]($linkmsg_positionpreset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
