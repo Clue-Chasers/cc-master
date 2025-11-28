@@ -2,25 +2,22 @@
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### **Introduction** *(courtesy of <@299098494671519745>)*
+### Introduction *(courtesy of <@299098494671519745>)*
 Medium clues <:mediumclue:1123586948905324637> are fast to gather and solve. They have the third highest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 53/100, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
-Ivory Statues are good for gathering medium clues <:mediumclue:1123586948905324637>.
-
-This guide aims to give you both a short and long form method of AFKing Ivory Statues for Medium clues <:mediumclue:1123586948905324637>. This is currently better than Prosper Smithing if doing long form AFK with slightly more inputs every time you go back to the game. This long form method gives ~4 Medium clues <:mediumclue:1123586948905324637> with Dwarf Weed Incense <:dwarfincense:1333016299055484998>, it also gives some with Legendary pet but the number has no average as it's completely rng on a factor we do not know.
-
+This guide provides a method for AFKing Ivory Statues for Medium clues <:mediumclue:1123586948905324637>. Using Dwarf Weed Incense <:dwarfincense:1333016299055484998> yields an average of ~4 Medium clues <:mediumclue:1123586948905324637>. A Legendary pet familiar can also pick up sealed clues, though the amount is entirely RNG-based and cannot be reliably predicted.
+.
 Short AFK can be done a few ways:
 ⬥ Actively hunting down the escaped ivory statues for them to reset
 ⬥ Killing the escaped ivory statues each hour
 ⬥ Both will be actively picking up Medium clues <:mediumclue:1123586948905324637> when they drop and of course repotting.
-
 .
 .tag:reqs
-### **Requirements**
+### Requirements
 ⬥ <:Quest_points:1151954130177368114> A Fairy Tale III - Battle at Ork's Rift
 .
 .tag:useful
-### **Useful Items and Information**
+### Useful Items and Information
 ⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
 ⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
 ⬥ <:gsonicwave:1095411826839257138> Greater Sonic Wave (unlocked)
@@ -39,11 +36,10 @@ Short AFK can be done a few ways:
 ⬥ You can opt to have Seedicide <:seedicide:1134924028801450065> to destroy all seeds.
 ⬥ You can use an alt to gain a 10-20% increase in kills per hour. *As detailed below.*
 .
-.tag:location
-### **Location and How to Get there**
+### Location and How to Get there
 The only place to find Ivory Statues is in Ork's Rift. To get there use a fairy ring with codes (in order): BIR DIP CLR ALP. This should be in your travel log already after completing A Fairy Tale III.
 .
-### **Setup**
+### Setup
 In order to AFK Ivory Statues efficiently you must place your cannon <:cannon:869283142350041098> then kill all the Ivory Statues to reset them.
 Here is a guide displaying the setup:
 ⬥ [Ivory Statue Setup](<https://www.youtube.com/watch?v=4q02cj3rwus>)
@@ -56,34 +52,19 @@ If you are opting to use an alt to gain the 10-20% increase in kills per hour, y
 ⬥ Position your alts oldak coil <:oldakcoil:798285651387613194> on the designated yellow tile, as shown below, precisely two tiles north east of the far east patch. As for your alts position it should stand on the designated red tile, hugging the west wall at the top.
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/orksriftpositioningalt.png
 .
-.tag:preset
-{
-  "embed": {
-"title": "",
-    "description": "",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Preset and Afkwarden__",
-        "value": "⬥ [Short AFK Preset and Breakdown](https://pvme.io/preset-maker/#/iQE26EfuAk1vOjU8IW9H)\n⬥ [Long AFK Preset and Breakdown](https://pvme.io/preset-maker/#/iqX9UG9014TgREAxmAPR)\n⬥ [Alt Preset and Breakdown](https://pvme.io/preset-maker/#/75tICRoFsed3YeRjZYns)\n⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt)",
-        "inline": true
-      }
-    ],
-    "image": {
-    	"url": "https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/ivorystatuesshort.png"
-    }
-  }
-}
-.embed:json
-**Preset Notes**
+.tag:presets
+## __Presets and Afkwarden__
+⬥ [Short AFK Preset and Breakdown](https://presets.pvme.io?id=iQE26EfuAk1vOjU8IW9H)
+⬥ [Long AFK Preset and Breakdown](<https://presets.pvme.io?id=iqX9UG9014TgREAxmAPR>)
+⬥ [Alt Preset and Breakdown](<https://presets.pvme.io?id=75tICRoFsed3YeRjZYns>)
+⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ivorystatues.txt>)
+## __Preset Notes__
 ⬥ You can use Superior Elite Seasingers for the crates for some extra gp if you wish for slightly less kills per hour.
 ⬥ If you're opting to do Long AFK, just pause the lootbeam.
 ⬥ If you're opting to do Short AFK, make sure you loot the stackables, you can put them in your preset if you wish.
 ⬥ You can add and remove things to your liking, just do not ask why you're not getting the same results if you have changed something.
 .
-**Action Bars**
-
-.tag:bar
+## __Action Bars__
 **Magic Bar 2200+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/ivorystatuesbar.png
 .
@@ -95,7 +76,7 @@ If you are opting to use an alt to gain the 10-20% increase in kills per hour, y
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Requirements]($linkmsg_reqs$)\n⬥ [Useful Items and Info]($linkmsg_useful$)\n⬥ [Location and How to Get there]($linkmsg_location$)\n⬥ [Preset]($linkmsg_preset$)\n⬥ [Action Bar]($linkmsg_bar$)\n⬥ Return to <#1023016130077532300>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
