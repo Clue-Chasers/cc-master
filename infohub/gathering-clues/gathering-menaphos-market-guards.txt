@@ -3,7 +3,7 @@
 .
 .tag:intro
 ### Introduction *(courtesy of <@161545097597550593>)*
-This guide provides everything you need to efficiently gather both hard <:hardclue:1123586945273049109> and elite <:eliteclue:1123586941057769552> clues from Thieving Menaphos market guards in the Merchant District of Menaphos. It covers two methods: one that requires interacting every 15 minutes to prevent logout by using a combination of the Ring of Vitur <:ringofvitur:1442996093846814730> and Magpie Pouches <:magpiepouch:1442996047592030218>, and another that requires using Crystal Mask <:crystalmask:892342109829464094> every 5 minutes.
+This guide provides everything you need to efficiently gather both hard <:hardclue:1123586945273049109> and elite <:eliteclue:1123586941057769552> clues from Thieving Menaphos market guards in the Merchant District of Menaphos. This method requires interacting every 15 minutes to prevent logout by using a combination of the Ring of Vitur <:ringofvitur:1442996093846814730> and Magpie Pouches <:magpiepouch:1442996047592030218>
 .
 ## Clue Rates
 Baseline rates are approximately 17.5 elite <:eliteclue:1123586941057769552> and 21.0 hard <:hardclue:1123586945273049109> per hour, with Prosper adding roughly ~0.4 elite <:eliteclue:1123586941057769552> and ~0.6 <:hardclue:1123586945273049109> hard per hour. **This brings the totals to about 17.9 elite <:eliteclue:1123586941057769552> and 21.6 hard <:hardclue:1123586945273049109> clues per hour, not including Bik <:scriptureofbik:892342109791735848>**
@@ -13,11 +13,12 @@ Baseline rates are approximately 17.5 elite <:eliteclue:1123586941057769552> and
     • A higher Thieving level greatly reduces the risk of stuns or damage
 ⬥ <:Quest_points:1151954130177368114> The Jack of Spades quest to access Menaphos
 ⬥ <:thievingcape:1334114808865357902> Thieving skillcape to automatically note all Thieving loot from pickpocketing
-⬥ <:leelasfavour:1372307156346343565> Leela's Favour or <:menaphosjournal:1123597967388057610> Menaphos journal for quick access to the Merchant District
 ⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
     • Inherits the Trahaearn exoskeleton set's effects if owned <:exoskeletontorso:1443370513245147146>
 ⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
 ⬥ <:stickyfingers:1333857886820110366> Sticky Fingers relic
+⬥ <:magpiepouch:1442996047592030218> Magpie pouches
+⬥ <:ringofvitur:1442996093846814730> Ring of Vitur
 .
 .tag:useful
 ## Useful Items and Information
@@ -25,36 +26,26 @@ Baseline rates are approximately 17.5 elite <:eliteclue:1123586941057769552> and
 ⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
     • Perked with Prosper & Oblivious
 ⬥ <:lotdrelic:987267727980912701> Luck of the Dwarves relic
-⬥ <:ringofvitur:1442996093846814730> Ring of Vitur
-⬥ <:magpiepouch:1442996047592030218> Magpie pouches
 ⬥ <:TotemofSummoning:1127695244805287946> Totem of Summoning active
+⬥ <:leelasfavour:1372307156346343565> Leela's Favour or <:menaphosjournal:1123597967388057610> Menaphos journal for quick access to the Merchant District
 ⬥ <:graspingpouchblack:1390439136875253810> Grasping pouch with runes <:Astralrune:536252658961481769> <:Bloodrune:536252658970001409> <:soulrune:536252660333019136> for Prism of Restoration <:prismofrestoration:938475261366784070>
     • Casting Prism of Restoration <:prismofrestoration:938475261366784070> replenishes familiar spell points, allowing you to resummon your magpie
-### Mid AFK (5 minutes)
-⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
-    • Perked with Prosper & Oblivious
-⬥ <:lotd:566453486913323042> Luck of the Dwarves ring
-⬥ <:graspingpouchblack:1390439136875253810> Grasping pouch with runes <:earthrune:536252659808731137> <:firerune:536252659850674186> <:bodyrune:536252659301089280> <:soulrune:536252660333019136> for Crystal Mask <:crystalmask:892342109829464094>
-    • Casting Crystal Mask <:crystalmask:892342109829464094> avoid you from being stunned or damaged
+⬥ <:necklaceofshadows:1443986289392226364> Necklace of Shadows
+    • While equipped, Summoning familiars will not drain a player's summoning points after they have been initially summoned.
 .
 .tag:location
 ## Location and How to Get there
 Use Leela's Favour <:leelasfavour:1372307156346343565> or Menaphos journal <:menaphosjournal:1123597967388057610> for quick access to the Merchant District.
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/menaphosthieving.webp
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/menaphosguards.png
 .
 .tag:presets
 ## __Presets and Afkwarden__
-⬥ [Long AFK Preset](https://presets.pvme.io?id=6778af02-93e7-44b8-b79b-e0a00895bbfd)
-⬥ [Mid AFK Preset](<https://presets.pvme.io?id=c4e4508d-e493-4671-9ffb-50c29f7190f0>)
+⬥ [AFK Preset](https://presets.pvme.io?id=05bdbe07-f316-4618-9a2d-a3002c736112)
 ⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/menaphos-market-guards.txt>)
 .
 ## __Preset Notes__
 ⬥ If your Thieving <:thieving:1039864807920250900> level isn’t enough to guarantee 100% success rate, consider using the Five-Finger Discount Aura <:fivefingerdiscountaura:1334114507865194506>.
 ⬥ Activating a [God banner](<https://runescape.wiki/w/God_banner>) <:godbanner:1443590241700282398> temporarily boosts your Agility by 5 for 30 minutes of in-game time, increasing your chances of double looting for that duration.
-⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> to extend your spirit attraction potion <:spiritattractionflask:1102531518741622854> timer if using a Scripture of Bik <:scriptureofbik:892342109791735848>.
-⬥ If you aren't using Prism of Restoration <:prismofrestoration:938475261366784070> you can instead bring a few super restores <:restore:642708657825644554> to replenish familiar spell points, allowing you to resummon your magpie.
-⬥ You can equip a Necklace of Shadows <:necklaceofshadows:1443986289392226364> if you’re not using the Prism of Restoration <:prismofrestoration:938475261366784070> to reduce summoning point drain, letting you summon more magpies before needing to replenish. Alternatively, you can use the nearby obelisk to restore your summoning points.
-⬥ You can also bring runes for Spiritual Healing <:spiritualhealing:1091050892142325780> if you have the spell unlocked, which helps extend Magpie duration <:magpiepouch:1442996047592030218>. This requires an extra pouch with runes <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:lawrune:536252661406760970> for spellbook swapping <:sbs:543875425055670275>, allowing you to use both Spiritual Healing and the Prism of Restoration.
 .
 {
   "embed": {
