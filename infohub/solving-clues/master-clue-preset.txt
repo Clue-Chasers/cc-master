@@ -89,12 +89,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Rune Pouch Setup__",
-        "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:1390439139400224849> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258> <:Astralrune:536252658961481769> <:waterrune:536252660165115905>\n    ⬩ <:graspingpouchgreen:892816437385756752> <:earthrune:536252659808731137> <:firerune:536252659850674186> <:airrune:536252658986647589> <:soulrune:536252660333019136>",
+        "value": "⬥ Be on Lunars Spellbook\n    ⬩ <:graspingpouch:1390439139400224849> <:timerune:1356369700694523954> <:astralrune:536252658961481769> <:lawrune:536252661406760970> <:cosmicrune:536252659615924258>\n    ⬩ <:graspingpouchgreen:1390439138401980446> <:firerune:536252659850674186> <:waterrune:536252660165115905> <:soulrune:536252660333019136> <:chaosrune:536252659422855188>",
         "inline": true
       },
                 {
         "name": "__Preset Notes__",
-        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All Skilling steps are personal preference in which you take with you and do in the secondary preset\n⬥ Overload <:elderovlsalve:648976643687317532> is a ~4.7% damage increase for Necromancy and can be repotted with the secondary preset",
+        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use Grim <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All Skilling steps are personal preference in which you take with you and do in the secondary preset",
         "inline": false
       },
       {
@@ -112,6 +112,11 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "title": "__Double Agent Rotations__",
     "color": 3447003,
     "fields": [
+            {
+        "name": "__Magic__ ",
+        "value": "⬥ <:icebarrage:537340400185245701> + <:wm:535533809978966037> → <:wrack:1257439366708592651> → <:estaff:1445020604678930453> <:eofspec:1257438999794946099>",
+        "inline": false
+      },
       {
         "name": "__Range__",
         "value": "⬥ Pre <:ecb:615618531937222657> <:eofspec:1257438999794946099> + tele to step → <:fularrow:971025696958853180> <:gricocaroming:867678153966878740> → <:bolg:994189289623662702> <:spec:537340400273195028> → <:piercing:535541258538450944>\n\n⬥ Pre <:ecb:615618531937222657> <:eofspec:1257438999794946099> + tele to step → <:fularrow:971025696958853180> <:gricocaroming:867678153966878740> → <:zammybow:1215929540908679208> <:eofspec:1257438999794946099>\n\n    • If using the later, you need 2 <:eof:787526151978614824>",
@@ -119,7 +124,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
       {
         "name": "__Melee__",
-        "value": "⬥ <:chaosroar:994644356671737966> → <:overpowerigneous:959089455640215633>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n\n⬥ <:gfury:535532879334080527> → <:overpowerigneous:959089455640215633> → <:punish:535532879439069184>\n\nIf <:overpower:535532879334080517> on cooldown:\n\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> → <:cane:535532878969438210> → <:punish:535532879439069184> / <:deci:535532879325822986>",
+        "value": "⬥ <:chaosroar:994644356671737966> → <:vdagger:1445020663940255846> <:eofspec:1257438999794946099> → <:punish:535532879439069184>\n\nIf <:chaosroar:994644356671737966> on cooldown:\n\n⬥ <:gbarge:535532879250456578> → <:assault:535532855191928842> / <:destroy:535532879330148352> / <:gflurry:535532879283879977> → <:vdagger:1445020663940255846> <:eofspec:1257438999794946099>",
         "inline": false
       },
       {
@@ -148,10 +153,11 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Preset and Relics__
 .tag:presets
-⬥ [Master Clue Preset - Ranged](https://presets.pvme.io?id=14047252-026e-45d7-a761-545793dfb268) <:range:580168050121113623>
-⬥ [Master Clue Preset - Melee](<https://presets.pvme.io?id=YKBniL87XknvxM17uLlJ>) <:melee:1096130867279171706>
-⬥ [Master Clue Preset - Necromancy](<https://presets.pvme.io?id=8BjU6s2Ot7J3Auy8yn8s>) <:necromancy:1148995625896120460>
-⬥ [Master Clue Preset - Support](<https://presets.pvme.io?id=a086b9e2-9c34-4d63-badd-198c05ae810f) <:cluescroll:1037463867716018206>
+⬥ ⬥ [Master Clue Preset - Magic](https://presets.pvme.io?id=a6ecfeb1-f929-4c59-a84c-0c347a414d71) <:necromancy:1148995625896120460>
+⬥ [Master Clue Preset - Ranged](<https://pvme.io/preset-maker/#/d86deeaf-5a33-4f51-9c91-9235b105e78c>) <:range:580168050121113623>
+⬥ [Master Clue Preset - Melee](<https://pvme.io/preset-maker/#/296362ef-2e2c-4042-b43a-5cb10a3e57b3>) <:melee:1096130867279171706>
+⬥ [Master Clue Preset - Necromancy](<https://pvme.io/preset-maker/#/7a25e8cb-1e01-462d-b267-00a9d6d734fe>) <:necromancy:1148995625896120460>
+⬥ [Master Clue Preset - Support](https://presets.pvme.io?id=a086b9e2-9c34-4d63-badd-198c05ae810f) <:cluescroll:1037463867716018206>
 .
 {
   "embed": {
