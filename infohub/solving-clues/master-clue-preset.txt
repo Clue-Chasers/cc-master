@@ -153,7 +153,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Preset and Relics__
 .tag:presets
-⬥ ⬥ [Master Clue Preset - Magic](https://presets.pvme.io?id=a6ecfeb1-f929-4c59-a84c-0c347a414d71) <:necromancy:1148995625896120460>
+⬥ [Master Clue Preset - Magic](https://presets.pvme.io?id=a6ecfeb1-f929-4c59-a84c-0c347a414d71) <:necromancy:1148995625896120460>
 ⬥ [Master Clue Preset - Ranged](<https://pvme.io/preset-maker/#/d86deeaf-5a33-4f51-9c91-9235b105e78c>) <:range:580168050121113623>
 ⬥ [Master Clue Preset - Melee](<https://pvme.io/preset-maker/#/296362ef-2e2c-4042-b43a-5cb10a3e57b3>) <:melee:1096130867279171706>
 ⬥ [Master Clue Preset - Necromancy](<https://pvme.io/preset-maker/#/7a25e8cb-1e01-462d-b267-00a9d6d734fe>) <:necromancy:1148995625896120460>
