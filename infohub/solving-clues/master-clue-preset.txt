@@ -114,7 +114,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
             {
         "name": "__Magic__ ",
-        "value": "⬥ <:icebarrage:537340400185245701> + <:wm:535533809978966037> → <:wrack:1257439366708592651> → <:estaff:1445020604678930453> <:eofspec:1257438999794946099>",
+        "value": "⬥ <:icebarrage:537340400185245701> + <:wm:535533809978966037> → <:wrack:1257439366708592651> → <:estaff:1445020604678930453> <:eofspec:1257438999794946099>\n\n⬥ <:icebarrage:537340400185245701> + 3t <:asphyx:535533833072672778> → <:wrack:1257439366708592651> → <:estaff:1445020604678930453> <:eofspec:1257438999794946099>",
         "inline": false
       },
       {
