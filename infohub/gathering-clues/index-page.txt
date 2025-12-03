@@ -10,11 +10,12 @@
 [Pickpocketing HAM Members](<https://discord.com/channels/332595657363685377/1443974701885034567>) (~100/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Medium Clues <:Medium:633728704438075435>
 [Ivory Statues](<https://discord.com/channels/332595657363685377/1443974612848349286>) (~56-61/hr) + Bik <:scriptureofbik:892342109791735848>
-Consider downgrading hard clues (~48.1/hr) + Bik <:scriptureofbik:892342109791735848>
+[Glacytes](<https://discord.com/channels/332595657363685377/1443970805062172682>) (~48.1/hr if downgrading <:Hard:633728361918758930>) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~39.6/hr if downgrading <:Elite:633732493228638209>&<:Hard:633728361918758930>) + Bik <:scriptureofbik:892342109791735848>
 .
 ## Hard Clues <:Hard:633728361918758930>
 [Glacytes](<https://discord.com/channels/332595657363685377/1443970805062172682>) (~48.1/hr) + Bik <:scriptureofbik:892342109791735848>
-[Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~21.6/hr or ~39.5/hr if downgrading <:Elite:633732493228638209>) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~39.5/hr if downgrading <:Elite:633732493228638209> or ~21.6/hr) + Bik <:scriptureofbik:892342109791735848>
 [Hellhounds](<https://discord.com/channels/332595657363685377/1443965875924373705>) (~37.8/hr) + Bik <:scriptureofbik:892342109791735848>
 [Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1443975404162383943>) (~4.52/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Elite Clues <:Elite:633732493228638209>
