@@ -9,7 +9,7 @@ This guide is tailored for players aiming to optimize their presets for solving 
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
-        ⬩ For gathering hard clues check out <#1333408239613775882>, <#1330996952367890585> or <#1334126753777717289>
+        ⬩ For gathering hard clues check out <#1023016130077532300>
         ⬩ For information on how to get the optimal requirements check out <#1023963587351420949>
         ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `!casket` in <#333343575737892864>
 ## __Teleport Information__
