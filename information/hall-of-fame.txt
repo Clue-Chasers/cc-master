@@ -60,7 +60,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
             {
         "name": "\u200b",
-        "value": "⬥ [Kyurem](https://discord.com/channels/332595657363685377/374280345966608384/1434527034868240457)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1434344061480861786)\n⬥ [DiogoJCL13](https://discord.com/channels/332595657363685377/374280345966608384/1439302968838062182)",
+        "value": "⬥ [Kyurem](https://discord.com/channels/332595657363685377/374280345966608384/1434527034868240457)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1434344061480861786)\n⬥ [DiogoJCL13](https://discord.com/channels/332595657363685377/374280345966608384/1439302968838062182)\n⬥ [Jere](https://discord.com/channels/332595657363685377/374280345966608384/1452088154415960175)\n⬥ [Finally](https://discord.com/channels/332595657363685377/374280345966608384/1452087504760082533)",
         "inline": true
       }
     ]
