@@ -172,7 +172,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)\n⬥ 0:54:40 - [Golden Globe](https://www.youtube.com/watch?v=KuEKL4sHO-E)",
+        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:47:18 - [Uther](https://youtu.be/-ACFndbtGvc?si=EobsU1cj8UQOpkad&t=10)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
