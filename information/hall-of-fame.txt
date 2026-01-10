@@ -248,7 +248,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__50 Category no skips__",
-        "value": "⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
+        "value": "⬥ 1:37:10 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
         "inline": true
       },
       {
@@ -258,7 +258,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:47:46 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 0:50:09 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)\n⬥ 0:57:28 - [Rudeep](https://www.youtube.com/watch?v=0T94JnxI2WY)\n⬥ 0:59:49 - [so idiotic](https://www.youtube.com/watch?v=_UOkwy_C3JY)",
+        "value": "⬥ 0:45:15 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 0:47:46 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 0:50:09 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)\n⬥ 0:57:28 - [Rudeep](https://www.youtube.com/watch?v=0T94JnxI2WY)\n⬥ 0:59:49 - [so idiotic](https://www.youtube.com/watch?v=_UOkwy_C3JY)",
         "inline": true
       },
       {
