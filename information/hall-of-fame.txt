@@ -227,7 +227,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:25 - [zJoe](https://www.youtube.com/watch?v=45wU0dr6Hxg)\n⬥ 0:00:45 - [Phyzzix4PF](https://www.youtube.com/watch?v=iaCnJ9rYyjg)\n⬥ 0:00:45 - [Muzuzo](https://www.youtube.com/watch?v=8o-I_hXOdec)\n⬥ 0:00:50 - [xaj](https://www.twitch.tv/qfate/clip/AwkwardSpeedyPenguinDxCat-WBS9TfUCkKjKbtvG)\n⬥ 0:00:51 - [M Amar](https://www.youtube.com/watch?v=waofw2HSsxU)",
+        "value": "⬥ 0:00:25 - [zJoe](https://www.youtube.com/watch?v=45wU0dr6Hxg)\n⬥ 0:00:44 - [Muzuzo](https://www.youtube.com/watch?v=gFoW0ihSPf8)\n⬥ 0:00:45 - [Phyzzix4PF](https://www.youtube.com/watch?v=iaCnJ9rYyjg)\n⬥ 0:00:50 - [xaj](https://www.twitch.tv/qfate/clip/AwkwardSpeedyPenguinDxCat-WBS9TfUCkKjKbtvG)\n⬥ 0:00:51 - [M Amar](https://www.youtube.com/watch?v=waofw2HSsxU)",
         "inline": true
       }
     ]
@@ -263,7 +263,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:30 - [zJoe](https://www.youtube.com/watch?v=7wjl4Qgh3t4)\n⬥ 0:00:37 - [Phyzzix4PF](https://www.youtube.com/watch?v=TukqO5KhzXw)\n⬥ 0:00:38 - [tiny amar](https://www.youtube.com/watch?v=_Dht4kHY-FI)\n⬥ 0:00:40 - [Golden Globe](https://clips.twitch.tv/EnchantingRelatedScorpionWholeWheat-bdB4Ik8kNbg8Unkx)\n⬥ 0:00:44 - [Muzuzo](https://www.youtube.com/watch?v=gFoW0ihSPf8)",
+        "value": "⬥ 0:00:30 - [zJoe](https://www.youtube.com/watch?v=7wjl4Qgh3t4)\n⬥ 0:00:37 - [Phyzzix4PF](https://www.youtube.com/watch?v=TukqO5KhzXw)\n⬥ 0:00:38 - [tiny amar](https://www.youtube.com/watch?v=_Dht4kHY-FI)\n⬥ 0:00:40 - [Golden Globe](https://clips.twitch.tv/EnchantingRelatedScorpionWholeWheat-bdB4Ik8kNbg8Unkx)",
         "inline": true
       }
       ]
