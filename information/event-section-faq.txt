@@ -11,37 +11,12 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
   "embed": {
     "title": "__**Event Information**__",
     "url": "",
-    "description": "We’ve had some great events and want to keep those good vibes going! To keep things positive, please sort out any conflicts in private and not during any of the events. Everyone’s welcome, and it’s awesome seeing so many people from all backgrounds having fun together. No one should feel left out or uncomfortable. If something’s bothering you, [reach out to us](<https://discord.com/channels/332595657363685377/1283170720599248938/1289714710337556490>), we’re here to listen and will handle things respectfully.",
+    "description": "We’ve had some amazing events so far, and we’d love to keep going! To help maintain that we urge everyone to handle any personal conflicts privately and not during any of these events. Our community is open to everyone, and it’s been great seeing people from all places coming together and having fun. The last thing we want is for anyone to leave an event feeling uncomfortable or left out. If something or someone is bothering you, you’re always welcome to reach out to us in [contact-staff](<https://discord.com/channels/332595657363685377/1458597997565706302>)!",
     "color": 12745742,
     "fields": [
       {
         "name": "__Event Channel Directory__",
-        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-announcements](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-chat](https://discord.com/channels/332595657363685377/1190064004094242817) - Channel for streamers and clan owners to collaborate and coordinate on events.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [event-hide-and-seek](https://discord.com/channels/332595657363685377/1360962686552379666) - Round-specific hints will be posted here."
-      }
-    ]
-  }
-}
-.embed:json
-.
-.tag:collab
-{
-  "embed": {
-    "title": "__Assignable Roles__",
-    "url": "",
-    "description": "",
-    "color": 12745742,
-    "fields": [
-      {
-        "name": "__Event Announcement Role__ ❗",
-        "value": "⬥ You can opt-in or out of event announcements at any time, giving you full control over the notifications you receive."
-      },
-      {
-        "name": "__Streamer Role__ 🎞️",
-        "value": "⬥ This role is for streamers who want to join and broadcast during our mass openings. If you’re interested in participating, we’d be thrilled to have you with us! Click the reaction below to receive the role."
-      },
-      {
-        "name": "__Clan Owner Role__ 👑",
-        "value": "⬥ This role is for leaders of clans who wish to join with their teams during our mass openings. If you’re a clan leader looking to participate, we’d be thrilled to have you with us! Click the reaction below to receive the role."
+        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-announcements](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [clue-event-stage](https://discord.com/channels/332595657363685377/1450512669890052179) - Event Hide and Seek hints will be streamed and posted here."
       }
     ]
   }
@@ -60,7 +35,7 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
 {
   "embed": {
     "title": "__Table of Contents__",
-    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Event Information]($linkmsg_info$)\n⬥ [Assignable Roles]($linkmsg_collab$)\n⬥ [Event Calendar, Sheet & FC]($linkmsg_information$)",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Event Information]($linkmsg_info$)\n⬥ [Event Calendar, Sheet & FC]($linkmsg_information$)",
     "color": 12745742
   }
 }
