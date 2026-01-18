@@ -172,26 +172,26 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:47:18 - [Uther](https://youtu.be/-ACFndbtGvc?si=EobsU1cj8UQOpkad&t=10)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)",
+        "value": "⬥ 0:43:23 - [P U P](https://youtu.be/5Xjy6UkRpNg)\n⬥ 0:45:39 - [Uther](https://youtu.be/-8WkE7v57ho?si=4Yp38US0iyhggyBE&t=117)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:49:47 - [Uther](https://youtu.be/RG8vE23K6xs?si=Hdx89p4Usi7pXV8e&t=306)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)\n⬥ 0:57:43 - [setmefree](https://www.youtube.com/watch?v=o9YXYqMinAc)",
+        "value": "⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:49:47 - [Uther](https://youtu.be/RG8vE23K6xs?si=Hdx89p4Usi7pXV8e&t=306)\n⬥ 0:51:37 - [setmefree](https://www.youtube.com/watch?v=hCLLboTNQYg)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
         "inline": true
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:22:19 - [Uther](https://youtu.be/EqTJrJ9xxgE?si=tAhbUj-JCD3eFMn6&t=2)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
+        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:21:54 - [Uther](https://youtu.be/-8WkE7v57ho?si=Bz36b5skK28MtZ4t&t=4)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
         "inline": false
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:23:20 - [Uther](https://youtu.be/RG8vE23K6xs?si=MGgR8HXSwXGWWlx4&t=154)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:08 - [setmefree](https://youtu.be/o9YXYqMinAc?si=xSfga1FRMqRK1cZe&t=1968)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
+        "value": "⬥ 0:23:20 - [Uther](https://youtu.be/RG8vE23K6xs?si=MGgR8HXSwXGWWlx4&t=154)\n⬥ 0:23:55 - [setmefree](https://youtu.be/hCLLboTNQYg?si=p1hKjE2CmiBZowCv&t=195)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
         "inline": true
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:18 - [Brewer](https://youtu.be/SUa6XkY7vLU)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:20 - [Muzuzo](https://youtu.be/FpMx7K3Nps4?si=Qx2BlfOaCelTzTrl)\n⬥ 0:00:21 - [Dudey xD](https://www.twitch.tv/videos/958358350?t=0h0m1s)",
+        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:18 - [Brewer](https://youtu.be/SUa6XkY7vLU)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:19 - [Uther](https://www.youtube.com/watch?v=ffKrsQ-k4Fo)\n⬥ 0:00:20 - [Muzuzo](https://youtu.be/FpMx7K3Nps4?si=Qx2BlfOaCelTzTrl)",
         "inline": true
       }
     ]
