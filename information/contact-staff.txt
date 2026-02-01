@@ -1,6 +1,6 @@
 {
   "embed": {
-    "title": "### __Contacting Server Staff__",
+    "title": "__Contacting Server Staff__",
     "url": "",
     "description": "Below, you’ll find a button to create a private modmail ticket with the Server Staff team.",
     "color": 12745742,
@@ -9,11 +9,11 @@
     },
     "fields": [
       {
-        "name": "### __What can modmail be used for?__",
+        "name": "__What can modmail be used for?__",
         "value": "Reporting incidents that breach RuneScape, Clue Chasers, or Discord guidelines with sufficient evidence and user IDs.\n     • Enable Discord Developer Mode to copy these from profiles, [more details](<https://www.youtube.com/watch?v=mc3cV57m3mM>).\n ⬥ Requesting to add RSNs to [daily clue completion sheet](<https://docs.google.com/spreadsheets/d/1RmwB0s8cftA63budaCR-wiY9P_rr4OVRjFwXgIvBx6U/edit?gid=1257228364#gid=1257228364>).\n ⬥ Requesting [affiliation](<https://discord.com/channels/332595657363685377/567084692830945280>) with Clue Chasers."
       },
       {
-        "name": "### __What can't modmail be used for?__",
+        "name": "__What can't modmail be used for?__",
         "value": "⬥ Submitting unban appeals on behalf of others.\n ⬥ Creating tickets for casual conversations without a clear purpose.\n ⬥ Creating tickets for tech support or clue advice.\n     • Use channels such as [#clue-trainer](https://discord.com/channels/332595657363685377/1103737270114209825) or [#clue-questions](https://discord.com/channels/332595657363685377/400499160094212097) instead.\n ⬥ Creating tickets to spam or harass server staff."
       }
     ]
