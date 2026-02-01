@@ -176,7 +176,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:49:47 - [Uther](https://youtu.be/RG8vE23K6xs?si=Hdx89p4Usi7pXV8e&t=306)\n⬥ 0:51:37 - [setmefree](https://www.youtube.com/watch?v=hCLLboTNQYg)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
+        "value": "⬥ 0:49:24 - [Uther](https://youtu.be/ARroVGrdNjA?si=gPUd7ySgtH2kx8Xc&t=4)\n⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:51:37 - [setmefree](https://www.youtube.com/watch?v=hCLLboTNQYg)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
         "inline": true
       },
       {
@@ -186,7 +186,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:23:20 - [Uther](https://youtu.be/RG8vE23K6xs?si=MGgR8HXSwXGWWlx4&t=154)\n⬥ 0:23:55 - [setmefree](https://youtu.be/hCLLboTNQYg?si=p1hKjE2CmiBZowCv&t=195)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
+        "value": "⬥ 0:23:08 - [Uther](https://youtu.be/cp0oQHq3CUU?si=3KbjWulSvk_iqrV0&t=3)\n⬥ 0:23:55 - [setmefree](https://youtu.be/hCLLboTNQYg?si=p1hKjE2CmiBZowCv&t=195)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
         "inline": true
       },
       {
