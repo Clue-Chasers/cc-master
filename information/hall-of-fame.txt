@@ -60,7 +60,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
             {
         "name": "\u200b",
-        "value": "⬥ [Kyurem](https://discord.com/channels/332595657363685377/374280345966608384/1434527034868240457)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1434344061480861786)\n⬥ [DiogoJCL13](https://discord.com/channels/332595657363685377/374280345966608384/1439302968838062182)\n⬥ [Jere](https://discord.com/channels/332595657363685377/374280345966608384/1452088154415960175)\n⬥ [Finally](https://discord.com/channels/332595657363685377/374280345966608384/1452087504760082533)",
+        "value": "⬥ [Kyurem](https://discord.com/channels/332595657363685377/374280345966608384/1434527034868240457)\n⬥ [Paly](https://discord.com/channels/332595657363685377/374280345966608384/1434344061480861786)\n⬥ [DiogoJCL13](https://discord.com/channels/332595657363685377/374280345966608384/1439302968838062182)\n⬥ [Jere](https://discord.com/channels/332595657363685377/374280345966608384/1452088154415960175)\n⬥ [Finally](https://discord.com/channels/332595657363685377/374280345966608384/1452087504760082533)\n⬥ [DunderBongen](https://discord.com/channels/332595657363685377/374280345966608384/1469839664725754159)",
         "inline": true
       }
     ]
@@ -181,7 +181,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:21:54 - [Uther](https://youtu.be/-8WkE7v57ho?si=Bz36b5skK28MtZ4t&t=4)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
+        "value": "⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:21:01 - [Uther](https://youtu.be/Y3TeyKA2ep0?si=_Pqo_0ntLrVfD2YW)\n⬥ 0:21:02 - [P U P](https://youtu.be/5Xjy6UkRpNg?t=1295)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
         "inline": false
       },
             {
