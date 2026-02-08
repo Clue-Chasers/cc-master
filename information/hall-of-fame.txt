@@ -88,6 +88,11 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
         "name": "\u200b",
         "value": "⬥ [Rune Emperor](https://discord.com/channels/332595657363685377/374280345966608384/1336101515638607972)\n⬥ [ProgMetal](https://discord.com/channels/332595657363685377/374280345966608384/1340497725073920123)\n⬥ [twsted treln](https://discord.com/channels/332595657363685377/374280345966608384/1341095584261734400)\n⬥ [Laskari2](https://discord.com/channels/332595657363685377/374280345966608384/1348441429562626068)\n⬥ [lejenned](https://discord.com/channels/332595657363685377/374280345966608384/1367318549974089788)\n⬥ [Bunty](https://discord.com/channels/332595657363685377/374280345966608384/1368328432810725397)\n⬥ [Killaz](https://discord.com/channels/332595657363685377/374280345966608384/1398971930215977051)\n⬥ [Uther](https://discord.com/channels/332595657363685377/374280345966608384/1404213740194365511)\n⬥ [Edisonsim1](https://discord.com/channels/332595657363685377/374280345966608384/1415779756938625055)\n⬥ [A x l](https://discord.com/channels/332595657363685377/374280345966608384/1431977826642296983)",
         "inline": true
+      },
+      {
+        "name": "\u200b",
+        "value": "⬥ [Oddfellow7](https://discord.com/channels/332595657363685377/374280345966608384/1470135525716263155)",
+        "inline": true
       }
     ]
   }
