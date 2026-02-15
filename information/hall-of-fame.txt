@@ -268,7 +268,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:30 - [zJoe](https://www.youtube.com/watch?v=7wjl4Qgh3t4)\n⬥ 0:00:37 - [Phyzzix4PF](https://www.youtube.com/watch?v=TukqO5KhzXw)\n⬥ 0:00:38 - [tiny amar](https://www.youtube.com/watch?v=_Dht4kHY-FI)\n⬥ 0:00:40 - [Golden Globe](https://clips.twitch.tv/EnchantingRelatedScorpionWholeWheat-bdB4Ik8kNbg8Unkx)",
+        "value": "⬥ 0:00:30 - [zJoe](https://www.youtube.com/watch?v=7wjl4Qgh3t4)\n⬥ 0:00:37 - [Phyzzix4PF](https://www.youtube.com/watch?v=TukqO5KhzXw)\n⬥ 0:00:37 - [Muzuzo](https://youtu.be/ITbp4urORtg?si=iNn0aIkQo7dWfPlB&t=1)\n⬥ 0:00:38 - [tiny amar](https://www.youtube.com/watch?v=_Dht4kHY-FI)\n⬥ 0:00:40 - [Golden Globe](https://clips.twitch.tv/EnchantingRelatedScorpionWholeWheat-bdB4Ik8kNbg8Unkx)",
         "inline": true
       }
       ]
