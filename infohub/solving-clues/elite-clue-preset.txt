@@ -150,8 +150,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .tag:presets
 ⬥ [Elite Clue Preset - With Skips](https://presets.pvme.io?id=ZHpbyx5UVqnZeRLnuB3J) <:puzzleskipticket:1123590720301830215>
 ⬥ [Elite Clue Preset - Without Skips](<https://presets.pvme.io?id=9LUZynoZp7ufZODhijcq>)
-⬥ [Elite Clue Preset - With Sentinel Outfit](<https://pvme.io/preset-maker/#/FeUiB8enYMYFbaY3GAnu>) <:naturesentinelhelm:1104717297219797052>
-⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS>)
+⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS>) <:puzzleskipticket:1123590720301830215>
 .
 {
   "embed": {
