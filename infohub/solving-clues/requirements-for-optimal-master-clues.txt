@@ -13,7 +13,7 @@
 .tag:skills
 # __Skills__ <:skill:1151954385736306760>
 .
-### [Max Cape](<https://runescape.wiki/w/Max_cape>)** <:maxcape:580177795703898117>
+### [Max Cape](<https://runescape.wiki/w/Max_cape>) <:maxcape:580177795703898117>
 ⬥ Offers three perk slots that can be filled with [Capes of Accomplishment](<https://runescape.wiki/w/Capes_of_Accomplishment>) by using them on it, as well as the functionality to view and remove existing perks
 ⬥ Max cape perks apply to backpack allowing you to utilize the [globetrotter backpack](<https://runescape.wiki/w/Globetrotter_backpack>) <:globetrotterbackpack:1123592248056102993>, [Dungeoneering Cape](<https://runescape.wiki/w/Dungeoneering_cape>) <:dgcape:976732922545586246>, [Slayer Cape](<https://runescape.wiki/w/Slayer_cape>) <:slayercape:975284344123953164> [Quest Cape](<https://runescape.wiki/w/Quest_Cape>) <:questcape:1123599570832736287> all at once
 ### [Archaeology](<https://runescape.wiki/w/Archaeology>)** <:archaeology:941211288665739274>
