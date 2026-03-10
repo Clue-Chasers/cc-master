@@ -6,29 +6,35 @@
 Easy clues <:easyclue:1123586950989885510> are very fast to gather and solve. They have the lowest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 21/50, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
 This guide aims to give you all the information you need to gather easy clues efficiently.
-Due to the nature of thieving H.A.M. Members, there is no short form afk, the only inputs you need to do is drink a Spirit Attraction <:spiritattractionflask:1102531518741622854> every 15 minutes which is the same as your lobby timer.
 .
 ### Requirements
 ⬥ <:thieving:1039864807920250900> 99 Thieving
+    • Thieving skillcape <:thievingcape:1334114808865357902> to automatically note all Thieving loot from pickpocketing
+    • A higher Thieving level greatly reduces the risk of stuns or damage
 ⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
     • Inherits the Trahaearn exoskeleton set's effects if owned <:exoskeletontorso:1443370513245147146>
 ⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
 ⬥ <:stickyfingers:1333857886820110366> Sticky Fingers relic
+⬥ <:lotdrelic:987267727980912701> Luck of the Dwarves relic
 ⬥ <:agility:1039864819760758844> 35 Agility
-    • For quadruple loot chance.
+    • For quadruple loot chance
 ⬥ <:Quest_points:1151954130177368114> Lost Her Marbles (miniquest)
+    • Improved loot from pickpocketing NPCs up to level 40 Thieving
+⬥ <:graspingpouchblack:1390439136875253810> Grasping pouch with runes <:earthrune:536252659808731137> <:firerune:536252659850674186> <:bodyrune:536252659301089280> <:soulrune:536252660333019136>
+    • <:crystalmask:892342109829464094> For casting Crystal Mask every 5 minutes.
 .
 .tag:useful
 ### Useful Items and Information
-⬥ <:thievingcape:1334114808865357902> Thieving skillcape to automatically note all Thieving loot from pickpocketing
-⬥ <:lotd:566453486913323042> Luck of the Dwarves
 ⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
     • Perked with Prosper & Oblivious
+⬥ <:magpiepouch:1442996047592030218> Magpie pouches
+⬥ <:ringofvitur:1442996093846814730> Ring of Vitur
+⬥ <:lotd:566453486913323042> Luck of the Dwarves
+    • If not wearing Ring of Vitur
 .
 ### Location and How to Get there
 The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pickpocket any H.A.M. Member:
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/lumbridge%20ham%20hideout.png
-.
+.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hams.png
 .
 .tag:presets
 ## __Presets and Afkwarden__
@@ -36,8 +42,8 @@ The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pick
 ⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ham-members.txt)
 .
 ## __Preset Notes__
-⬥ You can turn off receiving Memory Shards <:memoryshard:1333859605557809234> at the Memorial of Guthix which allows for the second Spirit Attraction flask <:spiritattractionflask:1102531518741622854>.
-⬥ You can take precisely 11 Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033> but this will only add an additional 6 minutes of trip length.
+⬥ If gathering Memory Shards <:memoryshard:1333859605557809234>, you can unequip the Scripture of Bik and replace it with Charos' clue carrier <:cluecarrier:1123597957791481906> to free up an extra inventory slot.
+⬥ Alternatively, disabling Memory Shard collection at the Memorial of Guthix allows you to carry Charos' clue carrier in your inventory while still equipping the Scripture of Bik <:scriptureofbik:892342109791735848>.
 .
 {
   "embed": {
@@ -54,3 +60,4 @@ The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pick
 }
 .embed:json
 .pin:delete
+.
