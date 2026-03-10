@@ -91,7 +91,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [Oddfellow7](https://discord.com/channels/332595657363685377/374280345966608384/1470135525716263155)",
+        "value": "⬥ [Oddfellow7](https://discord.com/channels/332595657363685377/374280345966608384/1470135525716263155)\n⬥ [m1n4t1n](https://discord.com/channels/332595657363685377/374280345966608384/1481052204428165263)",
         "inline": true
       }
     ]
