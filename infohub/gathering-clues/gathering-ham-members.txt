@@ -6,6 +6,9 @@
 Easy clues <:easyclue:1123586950989885510> are very fast to gather and solve. They have the lowest master clue scroll <:Master:1019920500807450666> and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 21/50, note that this rate does include re-rolls and tier 4 luck <:lotd:566453486913323042>.
 
 This guide aims to give you all the information you need to gather easy clues efficiently.
+Although the success rate of continuous pickpocketing remains 100% within ~13 minutes on average (assuming all buffs listed below are active), there is still a degree of RNG involved. To check your own success rate or determine which buffs to use and how to adjust the preset, refer to the success chance on the [H.A.M. Member wiki page](<https://runescape.wiki/w/H.A.M._Member_(male)#Success_chance>).
+
+To avoid missing clicks when stunned, it is generally advised to set up an AFK Warden alert using alt1toolkit. Alternatively, you can manually cast Crystal Mask <:crystalmask:892342109829464094> every 5 minutes for a more reliable way to prevent stuns altogether. Casting the spell while pickpocketing will not interrupt the action, and doing so will also prevent the 15-minute lobby timer from triggering.
 .
 ### Requirements
 ⬥ <:thieving:1039864807920250900> 99 Thieving
@@ -14,6 +17,7 @@ This guide aims to give you all the information you need to gather easy clues ef
 ⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
     • Inherits the Trahaearn exoskeleton set's effects if owned <:exoskeletontorso:1443370513245147146>
 ⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
+    • +10% success chance applies everywhere once hard Ardougne achievements are complete
 ⬥ <:stickyfingers:1333857886820110366> Sticky Fingers relic
 ⬥ <:lotdrelic:987267727980912701> Luck of the Dwarves relic
 ⬥ <:agility:1039864819760758844> 35 Agility
@@ -22,18 +26,19 @@ This guide aims to give you all the information you need to gather easy clues ef
     • Improved loot from pickpocketing NPCs up to level 40 Thieving
 ⬥ <:graspingpouchblack:1390439136875253810> Grasping pouch with runes <:earthrune:536252659808731137> <:firerune:536252659850674186> <:bodyrune:536252659301089280> <:soulrune:536252660333019136>
     • <:crystalmask:892342109829464094> For casting Crystal Mask every 5 minutes.
+⬥ <:ringofvitur:1442996093846814730> Ring of Vitur or <:lotd:566453486913323042> Luck of the Dwarves if not wearing Ring of Vitur
 .
 .tag:useful
 ### Useful Items and Information
 ⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
     • Perked with Prosper & Oblivious
 ⬥ <:magpiepouch:1442996047592030218> Magpie pouches
-⬥ <:ringofvitur:1442996093846814730> Ring of Vitur
-⬥ <:lotd:566453486913323042> Luck of the Dwarves
-    • If not wearing Ring of Vitur
+    • +3% success chance
 .
 ### Location and How to Get there
-The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pickpocket any H.A.M. Member:
+The H.A.M. Hideout is located in Lumbridge forest, north-west of Lumbridge Castle and is easily accessible by teleporting to the entrance of the Thieves' Guild using your Master Camouflage outfit and walking from there.
+
+To open the trapdoor, players need to pick the lock on it with their Thieving skill. Once inside, you can pickpocket any H.A.M. Member you find there:
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hams.png
 .
 .tag:presets
@@ -42,7 +47,7 @@ The H.A.M. Member Hideout is located in Lumbridge here, once inside you can pick
 ⬥ [Afkwarden Settings](https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/ham-members.txt)
 .
 ## __Preset Notes__
-⬥ If gathering Memory Shards <:memoryshard:1333859605557809234>, you can unequip the Scripture of Bik and replace it with Charos' clue carrier <:cluecarrier:1123597957791481906> to free up an extra inventory slot.
+⬥ If gathering Memory Shards <:memoryshard:1333859605557809234>, you can unequip Scripture of Bik <:scriptureofbik:892342109791735848> and replace it with Charos' clue carrier <:cluecarrier:1123597957791481906> to free up an extra inventory slot.
 ⬥ Alternatively, disabling Memory Shard collection at the Memorial of Guthix allows you to carry Charos' clue carrier in your inventory while still equipping the Scripture of Bik <:scriptureofbik:892342109791735848>.
 .
 {
