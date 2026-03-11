@@ -125,17 +125,17 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category__",
-        "value": "⬥ 0:23:43 - [P U P](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:26:26 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:27:54 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:29:25 - [Qerqs](https://www.youtube.com/watch?v=Vr7LGi1ttIk)\n⬥ 0:29:29 - [Omid](https://www.twitch.tv/videos/946141654?t=0h0m1s)",
+        "value": "⬥ 0:23:43 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:26:26 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:27:54 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:29:25 - [Qerqs](https://www.youtube.com/watch?v=Vr7LGi1ttIk)\n⬥ 0:29:29 - [Omid](https://www.twitch.tv/videos/946141654?t=0h0m1s)",
         "inline": true
       },
       {
         "name": "__25 Category__",
-        "value": "⬥ 0:11:17 - [P U P](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:12:08 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:13:03 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:15:15 - [xaj](https://www.youtube.com/watch?v=tN8f1XshVFI)\n⬥ 0:15:32 - [Sully5](https://www.youtube.com/watch?v=KsFBymnS5tA)",
+        "value": "⬥ 0:11:17 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:12:08 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:13:03 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:15:15 - [xaj](https://www.youtube.com/watch?v=tN8f1XshVFI)\n⬥ 0:15:32 - [Sully5](https://www.youtube.com/watch?v=KsFBymnS5tA)",
         "inline": true
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [P U P](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)\n⬥ 0:00:11 - [Zatox](https://www.youtube.com/watch?v=VulFWuUSN6g)",
+        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [PupRs](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)\n⬥ 0:00:11 - [Zatox](https://www.youtube.com/watch?v=VulFWuUSN6g)",
         "inline": false
       }
     ]
@@ -191,12 +191,12 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:21:41 - [setmefree](https://www.youtube.com/watch?v=00n-mjiMXrk)\n⬥ 0:22:07 - [Uther](https://youtu.be/9yGYjiLtWxE?si=DYpx_qwEofzjHGR0&t=1266)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [P U P](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
+        "value": "⬥ 0:21:41 - [setmefree](https://www.youtube.com/watch?v=00n-mjiMXrk)\n⬥ 0:22:07 - [Uther](https://youtu.be/9yGYjiLtWxE?si=DYpx_qwEofzjHGR0&t=1266)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [PupRs](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
         "inline": true
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:18 - [Brewer](https://youtu.be/SUa6XkY7vLU)\n⬥ 0:00:19 - [P U P](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:19 - [Uther](https://www.youtube.com/watch?v=ffKrsQ-k4Fo)\n⬥ 0:00:20 - [Muzuzo](https://youtu.be/FpMx7K3Nps4?si=Qx2BlfOaCelTzTrl)",
+        "value": "⬥ 0:00:14 - [zJoe](https://www.youtube.com/watch?v=hbZKfpKT9-I)\n⬥ 0:00:18 - [Brewer](https://youtu.be/SUa6XkY7vLU)\n⬥ 0:00:19 - [PupRs](https://www.youtube.com/watch?v=jU7v1_4IU88)\n⬥ 0:00:19 - [Uther](https://www.youtube.com/watch?v=ffKrsQ-k4Fo)\n⬥ 0:00:20 - [Muzuzo](https://youtu.be/FpMx7K3Nps4?si=Qx2BlfOaCelTzTrl)",
         "inline": true
       }
     ]
