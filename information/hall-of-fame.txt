@@ -208,7 +208,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
 {
   "embed": {
           "title": "__Elite Clue Runs__ <:Elite:633732493228638209>",
-    "color": 16776960        ,
+    "color": 16776960,
     "fields": [
          {
         "name": "__50 Category w/skips__",
@@ -227,7 +227,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:35:29 - [Jere](https://www.twitch.tv/videos/2525066366)\n⬥ 0:38:28 - [Glue](https://youtu.be/lEUl0OiqUrI?si=lJfUPkDoC2pQLYtk&t=10)\n⬥ 0:38:44 - [Fcohdz](https://www.youtube.com/live/JT5zaHKJczY?t=2282s)\n⬥ 0:47:22 - [bunny alan](https://www.youtube.com/watch?v=yva5ttR6oY8)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)",
+        "value": "⬥ 0:35:29 - [Jere](https://www.twitch.tv/videos/2525066366)\n⬥ 0:36:31 - [Fcohdz](https://www.youtube.com/live/x_S4Mlxt-iY?si=94ztqwiDVLml1ZYJ&t=6)\n⬥ 0:38:28 - [Glue](https://youtu.be/lEUl0OiqUrI?si=lJfUPkDoC2pQLYtk&t=10)\n⬥ 0:47:22 - [bunny alan](https://www.youtube.com/watch?v=yva5ttR6oY8)\n⬥ 0:48:25 - [xaj](https://youtu.be/rzuukZrUc4c?si=sNId19W814MnxnW8&t=52)",
         "inline": true
       },
       {
