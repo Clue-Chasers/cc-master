@@ -248,7 +248,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:04:08 - [Jere](https://youtu.be/EQOHpR5ZGp4?si=Z6gbuNPfucMCvpH4&t=1063)\n⬥ 1:06:12 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:18:12 - [cdram](https://youtu.be/wG5vGT8clMw?si=W37BEXCgHRFBIal5&t=12)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)",
+        "value": "⬥ 1:02:31 - [Jere](https://youtu.be/u5X9RNKL97k?si=8x2yRih3MpWS4Ypx&t=5499)\n⬥ 1:06:12 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:18:12 - [cdram](https://youtu.be/wG5vGT8clMw?si=W37BEXCgHRFBIal5&t=12)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)",
         "inline": true
       },
       {
