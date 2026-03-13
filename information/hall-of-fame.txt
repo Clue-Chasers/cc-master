@@ -253,7 +253,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__50 Category no skips__",
-        "value": "⬥ 1:23:31 - [Jere](https://youtu.be/xWr_HEkjmMc?si=lqVmPrn3-ldi8C6t&t=3485)\n⬥ 1:37:10 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:41:52 - [setmefree](https://www.youtube.com/watch?v=5Ipd2BNKoPs)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
+        "value": "⬥ 1:23:31 - [Jere](https://youtu.be/xWr_HEkjmMc?si=lqVmPrn3-ldi8C6t&t=3485)\n⬥ 1:37:10 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:40:26 - [setmefree](https://www.youtube.com/watch?v=3ZWCwO8m1t8)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
         "inline": true
       },
       {
@@ -263,7 +263,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:39:17 - [Jere](https://youtu.be/xWr_HEkjmMc?si=Dl0KWpxdaaL218U5&t=3102)\n⬥ 0:45:15 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 0:45:41 - [setmefree](https://youtu.be/5Ipd2BNKoPs?si=sGzGWfHHg7BVDphP&t=623)\n⬥ 0:47:46 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 0:50:09 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
+        "value": "⬥ 0:39:17 - [Jere](https://youtu.be/xWr_HEkjmMc?si=Dl0KWpxdaaL218U5&t=3102)\n⬥ 0:44:26 - [setmefree](https://youtu.be/3ZWCwO8m1t8?si=9igkW1IXLNP1NohD&t=508)\n⬥ 0:45:15 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 0:47:46 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 0:50:09 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
         "inline": true
       },
       {
