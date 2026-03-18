@@ -181,7 +181,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:46:37 - [Uther](https://youtu.be/9yGYjiLtWxE?si=g7zullknwXQJVn7y&t=170)\n⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:49:50 - [setmefree](https://www.youtube.com/watch?v=00n-mjiMXrk)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
+        "value": "⬥ 0:46:37 - [Uther](https://youtu.be/9yGYjiLtWxE?si=g7zullknwXQJVn7y&t=170)\n⬥ 0:49:07 - [setmefree](https://youtu.be/PcZQzi-ShkM?si=tVRelus3uiVeOp3y)\n⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
         "inline": true
       },
       {
@@ -232,7 +232,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:25 - [zJoe](https://www.youtube.com/watch?v=45wU0dr6Hxg)\n⬥ 0:00:44 - [Muzuzo](https://www.youtube.com/watch?v=gFoW0ihSPf8)\n⬥ 0:00:45 - [Phyzzix4PF](https://www.youtube.com/watch?v=iaCnJ9rYyjg)\n⬥ 0:00:50 - [xaj](https://www.twitch.tv/qfate/clip/AwkwardSpeedyPenguinDxCat-WBS9TfUCkKjKbtvG)\n⬥ 0:00:51 - [M Amar](https://www.youtube.com/watch?v=waofw2HSsxU)",
+        "value": "⬥ 0:00:25 - [zJoe](https://www.youtube.com/watch?v=45wU0dr6Hxg)\n⬥ 0:00:41 - [Fcohdz](https://www.youtube.com/live/No96T14qJzA?si=Hpb3CYmdGtkqiSjb&t=3604)\n⬥ 0:00:44 - [Muzuzo](https://www.youtube.com/watch?v=gFoW0ihSPf8)\n⬥ 0:00:45 - [Phyzzix4PF](https://www.youtube.com/watch?v=iaCnJ9rYyjg)\n⬥ 0:00:50 - [xaj](https://www.twitch.tv/qfate/clip/AwkwardSpeedyPenguinDxCat-WBS9TfUCkKjKbtvG)",
         "inline": true
       }
     ]
@@ -248,7 +248,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 1:02:31 - [Jere](https://youtu.be/u5X9RNKL97k?si=8x2yRih3MpWS4Ypx&t=5499)\n⬥ 1:06:12 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:18:12 - [cdram](https://youtu.be/wG5vGT8clMw?si=W37BEXCgHRFBIal5&t=12)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)",
+        "value": "⬥ 1:00:31 - [Jere](https://youtu.be/fL1TUh_8QI4?si=EIoIlzdF3rF1YSzl&t=709)\n⬥ 1:06:12 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 1:15:23 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 1:18:12 - [cdram](https://youtu.be/wG5vGT8clMw?si=W37BEXCgHRFBIal5&t=12)\n⬥ 1:19:17 - [Golden Globe](https://www.youtube.com/watch?v=7wUaocBgh9o)",
         "inline": true
       },
       {
@@ -258,7 +258,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:29:43 - [Jere](https://youtu.be/EQOHpR5ZGp4?si=_rY7aKxHKdRKiWE6&t=2873)\n⬥ 0:31:45 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:37:48 - [cdram](https://youtu.be/wG5vGT8clMw?si=xqwUNyonvq_8w2di&t=89)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)",
+        "value": "⬥ 0:28:58 - [Jere](https://youtu.be/7qJu9C-X7PQ?si=LaVr254OuBgB_3GJ&t=4755)\n⬥ 0:31:45 - [Phyzzix4PF](https://youtu.be/nBinBXXPPFg?si=KHnjEpr1mEHLEZBc)\n⬥ 0:34:47 - [zJoe](https://www.youtube.com/watch?v=7xL7A4JoNa0)\n⬥ 0:37:48 - [cdram](https://youtu.be/wG5vGT8clMw?si=xqwUNyonvq_8w2di&t=89)\n⬥ 0:39:08 - [Golden Globe](https://youtu.be/7wUaocBgh9o?t=21)",
         "inline": false
       },
       {
