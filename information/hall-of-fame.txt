@@ -135,7 +135,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [PupRs](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)\n⬥ 0:00:11 - [Zatox](https://www.youtube.com/watch?v=VulFWuUSN6g)",
+        "value": "⬥ 0:00:00 - [treborsmada](https://www.youtube.com/watch?v=BW_iNc3xo6U)\n⬥ 0:00:04 - [Ecruteak](https://www.youtube.com/watch?v=FTOsMiCGEtg&feature=youtu.be)\n⬥ 0:00:07 - [PupRs](https://www.youtube.com/watch?v=49LZGVAY884&feature=youtu.be)\n⬥ 0:00:09 - [setmefree](https://youtu.be/S6-8-D5hFg0?si=Wg-O8xCf7wPkjTf2)\n⬥ 0:00:11 - [Zatox](https://www.youtube.com/watch?v=VulFWuUSN6g)",
         "inline": false
       }
     ]
