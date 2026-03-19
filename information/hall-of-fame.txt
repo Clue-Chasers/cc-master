@@ -125,12 +125,12 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category__",
-        "value": "⬥ 0:23:43 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:26:26 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:27:54 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:29:25 - [Qerqs](https://www.youtube.com/watch?v=Vr7LGi1ttIk)\n⬥ 0:29:29 - [Omid](https://www.twitch.tv/videos/946141654?t=0h0m1s)",
+        "value": "⬥ 0:23:43 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:26:26 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:27:35 - [setmefree](https://youtu.be/S6-ytfI-knM?si=Iu7of2uModocrVFE)\n⬥ 0:27:54 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:29:25 - [Qerqs](https://www.youtube.com/watch?v=Vr7LGi1ttIk)",
         "inline": true
       },
       {
         "name": "__25 Category__",
-        "value": "⬥ 0:11:17 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:12:08 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:13:03 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:15:15 - [xaj](https://www.youtube.com/watch?v=tN8f1XshVFI)\n⬥ 0:15:32 - [Sully5](https://www.youtube.com/watch?v=KsFBymnS5tA)",
+        "value": "⬥ 0:11:17 - [PupRs](https://www.youtube.com/watch?v=0-J1H9HgUho&feature=youtu.be)\n⬥ 0:12:08 - [Golden Globe](https://www.youtube.com/watch?v=cYnM7KheELQ)\n⬥ 0:13:03 - [qt catgirl](https://youtu.be/zNRTAJVhiL0?si=JcQdbpo5x4Jm9VFh&t=6)\n⬥ 0:13:15 - [setmefree](https://youtu.be/S6-ytfI-knM?si=byLphnp1Eh7_Ezzo&t=282)\n⬥ 0:15:15 - [xaj](https://www.youtube.com/watch?v=tN8f1XshVFI)",
         "inline": true
       },
       {
