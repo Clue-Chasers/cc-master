@@ -151,7 +151,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category__",
-        "value":"⬥ 0:41:52 - [Omid](https://www.twitch.tv/videos/2368124912)\n⬥ 0:42:47 - [setmefree](https://youtu.be/AD7zotYWkKI?si=dvfbt4kejNeUwRfV)\n⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)",
+        "value":"⬥ 0:41:44 - [setmefree](https://youtu.be/tEHsVZVhpg8?si=x5y47qMR53PFLZjZ)\n⬥ 0:41:52 - [Omid](https://www.twitch.tv/videos/2368124912)\n⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)",
         "inline": true
       },
       {
@@ -161,7 +161,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__1 Category__",
-        "value": "⬥ 0:00:16 - [Ecruteak](https://www.youtube.com/watch?v=qx90P7xf0Pg)\n⬥ 0:00:21 - [Sully5](https://www.youtube.com/watch?v=huHUnPvkIg0)\n⬥ 0:00:22 - [suky nuty](https://www.youtube.com/watch?v=WSFvKu_K1pg)\n⬥ 0:00:24 - [Foox](https://www.youtube.com/watch?v=FxRHI3eXYaw)\n⬥ 0:00:24 - [Garin](https://www.youtube.com/watch?v=BSEndsRdhz8)",
+        "value": "⬥ 0:00:16 - [Ecruteak](https://www.youtube.com/watch?v=qx90P7xf0Pg)\n⬥ 0:00:18 - [setmefree](https://youtu.be/HAYC8mrV73c?si=xgN-d3U1rAoozLZk)\n⬥ 0:00:21 - [Sully5](https://www.youtube.com/watch?v=huHUnPvkIg0)\n⬥ 0:00:22 - [suky nuty](https://www.youtube.com/watch?v=WSFvKu_K1pg)\n⬥ 0:00:24 - [Foox](https://www.youtube.com/watch?v=FxRHI3eXYaw)",
         "inline": false
       }
     ]
