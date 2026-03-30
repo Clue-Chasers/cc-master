@@ -151,12 +151,12 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category__",
-        "value":"⬥ 0:41:44 - [setmefree](https://youtu.be/tEHsVZVhpg8?si=x5y47qMR53PFLZjZ)\n⬥ 0:41:52 - [Omid](https://www.twitch.tv/videos/2368124912)\n⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)",
+        "value":"⬥ 0:39:55 - [setmefree](https://youtu.be/rkEwngP-JoA?si=ECi0oI3w1d8dFEAx&t=354)\n⬥ 0:41:52 - [Omid](https://www.twitch.tv/videos/2368124912)\n⬥ 0:42:50 - [Ecruteak](https://www.youtube.com/watch?v=Oy7LUya7vYY)\n⬥ 0:42:55 - [xtams](https://www.youtube.com/watch?v=e1z__hhg0jA)\n⬥ 0:44:03 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h0m1s)",
         "inline": true
       },
       {
         "name": "__25 Category__",
-        "value": "⬥ 0:19:12 - [Ecruteak](https://www.youtube.com/watch?v=hZ12T0a6Yfg)\n⬥ 0:19:27 - [setmefree](https://youtu.be/3yNr1dYolrA?si=eJKGOYb4As3TNjHA)\n⬥ 0:20:23 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h16m32s)\n⬥ 0:21:38 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)\n⬥ 0:22:06 - [NotsoHardIM](https://youtu.be/pNv1fFjQOxg?si=H6oJ392uZgt5LXNW&t=475)",
+        "value": "⬥ 0:18:16 - [setmefree](https://youtu.be/wWaxBoa1xOA?si=OIeYNdiQU3gsKnse)\n⬥ 0:19:12 - [Ecruteak](https://www.youtube.com/watch?v=hZ12T0a6Yfg)\n⬥ 0:20:23 - [Sully5](https://www.twitch.tv/videos/1006911105?t=0h16m32s)\n⬥ 0:21:38 - [Brandonn RS](https://www.youtube.com/watch?v=jZiamGHhCuA)\n⬥ 0:22:06 - [NotsoHardIM](https://youtu.be/pNv1fFjQOxg?si=H6oJ392uZgt5LXNW&t=475)",
         "inline": true
       },
       {
