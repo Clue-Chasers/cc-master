@@ -1,9 +1,0 @@
-{
-  "embed": {
-    "title": "__Placeholder__",
-    "description": "⬥ placeholder\n⬥ placeholder",
-    "color": 12745742,
-    "fields": []
-  }
-}
-.embed:json
