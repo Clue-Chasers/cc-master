@@ -72,7 +72,6 @@ __**General notes**__
 ⬥ Pray <:soulsplit:615613924506599497>, <:affliction:513190158468907008> and <:protectitem:1010486261682810891>
 ⬥ Ensure that <:scriptureofbik:892342109791735848> is active
 ⬥ Autocast <:exsanguinate:856635090745950258> and upkeep <:animatedead:856635090453135382>
-    • Refill <:graspingpouchorange:1390439130839650375> with <:firerune:536252659850674186> if running low on <:exsanguinate:856635090745950258>
 __**Additional notes**__
 - Infernal puzzle box <:infernalpuzzlebox:994189299681607800> for 14% damage reduction and 9% increase damage dealt.
 - The Scavenging <:scavenging4:1005934140669046824> perk is particularly useful here, as it also triggers on tentacles.
