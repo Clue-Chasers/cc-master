@@ -1,68 +1,103 @@
-## Wilderness Abyssal Lords and Beasts
+## Wilderness Abyssal Beasts & Lords
 *Note: a **Table of Contents** can be found in the pins.*
 .
 .tag:intro
-### Introduction *(courtesy of <@145884917627224065> & <@211049089050214400>)*
-Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
-.
+### Introduction (courtesy of <@145884917627224065> & <@252534317413040138>)
+This guide provides a magic method for afking abyssal beasts and lords for sealed elite clues <:Elite:633732493228638209> and triskelion key <:trisk:643215216934518815> drops. Elite clues <:Elite:633732493228638209> take considerably more time to gather and solve but yield the highest chance of giving a master clue scroll <:Master:1019920500807450666> at rate of 26/100 and have a Fortunate component <:fortunatecomp:583435543845797891> rate of 44/100, note that this rate does include re-rolls and tier 4 luck. <:lotd:566453486913323042>
 ### Requirements
-⬥ <:slayer:797896049548066857> 115 Slayer
+⬥ <:slayer:797896049548066857> 115 Slayer for Abyssal Lords
+⬥ <:slayer:797896049548066857> 105 Slayer for Abyssal Beasts
 .
+### __Useful Items and Unlocks__
 .tag:useful
-### Useful Items and Information
-⬥ <:gchain:1257440278512537740> Greater Chain (unlocked)
-⬥ <:gsunshine:994644352871714836> Greater Sunshine (unlocked)
-⬥ <:gconc:869285393223254107> Greater Concentrated Blast (unlocked)
-⬥ <:magmatempest:902209626509025290> Magma Tempest (unlocked)
-⬥ <:incitefear:856635090783567902> Incite Fear / <:exsanguinate:856635090745950258> Exsanguinate (unlocked)
-⬥ <:animatedead:856635090453135382> Animate Dead (unlocked)
-⬥ <:cannonupgradekit:869284271788023838> Dwarf Multicannon Upgrade Kit (unlocked)
-⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box
-⬥ <:shardofgenesisessence:1266418218264694954> Shard of Genesis Essence
-⬥ <:roarofawakening:1266417538045317121> Roar of Awakening and Ode to Deceit
-⬥ <:cryptbloomtop:1334336168363561041> 4 Cryptbloom pieces
-⬥ <:reaverpouch:839903693837959228> Blood Reaver Pouch
-
-⬥ Make sure you have <:soulsplit:615613924506599497> Soulsplit and <:torment:583429936958930964> Torment / <:Affliction:513190158468907008> Affliction on at all times.
-⬥ Try to not fill your inventory as the aim is to get crystal triskelion key fragments <:trisk:643215216934518815> for elite clues. <:Elite:633732493228638209>
-⬥ You can aggro 5 Abyssal Lords and 3 Abyssal Beasts with this method.
-⬥ The cannon spot and standing spot is to aggro as many as possible as well as get additional kills via cannon and getting some beasts stuck on the rock close by whilst they try to run away.
-⬥ If you want to loot the items other than elite clues <:Elite:633732493228638209> and crystal triskelion key fragments <:trisk:643215216934518815> then you can opt to take a Beast of Burden familiar instead.
-⬥ You will need to stand in a specific spot for this to be optimal.
-⬥ You need to place your cannon in a specific position for this to be optimal.
-.
-### Location and How to Get there
-The best place to find abyssal beasts and lords is in the Wilderness, between levels 45-47, near the Lava Maze and Red Dragon Isle. To get there fast, just use the Wilderness sword to teleport to the Herb patch at around level 39 Wilderness and head north.
-
-⬥ Position your cannon <:cannon:869283142350041098> on the designated yellow tile, as shown below, precisely one square west of the skeleton located southeast of the large rock surrounded by three stones. As for your own position stand on the designated red tile, situated two squares north and two squares west of the western surrounding rock.
-
-⬥ For an optimal guide on how to do this, check out the video by <@168667605647753216> **[here](https://www.youtube.com/watch?v=a4fjTsdvhWk)**.
-.img:https://img.pvme.io/images/VtwbZiAD72.png
-.
-.tag:presets
-## __Presets and Afkwarden__
-⬥ [AFK Preset](https://presets.pvme.io?id=P42yjSoexrv0OIfhvud1)
-.
-## __Action Bars__
-If you want more kills per hour for near no effort, use <:demonslayer:641339921675845633> and <:roarofawakening:1266417538045317121> <:spec:537340400273195028> after <:gchain:1257440278512537740> manually.
-
-<:incitefear:856635090783567902> Incite Fear Bar
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_incitefearbar.png
-<:exsanguinate:856635090745950258> Exsanguinate Bar
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/elites_exsanguinatebar.png
-.
 {
   "embed": {
-    "title": "",
-    "description": "",
+    "description":"Owning the following increases the efficiency of your sessions but are **not mandatory**:",
     "color": 39423,
     "fields": [
       {
-        "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
+        "name": "__Items__",
+        "value": "⬥ [Wilderness sword 4](https://runescape.wiki/w/Wilderness_sword_4) <:wildernesssword:1009419838764109834>\n\u00a0\u00a0\u00a0\u00a0• Allows for an easy teleport from the herb patch.\n⬥ [Attuned ectoplasmator](https://runescape.wiki/w/Attuned_ectoplasmator) <:ectoplasmator:1023152065431744542>\n\u00a0\u00a0\u00a0\u00a0• May be used to help sustain your prayer and clear out ground loot making it easier to loot sealed clue scrolls <:eliteclue:1123586941057769552> and crystal triskelion fragments <:trisk:643215216934518815>.\n⬥ [Dwarven siege engine](https://runescape.wiki/w/Dwarven_siege_engine) <:cannon:869283142350041098>\n\u00a0\u00a0\u00a0\u00a0• Make sure to have the [Restocking Cannon](https://runescape.wiki/w/Artisans'_Workshop_Reward_Shop#Rewards) ability unlocked."
+      },
+      {
+        "name": "__Other__",
+        "value": "⬥ Armour perked with [Demon Slayer](https://runescape.wiki/w/Demon_Slayer_(perk)) <:demonslayerperk:689502842653900818>\n\u00a0\u00a0\u00a0\u00a0• +7% damage against demons.\n⬥ [Infernal Puzzle Box (tier 6)](https://runescape.wiki/w/Infernal_Puzzle_Box) <:infernalpuzzlebox:994189299681607800>\n\u00a0\u00a0\u00a0\u00a0• 14% damage reduction and 9% damage increase whilst in the Wilderness.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0⬩ This effect scales with the tier of your puzzle box.\n\u00a0\u00a0\u00a0\u00a0• Tier 6 allows you to put it in your tool belt."
       }
     ]
-    }
+  }
+}
+.embed:json
+{
+  "embed": {
+    "description":"Owning the following increases the efficiency of your sessions and **are mandatory**:",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Magic Abilities__",
+        "value": "⬥ [Greater Sunshine](https://runescape.wiki/w/Greater_Sunshine) <:gsunshine:994644352871714836>\n⬥ [Tsunami](https://runescape.wiki/w/Tsunami) <:tsunami:535533809995874304>\n⬥ [Greater Chain](https://runescape.wiki/w/Greater_Chain) <:gchain:1257440278512537740>\n⬥ [Omnipower](https://runescape.wiki/w/Omnipower) <:omnipowerigneous:1179505745654448208>\n\u00a0\u00a0\u00a0\u00a0• Requires either an [Igneous Kal-Zuk](https://runescape.wiki/w/Igneous_Kal-Zuk) <:igneouskalzuk:902209626479685734>\n\u00a0\u00a0\u00a0\u00a0   • or [Igneous Kal-Mej](https://runescape.wiki/w/Igneous_Kal-Mej) <:igneouskalmej:1153772938252787793>\n⬥ [Greater Sonic](https://runescape.wiki/w/Greater_Sonic_Wave) <:gsonicwave:1095411826839257138>\n⬥ [Corruption Blast](https://runescape.wiki/w/Corruption_Blast) <:corruptblast:513190159194259467>\n"
+      },
+      {
+        "name": "__Prayers, spells and relics__",
+        "value": "⬥ [Exsanguinate](https://runescape.wiki/w/Exsanguinate) <:exsanguinate:856635090745950258>\n⬥ [Animate Dead](https://runescape.wiki/w/Animate_Dead) <:animatedead:856635090453135382>\n⬥ [Soul Split](https://runescape.wiki/w/Soul_Split) <:soulsplit:615613924506599497>\n⬥ [Affliction](https://runescape.wiki/w/Affliction) <:affliction:513190158468907008>\n⬥ [Conservation of Energy](https://runescape.wiki/w/Conservation_of_Energy) <:conservationofenergy:697808773711921195>\n⬥ [Fury of the Small](https://runescape.wiki/w/Fury_of_the_Small) <:furyofthesmall:697808773917573233>\n⬥ [Death Ward](https://runescape.wiki/w/Death_Ward) <:deathward:697808774068699286>"
+      },
+      {
+        "name": "__Equipment__",
+        "value": "⬥ [Demon slayer circlet](https://runescape.wiki/w/Demon_slayer_circlet) <:demonslayercirclet:1004325697503907910>\n\u00a0\u00a0\u00a0\u00a0 • <:cryptbloomhelm:1334336169336373339> can be used for increased safety\n⬥ [Cryptbloom top](https://runescape.wiki/w/Cryptbloom_top) <:cryptbloomtop:1334336168363561041>\n⬥ [Cryptbloom bottoms](https://runescape.wiki/w/Cryptbloom_bottoms) <:cryptbloombottoms:1334336167432159283>\n⬥ [Demon slayer boots](https://runescape.wiki/w/Demon_slayer_boots) <:demonslayerboots:1004325691510231041>\n⬥ [Cinderbane gloves](https://runescape.wiki/w/Cinderbane_gloves) <:cinderbanes:513190158355660812>\n⬥ [Igneous Kal-Zuk](https://runescape.wiki/w/Igneous_Kal-Zuk) <:igneouskalzuk:902209626479685734> or <:igneouskalmej:1153772938252787793>\n⬥ [Hazelmere's signet ring](https://runescape.wiki/w/Hazelmere%27s_signet_ring) <:hsr:513213693983588362> or <:lotd:566453486913323042>\n⬥ [Amulet of souls (or)](https://runescape.wiki/w/Amulet_of_souls_(or) <:aosor:544200033847869443> or <:eofred:780401412839833601>"
+      },
+            {
+        "name": "__Weapons__",
+        "value": "⬥ [Roar of Awakening](https://runescape.wiki/w/Roar_of_Awakening) <:roarofawakening:1266417538045317121>\n⬥ [Ode to Deceit](https://runescape.wiki/w/Ode_to_Deceit) <:odetodeceit:1266417683058917517>\n\u00a0\u00a0\u00a0\u00a0 • Apply a [Shard of Genesis Essence](https://runescape.wiki/w/Shard_of_Genesis_Essence) <:shardofgenesisessence:1266418218264694954>\n\u00a0\u00a0\u00a0\u00a0   • Unlocks the Innate Mastery enchantment"
+      }
+    ]
+  }
+}
+.embed:json
+.
+### __Location and How to Get there__
+.tag:location
+⬥ Abyssal Lords and Beasts can be fought in Level 47 Wilderness:
+.img:https://img.pvme.io/images/AL2LhIQoXZ.png
+⬥ Use a <:wildernesssword:1009419838764109834> and teleport to the Wilderness herb patch.
+    • Position yourself on the westernmost corner of the rock and walk 2 tiles north and 1 tile west.
+    • Place <:cannon:869283142350041098> 1 tile west of the bottom skeleton.
+    • If using an alt, position yourself as shown [here](<https://img.pvme.io/images/nmGp4fMne5.png>).
+⬥ Abyssal lords and beasts can be fought simultaneously at this location.
+    • Abyssal lords are estimated 44.56% of kills and abyssal beasts are estimated 55.44% of kills.
+.
+### __Method: AFK Magic__
+Before loading your <:cannon:869283142350041098> and starting the session, check the following:
+__**General notes**__
+⬥ Ensure <:elderovl:841419289831800882>, <:weppoison:689525476158472288> and <:spiritattractionflask:1102531518741622854> are active at all times.
+⬥ Sustain <:prayer:1005450651347730533> with <:ectoplasmator:1023152065431744542> and <:powderofpenance:928221126360969226>
+⬥ Pray <:soulsplit:615613924506599497>, <:affliction:513190158468907008> and <:protectitem:1010486261682810891>
+⬥ Ensure that <:scriptureofbik:892342109791735848> is active
+⬥ Autocast <:exsanguinate:856635090745950258> and upkeep <:animatedead:856635090453135382>
+    • Refill <:graspingpouchorange:1390439130839650375> with <:firerune:536252659850674186> if running low on <:exsanguinate:856635090745950258>
+__**Additional notes**__
+- Infernal puzzle box <:infernalpuzzlebox:994189299681607800> for 14% damage reduction and 9% increase damage dealt.
+- The Scavenging <:scavenging4:1005934140669046824> perk is particularly useful here, as it also triggers on tentacles.
+- The Stone of Jas <:jasboost:1006121672790773770> buff does not work because the player's position is out of range.
+.
+### __Presets and Relics__
+.tag:presets
+⬥ [AFK Magic](https://presets.pvme.io?id=2d0e265b-cb10-471c-95af-0a7a43345540) <:magic:689504724159823906>
+.
+### __Ability Bar__
+.img:https://img.pvme.io/images/Ks2uBumQjK.png
+.
+{
+  "embed": {
+    "title": "__Table of Contents__",
+    "color": 39423,
+    "fields": [
+     {
+        "name": "__Overview__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items & Unlocks]($linkmsg_useful$)\n⬥ [Location & How to Get there]($linkmsg_location$)\n⬥ [Presets and Relics]($linkmsg_presets$)",
+        "inline": true
+      }
+    ]
+  }
 }
 .embed:json
 .pin:delete
+.
