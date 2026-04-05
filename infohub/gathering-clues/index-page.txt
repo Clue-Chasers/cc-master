@@ -11,7 +11,7 @@
 ## Medium Clues <:Medium:633728704438075435>
 [Ivory Statues](<https://discord.com/channels/332595657363685377/1443974612848349286>) (~56-61/hr) + Bik <:scriptureofbik:892342109791735848>
 [Glacytes](<https://discord.com/channels/332595657363685377/1443970805062172682>) (~48.1/hr if downgrading <:Hard:633728361918758930>) + Bik <:scriptureofbik:892342109791735848>
-[Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~39.6/hr if downgrading <:Elite:633732493228638209>&<:Hard:633728361918758930>) + Bik <:scriptureofbik:892342109791735848>
+[Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~39.6/hr if downgrading <:Elite:633732493228638209> & <:Hard:633728361918758930>) + Bik <:scriptureofbik:892342109791735848>
 .
 ## Hard Clues <:Hard:633728361918758930>
 [Glacytes](<https://discord.com/channels/332595657363685377/1443970805062172682>) (~48.1/hr) + Bik <:scriptureofbik:892342109791735848>
@@ -19,8 +19,8 @@
 [Hellhounds](<https://discord.com/channels/332595657363685377/1443965875924373705>) (~37.8/hr) + Bik <:scriptureofbik:892342109791735848>
 [Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1443975404162383943>) (~4.52/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Elite Clues <:Elite:633732493228638209>
+[Wilderness Abyssal Lords and Beasts](<https://discord.com/channels/332595657363685377/1443975174411259904>) (19.6/hr) + Bik <:scriptureofbik:892342109791735848>
 [Pickpocketing Menaphos market guards](https://discord.com/channels/332595657363685377/1444358338870513704) (~17.9/hr) + Bik <:scriptureofbik:892342109791735848>
-[Wilderness Abyssal Lords and Beasts](<https://discord.com/channels/332595657363685377/1443975174411259904>) (16.4/hr) + Bik <:scriptureofbik:892342109791735848>
 [Wilderness Beasts](<https://discord.com/channels/332595657363685377/1443975260054753282>) (~15.9/hr) + Bik <:scriptureofbik:892342109791735848>
 [Pickpocketing Elven Workers](<https://discord.com/channels/332595657363685377/1443975404162383943>) (~2.26/hr) + Bik <:scriptureofbik:892342109791735848>
 ## Master Clues <:Master:1019920500807450666>
