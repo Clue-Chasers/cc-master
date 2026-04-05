@@ -156,12 +156,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Melee (meta)__ - <:ezk:903244090953588787> / <:masterwork2hsword:1274330676061278334>",
-        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> → (tc) + <:armagodsword:860891314379554846> <:essenceoffinality:1128611952751554621>",
+        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> → (tc) + <:dragonlongsword:1048592042399383713> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
      {
         "name": "__Range__ <:bolg:994189289623662702> / <:masterworkbow:1359114183186321575>",
-        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> →  (tc) + <:snap:535534127131394088> / <:zammybow:1215929540908679208> <:essenceoffinality:1128611952751554621>",
+        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> →  (tc) + <:snap:535534127131394088>",
         "inline": false
       },
       {
