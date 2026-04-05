@@ -92,7 +92,7 @@ __**Additional notes**__
     "fields": [
      {
         "name": "__Overview__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items & Unlocks]($linkmsg_useful$)\n⬥ [Location & How to Get there]($linkmsg_location$)\n⬥ [Presets and Relics]($linkmsg_presets$)",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items & Unlocks]($linkmsg_useful$)\n⬥ [Location & How to Get there]($linkmsg_location$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>",
         "inline": true
       }
     ]
