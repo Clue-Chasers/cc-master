@@ -1,9 +1,0 @@
-{
-  "embed": {
-    "title": "Link to Affiliate Socials",
-    "url": "https://google.com",
-    "description": "⬥ Go check out their socials!.",
-    "color": 12745742
-  }
-}
-.embed:json
