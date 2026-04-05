@@ -154,19 +154,19 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "title": "__Double Agent Rotations__",
     "color": 12745742,
     "fields": [
+          {
+        "name": "__Melee (meta)__ - <:ezk:903244090953588787> / <:masterwork2hsword:1274330676061278334>",
+        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> → (tc) + <:armagodsword:860891314379554846> <:essenceoffinality:1128611952751554621>",
+        "inline": false
+      },
+     {
+        "name": "__Range__ <:bolg:994189289623662702> / <:masterworkbow:1359114183186321575>",
+        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> →  (tc) + <:snap:535534127131394088> / <:zammybow:1215929540908679208> <:essenceoffinality:1128611952751554621>",
+        "inline": false
+      },
       {
         "name": "__Magic__",
         "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:penancetrident:1215806147165032598> / <:gstaff:513203008608141314> <:eofspec:1257438999794946099>",
-        "inline": false
-      },
-      {
-        "name": "__Melee__",
-        "value": "⬥ (tc) + <:armagodsword:860891314379554846> <:essenceoffinality:1128611952751554621>",
-        "inline": false
-      },
-            {
-        "name": "__Range  (meta)__",
-        "value": "⬥ (tc) + <:snap:535534127131394088> / <:zammybow:1215929540908679208> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
       {
@@ -182,7 +182,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .tag:presets
 ⬥ [Hard Clue Preset - Ranged](https://presets.pvme.io?id=bkY3nTJJdCiMHplZNA9n) <:range:580168050121113623>
 ⬥ [Hard Clue Preset - Magic](<https://presets.pvme.io?id=BcL1kJHwMTdFJUsz5Ohk>) <:magic:689504724159823906>
-⬥ [Hard Clue Preset - Melee](<https://presets.pvme.io?id=ew5ycOMY1yQLvyaPb7eo>) <:melee:1096130867279171706>
+⬥ [Hard Clue Preset - Melee](<https://presets.pvme.io?id=28d7fc41-4fe9-467a-aabe-22c2adcd780a>) <:melee:1096130867279171706>
 ⬥ [Hard Clue Preset - Necromancy](<https://presets.pvme.io?id=jIi103bvWeIZ8UneHJxN>) <:necromancy:1148995625896120460>
 .
 .
