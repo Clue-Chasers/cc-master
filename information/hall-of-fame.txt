@@ -1,6 +1,7 @@
 # Welcome to the <#581552255581290506>
 .tag:hof
 The Hall of Fame started as a discord leaderboard, but as clue scrolls gained popularity, the volume of data increased. Now, all this information is tracked in a comprehensive Google Sheet, covering golden clue titles, treasure trail points, broadcast stats, and more. For full details, check the sheet linked below.
+.
 ## [Link to Hall of Fame sheet](<https://docs.google.com/spreadsheets/d/1A4bBEV4uYEhjM2oXgXBoPNkzb4Z1aQ2iXxSJB7sau9k/edit#gid=51114548>)
 
 **PSA**: If you'd like to be added to the Broadcast Leaderboards, please reach out to the staff team via modmail with either a Google Sheets link or images of all three logs (hards, elites & masters)
@@ -186,7 +187,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
         "inline": true
       },         {
         "name": "__50 Category no skips__",
-        "value": "⬥ 0:46:37 - [Uther](https://youtu.be/9yGYjiLtWxE?si=g7zullknwXQJVn7y&t=170)\n⬥ 0:49:07 - [setmefree](https://youtu.be/PcZQzi-ShkM?si=tVRelus3uiVeOp3y)\n⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)\n⬥ 0:56:40 - [R ic o](https://youtu.be/jgxxcriIZiI?si=Zw1fWRzYWCgdapda&t=5)",
+        "value": "⬥ 0:45:16 - [Jere](https://youtu.be/W7hXgsOEhIQ?si=we-9oQY8F0g-yify&t=3190)\n⬥ 0:46:37 - [Uther](https://youtu.be/9yGYjiLtWxE?si=g7zullknwXQJVn7y&t=170)\n⬥ 0:49:07 - [setmefree](https://youtu.be/PcZQzi-ShkM?si=tVRelus3uiVeOp3y)\n⬥ 0:49:36 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:54:36 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
         "inline": true
       },
       {
@@ -196,7 +197,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
             {
         "name": "__25 Category no skips__",
-        "value": "⬥ 0:21:41 - [setmefree](https://www.youtube.com/watch?v=00n-mjiMXrk)\n⬥ 0:22:07 - [Uther](https://youtu.be/9yGYjiLtWxE?si=DYpx_qwEofzjHGR0&t=1266)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [PupRs](https://youtu.be/6BjSDzT2sTs?t=317)\n⬥ 0:26:35 - [xaj](https://www.youtube.com/watch?v=sHwQ1cSvWP4)",
+        "value": "⬥ 0:21:09 - [Jere](https://youtu.be/M8FFqkMVCCw?si=_YNPsm2ulnaYBpDX&t=5)\n⬥ 0:21:41 - [setmefree](https://www.youtube.com/watch?v=00n-mjiMXrk)\n⬥ 0:22:07 - [Uther](https://youtu.be/9yGYjiLtWxE?si=DYpx_qwEofzjHGR0&t=1266)\n⬥ 0:24:01 - [Phyzzix4PF](https://www.youtube.com/watch?v=KktwEHIAma4)\n⬥ 0:25:50 - [PupRs](https://youtu.be/6BjSDzT2sTs?t=317)",
         "inline": true
       },
       {
@@ -258,7 +259,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__50 Category no skips__",
-        "value": "⬥ 1:23:31 - [Jere](https://youtu.be/xWr_HEkjmMc?si=lqVmPrn3-ldi8C6t&t=3485)\n⬥ 1:37:10 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:40:26 - [setmefree](https://www.youtube.com/watch?v=3ZWCwO8m1t8)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
+        "value": "⬥ 1:23:31 - [Jere](https://youtu.be/xWr_HEkjmMc?si=lqVmPrn3-ldi8C6t&t=3485)\n⬥ 1:33:11 - [setmefree](https://youtu.be/0JMtMS2eL8c?si=XATrbCyGobglktZG)\n⬥ 1:37:10 - [J oris](https://youtu.be/clNVFDRhWgg?si=DAGxMaIO-ru8mY2a&t=5596)\n⬥ 1:37:45 - [Omid](https://www.twitch.tv/videos/2349002176)\n⬥ 1:45:11 - [cdram](https://youtu.be/P66rBQ2dRfo?si=ds_blzsuDdyr8c1h&t=3)",
         "inline": true
       },
       {
