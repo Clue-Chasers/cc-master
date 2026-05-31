@@ -97,7 +97,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [Oddfellow7](https://discord.com/channels/332595657363685377/374280345966608384/1470135525716263155)\n⬥ [m1n4t1n](https://discord.com/channels/332595657363685377/374280345966608384/1481052204428165263)",
+        "value": "⬥ [Oddfellow7](https://discord.com/channels/332595657363685377/374280345966608384/1470135525716263155)\n⬥ [m1n4t1n](https://discord.com/channels/332595657363685377/374280345966608384/1481052204428165263)\n⬥ [Sp 00 n](https://discord.com/channels/332595657363685377/374280345966608384/1508076325775085789)",
         "inline": true
       }
     ]
@@ -183,7 +183,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
     "fields": [
          {
         "name": "__50 Category w/skips__",
-        "value": "⬥ 0:42:01 - [PupRs](https://youtu.be/cKp7DuEE4I0?si=1FrRKN0s3ypcGzqY&t=1)\n⬥ 0:43:36 - [Uther](https://youtu.be/oV91ybGGwD0?si=g0_U1b1_CFfe3Vo8&t=2)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)",
+        "value": "⬥ 0:39:58 - [Uther](https://youtu.be/hWFGiMB37d4?si=8VxAihqxi2gboxwv&t=171)\n⬥ 0:42:01 - [PupRs](https://youtu.be/cKp7DuEE4I0?si=1FrRKN0s3ypcGzqY&t=1)\n⬥ 0:46:26 - [Phyzzix4PF](https://youtu.be/jwU5upHA5V0?si=hVbPNYlqOKXlPCYU)\n⬥ 0:49:00 - [zJoe](https://youtu.be/YaJbdzxw_Rs?t=448)\n⬥ 0:49:50 - [Dudey xD](https://www.twitch.tv/videos/916261074?t=0h0m1s)",
         "inline": true
       },         {
         "name": "__50 Category no skips__",
@@ -192,7 +192,7 @@ For future updates to the leaderboard, feel free to post any eligible entries in
       },
       {
         "name": "__25 Category w/skips__",
-        "value": "⬥ 0:20:16 - [PupRs](https://youtu.be/VR3JxpxyWG4?si=03HmzxXlL-stcASt&t=1)\n⬥ 0:20:38 - [Uther](https://youtu.be/gLF0CaaVJjI?si=RENjWkwIoeNCtoSM&t=2)\n⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
+        "value": "⬥ 0:19:04 - [Uther](https://youtu.be/hWFGiMB37d4?si=9vXbilipaqVLwUdd&t=1425)\n⬥ 0:20:16 - [PupRs](https://youtu.be/VR3JxpxyWG4?si=03HmzxXlL-stcASt&t=1)\n⬥ 0:20:59 - [Phyzzix4PF](https://youtu.be/33_mZ_3Vgn0?si=U9ESc6ET28Oo_IXF)\n⬥ 0:23:43 - [zJoe](https://www.youtube.com/watch?v=rY4MVfjVnG0)\n⬥ 0:24:14 - [Dudey xD](https://www.twitch.tv/videos/916275712?t=0h0m1s)",
         "inline": false
       },
             {
