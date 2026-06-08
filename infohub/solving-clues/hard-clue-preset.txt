@@ -156,22 +156,22 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Melee (meta)__ - <:ezk:903244090953588787> / <:masterwork2hsword:1274330676061278334>",
-        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> → (tc) + <:dragonlongsword:1048592042399383713> <:essenceoffinality:1128611952751554621>",
+        "value": "⬥ <:divinerage:1285372247665803264> + <:piety:1215399597581533264> → (tc) + <:dragonlongsword:1048592042399383713> <:essenceoffinality:1128611952751554621>",
         "inline": false
       },
      {
-        "name": "__Range__ <:bolg:994189289623662702> / <:masterworkbow:1359114183186321575>",
-        "value": "⬥ <:divinerage:1285372247665803264> <:piety:1215399597581533264> →  (tc) + <:snap:535534127131394088>",
+        "name": "__Range__ - <:bolg:994189289623662702> / <:masterworkbow:1359114183186321575>",
+        "value": "⬥ <:divinerage:1285372247665803264> + <:rigour:1215399596239618118> →  (tc) + <:snapshot:1478061855732666439>",
         "inline": false
       },
       {
-        "name": "__Magic__",
-        "value": "⬥ (tc) + <:icebarrage:537340400185245701> + <:penancetrident:1215806147165032598> / <:gstaff:513203008608141314> <:eofspec:1257438999794946099>",
+        "name": "__Magic__ - <:fsoa:869284271595069451> / <:roarofawakening:1266417538045317121>",
+        "value": "⬥ <:divinerage:1285372247665803264> + <:augury:1084799720926478437> → (tc) + <:penancetrident:1215806147165032598> <:eofspec:1257438999794946099> / <:runic_charge:1478063122345361562> + <:dbreath:535533833391702017>",
         "inline": false
       },
       {
-        "name": "__Necromancy__ ",
-        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>\n\n• *tc = Target Cycle, can be keybound.*",
+        "name": "__Necromancy__ - <:omniguard:1138809234922934282>",
+        "value": "⬥ Pre <:conjurearmy:1166094935066423348> + <:ruination:1137940996391452772> → (tc) + <:deathguard90:1138809243143766118> <:eofspec:1257438999794946099> / <:omniguard:1138809234922934282> <:weaponspecialattack:1128611955029049405>\n\n• *tc = Target Cycle, can be keybound.*",
         "inline": false
       }
     ]
@@ -180,9 +180,9 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 ## __Presets and Relics__
 .tag:presets
-⬥ [Hard Clue Preset - Ranged](https://presets.pvme.io?id=bkY3nTJJdCiMHplZNA9n) <:range:580168050121113623>
-⬥ [Hard Clue Preset - Magic](<https://presets.pvme.io?id=BcL1kJHwMTdFJUsz5Ohk>) <:magic:689504724159823906>
-⬥ [Hard Clue Preset - Melee](<https://presets.pvme.io?id=28d7fc41-4fe9-467a-aabe-22c2adcd780a>) <:melee:1096130867279171706>
+⬥ [Hard Clue Preset - Ranged](<https://presets.pvme.io?id=bkY3nTJJdCiMHplZNA9n>) <:range:580168050121113623>
+⬥ [Hard Clue Preset - Magic](<https://presets.pvme.io/?id=8103f3dc-c9f2-4587-85f9-70baad055533>) <:magic:689504724159823906>
+⬥ [Hard Clue Preset - Melee](https://presets.pvme.io?id=28d7fc41-4fe9-467a-aabe-22c2adcd780a) <:melee:1096130867279171706>
 ⬥ [Hard Clue Preset - Necromancy](<https://presets.pvme.io?id=jIi103bvWeIZ8UneHJxN>) <:necromancy:1148995625896120460>
 .
 .
