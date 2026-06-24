@@ -7,7 +7,7 @@ For in-depth information, **[click here](<https://docs.google.com/spreadsheets/d
 2. Make a copy of the sheet for your own.
 3. Read further instructions below.
 
-Make sure to use the drop down menus for the broadcasts in the item columns otherwise you will get an error and the sheet will not work. These names are chosen to specifically work with the Hall Of Fame. You can submit your sheet via <#1181299697726521454> or DMing <@332549285923127304>
+Make sure to use the drop down menus for the broadcasts in the item columns otherwise you will get an error and the sheet will not work. These names are chosen to specifically work with the Hall Of Fame. You can submit your sheet via <#1181299697726521454> or tagging a <@&1283334339995893833>.
 
 The cells are automatically changing background colour to match the item, so it will be obvious when you do it right.
 
