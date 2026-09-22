@@ -35,7 +35,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
       {
         "name": "\u200b",
-        "value": "⬥ [Elba](https://discord.com/channels/332595657363685377/374280345966608384/1517957866886266981)",
+        "value": "⬥ [Elba](https://discord.com/channels/332595657363685377/374280345966608384/1517957866886266981)\n⬥ Migoldo Z",
         "inline": true
       }
     ]
