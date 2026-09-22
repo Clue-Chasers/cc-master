@@ -71,7 +71,7 @@ For future manual updates (non-Google Sheet), post your update in ⁠<#374280345
       },
                   {
         "name": "\u200b",
-        "value": "⬥ [Drashie](https://discord.com/channels/332595657363685377/374280345966608384/1497321704362344590)",
+        "value": "⬥ [Drashie](https://discord.com/channels/332595657363685377/374280345966608384/1497321704362344590)\n⬥ [Chunk Murkz](https://discord.com/channels/332595657363685377/374280345966608384/1552060238755274763)",
         "inline": true
       }
     ]
