@@ -55,7 +55,7 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Taverley](https://runescape.wiki/w/Portal_(player-owned_house) <:taverleylode:1032552329758650418>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Archaeology Campus](https://runescape.wiki/w/Archaeology_Campus) (1)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Taverley](https://runescape.wiki/w/House_portal) <:taverleylode:1032552329758650418>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Archaeology Campus](https://runescape.wiki/w/Archaeology_Campus) (1)",
         "inline": true
       }
     ]
