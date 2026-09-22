@@ -1,8 +1,9 @@
 # Easy Clue Preset Guide
+.
 ## (courtesy of <@145884917627224065>)
 *Note: a **Table of Contents** can be found in the pins.*
-## __Introduction__
 .tag:intro
+## __Introduction__
 .
 This guide is tailored for players aiming to optimize their presets for solving easy clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
@@ -10,6 +11,7 @@ We welcome any suggestions for improving this guide; please share your ideas wit
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
         ⬩ For gathering easy clues check out <#1023016130077532300>.
+.
 ## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
@@ -60,8 +62,8 @@ This section will outline which teleports are used and what their use cases are.
   }
 }
 .embed:json
-## __Globetrotter & Powerbursts Usage__
 .tag:utility
+## __Globetrotter & Powerbursts Usage__
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
 .
 {
@@ -134,8 +136,8 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 
 .embed:json
-## __Presets and Relics__
 .tag:presets
+## __Presets and Relics__
 ⬥ [Easy Clue Preset](https://presets.pvme.io/?id=RO1B4Vq0YWT6bFtobVea) <:Easy:633728862039179294>
 .
 {
