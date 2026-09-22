@@ -138,7 +138,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .embed:json
 .tag:presets
 ## __Presets and Relics__
-⬥ [Easy Clue Preset](https://presets.pvme.io?id=RO1B4Vq0YWT6bFtobVea) <:Easy:633728862039179294>
+⬥ [Easy Clue Preset](https://presets.pvme.io?id=a422be9d-f498-4220-8f07-7358bfa9cb06) <:Easy:633728862039179294>
 .
 {
   "embed": {
