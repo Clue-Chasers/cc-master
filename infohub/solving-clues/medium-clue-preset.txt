@@ -1,15 +1,17 @@
 # Medium Clue Preset Guide
+.
 ## (courtesy of <@299098494671519745>)
 *Note: a **Table of Contents** can be found in the pins.*
+.
 ## __Introduction__
 .tag:intro
-.
 This guide is tailored for players aiming to optimize their presets for solving medium clues based on their preferred style. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
         ⬩ For gathering medium clues check out <#1023016130077532300>.
+.
 ## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
@@ -63,18 +65,19 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Rimmington](https://runescape.wiki/w/Portal_(player-owned_house) <:portsarimlode:1032552319662960693>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Kharid-et](https://runescape.wiki/w/Kharid-et_Dig_Site) (2)\n\n__**Dave's spellbook**__ <:davespellbook:1123597962937905242>\n⬥ [Watchtower](https://runescape.wiki/w/Kharid-et_Dig_Site) (1)\n⬥ [Ardougne](https://runescape.wiki/w/Kharid-et_Dig_Site) (4)\n⬥ [Varrock](https://runescape.wiki/w/Kharid-et_Dig_Site) (6)\n\n__**Globetrotter arm guards**__ <:globetrottergloves:1123592252036493344>\n⬥ [Gu'Tanoth](https://runescape.wiki/w/Gu%27Tanoth_Teleport) (4)\n⬥ [Lighthouse](https://runescape.wiki/w/Lighthouse_Teleport) (5)\n⬥ [Pollnivneach](https://runescape.wiki/w/Pollnivneach_Teleport) (9)\n⬥ [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport) (0)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ [Rimmington](https://runescape.wiki/w/Portal_(player-owned_house)) <:portsarimlode:1032552319662960693>\n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ [Kharid-et](https://runescape.wiki/w/Kharid-et_Dig_Site) (1,2)\n\n__**Dave's spellbook**__ <:davespellbook:1123597962937905242>\n⬥ [Watchtower](https://runescape.wiki/w/Kharid-et_Dig_Site) (1)\n⬥ [Ardougne](https://runescape.wiki/w/Kharid-et_Dig_Site) (4)\n⬥ [Varrock](https://runescape.wiki/w/Kharid-et_Dig_Site) (6)\n\n__**Globetrotter arm guards**__ <:globetrottergloves:1123592252036493344>\n⬥ [Gu'Tanoth](https://runescape.wiki/w/Gu%27Tanoth_Teleport) (4)\n⬥ [Lighthouse](https://runescape.wiki/w/Lighthouse_Teleport) (5)\n⬥ [Pollnivneach](https://runescape.wiki/w/Pollnivneach_Teleport) (9)\n⬥ [Tai Bwo Wannai](https://runescape.wiki/w/Tai_Bwo_Wannai_Teleport) (0)",
         "inline": false
       },
             {
         "name": "__What are some useful teleports?__ <:hometeleport:1032540077764653076>",
-        "value": "__**Quest Cape**__ <:questcape:1123599570832736287>\n⬥ [World Gate](https://runescape.wiki/w/World_Gate) (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ [Brutal Green Dragons](https://runescape.wiki/w/Brutal_green_dragon) (1,2)",
+        "value": "__**Quest Cape**__ <:questcape:1123599570832736287>\n⬥ [World Gate](https://runescape.wiki/w/World_Gate) (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ [Brutal Green Dragons - Baxtorian Falls](https://runescape.wiki/w/Brutal_green_dragon) (2)",
         "inline": true
       }
     ]
   }
 }
 .embed:json
+.
 ## __Globetrotter & Powerbursts Usage__
 .tag:utility
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
@@ -118,7 +121,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Preset Notes__",
-        "value": "⬥ Make sure to leave at least 3 empty inventory slots before entering the [Gnomeball arena](https://runescape.wiki/w/Gnome_Ball), as it contains a challenge scroll 'Speak to a referee' and entering will unequip your weapons.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Fruit Tree Patch, West of Tree Gnome Village maze (patch condition irrelevant—can be empty, diseased, or fully grown).\n⬥ If HSR <:hsr:513213693983588362> is unavailable, [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> should be bound to the Tree Patch at Tree Gnome Stronghold.\n⬥ [Ugthanki dung](<https://runescape.wiki/w/Ugthanki_dung>) (in a bucket) is used to recharge the Camulet or Cramulet, granting 4 charges per bucket.",
+        "value": "⬥ Make sure to leave at least 3 empty inventory slots before entering the [Gnomeball arena](https://runescape.wiki/w/Gnome_Ball), as it contains a challenge scroll 'Speak to a referee' and entering will unequip your weapons.\n⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the Fruit Tree Patch, West of Tree Gnome Village maze (patch condition irrelevant, can be empty, diseased, or fully grown).\n⬥ If HSR <:hsr:513213693983588362> is unavailable, [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> should be bound to the Tree Patch at Tree Gnome Stronghold.\n⬥ [Ugthanki dung](<https://runescape.wiki/w/Ugthanki_dung>) (in a bucket) is used to recharge the Camulet or Cramulet, granting 4 charges per bucket.",
         "inline": false
       },
       {
@@ -137,7 +140,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__General Tips__**",
-        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ You can summon a [Pack Yak](<https://runescape.wiki/w/Pack_yak>) <:yak:513195712201228289> and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer sessions.",
+        "value": "⬥ Use [Totem of Summoning](https://runescape.wiki/w/Totem_of_Summoning)<:totemoftreasure:1124764867237269665> for an extended meerkat timer.\n⬥ Bring a stack of items to disassemble with Scripture of Bik <:scriptureofbik:892342109791735848> for catalysts.\n⬥ You can summon a [Pack Yak](<https://runescape.wiki/w/Pack_yak>) <:yak:513195712201228289> and store extra pouches, Spirit Attraction potions, and Powerbursts in it to support longer sessions.\n⬥ You can put Spirit attraction potions in an [Arcane potion cauldron](https://runescape.wiki/w/Arcane_potion_cauldron) which allows the player to multi-drink for up to 60 minutes",
         "inline": true
       }
     ]
@@ -158,9 +161,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
   }
 }
 .embed:json
+.
 ## __Presets and Relics__
 .tag:presets
-⬥ [Medium Clue Preset](https://presets.pvme.io?id=LFFQjWQWh1xvXyGcANc8) <:Medium:633728704438075435>
+⬥ [Medium Clue Preset](https://pvme.io/preset-maker-storage/embeds/LFFQjWQWh1xvXyGcANc8/4x7/?v=054d32e8f6edf6f81b5e526c1114e8edf9788b19a0a8fd679b676f2ee062cb49) <:Medium:633728704438075435>
 .
 {
   "embed": {
