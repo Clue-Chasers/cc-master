@@ -1,16 +1,20 @@
 # Elite Clue Preset Guide
+.
 ## (courtesy of <@332549285923127304>)
 *Note: a **Table of Contents** can be found in the pins.*
+.
 ## __Introduction__
 .tag:intro
 .
-This guide is tailored for players aiming to optimize their presets for solving elite clues, whether they prefer using skip tickets or not. It also includes an alternative preset for when your Sentinel Outfit charges are depleted or if you choose not to use it. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
+This guide is tailored for players aiming to optimize their presets for solving elites clues based on whether they prefer using skip tickets or not. It also includes an alternative preset for when your Sentinel Outfit charges are depleted or if you choose not to use it. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
-To see the cost analysis of no skips vs. using skips, use the command !casket in <#333343575737892864>.
 We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
 Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
 
         ⬩ For gathering elite clues check out <#1023016130077532300>.
+        ⬩ For information on how to get the optimal requirements check out <#1023970830138474507>
+        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `/cc command: casket` in <#333343575737892864>
+.
 ## __Teleport Information__
 This section will outline which teleports are used and what their use cases are.
 .
@@ -54,13 +58,14 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (7) → Quick TP → Fremennik Isles scan\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Teak Trees (0,4) → SW Castle Wars\n⬥ Choking Ivy (6,7) → North Yanille\n⬥ Elder Trees (2,1) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard \n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1)\n⬥ Infernal Source (3)\n⬥ Stormguard Citadel (6)\n⬥ Daemonheim (7)\n⬥ Chief Tess (0,2)\n⬥ Goblin Generals (0,3) (1)\n⬥ Isaura (0,4)\n⬥ Lowse (0,5)\n⬥ Soran (0,8)\n\n__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (Compass)\n⬥ Blue Dragons (Taverly Scan)\n⬥ Red Dragons (Brimhaven Scan)\n⬥ Black Dragons - Evil Chicken (Zanaris Scan)",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (0,1) → Quick TP → Frem Isles scan\n⬥ Teak Trees (0,5) → SW Castle Wars\n⬥ Elder Trees (2) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Choking Ivy (6) → North Yanille \n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1,1)\n⬥ Infernal Source (1,3)\n⬥ Stormguard Citadel (1,7)\n⬥ Daemonheim (1,8)\n⬥ Chief Tess (2,3)\n⬥ Goblin Generals (2,4)\n⬥ Isaura (2,5)\n⬥ Lowse (2,6)\n⬥ Soran (2,9)\n\n__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (2) → Compass Spot\n⬥ Blue Dragons (3) → Taverly Scan\n⬥ Red Dragons (4) → Brimhaven Scan\n⬥ Black Dragons (5) → Zanaris Scan",
         "inline": true
       }
     ]
   }
 }
 .embed:json
+.
 ## __Globetrotter & Powerbursts Usage__
 .tag:utility
 This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
@@ -124,7 +129,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
             {
         "name": "__General Tips #2__",
-        "value": "⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the BIS Preset (No Sentinel)",
+        "value": "⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the Elite Clue Preset - No Sentinel Outfit \n⬥ You can put Spirit attraction potions in an [Arcane potion cauldron](https://runescape.wiki/w/Arcane_potion_cauldron) which allows the player to multi-drink for up to 60 minutes",
         "inline": true
       }
     ]
@@ -146,11 +151,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 
 .embed:json
+.
 ## __Preset and Relics__
 .tag:presets
-⬥ [Elite Clue Preset - With Skips](https://presets.pvme.io?id=ZHpbyx5UVqnZeRLnuB3J) <:puzzleskipticket:1123590720301830215>
-⬥ [Elite Clue Preset - Without Skips](<https://presets.pvme.io?id=9LUZynoZp7ufZODhijcq>)
-⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker/#/d30wHQL8K1SiE1akKCmS>) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - With Skips](https://pvme.io/preset-maker-storage/embeds/ZHpbyx5UVqnZeRLnuB3J/4x7/?v=70b5f50c61461787e439369a19cdfe2df63fb1518f630e5f1732ebd55aadda12) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - Without Skips](<https://presets.pvme.io/?id=9LUZynoZp7ufZODhijcq?layout=4x7>)
+⬥ [Elite Clue Preset - No Sentinel Outfit](<https://presets.pvme.io/?id=d30wHQL8K1SiE1akKCmS?layout=4x7>) <:puzzleskipticket:1123590720301830215>
 .
 {
   "embed": {
