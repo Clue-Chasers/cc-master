@@ -1,11 +1,11 @@
 .tag:intro
 ## __Introduction__
 .
-In RuneScape there are many distinct archetypes. Clue Scrolls, what began years ago as a simple Distraction and Diversion has since evolved into a niche yet active playstyle for many players. Although the content may initially seem daunting and overwhelming, our community is dedicated to making it more approachable and less intimidating.
+RuneScape is home to many distinct pieces of content and playstyles, and Clue Scrolls are one of them. Introduced in 2004 as a simple Distraction and Diversion, they have since grown into something with an entire community and playstyle built around them. Today the content has a high skill ceiling, and for some a high skill floor too, which can make it feel daunting for newer players trying to get familiar with it. Through the many resources available, we hope to make it more approachable and far less intimidating for any newcomer. Below is an introductory page covering some of the essentials.
 .
 .tag:essentials
 ## __Key Tips & Essentials__
-Becoming proficient with clue scrolls requires mastering several key factors, including knowing where to go and how to navigate efficiently. This is especially challenging for beginners due to the hundreds of locations and steps across various tiers. That's where the Alt1Toolkit comes in. This third-party program helps by providing an overlay on your screen, showing you exactly what to do and greatly reducing the need to memorize locations and routes. For more information, be sure to check out the links below.
+Becoming proficient with Clue Scrolls requires mastering several key skills, including knowing where to go and how to navigate the world efficiently. This is especially challenging for newcomers, given the hundreds of locations and steps spread across the various clue tiers. This is where plugins come into play. Some provide an on-screen overlay with helpful information, from showing you exactly where to go to suggesting the fastest methods for those who really care about optimizing. For more information, check out the links below.
 .
 {
   "embed": {
@@ -26,12 +26,14 @@ Becoming proficient with clue scrolls requires mastering several key factors, in
 .
 .tag:perma
 ## __Permanent Unlocks__
+.
 ### Hidey holes
 Easy, medium, hard, and master clues often include [emote clues](<https://runescape.wiki/w/Treasure_Trails/Guide/Emotes>), which require you to equip specific items in certain locations and perform an emote. Hidey-holes are storage units that can be used to keep these items for emote steps. Before using them, hidey-holes must be built and are typically located near relevant sites.
 
 For example, in a hard clue step, the Shilo Village bank offers a site to build a hidey-hole. You can use this hidey-hole to store items like the splitbark helm, mud pie, and rune platebody. This way, when you encounter this clue step again, you can retrieve the items from the hidey-hole rather than fetching them from your bank.
 
 For a complete overview of hidey-holes and their contents: **[Link to RSWiki Hidey-holes](<https://runescape.wiki/w/Hidey-holes>)**
+.
 ### Globetrotter Outfit
 When you completing clue scrolls, you earn [Treasure Trail Points](<https://runescape.wiki/w/Treasure_Trail_Points>). These points can be used to purchase for items and unlocks at [Zaida’s Treasure Trail Reward Shop](<https://runescape.wiki/w/Treasure_Trails_Reward_Shop>), situated just south of the Grand Exchange. Among the notable items Zaida offers are the globetrotter outfit pieces, each providing significant benefits:
 
@@ -45,16 +47,15 @@ When you completing clue scrolls, you earn [Treasure Trail Points](<https://rune
 The Globetrotter set offers valuable set effects. When wearing the full outfit, it counts as having the outfit in your hidey-holes. For instance, during the Shilo Village bank step mentioned earlier, you can use the globetrotter shorts to perform the emote, and the outfit will substitute for the splitbark helm, mud pie, and rune platebody, speeding up your clue completions.
 
 For advice on the best order to obtain the pieces, see <#1024461576314568784>
-
+.
 ### Totem of Treasure
 The [Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>) reduces both the minimum and maximum clue scroll steps by one and is crafted by combining the top, middle, and base pieces, which can be obtained from various Anachronia activities.
 
-⬥ Activation resets weekly on Wednesdays at 00:00 UTC. • Once activated, it can’t be removed or swapped.
-    • If you lose activation, reactivate it by redoing the minigame.
-    • To receive weekly notifications, select `Totem Reset Reminder` at <id:customize>
+After assembling the totem, it can be placed at one of the [three totem pedestals](<https://runescape.wiki/w/Totem_pedestal>) located on Anachronia. The Remototem built at the [remote totem access](<https://runescape.wiki/w/Remote_totem_access_point>) point allows this to be done from [Anachronia base camp](<https://runescape.wiki/w/Anachronia_base_camp>).
 .
 .tag:beneficial
 ## __Beneficial Items__
+.
 ### Meerkat Familiar
 Clue Chasers often use a meerkat familiar for hard, elite, and master clues. The meerkat offers two main benefits:
 
@@ -70,9 +71,9 @@ For a visual comparison of scanning ranges with and without a meerkat, see the f
 ## __Interface Guide__
 A well-organized user interface is important because it helps you set up your game view in a way that gives you convenient access to the windows you use most, like your inventory, gear, familiars, ability bars, and especially teleports. A good interface can make the game easier to play and more enjoyable.
 
-Creating a good interface is all about displaying the interface elements in a way where everything you need to access is open and important elements are appropriately close to one another, to minimize the distance your eyes and mouse need to travel around your screen. The game comes with a few pre-made layouts, but they all suffer from similar issues.
+Creating a good interface is all about displaying the interface elements in a way where everything you need to access is open and important elements are appropriately close to one another, to minimize the distance your eyes and mouse need to travel around your screen. The game comes with a few pre-made layouts.
 
-In the end, the best interface is the one that fits how you play. Take a look at how experienced cluers set things up, spot any helpful patterns, and see how you can use those ideas to improve your own layout:
+In the end, the best interface is the one that fits how you play. Take a look at how experienced cluers set things up, spot any helpful patterns, and see how you can use those ideas to improve your own interface layout:
 .
 {
   "embed": {
@@ -87,7 +88,7 @@ In the end, the best interface is the one that fits how you play. Take a look at
       },
       {
         "name": "__1440p__ (2560x1440)",
-        "value": "⬥ [Brickade](https://i.imgur.com/8GsGKj3.png)\n⬥ [xaj](https://i.imgur.com/U0ykaVK.jpeg)\n⬥ [bunny alan](https://i.imgur.com/FwkWM3p.jpeg)\n⬥ [Slowdance](https://i.imgur.com/WNEa1Jp.jpeg)",
+        "value": "⬥ [Brickade](https://i.imgur.com/8GsGKj3.png)\n⬥ [xaj](https://i.imgur.com/U0ykaVK.jpeg)\n⬥ [wtf alan](https://i.imgur.com/FwkWM3p.jpeg)\n⬥ [Slowdance](https://i.imgur.com/WNEa1Jp.jpeg)",
         "inline": true
       },
       {
