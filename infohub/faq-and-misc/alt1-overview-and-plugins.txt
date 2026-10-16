@@ -19,7 +19,7 @@ Unlike OSRS which has the RuneLite client, RS3 only has its NXT client. In order
 ⬥ They get information by reading your screen, and provide a bunch of QoL/useful features.
 
 .
-### > __**How It Works__
+### > __How It Works__
 ⬥ Alt1 is designed to capture images of the NXT Client and parse them with an OCR (Optical Character Recognition) Library.
 ⬥ The captured data is then transformed into pixel data that can be used in Alt1 apps.
 ⬥ More information can be found on the forums and in the Alt1 Toolkit discord.
