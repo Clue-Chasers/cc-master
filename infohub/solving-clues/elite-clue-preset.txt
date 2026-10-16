@@ -154,9 +154,9 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .
 ## __Preset and Relics__
 .tag:presets
-⬥ [Elite Clue Preset - With Skips](https://pvme.io/preset-maker-storage/embeds/ZHpbyx5UVqnZeRLnuB3J/4x7/?v=70b5f50c61461787e439369a19cdfe2df63fb1518f630e5f1732ebd55aadda12) <:puzzleskipticket:1123590720301830215>
-⬥ [Elite Clue Preset - Without Skips](<https://pvme.io/preset-maker-storage/embeds/9LUZynoZp7ufZODhijcq/4x7/?v=465c1bf33569b7c18bee552be127017c86e63c4d4c31f8f7fc36dd3fc42b8f2d>)
-⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker-storage/embeds/d30wHQL8K1SiE1akKCmS/4x7/?v=569a6c4d492d37ea3e2bea289fd413fbbacb4ea747a9daecd90019e524c85002>) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - With Skips](https://pvme.io/preset-maker-storage/embeds/ZHpbyx5UVqnZeRLnuB3J/4x7/?v=474c5c77999a140206f2667260d35e55a901b2e8b5eb80131f35686084878367) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - Without Skips](<https://pvme.io/preset-maker-storage/embeds/9LUZynoZp7ufZODhijcq/4x7/?v=514b396c63b64cd25d6881964c2c06f67fd62d5dc25c8bc036476bb1b1bb35d3>)
+⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker-storage/embeds/d30wHQL8K1SiE1akKCmS/4x7/?v=5abdef0e3b21ef4c4141c01cf08ca0c6372cf789762fd43777e4b5e108b05828>) <:puzzleskipticket:1123590720301830215>
 .
 {
   "embed": {
