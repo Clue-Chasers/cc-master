@@ -185,10 +185,10 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 .
 ## __Presets and Relics__
 .tag:presets
-⬥ [Hard Clue Preset - Melee](https://pvme.io/preset-maker-storage/embeds/28d7fc41-4fe9-467a-aabe-22c2adcd780a/4x7/?v=645c87b47f75bf7f06d4b6ebd7404ad26a0f4f613ce5bea5cebf9bf305f37dab) <:melee:1096130867279171706>
-⬥ [Hard Clue Preset - Ranged](<https://pvme.io/preset-maker-storage/embeds/bkY3nTJJdCiMHplZNA9n/4x7/?v=a7dd417867eb1b52fc954321ec2c763857a891c2375ea7cf52d7cd98ce7b888b>) <:range:580168050121113623>
-⬥ [Hard Clue Preset - Magic](<https://presets.pvme.io/?id=8103f3dc-c9f2-4587-85f9-70baad055533?layout=4x7>) <:magic:689504724159823906>
-⬥ [Hard Clue Preset - Necromancy](<https://pvme.io/preset-maker-storage/embeds/jIi103bvWeIZ8UneHJxN/4x7/?v=634ff542a8887c8a761fd211a431d91ce3c2face093b2a2230efc81ec2f77e53>) <:necromancy:1148995625896120460>
+⬥ [Hard Clue Preset - Melee](https://pvme.io/preset-maker-storage/embeds/28d7fc41-4fe9-467a-aabe-22c2adcd780a/4x7/?v=84fadcf30909f4736e68fc86161470a1e1de57dfd56fed20380ffc3ab74a157e) <:melee:1096130867279171706>
+⬥ [Hard Clue Preset - Ranged](<https://pvme.io/preset-maker-storage/embeds/bkY3nTJJdCiMHplZNA9n/4x7/?v=c782edf02d2b7b5c93b6929f3280cfbc09b34834ad9d81e801a316ac56d8b777>) <:range:580168050121113623>
+⬥ [Hard Clue Preset - Magic](<https://pvme.io/preset-maker-storage/embeds/BcL1kJHwMTdFJUsz5Ohk/4x7/?v=fe0412ab53d64a22d016d075b9725029646d7496237ab98788c4dcf44a770cec>) <:magic:689504724159823906>
+⬥ [Hard Clue Preset - Necromancy](<https://pvme.io/preset-maker-storage/embeds/jIi103bvWeIZ8UneHJxN/4x7/?v=05d8f2d7b0e2889e82322679f9bebb38afb73dd5d2ab3efe067ba12057a28188>) <:necromancy:1148995625896120460>
 .
 .
 {
