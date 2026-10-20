@@ -16,7 +16,7 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
     "fields": [
       {
         "name": "__Event Channel Directory__",
-        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-news](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [clue-event-stage](https://discord.com/channels/332595657363685377/1450512669890052179) - Event Hide and Seek hints will be streamed and posted here."
+        "value": "⬥ [event-section-faq](https://discord.com/channels/332595657363685377/1288820296593313802) -  Information and guidelines regarding events.\n⬥ [event-news](https://discord.com/channels/332595657363685377/1190434031637110824) - Any event announcements will be posted here.\n⬥ [event-clue-stacks](https://discord.com/channels/332595657363685377/1181315924742115390) - Submit your clue stacks/stream link for upcoming community openings.\n⬥ [clue-event-stage](https://discord.com/channels/332595657363685377/1562085765230493786) - Event Hide and Seek hints will be streamed and posted here."
       }
     ]
   }
@@ -25,7 +25,6 @@ Thanks for joining us, we hope you have an awesome time at our events! <:ACLOO:1
 .
 .tag:information
 ## Set your calendar for these upcoming events:
-## Clue Chasers: [Hide and Seek Event](<https://discord.gg/cluechasers?event=1458603954010062918>)
 ## Clue Chasers: [Community Mass Opening](<https://discord.gg/cluechasers?event=1458603188860096736>)
 .
 ## Follow details on the next [Event Sheet](https://docs.google.com/spreadsheets/d/1Pphe6-I6J7Zt8WgjMavCTdZyagrgUjrBVugY8ntLbAg/edit?gid=0#gid=0)
