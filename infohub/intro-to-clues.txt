@@ -83,12 +83,12 @@ In the end, the best interface is the one that fits how you play. Take a look at
     "fields": [
       {
         "name": "__1080p__ (1920x1080)",
-        "value": "⬥ [Ngis](https://i.imgur.com/lAXC40F.png)\n⬥ [beausz](https://i.imgur.com/x30GMuc.png)\n⬥ [Saltea](https://i.imgur.com/ZSJwSBA.png)\n⬥ [Phyzzix4PF](https://i.imgur.com/jGRqSuO.png)\n⬥ [Elise Poots](https://i.imgur.com/ijIuZpW.png)\n⬥ [7r5y](https://i.imgur.com/qSLc9WQ.png)\n⬥ [Fcohdz](https://i.imgur.com/DBT1jF6.png)\n⬥ [Ecruteak](https://i.imgur.com/rxCZKrQ.png)",
+        "value": "⬥ [Ngis](https://i.imgur.com/lAXC40F.png)\n⬥ [beausz](https://i.imgur.com/x30GMuc.png)\n⬥ [Saltea](https://i.imgur.com/ZSJwSBA.png)\n⬥ [Phyzzix4PF](https://i.imgur.com/jGRqSuO.png)\n⬥ [Elise Poots](https://i.imgur.com/ijIuZpW.png)\n⬥ [7r5y](https://i.imgur.com/qSLc9WQ.png)\n⬥ [Fcohdz](https://i.imgur.com/DBT1jF6.png)\n⬥ [Ecruteak](https://i.imgur.com/rxCZKrQ.png)\n⬥ [Brickade](https://i.imgur.com/8GsGKj3.png)",
         "inline": true
       },
       {
         "name": "__1440p__ (2560x1440)",
-        "value": "⬥ [Brickade](https://i.imgur.com/8GsGKj3.png)\n⬥ [xaj](https://i.imgur.com/U0ykaVK.jpeg)\n⬥ [wtf alan](https://i.imgur.com/FwkWM3p.jpeg)\n⬥ [Slowdance](https://i.imgur.com/WNEa1Jp.jpeg)",
+        "value": "⬥ [Brickade](https://i.imgur.com/W9ZaI9S.png)\n⬥ [xaj](https://i.imgur.com/U0ykaVK.jpeg)\n⬥ [wtf alan](https://i.imgur.com/FwkWM3p.jpeg)\n⬥ [Slowdance](https://i.imgur.com/WNEa1Jp.jpeg)",
         "inline": true
       },
       {
