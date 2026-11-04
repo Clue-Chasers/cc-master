@@ -1,7 +1,7 @@
 {
   "embed": {
     "title": "__Google Sheets__ <a:PETTHESHEET:999046578318889073>",
-    "description": "⬥ Use `!sheets` to generate a list of commonly used sheets. ",
+    "description": "⬥ Use `/cc command: sheet` or `/cc command: sheets` to generate a list of commonly used sheets. ",
     "color": 12745742,
     "fields": [
       {
