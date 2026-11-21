@@ -1,6 +1,5 @@
 # Elite Clue Preset Guide
 .
-## (courtesy of <@332549285923127304>)
 *Note: a **Table of Contents** can be found in the pins.*
 .
 ## __Introduction__
@@ -104,7 +103,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
           {
         "name": "__Triangulating Compass Clues__",
-        "value": "⬥ You will need to <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> for some Ancient and Standard teleports\n⬥ Triangulate using <:moonclanteleport:1126149185956225114> + <:southfeldiphillsteleport:1126149189580095549> or <:iceplateauteleport:1126149188061765692> (depending on if you want to <:sbsStandard:1127632914792845373> for triangulation)\n",
+        "value": "⬥ Spellbook Swapping <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> to use Ancient and Standard teleports for optimal solving.\n⬥ Triangulate using the Amulet of Nature <:amuletofnature:1123599470911815750> for optimal compass accuracy. (You can make teleport a left-click option by installing the Menu Entry Swapper plugin from the Plugin Hub)\n⬥ The amulet is bound to the Tree patch in Falador Park (patch condition irrelevant, can be empty, diseased, or fully grown)",
         "inline": false
       },
       {
@@ -124,12 +123,12 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__General Tips #1__**\u200b",
-        "value": "⬥ In-game sounds are able to assist with scans. Listening to the pulse instead of staring at your feet allows you focus on surroundings and get information as you are teleporting from one place to another.\n⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>\n⬥ You can right click → modify <:chippedHouseTele:1127678790231916645> tabs as you see fit to teleport to other house portals\n⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route\n⬥ For the North Eastern Daemonheim spot - Either use Dragonkin Laboratory Tokens <:ed2teleport:1127680553953533952> and teleport to The Shadow Reef or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef",
+        "value": "⬥ Enabling in-game audio can help with scans. Listening for the pulse instead of staring at your feet lets you focus on your surroundings and pick up information as you teleport from place to place\n⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>\n⬥ You can right-click your Chipped house tabs <:chippedHouseTele:1127678790231916645> and choose 'Modify' to reconfigure it to any other house tab or you can teleport inside your player-owned house and and exit through any other house portal\n⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route\n⬥ For the north-eastern Daemonheim spot, either use Dragonkin Laboratory tokens <:ed2teleport:1127680553953533952> to teleport to The Shadow Reef, or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef",
         "inline": false
       },
             {
         "name": "__General Tips #2__",
-        "value": "⬥ Disassemble Dorgeshkaan Spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ Use Lantadyme Incense sticks <:Lantadymeincense:1127691837197525033> if you'd like to extend your Spirit Attraction Potion <:spiritattractionflask:1102531518741622854> timer from 15 to 17 minutes.\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the Elite Clue Preset - No Sentinel Outfit \n⬥ You can put Spirit attraction potions in an [Arcane potion cauldron](https://runescape.wiki/w/Arcane_potion_cauldron) which allows the player to multi-drink for up to 60 minutes",
+        "value": "⬥ Disassemble Dorgeshkaan spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with the Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the Elite Clue Preset - No Sentinel Outfit \n⬥ You can put Spirit attraction potions in an [Arcane potion cauldron](<https://runescape.wiki/w/Arcane_potion_cauldron>) which allows you to multi-drink the effect for up to 60 minutes",
         "inline": true
       }
     ]
@@ -143,7 +142,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Optimisation Tips__**",
-        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "value": "⬥ We highly recommend using the Menu Entry Swapper and Entity Hider plugins to set left-click options on teleport items and NPCs, and to hide distracting clickboxes, such as trees, and NPCs to minimize errors. Both can be installed through the in-game Plugin Hub\n⬥ You can use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), to helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
         "inline": true
       }
     ]
