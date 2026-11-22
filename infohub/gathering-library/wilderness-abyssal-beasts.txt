@@ -53,7 +53,7 @@ The best place to find abyssal beasts is in the Wilderness, in level 37. To get 
 .
 ## __Action Bars__
 **[Magic Bar 880+ kph](<https://youtu.be/0vE3L-nPQkQ>)**
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/wildybeastsbar.png
+.img:https://img.pvme.io/images/DIzuuPZ19k.png
 **Melee Bar 940+ kph**
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/files/meleebeastsbar.png
 .
