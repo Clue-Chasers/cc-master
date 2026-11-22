@@ -32,8 +32,6 @@ These numbers exclude yield from using the Scripture of Bik <:scriptureofbik:892
 .
 .tag:extra
 ## __Supplementary Information__
-.img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/cluetrainertetratab.png
-- Use the <#1240372943725531339> addon to solve Tetracompasses. Go to the Tetracompass tab (as shown above) and use two triangulation teleports of your choice, like compass clues.
 - Before teleporting, check for back-to-back tetracompass locations by clicking the last one in your inventory, if back-to-back, the game will use the first eligible tetracompass, saving you time in the long run. For a guide on duplicate tetracompass spots, watch <@257863450426998785>'s video **[here](<https://www.youtube.com/watch?v=lVnNNOzU2S0>)**.
 - Carry unpowered Tetracompasses and power as many as your inventory allows, leaving one space for the Ancient Casket.
 - Power more Tetracompasses only when you run out of powered ones.
@@ -57,7 +55,7 @@ The **[following list](<https://runescape.wiki/w/Tetracompass_(unpowered)#Collec
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Research and Advance Time]($linkmsg_research$)\n⬥ [Supplementary Information]($linkmsg_extra$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>"
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Research and Advance Time]($linkmsg_research$)\n⬥ [Supplementary Information]($linkmsg_extra$)\n⬥ [Presets and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
       }
     ]
     }
