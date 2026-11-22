@@ -1,1 +1,11 @@
+Junk: https://runescape.wiki/w/Calculator:Disassembly_by_material/Junk
+Rumbling components: https://runescape.wiki/w/Calculator:Disassembly_by_material/Rumbling
+Precious components: https://runescape.wiki/w/Calculator:Disassembly_by_material/Precious
+Refined components: https://runescape.wiki/w/Junk_refiner
+Junk refiners are tradeable on the GE.
 
+Look for a suitable balance between time, effort and cost.
+If you are obtaining clue scrolls through a method which includes killing a lot of mobs, Scavenging 4 perk is highly recommended for collecting invention components
+
+.
+Return to <#1023016455429685389>
