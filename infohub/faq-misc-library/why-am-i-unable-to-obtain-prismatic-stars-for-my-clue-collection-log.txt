@@ -1,1 +1,11 @@
+As long as you have enough free inventory space while opening clue caskets, you have a chance of obtaining bonus XP stars.
 
+After accounting for rerolls and reroll tokens, the rates look roughly like this:
+<:Easycasket:690874669091258389> Bonus XP star (small) ~1/30
+<:Mediumcasket:690876380698902568> Bonus XP star (medium) "Common" but no data available
+<:hardcasket:690876517877809152> Bonus XP star (large) ~1/40 
+<:Elitecasket:690876744382545950> Bonus XP star (large) ~1/40 
+<:Mastercasket:690876868814962740> Bonus XP star (huge) ~1/20
+
+.
+Return to <#1023016455429685389>
