@@ -1,1 +1,198 @@
+# Elite Clue Preset Guide
+.
+*Note: a **Table of Contents** can be found in the pins.*
+.
+## __Introduction__
+.tag:intro
+.
+This guide is tailored for players aiming to optimize their presets for solving elites clues based on whether they prefer using skip tickets or not. It also includes an alternative preset for when your Sentinel Outfit charges are depleted or if you choose not to use it. It assumes that you have all the necessary items and offers supplementary information in specific sections to further assist you. However, if your primary focus is solely on presets, you can simply scroll to the bottom.
 
+We welcome any suggestions for improving this guide; please share your ideas with us in the <#1060257606217773057> channel.
+Should you require advice or have any questions, do not hesitate to make use of the <#400499160094212097> channel.
+
+        ⬩ For gathering elite clues check out <#1023016130077532300>.
+        ⬩ For information on how to get the optimal requirements check out <#1023970830138474507>
+        ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `/cc command: casket` in <#333343575737892864>
+.
+## __Teleport Information__
+.tag:teleinfo
+This section will outline which teleports are used and what their use cases are.
+.
+{
+  "embed": {
+    "title": "__Which teleport jewellery to store?__ ",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Passage  #1__ <:potagreen:1123597971737559110>",
+        "value": "⬥ [Skills necklace](https://runescape.wiki/w/Skills_necklace) <:skillsnecklace:1124762417969254541>\n⬥ [Amulet of Glory](https://runescape.wiki/w/Amulet_of_glory) <:amuletofglory:1124762423686082562>\n⬥ [Combat bracelet](https://runescape.wiki/w/Combat_bracelet) <:combatbracelet:1124762419907014776>\n⬥ [Delver's Anklet](https://runescape.wiki/w/Delvers_anklet) <:delversanklet:1384130525907648635>\n⬥ [Ring of slaying](https://runescape.wiki/w/Ring_of_slaying) <:ringofslaying:1124783943426789538>\n⬥ [Traveller's necklace](https://runescape.wiki/w/Traveller_necklace) <:travellersnecklace:1124783946186629171>\n\n*Note: The exact ordering of teleports is a personal choice. Information on how to create one → [Passage of the Abyss](https://runescape.wiki/w/Passage_of_the_abyss)*",
+        "inline": true
+      },
+      {
+        "name": "__Passage #2__ <:potared:1123597976208674888>",
+        "value": "⬥ [Enlightened amulet](https://runescape.wiki/w/Enlightened_amulet) <:Enlightenedamulet:1127339222236409888>\n⬥ [Ring of respawn](https://runescape.wiki/w/Ring_of_respawn) <:Ringofrespawn:1127339224467775569>\n⬥ [Ring of duelling](https://runescape.wiki/w/Ring_of_duelling) <:ringofduelling:1124762413967880323>\n⬥ [Games necklace](https://runescape.wiki/w/Games_necklace) <:gamesnecklace:1124762416597700618>\n⬥ [Dig Site pendant](https://runescape.wiki/w/Dig_Site_pendant) <:digsitependant:1124762422507479151>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Which fairy rings to favorite?__ <:portablefairyring:1084799722780360704>",
+        "value": "⬥ [**A K Q** - Kandarin: Piscatoris Hunter area](https://imgur.com/LdFjQ8X)\n⬥ [**A K S** - Feldip Hills: Jungle Hunter area](https://imgur.com/rcQ8c04)\n⬥ [**A L Q** - Morytania: Haunted Woods east of Canifis](https://imgur.com/KXsCis9)\n⬥ [**B K R** - Morytania: Mort Myre, south of Canifis](https://imgur.com/ttdts1D)\n⬥ [**C J R** - Kandarin: Sinclair Mansion (east)](https://imgur.com/0tLfDoU)\n⬥ **C J S** - Karamja: Kharazi Jungle\n\u00a0\u00a0\u00a0\u00a0• Used for Karamja scan only.\n⬥ **C K Q** - Menaphos: Imperial District\n\u00a0\u00a0\u00a0\u00a0• Used for Menaphos scan only.\n⬥ [**C K R** - Karamja: South of Tai Bwo Wannai Village](https://imgur.com/MYDjPML)\n⬥ **C K S** - Morytania: Canifis\n⬥ [**D L Q** - Kharidian Desert: North of Nardah](https://imgur.com/3z0Ovlu)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (0,1) → Quick Teleport set to Fremmenik Isles scan\n⬥ Teak Trees (0,5) → South West Castle Wars\n⬥ Elder Trees (2) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Choking Ivy (6) → North Yanille\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1,1)\n⬥ Infernal Source (1,3)\n⬥ Stormguard Citadel (1,7)\n⬥ Daemonheim (1,8)\n⬥ Chief Tess (2,3)\n⬥ Goblin Generals (2,4)\n⬥ Isaura (2,5)\n⬥ Lowse (2,6)\n⬥ Soran (2,9)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
+        "value": "__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons - Baxtorial Falls (2) used for Elite Compass Spot\n⬥ Blue Dragons - Taverley Dungeon (3) used for Taverley Dungeon Scan\n⬥ Red Dragons - Brimhaven Dungeon (4) used for Brimhaven Dungeon Scan\n⬥ Black Dragons - Evil Chicken's Lair (5) used for Zanaris Scan",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+## __Globetrotter & Powerbursts Usage__
+.tag:utility
+This section will outline potential use cases for the Globetrotter jacket <:globetrotterjacket:1123592261175889971>, backpack <:globetrotterbackpack:1123592248056102993> and Powerbursts of acceleration <:accelpb:1128031529063428116>, with the aim of maximizing time efficiency. It's important to note that the effectiveness of these scenarios may vary significantly due to the randomness associated with the step RNG, making them situation-dependent.
+.
+{
+  "embed": {
+    "title": "__Equipment Utility__ ",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Potential Jacket Steps__ <:globetrotterjacket:1123592261175889971>",
+        "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after teleporting with <:dgcape:976732922545586246> (0,6) and <:delversanklet:1384130525907648635> (1)\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Tirannwn Scan](https://i.imgur.com/WGa2CNT.png) - after teleporting with <:quiver:656863806080811038> in order 7, 6, 1 ( <:dive:1049378668197195808> SW ), 3\n⬥ [Fremennik Slayer Dungeon](https://i.imgur.com/p6PSMdB.png) - if 'scan another level' message isn't received\n⬥ [Fremmenik Area - Iceberg](https://i.imgur.com/yNVeX6T.png) - North Fremennik Lodestone\n⬥ [Needle's Skips Area - North of the Pier](https://i.imgur.com/5r9151Y.png)\n⬥ [Graveyard north Drakan's Castle](https://i.imgur.com/OB4Frqq.png)",
+        "inline": false
+      },
+			      {
+        "name": "__Potential Backpack Steps__ <:globetrotterbackpack:1181648124079521822>",
+        "value": "⬥ [Brimhaven Dungeon Scan](https://i.imgur.com/cWTQT6y.png) - after teleporting with <:dgcape:976732922545586246> (0,6) and <:delversanklet:1384130525907648635> (1)\n⬥ Wilderness Steps that aren't easily accessible\n⬥ [Mos Le'Harmless Scan](https://i.imgur.com/tNSK8js.png)\n⬥ [Lumbridge Swamp Cave Scan](https://i.imgur.com/eHRMmYt.png)",
+        "inline": false
+      },
+            {
+        "name": "__Potential Powerbursts Steps__ <:accelpb:1128031529063428116>",
+        "value": "**__Compass Spots__**\n⬥ Abbey of St. Elspeth Citharede\n⬥ South West & Far East Bandit Camp Lodestone\n⬥ Far West, Far East/North East, Far South of AKS Fairy Ring\n⬥ South East of Agility Pyramid\n⬥ West of Fishing Guild\n\n**__Scan Spots__**\n⬥ Kharazi Jungle\n⬥ Taverley Dungeon\n⬥ Fremmenik Isles\n⬥ Kharidian Desert\n⬥ Piscatoris Hunter Area\n⬥ Furthest West Ardougne steps",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+## __Supplementary Information__
+.tag:supp
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+          {
+        "name": "__Preset Notes__",
+        "value": "⬥ Be on Lunar Spellbook <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n⬥ Utilize Spellbook Swapping <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> to use Ancient and Standard teleports for optimal solving.\n⬥ Triangulate using the Amulet of Nature <:amuletofnature:1123599470911815750> for optimal compass accuracy. (You can make teleport a left-click option by installing the Menu Entry Swapper plugin from the Plugin Hub)\n⬥ The amulet is bound to the Tree patch in Falador Park (patch condition irrelevant, can be empty, diseased, or fully grown)",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+ {
+        "name": "__Preset Notes__",
+        "value": "**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164>| Dungeoneering Cape <:dgcape:976732922545586246>| Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727> | Shadow's Grace <:Shadows_Grace:1128078767399653486> (optional if not using the mobile perk)\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols | Lava Flow Mine",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "**__General Tips #1__**\u200b",
+        "value": "⬥ Enabling in-game audio can help with scans. Listening for the pulse instead of staring at your feet lets you focus on your surroundings and pick up information as you teleport from place to place\n⬥ Use Totem of Summoning on Anachronia for an extended meerkat timer <:totemoftreasure:1124764867237269665>\n⬥ You can right-click your Chipped house tabs <:chippedHouseTele:1127678790231916645> and choose 'Modify' to reconfigure it to any other house tab or you can teleport inside your player-owned house and and exit through any other house portal\n⬥ Activating the globetrotter jacket <:globetrotterjacket:1123592261175889971> during a Wilderness Crater scan will show you the level it is at, narrowing down your search route\n⬥ For the north-eastern Daemonheim spot, either use Dragonkin Laboratory tokens <:ed2teleport:1127680553953533952> to teleport to The Shadow Reef, or set your War's Retreat portal <:warsretreatteleport:1126149193908633721> to The Shadow Reef",
+        "inline": false
+      },
+            {
+        "name": "__General Tips #2__",
+        "value": "⬥ Disassemble Dorgeshkaan spheres <:dorgeshkaansphere:1127677637981126699> (stackable and cheap) with the Scripture of Bik <:scriptureofbik:892342109791735848> equipped to receive Catalyst of Alteration <:catalystofalteration:1127677641466597537> procs\n⬥ If you run out of Nature Sentinel <:Naturessentinelhelm:1127691838996873366> charges, swap to the Elite Clue Preset - No Sentinel Outfit \n⬥ You can put Spirit attraction potions in an [Arcane potion cauldron](<https://runescape.wiki/w/Arcane_potion_cauldron>) which allows you to multi-drink the effect for up to 60 minutes",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "**__Optimisation Tips__**",
+        "value": "⬥ We highly recommend using the Menu Entry Swapper and Entity Hider plugins to set left-click options on teleport items and NPCs, and to hide distracting clickboxes, such as trees, and NPCs to minimize errors. Both can be installed through the in-game Plugin Hub\n⬥ You can use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), to helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "inline": true
+      }
+    ]
+  }
+}
+
+.embed:json
+.
+## __Preset and Relics__
+.tag:presets
+⬥ [Elite Clue Preset - With Skips](https://pvme.io/preset-maker-storage/embeds/ZHpbyx5UVqnZeRLnuB3J/4x7/?v=474c5c77999a140206f2667260d35e55a901b2e8b5eb80131f35686084878367) <:puzzleskipticket:1123590720301830215>
+⬥ [Elite Clue Preset - Without Skips](<https://pvme.io/preset-maker-storage/embeds/9LUZynoZp7ufZODhijcq/4x7/?v=514b396c63b64cd25d6881964c2c06f67fd62d5dc25c8bc036476bb1b1bb35d3>)
+⬥ [Elite Clue Preset - No Sentinel Outfit](<https://pvme.io/preset-maker-storage/embeds/d30wHQL8K1SiE1akKCmS/4x7/?v=5abdef0e3b21ef4c4141c01cf08ca0c6372cf789762fd43777e4b5e108b05828>) <:puzzleskipticket:1123590720301830215>
+.
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Teleport Information]($linkmsg_teleinfo$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+.pin:delete
