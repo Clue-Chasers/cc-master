@@ -15,6 +15,7 @@ Should you require advice or have any questions, do not hesitate to make use of 
         ⬩ If you wish to compare the cost analysis of using skips versus not using skips, utilize the command `/cc command: casket` in <#333343575737892864>
 .
 ## __Teleport Information__
+.tag:teleinfo
 This section will outline which teleports are used and what their use cases are.
 .
 {
@@ -57,7 +58,21 @@ This section will outline which teleports are used and what their use cases are.
     "fields": [
       {
         "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
-        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (0,1) → Quick TP → Frem Isles scan\n⬥ Teak Trees (0,5) → SW Castle Wars\n⬥ Elder Trees (2) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Choking Ivy (6) → North Yanille \n\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1,1)\n⬥ Infernal Source (1,3)\n⬥ Stormguard Citadel (1,7)\n⬥ Daemonheim (1,8)\n⬥ Chief Tess (2,3)\n⬥ Goblin Generals (2,4)\n⬥ Isaura (2,5)\n⬥ Lowse (2,6)\n⬥ Soran (2,9)\n\n__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons (2) → Compass Spot\n⬥ Blue Dragons (3) → Taverly Scan\n⬥ Red Dragons (4) → Brimhaven Scan\n⬥ Black Dragons (5) → Zanaris Scan",
+        "value": "__**Player Owned House**__ <:houseteleport:1126149195330486424>\n⬥ Menaphos <:menaphoslode:1032552289589796904>\n__**Nature Sentinel Outfit**__ <:Naturessentinelhelm:1127691838996873366>\n⬥ Arctic Pine Trees (0,1) → Quick Teleport set to Fremmenik Isles scan\n⬥ Teak Trees (0,5) → South West Castle Wars\n⬥ Elder Trees (2) → East Sorcerer's Tower\n⬥ Overgrown Idols (3) → Karamja Shipyard\n⬥ Magic Trees (4) → Tirannwn scan\n⬥ Choking Ivy (6) → North Yanille\n__**Archaeology Teleports**__ <:Archaeology_teleport:1128041248733806764>\n⬥ Archaeology Campus (1,1)\n⬥ Infernal Source (1,3)\n⬥ Stormguard Citadel (1,7)\n⬥ Daemonheim (1,8)\n⬥ Chief Tess (2,3)\n⬥ Goblin Generals (2,4)\n⬥ Isaura (2,5)\n⬥ Lowse (2,6)\n⬥ Soran (2,9)",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+      {
+        "name": "__Useful Teleport Options__ <:Home_Teleport_icon:1128041042646683728>",
+        "value": "__**Quest Cape**__ <:questcape:1123599570832736287> \n⬥ Legends Guild (7)\n⬥ Tears of Guthix (8)\n⬥ Varrock Museum (9)\n⬥ World Gate (0)\n__**Dragon Trinkets**__ <:trinkets:1131303172292489427>\n⬥ Brutal Green Dragons - Baxtorial Falls (2) used for Elite Compass Spot\n⬥ Blue Dragons - Taverley Dungeon (3) used for Taverley Dungeon Scan\n⬥ Red Dragons - Brimhaven Dungeon (4) used for Brimhaven Dungeon Scan\n⬥ Black Dragons - Evil Chicken's Lair (5) used for Zanaris Scan",
         "inline": true
       }
     ]
@@ -102,13 +117,22 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "color": 16776960,
     "fields": [
           {
-        "name": "__Triangulating Compass Clues__",
-        "value": "⬥ Spellbook Swapping <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> to use Ancient and Standard teleports for optimal solving.\n⬥ Triangulate using the Amulet of Nature <:amuletofnature:1123599470911815750> for optimal compass accuracy. (You can make teleport a left-click option by installing the Menu Entry Swapper plugin from the Plugin Hub)\n⬥ The amulet is bound to the Tree patch in Falador Park (patch condition irrelevant, can be empty, diseased, or fully grown)",
-        "inline": false
-      },
-      {
         "name": "__Preset Notes__",
-        "value": "⬥ Be on Lunars <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Portable Obelisk <:portableobelisk:1131407613469409370> can be swapped for Obelisk Shards <:obeliskshard:1131407611162529822>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n\n**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164>\n⬥ Dungeoneering Cape <:dgcape:976732922545586246>\n⬥ Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727>\n\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols\n⬥ Lava Flow Mine",
+        "value": "⬥ Be on Lunar Spellbook <:SBSLunars:565726489467682816>\n⬥ Have Totem of Treasure active <:totemoftreasure:1124764867237269665>\n⬥ Use meerkat pouch with scrolls every step <:meerkatpouch:1124766403174600816> <:meerkatscroll:1124766401115205692>\n⬥ Set a <:warsretreatteleport:1126149193908633721> portal to Barrows: Rise of the Six<:karil:641696573272621086>\n⬥ Utilize Spellbook Swapping <:sbsStandard:1127632914792845373> & <:sbsAncient:1127632915904344124> to use Ancient and Standard teleports for optimal solving.\n⬥ Triangulate using the Amulet of Nature <:amuletofnature:1123599470911815750> for optimal compass accuracy. (You can make teleport a left-click option by installing the Menu Entry Swapper plugin from the Plugin Hub)\n⬥ The amulet is bound to the Tree patch in Falador Park (patch condition irrelevant, can be empty, diseased, or fully grown)",
+        "inline": false
+      }
+    ]
+  }
+}
+.embed:json
+{
+  "embed": {
+    "title": "",
+    "color": 16776960,
+    "fields": [
+ {
+        "name": "__Preset Notes__",
+        "value": "**__Max Cape Perks__** <:maxcape:580177795703898117>\n⬥ Slayer Cape <:slayercape:975284344123953164>| Dungeoneering Cape <:dgcape:976732922545586246>| Master Quest Cape / Quest Cape <:masterquestcape:1091050888828813412>\n⬥ Anachronia Cape Stand <:agilitycape:1126149218357215242>\n**__Archaeology Relics__** <:archaeology:941211288665739274>\n⬥ Abyssal Link <:abyssallink:1124762426265583727> | Shadow's Grace <:Shadows_Grace:1128078767399653486> (optional if not using the mobile perk)\n**__Grace of The Elves__** <:gote:900765150678749204>\n⬥ Overgrown Idols | Lava Flow Mine",
         "inline": true
       }
     ]
@@ -164,7 +188,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "__Table of Contents__",
-        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Teleport Information]($linkmsg_teleinfo$)\n⬥ [Globetrotter & Powerbursts]($linkmsg_utility$)\n⬥ [Supplementary Information]($linkmsg_supp$)\n⬥ [Preset and Relics]($linkmsg_presets$)\n⬥ Return to <#1023016354145648741>",
         "inline": true
       }
     ]
@@ -172,4 +196,3 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
 }
 .embed:json
 .pin:delete
-.
