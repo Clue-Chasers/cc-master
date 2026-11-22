@@ -29,9 +29,7 @@
 [Alt1 Overview & Plugins](<https://discord.com/channels/332595657363685377/1128437423022538802>)
 .
 **Useful Links**
-[Archive Clue Records](<https://discord.com/channels/332595657363685377/1071487786244378715>)
 [Calculate an estimated amount of clues for log completion](<https://discord.com/channels/332595657363685377/1024689628806135898>)
-
 [Clue broadcasts template](<https://discord.com/channels/332595657363685377/1177335707967164466>)
 [Clue broadcast rates](<https://discord.com/channels/332595657363685377/1232705982006562947>)
 [Clue Requirements Optimizer](<https://discord.com/channels/332595657363685377/1022627852023238666>)
