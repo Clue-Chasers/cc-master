@@ -39,6 +39,6 @@ Does not apply to masters
 ***Pity roll is an extra roll outside of your predetermined rolls. It is possible to hit rare table on this roll.
 ****Yes, OSH can block pity rolls. If you get OSH proc, get max rolls for the tier, receive unique items for each roll, then the casket is not qualified for a pity roll.```
 .
-For those curious about the intricacies behind determining the values and scaling factors for these broadcast numbers, feel free to visit <#1232653933176950865>.
+For those curious about the intricacies behind determining the values and scaling factors for these broadcast numbers, feel free to visit <#1574059265151205507>.
 .
 Return to <#1023016455429685389>
