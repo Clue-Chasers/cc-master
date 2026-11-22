@@ -17,7 +17,7 @@ Becoming proficient with Clue Scrolls requires mastering several key skills, inc
       },
             {
         "name": "__Additional Information__",
-        "value": "⬥ **[Link to Alt1 Overview & Plugins](<https://discord.com/channels/332595657363685377/1128437423022538802>)**\n⬥ **[Link to Clue Trainer Guide](<https://discord.com/channels/332595657363685377/1240372943725531339>)**"
+        "value": "⬥ **[Link to Alt1 Overview & Plugins](<https://discord.com/channels/332595657363685377/1574059422219636837>)**"
       }
     ]
   }
@@ -46,7 +46,7 @@ When you completing clue scrolls, you earn [Treasure Trail Points](<https://rune
 .
 The Globetrotter set offers valuable set effects. When wearing the full outfit, it counts as having the outfit in your hidey-holes. For instance, during the Shilo Village bank step mentioned earlier, you can use the globetrotter shorts to perform the emote, and the outfit will substitute for the splitbark helm, mud pie, and rune platebody, speeding up your clue completions.
 
-For advice on the best order to obtain the pieces, see <#1024461576314568784>
+For advice on the best order to obtain the pieces, see <#1574054438694293504>
 .
 ### Totem of Treasure
 The [Totem of Treasure](<https://runescape.wiki/w/Totem_of_Treasure>) reduces both the minimum and maximum clue scroll steps by one and is crafted by combining the top, middle, and base pieces, which can be obtained from various Anachronia activities.
