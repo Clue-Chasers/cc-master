@@ -1,1 +1,70 @@
+## Thieving Elven Workers
+*Note: a **Table of Contents** can be found in the pins.*
+.
+.tag:intro
+### Introduction *(courtesy of <@145884917627224065>)*
+Thieving Elven Workers offer a lower-level alternative for gathering method for Hard <:hardclue:1123586945273049109> and Elite <:eliteclue:1123586941057769552> clues.
 
+This guide aims to give you all the information you need to gather within the Prifddinas region.
+This is a semi-AFK method, it's between 4-8 minutes AFK until you first get caught, then you have to tab back in roughly twice in a minute.
+
+Pickpocketing Elven Workers give clues are these rates:
+⬥ Hard clue: 1/640 and 0.15625%
+⬥ Elite clue: 9999/12,800,000 and 0.07812%
+⬥ Master clue: 101/12,800,000 and 0.0007891%
+These rates include Luck of the Dwarves <:lotd:566453486913323042>.
+.
+.tag:reqs
+### Requirements
+⬥ <:thieving:1039864807920250900> 99 Thieving
+    • <:thievingcape:1334114808865357902> Thieving skillcape to automatically note all Thieving loot from pickpocketing
+⬥ <:teleportseed:1137737316354494607> Attuned crystal teleport seed for quick access to all districts.
+⬥ <:Quest_points:1151954130177368114> Plague's End to access Prifddinas
+.
+.tag:useful
+### Useful Items and Information
+⬥ <:totemofcrystal:1334901208783261836> Totem of Crystal active
+⬥ <:mushroomypickpocketingbag:1442996142026653868> Mushroomy pickpocketing bag
+    • Perked with Prosper & Oblivious
+⬥ <:mastercamohead:1104716994693058641> Master Camouflage Outfit
+    • Inherits the Trahaearn exoskeleton set's effects if owned <:exoskeletontorso:1443370513245147146>
+⬥ <:ardougnecloak3:1334113349419663375> Ardougne Cloak 3+ (not worn)
+⬥ <:fivefingerdiscountaura:1334114507865194506> Five-Finger Discount Aura
+⬥ <:lotd:566453486913323042> Luck of the Dwarves
+⬥ Putting NPC attack option on: Hidden
+    • Settings → Gameplay → Combat & Action Bar → 'Choose Option' Menu → NPC attack option: Hidden
+.
+.tag:location
+### Location and How to Get there
+Use the attuned crystal teleport seed <:teleportseed:1137737316354494607> to get to the districts.
+The order in which you should pickpocket the workers is as follows:
+⬥ Iorwerth
+⬥ Cadarn
+⬥ Hefin
+⬥ Trahaearn (bank here if you wish)
+    • Ithell (if not using Totem of Crystal <:totemofcrystal:1334901208783261836>)
+⬥ Repeat
+*Note: when you drink a Spirit Attraction dose <:spiritattractionflask:1102531518741622854> it will stop you thieving even if it's from the action bar.*
+## __Presets and Afkwarden__
+.tag:presets
+⬥ [AFK Preset](https://presets.pvme.io?id=53859754-0b20-4172-83b0-5b4e60c6215e)
+⬥ [Afkwarden Settings](<https://raw.githubusercontent.com/Clue-Chasers/cc-master/refs/heads/main/afk-wardens/elven%20workers.txt>)
+## __Preset Notes__
+⬥ You can take Lantadyme Incense Sticks <:Lantadymeincense:1127691837197525033>.
+⬥ You can take up to 8 Spirit Attraction flasks <:spiritattractionflask:1102531518741622854>.
+.
+{
+  "embed": {
+    "title": "",
+    "description": "",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Table of Contents__",
+        "value": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Useful Items and Information]($linkmsg_useful$)\n⬥ [Presets and Afkwarden]($linkmsg_presets$)\n⬥ Return to <#1023016130077532300>"
+      }
+    ]
+    }
+}
+.embed:json
+.pin:delete
