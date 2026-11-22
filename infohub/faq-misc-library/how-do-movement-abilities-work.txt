@@ -40,3 +40,4 @@ Assuming you want to go diagonal, It will check from 10, 9, 8 etc until first ac
 .img:https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/movement8.png
 This image from PVME discord is also useful for seeing which "out of range" clicks counts towards NE/NW/SE/SW, which towards N/S/E/W.
 .
+Return to <#1023016455429685389>
