@@ -23,6 +23,6 @@
   "Gathering: Abyssal Beasts - Melee": "⬥ [Abyssal Beasts - Melee](https://pvme.io/preset-maker-storage/embeds/72941c1c-83b3-4bbe-8df1-ac82dceb2169/7x4/?v=f7d54fe86e22597edec498600c2e6c68055ba49f4262ba521f8fae32a174f369) <:Elite:633732493228638209>",
   "Gathering: Abyssal Beasts - Magic": "⬥ [Abyssal Beasts - Magic](https://pvme.io/preset-maker-storage/embeds/836af697-8518-4f71-afdf-0f0b46aa5140/7x4/?v=695c506f6d63ce57f5558fdfdb6ae19374ed1f94eca873b564f498910d89d4b8) <:Elite:633732493228638209>",
   "Gathering: Elven clan workers": "⬥ [Elven clan workers](https://pvme.io/preset-maker-storage/embeds/53859754-0b20-4172-83b0-5b4e60c6215e/7x4/?v=3b96878993e93a3ec6570d80d0c8a855f47122f3921aaea5cdfed41c72220534) <:Hard:633728361918758930> <:Elite:633732493228638209>",
-  "Gathering: Tetracompasses": "⬥ [Tetracompasses - Active Gathering](https://pvme.io/preset-maker-storage/embeds/IwlVtP9nAQCqFFcWp2Zb/7x4/?v=c0fddfa7b6770d4aec4d16f3d764450c2737c49a982faaee62bc5924c37c3372) <:tetracompass:1346902474090352753>",
-  "Gathering: Tetracompasses": "⬥ [Tetracompasses - AFK Gathering](https://pvme.io/preset-maker-storage/embeds/FEAAt5LZCvAEj9A7WJIB/7x4/?v=4aa8532902c130532028471bb2477ce94b1b8890b15cbb6fbd89d08021ad1142) <:tetracompass:1346902474090352753>"
+  "Gathering: Active Tetracompasses": "⬥ [Tetracompasses - Active Gathering](https://pvme.io/preset-maker-storage/embeds/IwlVtP9nAQCqFFcWp2Zb/7x4/?v=c0fddfa7b6770d4aec4d16f3d764450c2737c49a982faaee62bc5924c37c3372) <:tetracompass:1346902474090352753>",
+  "Gathering: AFK Tetracompasses": "⬥ [Tetracompasses - AFK Gathering](https://pvme.io/preset-maker-storage/embeds/FEAAt5LZCvAEj9A7WJIB/7x4/?v=4aa8532902c130532028471bb2477ce94b1b8890b15cbb6fbd89d08021ad1142) <:tetracompass:1346902474090352753>"
 }
