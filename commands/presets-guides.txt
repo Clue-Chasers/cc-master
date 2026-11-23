@@ -14,7 +14,6 @@
   "Solving: Master Clue Preset - Necromancy": "⬥ [Master Clue Preset - Necromancy](https://pvme.io/preset-maker-storage/embeds/7a25e8cb-1e01-462d-b267-00a9d6d734fe/4x7/?v=10e0e4dd87c4b3d03aac5aa348761ee217928873c9815affa897b210aa18ea11) <:Master:1019920500807450666>",
   "Solving: Master Clue Preset - Support": "⬥ [Master Clue Preset - Support](https://pvme.io/preset-maker-storage/embeds/a086b9e2-9c34-4d63-badd-198c05ae810f/4x7/?v=d60f8dc84fe5ff06664e74680f2673a7f5b522e9af5ab990878844c6636e3d38) <:Master:1019920500807450666>",
   "Solving: Tetracompass Preset": "⬥ [Tetracompass Preset Guide](https://pvme.io/preset-maker-storage/embeds/WnN0gojI8OinRiB1wGtc/7x4/?v=f577b64ca62c5032190c5edb63eebbe6e4a5bc1f84c56b6312d4ec9d9acbbee5) <:tetracompass:1346902474090352753>",
-
   "Gathering: Pickpocketing HAM members": "⬥ [HAM members](https://pvme.io/preset-maker-storage/embeds/b06002a3-9fd2-4c5f-ae5c-5022cf36726b/7x4/?v=60c527053f91cd2874a86992d923cb29ee8b7e5d81d45b707b7ea61058df524c) <:Easy:633728862039179294>",
   "Gathering: Ivory Statues": "⬥ [Ivory Statues](https://pvme.io/preset-maker-storage/embeds/iQE26EfuAk1vOjU8IW9H/7x4/?v=8066c8a805e997162e652d89476aec40679799539580bbe07a3afbb55bb8b7c5) <:Medium:633728704438075435>",
   "Gathering: Glacytes": "⬥ [Glacytes](https://pvme.io/preset-maker-storage/embeds/9cf34ed8-f3b2-41de-b7a9-056788cd076f/7x4/?v=dddcf4777c750aa8623234aadac5c476a7d0d4080650e503df3404516e1f0072) <:Hard:633728361918758930>",
