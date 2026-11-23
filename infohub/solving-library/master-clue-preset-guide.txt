@@ -91,7 +91,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
                 {
         "name": "__Preset Notes__",
-        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use a Grimoire <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage of the Abyss <:potared:1123597976208674888> and take an extra skilling step item\n⬥ All skilling steps are personal preference in which you take with you and do in the secondary preset",
+        "value": "⬥ Amulet of Nature <:amuletofnature:1123599470911815750> can be swapped for Book o' Piracy <:Big_Book_o_Piracy:1128728575491715122>\n    ⬩ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the allotment patch on Harmony Island\n⬥ If not using Scripture of Bik <:scriptureofbik:892342109791735848> you can use a Grimoire <:grim:568262896375824385> / Ful Scripture <:scriptureofful:902209626412560395> or wear Passage of the Abyss <:potagreen:1123597971737559110> and take an extra skilling step item\n⬥ All skilling steps are personal preference in which you take with you and do in the secondary preset",
         "inline": false
       },
       {
@@ -101,7 +101,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
       },
             {
         "name": "__General Tips #2__",
-        "value": "⬥ Bind your [Amulet of nature](https://runescape.wiki/w/Amulet_of_nature) <:amuletofnature:1123599470911815750> to the allotment patch on Harmony Island\n⬥ Bind your Max Guild portals to Jadinko Lair + Living Rock Caverns\n⬥ Change your Max Guild teleport with [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) to be in the garden\n⬥ Set your Wars Retreat portals to Gregorovic + Twin Furies\n⬥ Have a Seiryu reaper task for portal\n⬥ Max Cape + cape stand perks: <:dungeoneering:1003947795541143632> + <:cooking:1011705729192820747> with one <:constitution:689509250887712902> / <:crafting:1039864810239705119> / <:masterquestcape:1091050888828813412>\n⬥ You can put Spirit attraction potions, extreme overload salves and weapon poison+++ in an [Arcane potion cauldron](https://runescape.wiki/w/Arcane_potion_cauldron) which allows the player to multi-drink for up to 60 minutes",
+        "value": "⬥ Bind your Max Guild portals to Jadinko Lair + Living Rock Caverns\n⬥ Change your Max Guild teleport with [Elen Anterth](https://runescape.wiki/w/Elen_Anterth) to be in the garden\n⬥ Set your Wars Retreat portals to Gregorovic + Twin Furies\n⬥ Have a Seiryu reaper task for portal\n⬥ Max Cape + cape stand perks: <:dungeoneering:1003947795541143632> + <:cooking:1011705729192820747> with one <:constitution:689509250887712902> / <:crafting:1039864810239705119> / <:masterquestcape:1091050888828813412>\n⬥ You can put Spirit attraction potions and extreme overload salves in an [Arcane potion cauldron](https://runescape.wiki/w/Arcane_potion_cauldron) which allows you to multi-drink for up to 60 minutes",
         "inline": true
       }
     ]
@@ -145,7 +145,7 @@ This section will outline potential use cases for the Globetrotter jacket <:glob
     "fields": [
       {
         "name": "**__Optimisation Tips__**",
-        "value": "⬥ Use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), it helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
+        "value": "⬥ We highly recommend using the Menu Entry Swapper and Entity Hider plugins to set left-click options on teleport items and NPCs, and to hide distracting clickboxes, such as trees, and NPCs to minimize errors. Both can be installed through the in-game Plugin Hub\n⬥ You can use [Accessibility Options](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset2.png), to helps see what you can and cannot click:\n     • Entity Highlight Mode → Always On\n     • Entity Highlight Type → Silhouette\n⬥ Move items to the bottom of your inventory that you right click and use from your inventory, this will make it so you can: [Right click → Left click](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset4.gif) instantly\n⬥ Move an action bar above your inventory for [ease of access](https://raw.githubusercontent.com/Clue-Chasers/cc-master/main/files/hardpreset3.png) when using your cape for <:dgcape:976732922545586246> + <:slayercape:975284344123953164> teleports",
         "inline": true
       }
     ]
